@@ -3,6 +3,6 @@ import { loadDocument } from '@/lib/srd'
 
 export default function Home() {
   return (
-    <Document doc={loadDocument(['home'])} />
+    <Document doc={loadDocument(['home']).data} />
   )
 }
