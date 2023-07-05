@@ -1,0 +1,61 @@
+{
+  "info": "# Navigator - Elite Advance",
+  "type": "EliteAdvance",
+  "data": {
+    "eliteAdvance": "Navigator",
+    "cost": 300,
+    "prerequisites": [
+      {
+        "title": "An Eye in the Warp",
+        "description": "Characters with the Psyker or Untouchable elite advance cannot gain the Navigator elite advance."
+      },
+      {
+        "title": "Genetic Heritage",
+        "description": "Navigator Elite Advance may only be taken during Character creation"
+      }
+    ],
+    "instantChanges": [
+      "Navigator trait",
+      "Psyker Aptitude",
+      "__The Boons of Lineage__",
+      "__Navigator Mutations__",
+      "__Unlicensed__",
+      "__The Eye is Open__"
+    ],
+    "information": [
+      {
+        "title": "The Boons of Lineage",
+        "description": "A Navigator hails from a lineage of a particular type that grants him a number of advantages and quirks. The Lineages which a Navigator may hail from are Nomadic Houses, Magisterial Houses, Shrouded Houses, or Renegade Houses. The details and effects of each of these lineages may be found at Navigator Houses. "
+      },
+      {
+        "title": "Navigator Mutations",
+        "description": "The Navigator begins play with a number of Navigator Mutations determined by the nature of his Lineage. Thereafter whenever the character gains a new Navigator power, or increases his level of mastery over a power he already has, he must test for mutation, an Ordinary (+10) Toughness Test. If he fails this test, then a flaw in his genes has revealed itself, and he must generate a mutation from Navigator Mutations."
+      },
+      {
+        "title": "Unlicensed",
+        "description": "If the character does not have the Navis Nobilte background, they also gain the Enemy (Navis Nobilite) talent"
+      },
+      {
+        "title": "The Eye is Open",
+        "description": "A Navigator is a living window into the warp, a fact mercifully mitigated for his own soul's and sanity's sake by the effects of the Navigator Gene that allows him to perceive the warp's mind-blasting truth in a unique way that allows his human mind to deal with it. As a result he does not suffer Corruption Points from Warp Shock, although he can acquire Corruption Points normally by other means."
+      }
+    ],
+    "advances": [
+      {
+        "advance": "Learn New Navigator Power",
+        "cost": "200xp",
+        "information": "Gain the use of a new Navigator Power. See Navigator Powers"
+      },
+      {
+        "advance": "Improve Power to Adept",
+        "cost": "300xp",
+        "information": "Improve an existing Navigator Power to Adept level"
+      },
+      {
+        "advance": "Improve Power to Master",
+        "cost": "400xp",
+        "information": "Improve an Adept Navigator Power to Master level"
+      }
+    ]
+  }
+}

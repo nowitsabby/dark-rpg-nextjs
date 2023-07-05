@@ -1,0 +1,152 @@
+{
+    "info": "# Untouchable - Elite Advance",
+    "type": "EliteAdvance",
+    "data": {
+        "eliteAdvance": "Untouchable",
+        "cost": 300,
+        "prerequisites": [
+            {
+                "title": "A Void in the Warp",
+                "description": "Characters with the Psyker, Navigator, or Sorcerer elite advance cannot gain the Untouchable elite advance."
+            }
+        ],
+        "instantChanges": [
+            "Can never gain the Psyker trait, Navigator trait, or Sorcerer elite advance for any reason",
+            "Resistance (Psychic Powers)",
+            "Fellowship always counts as one-half (rounding up)",
+            "Fellowship counts as 1 when interacting with Psykers, Navigators, or anyone with Rank 1 Psyniscience",
+            "May never gain the positive effects psychic powers or other warp abilities",
+            "Automatically ignore Psychic Phenomena effect",
+            "Gain a +30 on tests to resist Perils of the Warp effects"
+        ],
+        "talents": [
+            {
+                "tier": 2,
+                "talent": "Bane of the Daemon",
+                "id": "bane-of-the-daemon",
+                "prerequisites": [
+                    "Willpower 40"
+                ],
+                "aptitudes": [
+                    "Defence",
+                    "Willpower"
+                ],
+                "benefit": "Creatures with the Warp Instability trait within WPB metres of the Untouchable suffer a penalty on their Willpower test to remain in realspace equal to five times the Untouchable's WPB",
+                "source": "Dark Heresy 2e"
+            },
+            {
+                "tier": 3,
+                "talent": "Daemonic Anathema",
+                "id": "daemonic-anathema",
+                "prerequisites": [
+                    "Warp Anathema",
+                    "Willpower 55"
+                ],
+                "aptitudes": [
+                    "Willpower"
+                ],
+                "benefit": "All creatures with the Daemonic trait within WPB metres of the character do not gain any benefits from that trait",
+                "source": "Dark Heresy 2e"
+            },
+            {
+                "tier": 3,
+                "talent": "Null Field",
+                "id": "null-field",
+                "prerequisites": [
+                    "Psychic Null",
+                    "Willpower 50"
+                ],
+                "aptitudes": [
+                    "Willpower"
+                ],
+                "benefit": "The effects of Psychic Null apply to all characters within WPB metres of the character.",
+                "source": "Dark Heresy 2e"
+            },
+            {
+                "tier": 2,
+                "talent": "Psychic Null",
+                "id": "psychic-null",
+                "prerequisites": [
+                    "Willpower 40"
+                ],
+                "aptitudes": [
+                    "Defence",
+                    "Willpower"
+                ],
+                "benefit": "The character gains the Deny the Witch talent. He also gains a +20 bonus when making Evasion tests against psychic attacks and when making Opposed tests to resist psychic powers. This talent stacks with Resistance (Psychic Powers) and can be purchased multiple times; each time a character purchases it, increase the bonus it grants by +5.",
+                "source": "Dark Heresy 2e"
+            },
+            {
+                "tier": 1,
+                "talent": "Soulless Aura",
+                "id": "soulless-aura",
+                "prerequisites": [
+                    "Willpower 30"
+                ],
+                "aptitudes": [
+                    "Finesse",
+                    "Willpower"
+                ],
+                "benefit": "Enemy characters within WPB metres of the Untouchable suffer a -10 penalty to all Charm and Deceive tests",
+                "source": "Dark Heresy 2e"
+            },
+            {
+                "tier": 3,
+                "talent": "Warp Anathema",
+                "id": "warp-anathema",
+                "prerequisites": [
+                    "Warp Disruption",
+                    "Willpower 55"
+                ],
+                "aptitudes": [
+                    "Intelligence",
+                    "Willpower"
+                ],
+                "benefit": "Characters affected by Warp Disruption reduce their psy rating by 2, instead of the normal amount. This talent can be purchased multiple times; each time a character purchases it the reduction in psy rating increases by 1. If purchased 3 times, for example, the reduction would be 4",
+                "source": "Dark Heresy 2e"
+            },
+            {
+                "tier": 3,
+                "talent": "Warp Bane",
+                "id": "warp-bane",
+                "prerequisites": [
+                    "Warp Disruption",
+                    "Willpower 55"
+                ],
+                "aptitudes": [
+                    "Willpower"
+                ],
+                "benefit": "The effects of Warp Disruption apply to all characters with a psy rating within two times WPB metres of the character, instead of the normal amount",
+                "source": "Dark Heresy 2e"
+            },
+            {
+                "tier": 2,
+                "talent": "Warp Disruption",
+                "id": "warp-disruption",
+                "prerequisites": [
+                    "Willpower 45"
+                ],
+                "aptitudes": [
+                    "Perception",
+                    "Willpower"
+                ],
+                "benefit": "All characters with a psy rating within WPB metres of the character reduce their base psy rating by 1 while they remain within range. Characters reduced to a psy rating of 0 cannot use any psychic powers",
+                "source": "Dark Heresy 2e"
+            },
+            {
+                "tier": 3,
+                "talent": "Daemonic Disruption",
+                "id": "daemonic-disruption",
+                "prerequisites": [
+                    "Bane of the Daemon",
+                    "Willpower 50"
+                ],
+                "aptitudes": [
+                    "Willpower"
+                ],
+                "benefit": "Whenever a creature with the Warp Instability trait makes a successful attack test against this character, it must immediately test for Warp Instability after resolving the attack.",
+                "source": "Enemies Beyond"
+            }
+        ]
+    }
+}

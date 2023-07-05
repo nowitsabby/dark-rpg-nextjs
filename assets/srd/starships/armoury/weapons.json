@@ -1,0 +1,819 @@
+{
+  "info": "# Starship Weapons",
+  "type": "StarshipWeapons",
+  "data": {
+    "macrobatteries": [
+      {
+        "component": "Thunderstrike Macrocannons",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -2,
+        "space": 2,
+        "shipPoints": 1,
+        "strength": 3,
+        "damage": "1d10+1",
+        "crit": 6,
+        "range": 4,
+        "special": []
+      },
+      {
+        "component": "Mars Pattern Macrocannons",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -4,
+        "space": 2,
+        "shipPoints": 1,
+        "strength": 3,
+        "damage": "1d10+2",
+        "crit": 5,
+        "range": 6,
+        "special": []
+      },
+      {
+        "component": "Mars Pattern Macrocannon Broadside",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -4,
+        "space": 5,
+        "shipPoints": 1,
+        "strength": 6,
+        "damage": "1d10+2",
+        "crit": 5,
+        "range": 6,
+        "special": [
+          {
+            "title": "Broadside",
+            "effect": "These weapons must occupy a Port or Starboard Weapon Capacity slot."
+          }
+        ]
+      },
+      {
+        "component": "Sunsear Laser Battery",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -6,
+        "space": 4,
+        "shipPoints": 1,
+        "strength": 4,
+        "damage": "1d10+2",
+        "crit": 4,
+        "range": 9,
+        "special": []
+      },
+      {
+        "component": "Ryza Pattern Plasma Battery",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -8,
+        "space": 4,
+        "shipPoints": 2,
+        "strength": 4,
+        "damage": "1d10+4",
+        "crit": 4,
+        "range": 5,
+        "special": [
+          {
+            "title": "Vapourisation",
+            "effect": "When this Weapon Component rolls a 1 or 2 on the Critical Hit Chart, it effects two Components instead of one."
+          }
+        ]
+      },
+      {
+        "component": "Stygies-Pattern Bombardment Cannons",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -5,
+        "space": 5,
+        "shipPoints": 3,
+        "strength": 3,
+        "damage": "1d10+6",
+        "crit": 2,
+        "range": 4,
+        "special": [
+          {
+            "title": "Destructive",
+            "effect": "If this weapon generates a crit, add 1 to the result rolled. "
+          },
+          {
+            "title": "Death from Above",
+            "effect": "Bombardment Cannons act as macrobatteries and can only be mounted in a Prow, Dorsal, or Keel weapons slot. When in orbit, the players gain +20 towards any Intimidate tests against planetary based characters. When working toward a Military Objective against a planet, the players earn an additional 50 Achievement Points. When used as part of a planetary bombardment, bombardment cannons double the affected area, do an additional 20 damage to large units, and deal an additional10 damage to individuals and vehicles."
+          }
+        ]
+      },
+      {
+        "component": "Disruption Macrocannons",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -4,
+        "space": 2,
+        "shipPoints": 2,
+        "strength": 3,
+        "damage": "1d10+1",
+        "crit": "-",
+        "range": 5,
+        "special": [
+          {
+            "title": "Short the Flow",
+            "effect": "Disruption weapons compromise the circuitry and wiring required to transfer power from the ship's engine to her other components. For every five damage that exceeds the target's Void Shields, one randomly selected Component on the target ship becomes Unpowered. This weapon's damage is not affected by Armour. "
+          },
+          {
+            "title": "Ionic Blast",
+            "effect": "These weapons never cause critical hits, nor do they deal damage to Hull Integrity. These weapons may only be combined into a salvo with other Disruption Macrocannon weapons."
+          }
+        ]
+      },
+      {
+        "component": "Disruption Macrocannon Broadside",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -6,
+        "space": 5,
+        "shipPoints": 2,
+        "strength": 6,
+        "damage": "1d10+1",
+        "crit": "-",
+        "range": 5,
+        "special": [
+          {
+            "title": "Short the Flow",
+            "effect": "Disruption weapons compromise the circuitry and wiring required to transfer power from the ship's engine to her other components. For every five damage that exceeds the target's Void Shields, one randomly selected Component on the target ship becomes Unpowered. This weapon's damage is not affected by Armour. "
+          },
+          {
+            "title": "Ionic Blast",
+            "effect": "These weapons never cause critical hits, nor do they deal damage to Hull Integrity. These weapons may only be combined into a salvo with other Disruption Macrocannon weapons."
+          },
+          {
+            "title": "Broadside",
+            "effect": "These weapons must occupy a Port or Starboard Weapon Capacity slot."
+          }
+        ]
+      },
+      {
+        "component": "Hecutor-pattern Plasma Battery",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -8,
+        "space": 3,
+        "shipPoints": 2,
+        "strength": 3,
+        "damage": "1d10+2",
+        "crit": 4,
+        "range": 11,
+        "special": [
+          {
+            "title": "Vapourisation",
+            "effect": "When this Weapon Component rolls a 1 or 2 on the Critical Hit Chart, it effects two Components instead of one."
+          }
+        ]
+      },
+      {
+        "component": "Hecutor-pattern Plasma Broadside",
+        "hulls": [
+          "Battlecruisers",
+          "Grand Cruisers"
+        ],
+        "power": -12,
+        "space": 5,
+        "shipPoints": 2,
+        "strength": 5,
+        "damage": "1d10+2",
+        "crit": 4,
+        "range": 11,
+        "special": [
+          {
+            "title": "Vapourisation",
+            "effect": "When this Weapon Component rolls a 1 or 2 on the Critical Hit Chart, it effects two Components instead of one."
+          },
+          {
+            "title": "Broadside",
+            "effect": "These weapons must occupy a Port or Starboard Weapon Capacity slot."
+          }
+        ]
+      },
+      {
+        "component": "Stygies-pattern Macrocannons",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -4,
+        "space": 3,
+        "shipPoints": 1,
+        "strength": 3,
+        "damage": "1d10+2",
+        "crit": 5,
+        "range": 5,
+        "special": [
+          {
+            "title": "Penetrator Rounds",
+            "effect": "When calculating damage dealt by a salvo that includes shots from a Stygies pattern Macrocannon that were not absorbed by Void Shields, reduce the vessel's armour by 3. This reduction is not permanent, and only takes place while calculating that particular salvo's damage."
+          }
+        ]
+      },
+      {
+        "component": "Jovian-pattern Missile Battery",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -3,
+        "space": 1,
+        "shipPoints": 1,
+        "strength": 5,
+        "damage": "1d10+1",
+        "crit": 6,
+        "range": 6,
+        "special": [
+          {
+            "title": "Labour Intensive",
+            "effect": "This Weapon Component may only fire every other turn."
+          }
+        ]
+      },
+      {
+        "component": "Lathe-pattern Grav-culverin Broadside",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -5,
+        "space": 5,
+        "shipPoints": 1,
+        "strength": 6,
+        "damage": "1d10+3",
+        "crit": 6,
+        "range": 5,
+        "special": [
+          {
+            "title": "Broadside",
+            "effect": "These weapons must occupy a Port or Starboard Weapon Capacity slot."
+          },
+          {
+            "title": "Self-Propelled Warhead",
+            "effect": "Before firing this weapon, the firer may choose to increase the range of this weapon by 2 VUs. If he does so, the damage of each shot is decreased to 1d10+1."
+          }
+        ]
+      },
+      {
+        "component": "Mezoa-pattern Macrocannons",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -4,
+        "space": 4,
+        "shipPoints": 1,
+        "strength": 4,
+        "damage": "1d10+3",
+        "crit": 5,
+        "range": 5,
+        "special": []
+      },
+      {
+        "component": "Pyros Melta-cannons",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -4,
+        "space": 3,
+        "shipPoints": 2,
+        "strength": 3,
+        "damage": "1d10+4",
+        "crit": 4,
+        "range": 4,
+        "special": [
+          {
+            "title": "Inferno",
+            "effect": "Whenever this Weapon Component inflicts a Critical Hit, it is automatically a Fire! Critical."
+          }
+        ]
+      },
+      {
+        "component": "Sunsear Las-broadside",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -9,
+        "space": 6,
+        "shipPoints": 1,
+        "strength": 6,
+        "damage": "1d10+2",
+        "crit": 4,
+        "range": 9,
+        "special": [
+          {
+            "title": "Broadside",
+            "effect": "These weapons must occupy a Port or Starboard Weapon Capacity slot."
+          }
+        ]
+      },
+      {
+        "component": "Grapple Cannon",
+        "hulls": [
+          "Raiders"
+        ],
+        "power": -2,
+        "space": 2,
+        "shipPoints": 1,
+        "strength": "-",
+        "damage": "-",
+        "crit": "-",
+        "range": "-",
+        "special": [
+          {
+            "title": "Harpoon Cannons",
+            "effect": "Although these weapons take up a Weapon Capacity Slot, they do not deal damage and do not have regular weapon profiles."
+          },
+          {
+            "title": "Chained together",
+            "effect": "When effecting a boarding action, a ship equipped with Grapple Cannon may make a Difficult (-10) Ballistic Skill Test rather than a Hard (-20) Operate (Voidcraft) + Manoeuvrability test to begin the action. Furthermore, as the ships are effectively tied together, the victim must make an Arduous (-40) Operate (Voidcraft) + Manoeuvrability Test in order to escape rather than the normal Hard (-20) test. The ship equipped with Grapple cannon may elect to simply cut its cables and escape at any time from a boarding action."
+          }
+        ]
+      }
+    ],
+    "lances": [
+      {
+        "component": "Starbreaker Lance Weapon",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -6,
+        "space": 4,
+        "shipPoints": 2,
+        "strength": 1,
+        "damage": "1d10+2",
+        "crit": 3,
+        "range": 5,
+        "special": []
+      },
+      {
+        "component": "Titanforge Lance Weapon",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -9,
+        "space": 4,
+        "shipPoints": 2,
+        "strength": 1,
+        "damage": "1d10+4",
+        "crit": 3,
+        "range": 6,
+        "special": []
+      },
+      {
+        "component": "Titanforge Lance Battery",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -13,
+        "space": 6,
+        "shipPoints": 2,
+        "strength": 2,
+        "damage": "1d10+4",
+        "crit": 3,
+        "range": 6,
+        "special": []
+      },
+      {
+        "component": "Godsbane Lance",
+        "hulls": [
+          "Battlecruisers",
+          "Grand Cruisers"
+        ],
+        "power": -9,
+        "space": 4,
+        "shipPoints": 3,
+        "strength": 1,
+        "damage": "1d10+2",
+        "crit": 3,
+        "range": 12,
+        "special": [
+          {
+            "title": "Beam Dispersion Effect",
+            "effect": "When firing at targets over 20 VUs away, the damage of this weapon decreases to 1d10."
+          }
+        ]
+      },
+      {
+        "component": "Godsbane Lance Battery",
+        "hulls": [
+          "Battlecruisers",
+          "Grand Cruisers"
+        ],
+        "power": -13,
+        "space": 6,
+        "shipPoints": 3,
+        "strength": 2,
+        "damage": "1d10+2",
+        "crit": 3,
+        "range": 12,
+        "special": [
+          {
+            "title": "Beam Dispersion Effect",
+            "effect": "When firing at targets over 20 VUs away, the damage of this weapon decreases to 1d10."
+          }
+        ]
+      },
+      {
+        "component": "Las-burner",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -7,
+        "space": 3,
+        "shipPoints": 2,
+        "strength": 2,
+        "damage": "1d5+1",
+        "crit": 3,
+        "range": 3,
+        "special": [
+          {
+            "title": "Small Weapon",
+            "effect": "Las-burners may be installed in Dorsal or Keel weapon capacity slots in ships of frigate size or smaller. "
+          },
+          {
+            "title": "Versatile",
+            "effect": "A ship with Las-burners gains +5 to the opposed Command Test made to resolve boarding actions."
+          }
+        ]
+      },
+      {
+        "component": "Mezoa Lance Weapon",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -9,
+        "space": 4,
+        "shipPoints": 3,
+        "strength": 1,
+        "damage": "1d10+5",
+        "crit": 4,
+        "range": 4,
+        "special": []
+      },
+      {
+        "component": "Mezoa Lance Battery",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -13,
+        "space": 6,
+        "shipPoints": 3,
+        "strength": 2,
+        "damage": "1d10+5",
+        "crit": 4,
+        "range": 4,
+        "special": []
+      },
+      {
+        "component": "Voidsunder Lance Battery",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -15,
+        "space": 8,
+        "shipPoints": 3,
+        "strength": 1,
+        "damage": "1d10+4",
+        "crit": 3,
+        "range": 6,
+        "special": [
+          {
+            "title": "Heavy Weapon",
+            "effect": "This Component may only be mounted in a Prow Weapon Capacity Slot unless the ship is a grand cruiser or larger, in which case it may be mounted in a Dorsal slot as well. In Prow slots, the weapon may only fire forward."
+          }
+        ]
+      },
+      {
+        "component": "Sunhammer Lance",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -9,
+        "space": 4,
+        "shipPoints": 2,
+        "strength": 1,
+        "damage": "1d10+3",
+        "crit": 3,
+        "range": 9,
+        "special": []
+      },
+      {
+        "component": "Sunhammer Lance Battery",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -13,
+        "space": 6,
+        "shipPoints": 2,
+        "strength": 2,
+        "damage": "1d10+3",
+        "crit": 3,
+        "range": 9,
+        "special": []
+      }
+    ],
+    "novaCannons": [
+      {
+        "component": "Mars-pattern Nova Cannon",
+        "hulls": [
+          "Cruisers"
+        ],
+        "power": -3,
+        "space": 7,
+        "shipPoints": 3,
+        "strength": "Special",
+        "damage": "2d5+4",
+        "crit": "Special",
+        "range": "6-40",
+        "special": [
+          {
+            "title": "Core Architecture",
+            "effect": "This weapon Component is always revealed by successful Active Augury—it is too large to be concealed."
+          }
+        ]
+      },
+      {
+        "component": "Ryza-pattern Nova Cannon",
+        "hulls": [
+          "Cruisers"
+        ],
+        "power": -4,
+        "space": 7,
+        "shipPoints": 4,
+        "strength": "Special",
+        "damage": "2d5+5",
+        "crit": "Special",
+        "range": "6-36",
+        "special": [
+          {
+            "title": "Core Architecture",
+            "effect": "This weapon Component is always revealed by successful Active Augury—it is too large to be concealed. "
+          },
+          {
+            "title": "Overheating Systems",
+            "effect": "For every five degrees of failure on a test to fire a Ryza-pattern Nova Cannon, the firing vessel suffers one Critical Hit. If a Component is affected by the critical hit, it is always the Nova Cannon."
+          }
+        ]
+      }
+    ],
+    "torpedoes": [
+      {
+        "component": "Fortis-pattern Torpedo Tubes",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -2,
+        "space": 8,
+        "shipPoints": 3,
+        "strength": 6,
+        "damage": "-",
+        "crit": "-",
+        "range": "-",
+        "special": [
+          {
+            "title": "Enhanced Magnetic Coils",
+            "effect": "These torpedo tubes grant an additional +2VU speed to the torpedoes during the turn they are launched. Next turn, they return to their normal speed."
+          },
+          {
+            "title": "Volatile",
+            "effect": "If this Component is Damaged or Destroyed (but not Unpowered or Depressurised) while torpedoes are loaded in its tubes, it has a 10 percent chance of exploding. In this event, the Component is destroyed and the ship takes 2d5 Hull Integrity damage."
+          }
+        ]
+      },
+      {
+        "component": "Gryphonne-pattern Torpedo Tubes",
+        "hulls": [
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -2,
+        "space": 6,
+        "shipPoints": 1,
+        "strength": 4,
+        "damage": "-",
+        "crit": "-",
+        "range": "-",
+        "special": [
+          {
+            "title": "Volatile",
+            "effect": "If this Component is Damaged or Destroyed (but not Unpowered or Depressurised) while torpedoes are loaded in its tubes, it has a 10 percent chance of exploding. In this event, the Component is destroyed and the ship takes 2d5 Hull Integrity damage."
+          }
+        ]
+      },
+      {
+        "component": "Mars-pattern Torpedo Tubes",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -2,
+        "space": 8,
+        "shipPoints": 2,
+        "strength": 6,
+        "damage": "-",
+        "crit": "-",
+        "range": "-",
+        "special": [
+          {
+            "title": "Volatile",
+            "effect": "If this Component is Damaged or Destroyed (but not Unpowered or Depressurised) while torpedoes are loaded in its tubes, it has a 10 percent chance of exploding. In this event, the Component is destroyed and the ship takes 2d5 Hull Integrity damage."
+          }
+        ]
+      },
+      {
+        "component": "Voss-pattern Torpedo Tubes",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -1,
+        "space": 5,
+        "shipPoints": 1,
+        "strength": 2,
+        "damage": "-",
+        "crit": "-",
+        "range": "-",
+        "special": [
+          {
+            "title": "Volatile",
+            "effect": "If this Component is Damaged or Destroyed (but not Unpowered or Depressurised) while torpedoes are loaded in its tubes, it has a 10 percent chance of exploding. In this event, the Component is destroyed and the ship takes 2d5 Hull Integrity damage."
+          }
+        ]
+      }
+    ],
+    "landingBays": [
+      {
+        "component": "Hold Landing Bay",
+        "hulls": [
+          "Transports"
+        ],
+        "power": -1,
+        "space": 0,
+        "shipPoints": 2,
+        "strength": 2,
+        "damage": "-",
+        "crit": "-",
+        "range": "-",
+        "special": [
+          {
+            "title": "Jury-Rigged",
+            "effect": "These adaptations are less than ideal for the craft launched and landed in the makeshift bays. Attack craft launched from a Hold Landing Bay reduce their movement on the turn launched by -2 VU. Craft attempting to land in a Hold Landing Bay must pass an Ordinary (+10) Operate (Aeronautica)+Manoeuvrability Test to land safely (squadrons should make one test per squadron). Success means they land safely. Three degrees of failure or less means they veered off to make another attempt. Failure by four or more degrees indicates that the craft has crashed into the bay (or one craft for every degree of failure, in the case of squadrons). The Component is immediately considered Damaged. Outside of combat, craft can spend more time landing. In this case, there is no a Test, but it takes a half hour for each squadron to land. "
+          },
+          {
+            "title": "Retrofit",
+            "effect": "This Component may only be installed to replace an integral Main Cargo Hold on a transport (which is why it does not have a Space requirement, it takes up the space normally reserved for the Main Cargo Hold). Only one Hold Landing Bay may be equipped on a starship. It does not take up a Weapon Capacity Slot. "
+          },
+          {
+            "title": "Structural Impact",
+            "effect": "The Hold Landing Bay installation requires cutting massive holes in the exterior of the transport's hull. The vessel's Hull Integrity is permanently reduced by 5 when this Component is added. In addition, the ship suffers a -5 penalty to its Manoeuvrability."
+          }
+        ]
+      },
+      {
+        "component": "Jovian-pattern Escort Bay",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -1,
+        "space": 4,
+        "shipPoints": 1,
+        "strength": 1,
+        "damage": "-",
+        "crit": "-",
+        "range": "-",
+        "special": []
+      },
+      {
+        "component": "Jovian-pattern Landing Bay",
+        "hulls": [
+          "Cruisers"
+        ],
+        "power": -1,
+        "space": 6,
+        "shipPoints": 2,
+        "strength": 2,
+        "damage": "-",
+        "crit": "-",
+        "range": "-",
+        "special": []
+      },
+      {
+        "component": "Lathe-pattern Landing Bay",
+        "hulls": [
+          "Cruisers"
+        ],
+        "power": -1,
+        "space": 5,
+        "shipPoints": 2,
+        "strength": 2,
+        "damage": "-",
+        "crit": "-",
+        "range": "-",
+        "special": [
+          {
+            "title": "Energy Field",
+            "effect": "The security hatches on this bay must be open during the Strategic Turn when small craft are landing or taking off. If this Component ever loses power when the hatches are open, this Component becomes Depressurised."
+          }
+        ]
+      }
+    ]
+  }
+}

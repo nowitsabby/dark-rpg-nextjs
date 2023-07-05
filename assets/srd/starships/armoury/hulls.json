@@ -1,0 +1,862 @@
+{
+  "info": "# Starship Hulls\n\n† This Weapon Hardpoint comes pre-equipped with a specific Weapon Component",
+  "type": "StarshipHulls",
+  "data": [
+    {
+      "name": "Jericho-class pilgrim vessel",
+      "class": "Transport",
+      "speed": 3,
+      "manoeuvrability": -10,
+      "detection": 5,
+      "hull": 50,
+      "armour": 12,
+      "turret": 1,
+      "space": 45,
+      "shipPoints": 20,
+      "weapons": [
+        "Prow",
+        "Port",
+        "Starboard"
+      ],
+      "special": [
+        {
+          "title": "Cargo Hauler",
+          "effect": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
+        }
+      ]
+    },
+    {
+      "name": "Vagabond-class merchant trader",
+      "class": "Transport",
+      "speed": 4,
+      "manoeuvrability": -5,
+      "detection": 10,
+      "hull": 40,
+      "armour": 13,
+      "turret": 1,
+      "space": 40,
+      "shipPoints": 20,
+      "weapons": [
+        "Dorsal",
+        "Prow"
+      ],
+      "special": [
+        {
+          "title": "Cargo Hauler",
+          "effect": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
+        }
+      ]
+    },
+    {
+      "name": "Carrack-Class Transport",
+      "class": "Transport",
+      "speed": 4,
+      "manoeuvrability": -5,
+      "detection": 10,
+      "hull": 45,
+      "armour": 15,
+      "turret": 1,
+      "space": 38,
+      "shipPoints": 25,
+      "weapons": [
+        "Dorsal",
+        "Dorsal"
+      ],
+      "special": [
+        {
+          "title": "Cargo Hauler",
+          "effect": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
+        }
+      ]
+    },
+    {
+      "name": "Goliath-Class Factory Ship",
+      "class": "Transport",
+      "speed": 3,
+      "manoeuvrability": -10,
+      "detection": 4,
+      "hull": 50,
+      "armour": 14,
+      "turret": 1,
+      "space": 40,
+      "shipPoints": 25,
+      "weapons": [
+        "Dorsal",
+        "Port",
+        "Starboard"
+      ],
+      "special": [
+        {
+          "title": "Large Cargo Hauler",
+          "effect": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with two Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 4 Power to this Component."
+        },
+        {
+          "title": "Plasma Refinery",
+          "effect": "This vessel comes pre-equipped with a unique Component, a Plasma Refinery, used to create high-grade fuel for plasma engines. This is a huge facility mounted amidships. This grants the ship the ability to scoop plasma from the stars, refine it, and sell it on. The profits gained by this enterprise are closely matched to the costs of running the vessel, however the Explorers can use it to augment their own endeavours. The refining process simply requires a large supply of low-grade ore, however the plasma harvesting process is more involved. The ship must enter a retrograde orbit around a blue-giant star, a manoeuvre that takes three days and requires two Ordinary (+10) Operate (Voidship) + Manoeuvrability Tests. Failure of either of these Tests by five degrees or more results in the ship's destruction. Success means the ship gains enough additional plasma to convert one full load of ore, granting the Explorers +100 Achievement Points to an ongoing Endeavour (the refined plasma can either be used in the Endeavour, or sold to generate funds)."
+        },
+        {
+          "title": "Powered by Stars",
+          "effect": "Provided the Goliath harvests plasma roughly once a year, its Plasma Drive generates +10 power."
+        }
+      ]
+    },
+    {
+      "name": "Universe-Class Mass Conveyor",
+      "class": "Transport",
+      "speed": 2,
+      "manoeuvrability": -20,
+      "detection": 5,
+      "hull": 65,
+      "armour": 12,
+      "turret": 1,
+      "space": 94,
+      "shipPoints": 45,
+      "weapons": [
+        "Dorsal",
+        "Port",
+        "Starboard"
+      ],
+      "special": [
+        {
+          "title": "Oversized Monstrosity",
+          "effect": "This vessel's Speed cannot be increased by Components—if a Component would increase its Speed, it has no effect instead. "
+        },
+        {
+          "title": "Secondary Power Genetorium",
+          "effect": "The Universe class is so large it comes pre-equipped with a unique Component, a Secondary Power Genetorium. The hull's Space has already been reduced to account for this Component, which provides +10 power to the vessel in addition to that provided by the ship's Plasma Drive. "
+        },
+        {
+          "title": "Massive Cargo Hauler",
+          "effect": "This vessel was designed for transporting goods on a massive scale, and no amount of retrofitting can fully change this. This Hull comes pre-equipped with four Main Cargo Hold Components. The hull's Space has already been reduced to account for these, however when the ship is constructed it must be able to provide a total of 8 Power to these Components."
+        }
+      ]
+    },
+    {
+      "name": "Loki-class Q-ship",
+      "class": "Transport",
+      "speed": 4,
+      "manoeuvrability": -5,
+      "detection": 10,
+      "hull": 40,
+      "armour": 13,
+      "turret": 1,
+      "space": 45,
+      "shipPoints": 21,
+      "weapons": [
+        "Dorsal",
+        "Prow"
+      ],
+      "special": [
+        {
+          "title": "Cargo Hauler",
+          "effect": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
+        },
+        {
+          "title": "Hidden Predator",
+          "effect": "This ship automatically gains the Wolf in Sheep's Clothing Past History (players using this ship do not roll for Past Histories.)"
+        }
+      ]
+    },
+    {
+      "name": "Orion-Class Star Clipper",
+      "class": "Transport",
+      "speed": 10,
+      "manoeuvrability": 25,
+      "detection": 10,
+      "hull": 35,
+      "armour": 12,
+      "turret": 1,
+      "space": 40,
+      "shipPoints": 25,
+      "weapons": [
+        "Dorsal",
+        "Keel"
+      ],
+      "special": [
+        {
+          "title": "Cargo Hauler",
+          "effect": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
+        },
+        {
+          "title": "Fast Ship",
+          "effect": "Due to the precisely calibrated nature of this ship, it cannot be equipped with Components that increase its Armour."
+        }
+      ]
+    },
+    {
+      "name": "Hazeroth-class privateer",
+      "class": "Raider",
+      "speed": 10,
+      "manoeuvrability": 23,
+      "detection": 12,
+      "hull": 32,
+      "armour": 14,
+      "turret": 1,
+      "space": 35,
+      "shipPoints": 30,
+      "weapons": [
+        "Dorsal",
+        "Prow"
+      ],
+      "special": []
+    },
+    {
+      "name": "Havoc-class merchant raider",
+      "class": "Raider",
+      "speed": 9,
+      "manoeuvrability": 25,
+      "detection": 10,
+      "hull": 30,
+      "armour": 16,
+      "turret": 1,
+      "space": 40,
+      "shipPoints": 35,
+      "weapons": [
+        "Dorsal",
+        "Prow"
+      ],
+      "special": []
+    },
+    {
+      "name": "Meritech Shrike-Class Raider",
+      "class": "Raider",
+      "speed": 10,
+      "manoeuvrability": 25,
+      "detection": 20,
+      "hull": 30,
+      "armour": 16,
+      "turret": 2,
+      "space": 35,
+      "shipPoints": 34,
+      "weapons": [
+        "Dorsal",
+        "Prow"
+      ],
+      "special": [
+        {
+          "title": "Advanced Cogitator Linkage",
+          "effect": "Shrikes include kilometres of sophisticated linkage cabling, which at one time allowed a highly advanced core cogitator to exercise extreme control over the systems. Although the heretical cogitator is long removed, the linkage remains. This vessels gains a +5 bonus to all Ballistic Skill Tests to fire the ship's weaponry."
+        }
+      ]
+    },
+    {
+      "name": "Iconoclast-Class Destroyer",
+      "class": "Raider",
+      "speed": 10,
+      "manoeuvrability": 25,
+      "detection": 10,
+      "hull": 28,
+      "armour": 14,
+      "turret": 1,
+      "space": 32,
+      "shipPoints": 29,
+      "weapons": [
+        "Dorsal",
+        "Dorsal"
+      ],
+      "special": [
+        {
+          "title": "Easy to Repair",
+          "effect": "When effecting long term repairs, this ship may repair an additional +2 Hull Integrity if the repairs succeed."
+        }
+      ]
+    },
+    {
+      "name": "Viper-Class Scout Sloop",
+      "class": "Raider",
+      "speed": 11,
+      "manoeuvrability": 30,
+      "detection": 25,
+      "hull": 25,
+      "armour": 14,
+      "turret": 1,
+      "space": 29,
+      "shipPoints": 27,
+      "weapons": [
+        "Dorsal"
+      ],
+      "special": []
+    },
+    {
+      "name": "Cobra-class Destroyer",
+      "class": "Raider",
+      "speed": 10,
+      "manoeuvrability": 30,
+      "detection": 10,
+      "hull": 30,
+      "armour": 15,
+      "turret": 1,
+      "space": 35,
+      "shipPoints": 30,
+      "weapons": [
+        "Dorsal",
+        "Prow"
+      ],
+      "special": []
+    },
+    {
+      "name": "Sword-class frigate",
+      "class": "Frigate",
+      "speed": 8,
+      "manoeuvrability": 20,
+      "detection": 15,
+      "hull": 35,
+      "armour": 18,
+      "turret": 2,
+      "space": 40,
+      "shipPoints": 40,
+      "weapons": [
+        "Dorsal",
+        "Dorsal"
+      ],
+      "special": []
+    },
+    {
+      "name": "Tempest-class strike frigate",
+      "class": "Frigate",
+      "speed": 8,
+      "manoeuvrability": 18,
+      "detection": 12,
+      "hull": 36,
+      "armour": 19,
+      "turret": 1,
+      "space": 42,
+      "shipPoints": 40,
+      "weapons": [
+        "Dorsal",
+        "Dorsal"
+      ],
+      "special": []
+    },
+    {
+      "name": "Firestorm-class Frigate",
+      "class": "Frigate",
+      "speed": 7,
+      "manoeuvrability": 20,
+      "detection": 15,
+      "hull": 38,
+      "armour": 18,
+      "turret": 1,
+      "space": 40,
+      "shipPoints": 41,
+      "weapons": [
+        "Dorsal",
+        "Prow"
+      ],
+      "special": []
+    },
+    {
+      "name": "Falchion-Class Frigate",
+      "class": "Frigate",
+      "speed": 8,
+      "manoeuvrability": 17,
+      "detection": 14,
+      "hull": 36,
+      "armour": 18,
+      "turret": 1,
+      "space": 34,
+      "shipPoints": 42,
+      "weapons": [
+        "Prow†",
+        "Dorsal",
+        "Dorsal"
+      ],
+      "special": [
+        {
+          "title": "Torpedo Specialist",
+          "effect": "This ship comes pre-equipped with by a Voss-pattern Torpedo Tube Component, which occupies a prow slot. This Component may not be removed. The space required is already taken into account, but when this ship is constructed, it must provide 1 power to this Component."
+        }
+      ]
+    },
+    {
+      "name": "Claymore-Class Corvette",
+      "class": "Frigate",
+      "speed": 8,
+      "manoeuvrability": 18,
+      "detection": 12,
+      "hull": 30,
+      "armour": 17,
+      "turret": 1,
+      "space": 38,
+      "shipPoints": 38,
+      "weapons": [
+        "Dorsal",
+        "Dorsal"
+      ],
+      "special": []
+    },
+    {
+      "name": "Turbulent-Class Heavy Frigate",
+      "class": "Frigate",
+      "speed": 7,
+      "manoeuvrability": 18,
+      "detection": 15,
+      "hull": 40,
+      "armour": 20,
+      "turret": 1,
+      "space": 42,
+      "shipPoints": 42,
+      "weapons": [
+        "Dorsal",
+        "Dorsal"
+      ],
+      "special": [
+        {
+          "title": "Fiery Temperament",
+          "effect": "For some reason, the plasma drives on a Turbulent tend to burn hotter than on comparable vessels. Though this isn't enough to compensate for the added mass, it does give more power. Any plasma drive installed on a Turbulent has its Power Generated increased by +2. "
+        },
+        {
+          "title": "Antiquated Communications",
+          "effect": "All Command Tests on a Turbulent suffer a -5 penalty."
+        }
+      ]
+    },
+    {
+      "name": "Dauntless-class light cruiser",
+      "class": "Light Cruiser",
+      "speed": 7,
+      "manoeuvrability": 15,
+      "detection": 20,
+      "hull": 60,
+      "armour": 19,
+      "turret": 1,
+      "space": 60,
+      "shipPoints": 55,
+      "weapons": [
+        "Prow",
+        "Port",
+        "Starboard"
+      ],
+      "special": []
+    },
+    {
+      "name": "Endeavour-Class Light Cruiser",
+      "class": "Light Cruiser",
+      "speed": 6,
+      "manoeuvrability": 12,
+      "detection": 15,
+      "hull": 60,
+      "armour": 20,
+      "turret": 2,
+      "space": 58,
+      "shipPoints": 57,
+      "weapons": [
+        "Port",
+        "Starboard",
+        "Prow",
+        "Prow†"
+      ],
+      "special": {
+        "title": "Torpedo Specialist",
+        "effect": "This ship comes pre-equipped with by a Voss-pattern Torpedo Tube Component, which occupies a prow slot. This Component may not be removed. The space required is already taken into account, but when this ship is constructed, it must provide one power to this Component."
+      }
+    },
+    {
+      "name": "Defiant-Class Light Cruiser",
+      "class": "Light Cruiser",
+      "speed": 6,
+      "manoeuvrability": 12,
+      "detection": 15,
+      "hull": 60,
+      "armour": 20,
+      "turret": 2,
+      "space": 55,
+      "shipPoints": 58,
+      "weapons": [
+        "Prow",
+        "Port†",
+        "Starboard†"
+      ],
+      "special": [
+        {
+          "title": "Carrier",
+          "effect": "This ship comes pre-equipped with two Jovian-class Launch Bay Components, which occupy a port and starboard weapon capacity slot. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide one Power to each launch bay Component."
+        }
+      ]
+    },
+    {
+      "name": "Secutor-class monitor-cruiser",
+      "class": "Light Cruiser",
+      "speed": 5,
+      "manoeuvrability": 12,
+      "detection": 15,
+      "hull": 65,
+      "armour": 20,
+      "turret": 2,
+      "space": 58,
+      "shipPoints": 58,
+      "weapons": [
+        "Dorsal",
+        "Prow",
+        "Port",
+        "Starboard"
+      ],
+      "special": []
+    },
+    {
+      "name": "Lathe-class monitor-cruiser",
+      "class": "Light Cruiser",
+      "speed": 5,
+      "manoeuvrability": 12,
+      "detection": 15,
+      "hull": 63,
+      "armour": 20,
+      "turret": 1,
+      "space": 60,
+      "shipPoints": 55,
+      "weapons": [
+        "Dorsal",
+        "Prow",
+        "Port",
+        "Starboard"
+      ],
+      "special": []
+    },
+    {
+      "name": "Lunar-class cruiser",
+      "class": "Cruiser",
+      "speed": 5,
+      "manoeuvrability": 10,
+      "detection": 10,
+      "hull": 70,
+      "armour": 20,
+      "turret": 2,
+      "space": 75,
+      "shipPoints": 60,
+      "weapons": [
+        "Prow",
+        "Port",
+        "Port",
+        "Starboard",
+        "Starboard"
+      ],
+      "special": []
+    },
+    {
+      "name": "Conquest-Class Star Galleon",
+      "class": "Cruiser",
+      "speed": 4,
+      "manoeuvrability": 5,
+      "detection": 10,
+      "hull": 65,
+      "armour": 16,
+      "turret": 1,
+      "space": 56,
+      "shipPoints": 52,
+      "weapons": [
+        "Port",
+        "Port",
+        "Starboard",
+        "Starboard"
+      ],
+      "special": [
+        {
+          "title": "Galleon",
+          "effect": "The Star Galleon comes pre-equipped with two Main Cargo Hold Components. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide four Power to these Components. "
+        },
+        {
+          "title": "Hybrid Vessel",
+          "effect": "The Star Galleon may be equipped with Transport or Cruiser Components. However, if the Component has both a Transport and a Cruiser variant, it must take the Cruiser variant."
+        }
+      ]
+    },
+    {
+      "name": "Ambition-Class Cruiser",
+      "class": "Cruiser",
+      "speed": 5,
+      "manoeuvrability": 12,
+      "detection": 15,
+      "hull": 66,
+      "armour": 17,
+      "turret": 2,
+      "space": 75,
+      "shipPoints": 57,
+      "weapons": [
+        "Prow",
+        "Port",
+        "Port",
+        "Starboard",
+        "Starboard"
+      ],
+      "special": []
+    },
+    {
+      "name": "Dictator-Class Cruiser",
+      "class": "Cruiser",
+      "speed": 5,
+      "manoeuvrability": 8,
+      "detection": 18,
+      "hull": 70,
+      "armour": 20,
+      "turret": 3,
+      "space": 65,
+      "shipPoints": 63,
+      "weapons": [
+        "Prow",
+        "Port",
+        "Port†",
+        "Starboard",
+        "Starboard†"
+      ],
+      "special": [
+        {
+          "title": "Carrier",
+          "effect": "This ship comes pre-equipped with two Jovian-class Launch Bay Components, which occupy a port and starboard weapon capacity slot. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide one Power to each launch bay Component."
+        }
+      ]
+    },
+    {
+      "name": "Tyrant-class cruiser",
+      "class": "Cruiser",
+      "speed": 5,
+      "manoeuvrability": 10,
+      "detection": 10,
+      "hull": 70,
+      "armour": 20,
+      "turret": 2,
+      "space": 77,
+      "shipPoints": 61,
+      "weapons": [
+        "Prow",
+        "Port",
+        "Port",
+        "Starboard",
+        "Starboard"
+      ],
+      "special": []
+    },
+    {
+      "name": "Overlord-Class Battlecruiser",
+      "class": "Battlecruiser",
+      "speed": 5,
+      "manoeuvrability": 10,
+      "detection": 10,
+      "hull": 70,
+      "armour": 20,
+      "turret": 2,
+      "space": 78,
+      "shipPoints": 64,
+      "weapons": [
+        "Prow",
+        "Dorsal",
+        "Port",
+        "Port",
+        "Starboard",
+        "Starboard"
+      ],
+      "special": [
+        {
+          "title": "Cruiser",
+          "effect": "This ship also counts as a Cruiser for Component requirements"
+        }
+      ]
+    },
+    {
+      "name": "Mars-Class Battlecruiser",
+      "class": "Battlecruiser",
+      "speed": 5,
+      "manoeuvrability": 10,
+      "detection": 10,
+      "hull": 70,
+      "armour": "20 (24 prow)",
+      "turret": 2,
+      "space": 54,
+      "shipPoints": 71,
+      "weapons": [
+        "Prow†",
+        "Dorsal",
+        "Port",
+        "Port†",
+        "Starboard",
+        "Starboard†"
+      ],
+      "special": [
+        {
+          "title": "Cruiser",
+          "effect": "This ship also counts as a Cruiser for Component requirements"
+        },
+        {
+          "title": "Carrier",
+          "effect": "This ship comes pre-equipped with two Jovian-class Launch Bay Components, which occupy a port and starboard weapon capacity slot. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide one Power to each launch bay Component."
+        },
+        {
+          "title": "Inherent warship",
+          "effect": "The Mars-class battlecruiser comes pre-equipped with one Mars-pattern Nova Cannon Component occupying its prow weapon capacity slot, and one Armoured Prow Component. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide three Power to the Nova Cannon."
+        }
+      ]
+    },
+    {
+      "name": "Chalice-Class Battlecruiser",
+      "class": "Battlecruiser",
+      "speed": 6,
+      "manoeuvrability": 10,
+      "detection": 10,
+      "hull": 70,
+      "armour": 19,
+      "turret": 2,
+      "space": 75,
+      "shipPoints": 63,
+      "weapons": [
+        "Prow",
+        "Dorsal",
+        "Port",
+        "Port",
+        "Starboard",
+        "Starboard"
+      ],
+      "special": [
+        {
+          "title": "Cruiser",
+          "effect": "This ship also counts as a Cruiser for Component requirements"
+        },
+        {
+          "title": "Additional Plasma Conduits",
+          "effect": "All Chalice-class battlecruisers have many heavy plasma conduits, a risky trade-off for increased power. Any plasma drive installed on a Chalice increases power generated by 4. However, every time a Chalice takes a Critical Hit, there is a 25% chance it suffers an additional Fire! Critical Hit as well."
+        }
+      ]
+    },
+    {
+      "name": "Armageddon-Class Battlecruiser",
+      "class": "Battlecruiser",
+      "speed": 5,
+      "manoeuvrability": 10,
+      "detection": 10,
+      "hull": 70,
+      "armour": 20,
+      "turret": 2,
+      "space": 73,
+      "shipPoints": 63,
+      "weapons": [
+        "Prow",
+        "Dorsal",
+        "Port",
+        "Port",
+        "Starboard",
+        "Starboard"
+      ],
+      "special": [
+        {
+          "title": "Cruiser",
+          "effect": "This ship also counts as a Cruiser for Component requirements"
+        },
+        {
+          "title": "Cramped",
+          "effect": "The corridors of Armageddon-class battlecruisers are lined with power relays for the massive weapons systems which must be replaced often. These cabling systems clog the ship's passageways like arterial plaque, consuming space that would otherwise be used for vital supplies. Even extensive redesigns cannot resolve these issues. The ship can only stock three month's worth of food and supplies rather than the normal six."
+        }
+      ]
+    },
+    {
+      "name": "Avenger-Class Grand Cruiser",
+      "class": "Grand Cruiser",
+      "speed": 5,
+      "manoeuvrability": 5,
+      "detection": 10,
+      "hull": 90,
+      "armour": 21,
+      "turret": 3,
+      "space": 90,
+      "shipPoints": 70,
+      "weapons": [
+        "Port",
+        "Port",
+        "Port",
+        "Starboard",
+        "Starboard",
+        "Starboard"
+      ],
+      "special": [
+        {
+          "title": "Cruiser",
+          "effect": "This ship also counts as a Cruiser for Component requirements"
+        }
+      ]
+    },
+    {
+      "name": "Repulsive-Class Grand Cruiser",
+      "class": "Grand Cruiser",
+      "speed": 5,
+      "manoeuvrability": 8,
+      "detection": 10,
+      "hull": 85,
+      "armour": 19,
+      "turret": 3,
+      "space": 90,
+      "shipPoints": 69,
+      "weapons": [
+        "Prow",
+        "Dorsal",
+        "Port",
+        "Port",
+        "Starboard",
+        "Starboard"
+      ],
+      "special": [
+        {
+          "title": "Cruiser",
+          "effect": "This ship also counts as a Cruiser for Component requirements"
+        },
+        {
+          "title": "Cursed",
+          "effect": "The advanced experimental warp drive of the class creates unusual harmonics which can cause the Gellar field to flicker momentarily during warp transit, escalating navigational difficulties. All navigation tests carried out by the ship's Navigator during warp travel take a -10 penalty. "
+        },
+        {
+          "title": "Ancient Grand Cruiser",
+          "effect": "The older types of Grand Cruiser were finely balanced. As such, this vessel may not gain any Components that increase the ship's armour."
+        }
+      ]
+    },
+    {
+      "name": "Exorcist-Class Grand Cruiser",
+      "class": "Grand Cruiser",
+      "speed": 4,
+      "manoeuvrability": 4,
+      "detection": 9,
+      "hull": 85,
+      "armour": 20,
+      "turret": 3,
+      "space": 80,
+      "shipPoints": 71,
+      "weapons": [
+        "Port",
+        "Port",
+        "Port†",
+        "Starboard",
+        "Starboard",
+        "Starboard†"
+      ],
+      "special": [
+        {
+          "title": "Cruiser",
+          "effect": "This ship also counts as a Cruiser for Component requirements"
+        },
+        {
+          "title": "Carrier",
+          "effect": "This ship comes pre-equipped with two Jovian-class Launch Bay Components, which occupy a port and starboard weapon capacity slot. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide one Power to each launch bay Component."
+        }
+      ]
+    },
+    {
+      "name": "Wayfarer-class station",
+      "class": "Space Station",
+      "speed": "-",
+      "manoeuvrability": "-",
+      "detection": 20,
+      "hull": 60,
+      "armour": 18,
+      "turret": 2,
+      "space": 80,
+      "shipPoints": "-",
+      "weapons": [
+        "Keel",
+        "Keel",
+        "Keel"
+      ],
+      "special": [
+        {
+          "title": "Space Station",
+          "effect": "By its very nature a space station is completely immobile (including realspace and warp travel), and does not require the same Components as a starship. A space station requires the following Essential Components: Hull, Genatorium, Void Shield Array, Bridge, and Life Sustainer. In combat, a space station never moves or performs Manoeuvre Actions. Otherwise, it should be treated as a starship during combat."
+        }
+      ]
+    }
+  ]
+}

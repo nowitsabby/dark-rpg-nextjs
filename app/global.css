@@ -1,0 +1,166 @@
+/*
+ * @NOTE: Prepend a `~` to css file paths that are in your node_modules
+ *        See https://github.com/webpack-contrib/sass-loader#imports
+ */
+
+ html,
+ body {
+   background-image: none !important;
+   background-color: rgb(12, 12, 12) !important;
+ }
+ 
+ body * {
+   color: rgba(248, 248, 242, 1) !important;
+   background-color: rgb(12, 12, 12) !important;
+   border-color: rgba(248, 248, 242, 0.8) !important;
+ }
+ 
+ a,
+ a * {
+   color: rgb(248, 248, 242, 1) !important;
+   text-decoration: none;
+   background-color: transparent !important;
+ }
+ 
+ a:visited:hover,
+ a:visited:hover *,
+ span[onclick]:hover,
+ div[onclick]:hover,
+ [role="link"]:hover,
+ [role="link"]:hover *,
+ [role="button"]:hover *,
+ [role="menuitem"]:hover,
+ [role="menuitem"]:hover *,
+ a:hover,
+ a:hover *,
+ .link:hover,
+ .link:hover *{
+  color: rgba(255, 255, 255, 1) !important;
+}
+
+ a:visited,
+ a:visited *,
+ [role="link"]:visited,
+ [role="link"]:visited *,
+ [role="button"]:visited *,
+ [role="menuitem"]:visited,
+ [role="menuitem"]:visited *,
+ .link:visited,
+ .link:visited * {
+   color: rgba(248, 248, 242, 1) !important;
+ }
+
+ a.highlight,
+ a.highlight *,
+ a.active,
+ a.active *,
+ .selected,
+ .selected *,
+ [href="#"] {
+   font-weight: bold !important;
+ }
+ 
+ /* h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ strong,
+ th,
+ [id*="headline"],
+ [class*="headline"],
+ [id*="header"],
+ [class*="header"],
+ [class*="header"] td {
+   color: rgba(255, 184, 108, 1) !important;
+ } */
+ 
+ table,
+ th,
+ td {
+   background-color: rgb(12, 12, 12) !important;
+   border-bottom: 1px solid rgba(248, 248, 242, 0.8) !important;
+   padding: 2px 8px;
+ }
+ 
+ [id*="overlay"],
+ [id*="lightbox"],
+ blockquote {
+   background-color: rgba(68, 71, 90, 1) !important;
+ }
+ 
+ pre,
+ dl {
+   background-color: rgba(68, 71, 90, 1) !important;
+ }
+ 
+ textarea {
+   appearance: none !important;
+   -moz-appearance: none !important;
+   -webkit-appearance: none !important;
+   background: rgba(68, 71, 90, 1) !important;
+ }
+ 
+ div,
+ ul,
+ li,
+ aside {
+   background-image: none !important;
+ }
+ 
+ /******************************/
+ 
+ .btn-link {
+   border-color: transparent !important;
+ }
+ 
+ .table-of-contents li {
+   cursor: pointer;
+ }
+ 
+ .toc-entry-level-2 {
+   margin-left: 16px;
+ }
+ 
+ .toc-entry-level-3 {
+   margin-left: 32px;
+ }
+ 
+ .table-anchor {
+   scroll-margin-top: 55px;
+   scroll-behavior: smooth;
+ }
+ 
+ .no-expand button {
+   display: none;
+ }
+ 
+ .rdt_TableHeader {
+   font-size: 16px !important;
+ }
+
+ .ps-sidebar-root {
+  height: 100vh !important;
+  border: none !important;
+ }
+ 
+ .ps-menu-label {
+  overflow: auto !important;
+  text-overflow: unset !important;
+  white-space: break-spaces !important;
+  overflow-wrap: normal;
+  font-size: smaller;
+} 
+
+ /* .ps-menu-button {
+   height: fit-content !important;
+   padding: 8px 0;
+ }
+ */
+ 
+ .nav-link.active {
+   font-weight: bold;
+   color: rgba(255, 184, 108, 1) !important;
+ }
+ 

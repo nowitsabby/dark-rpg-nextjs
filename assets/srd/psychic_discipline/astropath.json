@@ -1,0 +1,75 @@
+{
+  "info": "# Astropath - Psychic Discipline",
+  "type": "PsychicDiscipline",
+  "data": {
+    "discipline": "Astropath",
+    "information": "Astropaths are rare among sanctioned psykers in that they have undergone the Soul Binding, an ancient and hallowed ritual whereby the individual is imbued with a small portion of the Emperor's power. This enhances their abilities and grants the strength necessary to communicate telepathically between the stars, while also protecting Astropaths against the attacks of Warp entities. They must transmit critical messages and dark secrets, and so must be strong of will to fulfil their duties. Although Astropaths suffers the permanent loss of their sight as a result of the Soul Binding, their psychic senses are increased. To Astropaths, though, it is those who rely on their eyes who are truly blind.\n\nThe following psychic powers are available only to an Astropath character, and are purchased with experience in the same manner as regular psychic powers.",
+    "powers": [
+      {
+        "power": "Astral Telepathy",
+        "cost": 200,
+        "prerequisites": [
+          "Willpower 40"
+        ],
+        "action": "Full",
+        "focus": "-20 Opposed Willpower",
+        "range": "1000km * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker chooses a person he is aware of within range who resists the power with a Willpower test. This can be someone the psyker has met personally, or someone he is aware of by description. If the power succeeds, the psyker can transmit a brief verbal message of no more than 5 seconds x psy rating. If the target is aware of the psyker's action, he may choose to fail the Willpower test, counting as having rolled a 100.",
+        "source": "Enemies Beyond"
+      },
+      {
+        "power": "Telepathic Bond",
+        "cost": 200,
+        "prerequisites": [
+          "Fellowship 35"
+        ],
+        "action": "Full",
+        "focus": "-10 Opposed Willpower",
+        "range": "20m * PR",
+        "sustained": "Free",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker establishes a telepathic bond with a number of individuals up to half his psy rating, who resist the power with a Willpower test. As long as the bond is held, the psyker and targets can send and receive messages telepathically. This does not grant full awareness of all of the characters' thoughts, but allows each character to choose what messages to send. All characters involved in the bond receive all messages. If a target is aware of the psyker's action, he may choose to fail the Willpower test, counting as having rolled a 100. If a character moves out of range of the psyker, the power ceases to affect him.",
+        "source": "Enemies Beyond"
+      },
+      {
+        "power": "Mind Scan",
+        "cost": 300,
+        "prerequisites": [
+          "Fellowship 40",
+          "Willpower 50"
+        ],
+        "action": "Full",
+        "focus": "-20  Willpower",
+        "range": "1m * PR",
+        "sustained": "Full",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker chooses a target within range and line of sight who resists the power with a Willpower test. The target may attempt to resist each round the power is sustained. If the target wins, the psyker is repelled from his mind and gains no further information. The information the psyker learns corresponds to the number of rounds he successfully sustains the power: \n* First Round: The psyker learns basic information, including the target's name, mood, and general state of health.\n* Second Round: The psyker accesses the target's surface thoughts and learns his number of Insanity points and number of Corruption points.\n* Third Round: The psyker successfully gains access to the target's short-term memory and learns of any mental disorders.\n* Fourth Round: The target's subconscious is revealed.\n* Fifth Round: The target's mind is laid bare for the psyker to plunder at will, from the target's happiest memories to his darkest secrets.",
+        "source": "Enemies Beyond"
+      },
+      {
+        "power": "Thought Shield",
+        "cost": 300,
+        "prerequisites": [
+          "Strong Minded"
+        ],
+        "action": "Reaction",
+        "focus": "-20  Willpower",
+        "range": "Self",
+        "sustained": "No",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker can choose to use this power when he is the target of a rival psyker's mind-influencing ability, a Daemon's attempt to possess him, or any creature's attempt to subvert his control of himself. If the power succeeds, the psyker successfully shields his mind from the influence or possession attempt, which immediately fails.",
+        "source": "Enemies Beyond"
+      }
+    ]
+  }
+}

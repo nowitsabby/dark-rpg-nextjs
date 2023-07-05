@@ -1,0 +1,159 @@
+{
+  "info": "# Sanctic Daemonology - Psychic Discipline",
+  "type": "PsychicDiscipline",
+  "data": {
+    "discipline": "Sanctic Daemonology",
+    "information": "The practice of Sanctic Daemonology is amongst the most difficult arts a psyker can study, and amongst the most potent. Few have the necessary will to excel in this discipline, which is the purview of the legendary Grey Knights. Many who have attempted to master the discipline have lost their sanity or succumbed to the temptation offered by the darker branch of Daemonology.",
+    "powers": [
+      {
+        "power": "Banishment",
+        "cost": 300,
+        "prerequisites": [
+          "Psy Rating 3"
+        ],
+        "action": "Full",
+        "focus": "-20 Willpower",
+        "range": "10m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Attack",
+          "Concentration"
+        ],
+        "effects": "The psyker selects a target in range and line of sight, which must possess the Warp Instability trait. The targeted Daemon must immediately make a Willpower test, with a -5 penalty for each degree of success on the Focus Power test. The target suffers 1 point of Energy damage per degree of failure on the test, ignoring Toughness bonus and armour. If this would deal damage equal to or in excess of the target's remaining wounds, it is immediately cast back into the Warp.",
+        "source": "Enemies Beyond"
+      },
+      {
+        "power": "Cleansing Flame",
+        "cost": 300,
+        "prerequisites": [
+          "Psy Rating 4"
+        ],
+        "action": "Half",
+        "focus": "+0 Willpower",
+        "range": "5m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Attack",
+          "Concentration"
+        ],
+        "effects": "Psychic Bolt; Rng: 5m x PR; Dmg: 1d10+PR+WillpowerB E; Pen: 0; Special: Flame, Sanctified, Spray \n\nWhen a character is set on fire by this power, the damage he suffers from the flames counts as having the Sanctified quality.",
+        "source": "Enemies Beyond"
+      },
+      {
+        "power": "Exorcism",
+        "cost": 200,
+        "prerequisites": [
+          "Willpower 40"
+        ],
+        "action": "Full",
+        "focus": "-10 Opposed Willpower",
+        "range": "5m * PR",
+        "sustained": "Half",
+        "subtypes": [
+          "Attack",
+          "Concentration"
+        ],
+        "effects": "The psyker selects a single target character with the Daemonic trait, which opposes the power with a Willpower test. If the psyker wins the opposed test, the character suffers Willpower damage equal to the user's psy rating for each degree of success on the psyker's test.",
+        "source": "Enemies Beyond"
+      },
+      {
+        "power": "Hammerhand",
+        "cost": 300,
+        "prerequisites": [
+          "Psy Rating 3"
+        ],
+        "action": "Half",
+        "focus": "-10  Willpower",
+        "range": "5m * PR",
+        "sustained": "Free",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker selects a number of allies within range equal to his psy rating (which may include the psyker). While the power persists, the affected characters gain the Unnatural Strength (X) trait where X is equal to the user's psy rating, or increases their existing trait's value by 4. This benefit ends if a character moves out of range.",
+        "source": "Enemies Beyond"
+      },
+      {
+        "power": "Holocaust",
+        "cost": 500,
+        "prerequisites": [
+          "Psy Rating 5"
+        ],
+        "action": "Full",
+        "focus": "-20 Willpower",
+        "range": "Self",
+        "sustained": "Full",
+        "subtypes": [
+          "Attack",
+          "Concentration"
+        ],
+        "effects": "Each round the psyker sustains Holocaust, he emits a psychic blast centred on himself. He is not affected by the blast, but each turn the psyker sustains the power he suffers 1d10+PR Energy damage, ignoring armour and Toughness bonus. \n\nPsychic Blast; Rng: Self; Dmg: 1d10xPR E; Pen: 0; Special: Blast (PR), Flame, Warp Weapon",
+        "source": "Enemies Beyond"
+      },
+      {
+        "power": "Psychic Communion",
+        "cost": 100,
+        "prerequisites": [
+          "Perception 35"
+        ],
+        "action": "Full",
+        "focus": "+10 Willpower",
+        "range": "10m * PR",
+        "sustained": "Free",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker selects a number of allies up to psy rating within range. While the power persists, the psyker and his affected allies add +2 to their Initiative. This can change an already established Initiative order.",
+        "source": "Enemies Beyond"
+      },
+      {
+        "power": "Purge Soul",
+        "cost": 200,
+        "prerequisites": [
+          "Willpower 35"
+        ],
+        "action": "Half",
+        "focus": "-10  Opposed Willpower",
+        "range": "10m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Attack",
+          "Concentration"
+        ],
+        "effects": "The psyker chooses a target within range and line of sight, who opposes the power with a Willpower test. If the psyker wins the Opposed test, the target suffers 1 point of Energy damage per degree of success on the test, plus an amount equal to the target's Corruption bonus, ignoring armour and Toughness bonus.",
+        "source": "Enemies Beyond"
+      },
+      {
+        "power": "Sanctuary",
+        "cost": 400,
+        "prerequisites": [
+          "Willpower 45"
+        ],
+        "action": "Full",
+        "focus": "+0 Willpower",
+        "range": "Self",
+        "sustained": "Half",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker selects a number of allies up to psy rating (which may include the psyker) within 10 metres x psy rating. For the duration of the power, each affected character benefits from a force field with a protection rating of 5 x PR and no overload chance. In addition, Daemons must pass a Challenging (+0) Willpower test in order to move toward an affected character.",
+        "source": "Enemies Beyond"
+      },
+      {
+        "power": "Word of the Emperor",
+        "cost": 200,
+        "prerequisites": [
+          "Fellowship 30"
+        ],
+        "action": "Half",
+        "focus": "-10  Willpower",
+        "range": "10m * PR",
+        "sustained": "Half",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "Whilst the power remains in effect, whenever a character within range takes an Attack action targeting the psyker, the attacker must pass a Challenging (+0) Willpower test or suffer a -5 penalty to his attack roll for each degree of failure.",
+        "source": "Enemies Beyond"
+      }
+    ]
+  }
+}

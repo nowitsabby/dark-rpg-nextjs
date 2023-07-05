@@ -1,0 +1,86 @@
+{
+  "info": "# Force Fields",
+  "type": "ForceFields",
+  "data": [
+    {
+      "field": "Conversion Field",
+      "protectionRating": 50,
+      "weight": "1 kg",
+      "availability": "Extremely Rare",
+      "description": "If the conversion field blocks more than 12 points of damage from a single attack, the release of light is strong enough to act as a photon flash grenade burst centred on the wearer. The character wearing the conversion field is unaffected by this burst.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "field": "Displacer Field",
+      "protectionRating": 55,
+      "weight": "2 kg",
+      "availability": "Near Unique",
+      "description": "When the field successfully nullifies an attack, the user jumps in a random direction using the Scatter Diagram. Roll 3d10 for the number of metres travelled—the wearer always emerges on solid footing and in a suitable empty space. If all three dice come up with the same number (e.g., 3 results of 7), then the user does not re-emerge for 1d5 rounds and gains 1 Corruption point from exposure to the unnatural energies within the Warp. If the activation is unexpected, then the wearer cannot act for one round while he regains his sense of place",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "field": "Field Wall Generator",
+      "protectionRating": 65,
+      "weight": "18 kg",
+      "availability": "Very Rare",
+      "description": "The wall consists of two or more generators. Activating or deactivating a generator requires a Full Action, which also activates all other linked generators. A linear force field then forms between each generator, 1.5 metres high and up to 8 metres in length. The barrier acts as cover, so only parts of the body protected by the field wall gain force field protection. If a wall section overloads, then only that portion between the two generators shuts down, and any other linked sections remain unaffected.",
+      "source": "Enemies Within"
+    },
+    {
+      "field": "Flare Shield",
+      "protectionRating": 25,
+      "weight": "3kg",
+      "availability": "Extremely Rare",
+      "description": "Protection rating is doubled against weapons with the Blast or Spray qualities. If the shield overloads, it inflicts 1d10 Energy damage to the wearer that ignores Toughness bonus and Armour.",
+      "source": "Enemies Without"
+    },
+    {
+      "field": "Icon of the Just",
+      "protectionRating": 55,
+      "weight": "0.5kg",
+      "availability": "Extremely Rare",
+      "description": "Each Icon of the Just also contains holy wards that repel Warpspawn. Opponents with the Daemonic trait suffer a -10 penalty to attack tests and Focus Power tests against the wearer.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "field": "Null-Blocker",
+      "protectionRating": 70,
+      "weight": "0.5kg",
+      "availability": "Extremely Rare",
+      "description": "Null-blockers behave like any other field, except that their field ability only applies to psychic powers. When the wearer is affected directly by a psychic power, he may make his field save. If he is successful, the power has no affect on him. Of course, the field is useless against indirect attacks from psychic powers, such as dropping a large stone on the wearer from a great height using telekinetics.",
+      "source": "Ascension"
+    },
+    {
+      "field": "Power Field (Personal)",
+      "protectionRating": 80,
+      "weight": "50 kg",
+      "availability": "Near Unique",
+      "description": "A power field causes the air to visibly ripple and crackle with static discharge, imposing a -20 penalty on all Stealth tests. It also does not defend against ranged attacks made within 1 metre, or attacks in melee.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "field": "Power Field (Vehicle / Emplacement)",
+      "protectionRating": 80,
+      "weight": "500 kg",
+      "availability": "Very Rare",
+      "description": "A power field causes the air to visibly ripple and crackle with static discharge, imposing a -20 penalty on all Stealth tests. It also does not defend against ranged attacks made within 1 metre, or attacks in melee.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "field": "Refractor Field",
+      "protectionRating": 30,
+      "weight": "2 kg",
+      "availability": "Very Rare",
+      "description": "The glow of an active refractor field makes the user more noticeable in low lighting or darkness, and imposes a -20 penalty on all Stealth tests he takes",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "field": "Rosarius",
+      "protectionRating": 50,
+      "weight": "0.6 kg",
+      "availability": "Extremely Rare",
+      "description": "Allies who can draw a line of sight to a character with a rosarius gain a +10 bonus to Fear and Pinning tests; this is lost if the wearer dies or suffers any Critical damage. It is only available to Acolytes with the Adeptus Ministorum or Adepta Sororitas backgrounds, or who have taken the Inquisitor elite advance.",
+      "source": "Enemies Within"
+    }
+  ]
+}

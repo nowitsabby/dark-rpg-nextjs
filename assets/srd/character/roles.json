@@ -1,0 +1,278 @@
+{
+  "info": "# Roles",
+  "type": "Roles",
+  "data": [
+    {
+      "role": "Ace",
+      "id": "ace",
+      "bonus": {
+        "title": "Right Stuff",
+        "effect": "In addition to the normal uses of Fate points, an Ace character may spend a Fate point to automatically succeed at an Operate or Survival skill test involving vehicles or living steeds with a number of degrees of success equal to his Agility bonus."
+      },
+      "aptitudes": [
+        "Agility",
+        "Finesse",
+        "Perception",
+        "Tech",
+        "Fieldcraft"
+      ],
+      "talent": [
+        "Hard Target",
+        "Hotshot Pilot"
+      ]
+    },
+    {
+      "role": "Assassin",
+      "id": "assassin",
+      "bonus": {
+        "title": "Sure Kill",
+        "effect": "In addition to the normal uses of Fate points, when an Assassin successfully hits with an attack, he may spend a Fate point to inflict additional damage equal to his degrees of success on the attack roll on the first hit the attack inflicts."
+      },
+      "aptitudes": [
+        "Agility",
+        [
+          "Ballistic Skill",
+          "Weapon Skill"
+        ],
+        "Fieldcraft",
+        "Finesse",
+        "Perception"
+      ],
+      "talent": [
+        "Jaded",
+        "Leap Up"
+      ]
+    },
+    {
+      "role": "Chirurgeon",
+      "id": "chirurgeon",
+      "bonus": {
+        "title": "Dedicated Healer",
+        "effect": "In addition to the normal uses of Fate points, when a Chirurgeon character fails a test to provide First Aid, he can spend a Fate point to automatically succeed instead with the degrees of success equal to his Intelligence bonus."
+      },
+      "aptitudes": [
+        "Fieldcraft",
+        "Intelligence",
+        "Knowledge",
+        "Strength",
+        "Toughness"
+      ],
+      "talent": [
+        "Resistance ({X})",
+        "Takedown"
+      ]
+    },
+    {
+      "role": "Crusader",
+      "id": "crusader",
+      "bonus": {
+        "title": "Smite the Unholy",
+        "effect": "In addition to the normal uses of Fate points, a Crusader character can also spend a Fate Point to automatically pass a Fear test with a number of degrees of success equal to his Willpower bonus. In addition, whenever he inflicts a hit with a melee attack against a target with the Fear (X) trait, he inflicts X additional damage and counts his weapon’s penetration as being X higher."
+      },
+      "aptitudes": [
+        "Knowledge",
+        "Offence",
+        "Strength",
+        "Toughness",
+        "Willpower"
+      ],
+      "talent": [
+        "Bodyguard",
+        "Deny the Witch"
+      ]
+    },
+    {
+      "role": "Desperado",
+      "id": "desperado",
+      "bonus": {
+        "title": "Move and Shoot",
+        "effect": "Once per round, after performing a Move action, a Desperado character may perform a single Standard Attack with a Pistol weapon he is currently wielding as a Free Action."
+      },
+      "aptitudes": [
+        "Agility",
+        "Ballistic Skill",
+        "Defence",
+        "Fellowship",
+        "Finesse"
+      ],
+      "talent": [
+        "Catfall",
+        "Quick Draw"
+      ]
+    },
+    {
+      "role": "Fanatic",
+      "id": "fanatic",
+      "bonus": {
+        "title": "Death to All Who Oppose Me!",
+        "effect": "In addition to the normal uses of Fate points, a Fanatic character may spend a Fate point to count as having the Hatred talent against his current foe for the duration of the encounter. Should he choose to leave combat against a Hated foe in that encounter, however, he gains 1 Insanity point."
+      },
+      "aptitudes": [
+        "Leadership",
+        "Offence",
+        "Toughness",
+        "Weapon Skill",
+        "Willpower"
+      ],
+      "talent": [
+        "Deny the Witch",
+        "Jaded"
+      ]
+    },
+    {
+      "role": "Hierophant",
+      "id": "hierophant",
+      "bonus": {
+        "title": "Sway the Masses",
+        "effect": "In addition to the normal uses of Fate points, a Hierophant character may spend a Fate point to automatically succeed at a Charm, Command, or Intimidate skill test with a number of degrees of success equal to his Willpower bonus."
+      },
+      "aptitudes": [
+        "Fellowship",
+        "Offence",
+        "Social",
+        "Toughness",
+        "Willpower"
+      ],
+      "talent": [
+        "Double Team",
+        "Hatred ({X})"
+      ]
+    },
+    {
+      "role": "Killer",
+      "id": "killer",
+      "bonus": {
+        "title": "Cold Killer",
+        "effect": "When a Killer inflicts Righteous Fury on a target, they may choose to reroll the Crit Result. The second result stands. "
+      },
+      "aptitudes": [
+        "Strength",
+        [
+          "Ballistic Skill",
+          "Weapon Skill"
+        ],
+        "Fieldcraft",
+        "Offence",
+        "Perception"
+      ],
+      "talent": [
+        "Quick Draw",
+        "Rapid Reload"
+      ]
+    },
+    {
+      "role": "Mystic",
+      "id": "mystic",
+      "bonus": {
+        "title": "Stare into the Warp",
+        "effect": "A Mystic character starts the game with the Psyker elite advance. It is recommended that a character who wishes to be a Mystic have a Willpower of at least 35."
+      },
+      "aptitudes": [
+        "Defence",
+        "Intelligence",
+        "Knowledge",
+        "Perception",
+        "Willpower"
+      ],
+      "talent": [
+        "Resistance (Psychic Powers)",
+        "Warp Sense"
+      ]
+    },
+    {
+      "role": "Navigator",
+      "id": "navigator",
+      "bonus": {
+        "title": "Warp Eye",
+        "effect": "The character starts the game with the Navigator elite advance."
+      },
+      "aptitudes": [
+        "Fieldcraft",
+        "Intelligence",
+        "Social",
+        "Perception",
+        "Willpower"
+      ],
+      "talent": [
+        "Deny the Witch",
+        "Warp Sense"
+      ]
+    },
+    {
+      "role": "Pentient",
+      "id": "pentient",
+      "bonus": {
+        "title": "Cleansing Pain",
+        "effect": "Whenever a Penitent character suffers 1 or more points of damage (after reductions for Toughness bonus and Armour), he gains a +10 bonus to the irst test he makes before the end of his next turn."
+      },
+      "aptitudes": [
+        "Agility",
+        "Willpower",
+        "Intelligence",
+        "Offence",
+        "Toughness"
+      ],
+      "talent": [
+        "Die Hard",
+        "Flagellant"
+      ]
+    },
+    {
+      "role": "Sage",
+      "id": "sage",
+      "bonus": {
+        "title": "Quest for Knowledge",
+        "effect": "In addition to the normal uses of Fate points, a Sage character may spend a Fate point to automatically succeed at a Logic or any Lore skill test with a number of degrees of success equal to his Intelligence bonus."
+      },
+      "aptitudes": [
+        "Intelligence",
+        "Knowledge",
+        "Perception",
+        "Tech",
+        "Willpower"
+      ],
+      "talent": [
+        "Ambidextrous",
+        "Clues from the Crowds"
+      ]
+    },
+    {
+      "role": "Seeker",
+      "id": "seeker",
+      "bonus": {
+        "title": "Nothing Escapes My Sight",
+        "effect": "In addition to the normal uses of Fate points, a Seeker character may spend a Fate point to automatically succeed at an Awareness or Inquiry skill test with a number of degrees of success equal to his Perception bonus."
+      },
+      "aptitudes": [
+        "Fellowship",
+        "Intelligence",
+        "Perception",
+        "Social",
+        "Tech"
+      ],
+      "talent": [
+        "Keen Intuition",
+        "Disarm"
+      ]
+    },
+    {
+      "role": "Warrior",
+      "id": "warrior",
+      "bonus": {
+        "title": "Expert at Violence",
+        "effect": "In addition to the normal uses of Fate points, after making a successful attack test, but before determining hits, a Warrior character may spend a Fate point to substitute his Weapon Skill (for melee) or Ballistic Skill (for ranged) bonus for the degrees of success scored on the attack test."
+      },
+      "aptitudes": [
+        "Ballistic Skill",
+        "Defence",
+        "Offence",
+        "Strength",
+        "Weapon Skill"
+      ],
+      "talent": [
+        "Iron Jaw",
+        "Rapid Reload"
+      ]
+    }
+  ]
+}

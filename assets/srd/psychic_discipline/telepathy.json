@@ -1,0 +1,155 @@
+{
+  "info": "# Telepathy - Psychic Discipline",
+  "type": "PsychicDiscipline",
+  "data": {
+    "discipline": "Telepathy",
+    "information": "Perhaps due to Astropaths being amongst the more common types of psyker, many individuals equate all psychic ability with telepathy. In fact, only certain psykers possess the talent to enter the minds of others, and even fewer the strength of will to maintain their own sanity in the face of constant exposure to others' thoughts. These powers may not inspire awe in the same way as other, less subtle, disciplines, but a skilled telepath can end a battle before a single shot is fired.",
+    "powers": [
+      {
+        "power": "Erasure",
+        "cost": 100,
+        "prerequisites": [
+          "Fellowship 40"
+        ],
+        "action": "Full",
+        "focus": "+0 Opposed Willpower",
+        "range": "5m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker chooses a single foe in range and line of sight who opposes this power with a Willpower test. If he fails, the psyker removes a memory of a recent event from the target's mind. The psyker can only remove an amount of time from the target's memory up to 10 x PR minutes, and the event removed cannot have occurred more than PR hours prior to the use of this power. The enemy is left with a gap in his memory, with no recollection of what occurred during that time.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Telepathic Link",
+        "cost": 100,
+        "prerequisites": [
+          "Willpower 35"
+        ],
+        "action": "Half",
+        "focus": "-10 Opposed Willpower",
+        "range": "20m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker chooses a person in range and line of sight who opposes this power with a Willpower test. If the target fails, the psyker can either read the person's thoughts or send him a brief mental message. \n* Thought Reading: The psyker reads the target's thoughts, with the GM determining the nature of the information gained. The more degrees of success scored on the Focus Power test, the more information is gained overall. The higher the PR of the power, the more secretive the information gained. \n* Thought Sending: The psyker causes a message to appear in the target's mind as if he has just heard it spoken aloud. The message can be no longer than 5 x PR seconds long. \n\nIf the target of this power is aware of what the psyker is trying to do, he can voluntarily fail the opposed Willpower test, counting as having rolled a 100.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Dominate",
+        "cost": 200,
+        "prerequisites": [
+          "Willpower 40"
+        ],
+        "action": "Full",
+        "focus": "+0 Opposed Willpower",
+        "range": "5m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker nominates a number targets in range and line of sight up to half his psy rating (rounded up) who oppose this power with a Willpower test. Each target that fails to resist the power must follow a simple command given by the psyker. Some example orders include “Flee,” “Fall,” or “Attack your friend.” If the command is a potentially suicidal act, each target receives a +20 to its Willpower test to Oppose the power. In all cases, the command must be achievable in a single round.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Hallucination",
+        "cost": 200,
+        "prerequisites": [
+          "Fellowship 40"
+        ],
+        "action": "Half",
+        "focus": "+0 Opposed Willpower",
+        "range": "10m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker nominates a single target in range and line of sight who opposes this power with a Willpower test. If the target fails to resist the power, it must roll on Table Hallucinogenic Effects, and immediately apply the effects. The effect rolled on the table lasts for a number of rounds equal to half the psyker's psy rating, rounded up.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Mental Fortitude",
+        "cost": 300,
+        "prerequisites": [
+          "Adamantium Faith"
+        ],
+        "action": "Half",
+        "focus": "-10 Willpower",
+        "range": "3m * PR",
+        "sustained": "Free",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "For the duration of this power, a number of allies up to the psyker's psy rating within range count as having the Adamantium Faith talent. Allies affected by this power lose its benefits as soon as they move out of range.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Psychic Shriek",
+        "cost": 300,
+        "prerequisites": [
+          "Psy Rating 3"
+        ],
+        "action": "Half",
+        "focus": "+0 Willpower",
+        "range": "10m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Attack"
+        ],
+        "effects": "Psychic Bolt; 1d10+2+2*PR X; Pen 0; Special: Concussive(1)",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Invisibility",
+        "cost": 400,
+        "prerequisites": [
+          "Agility 30",
+          "Psy Rating 4"
+        ],
+        "action": "Half",
+        "focus": "-10 Willpower",
+        "range": "10m * PR",
+        "sustained": "Free",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker nominates a single target within range and line of sight (this can be the psyker himself). For the duration of the power, the target counts having the Stealth skill at Known (rank 1), and gains a bonus to Stealth tests equal to +5 times the psyker's psy rating. Additionally, all ranged attacks made against the target suffer a penalty equal to –5 times the psyker's psy rating. If the target moves beyond the power's range, he loses this power's benefits.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Puppet Master",
+        "cost": 400,
+        "prerequisites": [
+          "Fellowship 55"
+        ],
+        "action": "Full",
+        "focus": "-10 Opposed Willpower",
+        "range": "10m * PR",
+        "sustained": "Special",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker nominates a single target in range and line of sight with total wounds no greater than 3 times the psyker's psy rating, who opposes this power with a Willpower test. If the target fails to resist the power, it is controlled by the psyker like a puppet. For the duration of the power, the psyker can divide his Actions between himself and the target. The dominated target uses its own Characteristics, but at –10 due to the crudity of the control. If at any point the psyker would make the target perform a potentially suicidal action, the target can attempt a Challenging (+0) Opposed Willpower test to try to break free of the power. Additionally, the power breaks as soon as the target moves out of range.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Terrify",
+        "cost": 400,
+        "prerequisites": [
+          "Fellowship 45"
+        ],
+        "action": "Half",
+        "focus": "-10 Opposed Willpower",
+        "range": "10m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "Slithering deep into the mind of his victim, the psyker unearths their greatest failings, greatest weaknesses, and greatest fears. Using these as tools against his opponent, the psyker can turn even the most courageous warriors into pathetic, whimpering cowards before him. The psyker nominates a single target in range and line of sight who opposes this power with a Willpower test. If the target fails to resist the power, it must roll on Table Shock, adding +10 times the psyker's psy rating to the roll in place of the normal addition for degrees of failure, and immediately apply the effects.",
+        "source": "Dark Heresy 2e"
+      }
+    ]
+  }
+}

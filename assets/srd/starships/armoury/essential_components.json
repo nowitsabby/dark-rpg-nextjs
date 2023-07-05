@@ -1,0 +1,1386 @@
+{
+  "info": "# Essential Components",
+  "type": "StarshipEssential",
+  "data": {
+    "plasmaDrives": [
+      {
+        "component": "Jovian Pattern Class 1 Drive",
+        "hulls": [
+          "Transports"
+        ],
+        "power": 35,
+        "space": 8,
+        "shipPoints": 0,
+        "special": []
+      },
+      {
+        "component": "Lathe Pattern Class 1 Drive",
+        "hulls": [
+          "Transports"
+        ],
+        "power": 40,
+        "space": 12,
+        "shipPoints": 1,
+        "special": []
+      },
+      {
+        "component": "Jovian Pattern Class 2 Drive",
+        "hulls": [
+          "Raiders",
+          "Frigates"
+        ],
+        "power": 45,
+        "space": 10,
+        "shipPoints": 0,
+        "special": []
+      },
+      {
+        "component": "Jovian Pattern Class 3 Drive",
+        "hulls": [
+          "Light Cruisers"
+        ],
+        "power": 60,
+        "space": 12,
+        "shipPoints": 0,
+        "special": []
+      },
+      {
+        "component": "Jovian Pattern Class 4 Drive",
+        "hulls": [
+          "Cruisers"
+        ],
+        "power": 75,
+        "space": 14,
+        "shipPoints": 0,
+        "special": []
+      },
+      {
+        "component": "Jovian-pattern Class 8.1 Drive",
+        "hulls": [
+          "Frigates"
+        ],
+        "power": 44,
+        "space": 11,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Reliable Construction",
+            "effect": "If this Component becomes damaged, depressurized, or suffers a Critical Hit (including a 4 or 6 result on the chart), roll 1d10. On a 4 or higher, the effect is ignored."
+          }
+        ]
+      },
+      {
+        "component": "Jovian-pattern Class 8.2 Drive",
+        "hulls": [
+          "Light Cruisers"
+        ],
+        "power": 59,
+        "space": 13,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Reliable Construction",
+            "effect": "If this Component becomes damaged, depressurized, or suffers a Critical Hit (including a 4 or 6 result on the chart), roll 1d10. On a 4 or higher, the effect is ignored."
+          }
+        ]
+      },
+      {
+        "component": "Jovian-pattern Class 8.3 Drive",
+        "hulls": [
+          "Cruisers"
+        ],
+        "power": 74,
+        "space": 15,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Reliable Construction",
+            "effect": "If this Component becomes damaged, depressurized, or suffers a Critical Hit (including a 4 or 6 result on the chart), roll 1d10. On a 4 or higher, the effect is ignored."
+          }
+        ]
+      },
+      {
+        "component": "Jovian-pattern Class 8.4 Drive",
+        "hulls": [
+          "Grand Cruisers"
+        ],
+        "power": 93,
+        "space": 20,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Reliable Construction",
+            "effect": "If this Component becomes damaged, depressurized, or suffers a Critical Hit (including a 4 or 6 result on the chart), roll 1d10. On a 4 or higher, the effect is ignored."
+          }
+        ]
+      },
+      {
+        "component": "Saturine-pattern Class 4A \"Ultra\" Drive",
+        "hulls": [
+          "Battlecruisers"
+        ],
+        "power": 90,
+        "space": 14,
+        "shipPoints": 0,
+        "special": []
+      },
+      {
+        "component": "Saturine-pattern Class 5 Drive",
+        "hulls": [
+          "Grand Cruisers"
+        ],
+        "power": 95,
+        "space": 18,
+        "shipPoints": 0,
+        "special": []
+      },
+      {
+        "component": "Mezoa-pattern Theta-7 drive",
+        "hulls": [
+          "Transports"
+        ],
+        "power": 44,
+        "space": 18,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Oversized Engines",
+            "effect": "Increase the Ship's speed by +2 and Manoeuvrability by +5 "
+          },
+          {
+            "title": "Fragile Engines",
+            "effect": "Any hits to the finely-balanced plasma drives are likely to incapacitate the entire ship. If the ship suffers a \"Thrusters Damaged\" or \"Engines Crippled\" Critical Hit, the subsequent dice roll to determine severity is always a 10."
+          }
+        ]
+      },
+      {
+        "component": "Javian-pattern \"Warcruiser\" Drive",
+        "hulls": [
+          "Light Cruisers"
+        ],
+        "power": 65,
+        "space": 14,
+        "shipPoints": 2,
+        "special": []
+      },
+      {
+        "component": "Javian-pattern \"Warcruiser\" Drive",
+        "hulls": [
+          "Cruisers"
+        ],
+        "power": 85,
+        "space": 17,
+        "shipPoints": 2,
+        "special": []
+      },
+      {
+        "component": "Segrazian \"Viperdrive\" Pirate Engine",
+        "hulls": [
+          "Raiders",
+          "Frigates"
+        ],
+        "power": 45,
+        "space": 16,
+        "shipPoints": 2,
+        "special": [
+          {
+            "title": "Oversized Engines",
+            "effect": "Increase the Ship's speed by +2 and Manoeuvrability by +5"
+          },
+          {
+            "title": "Fragile Engines",
+            "effect": "Any hits to the finely-balanced plasma drives are likely to incapacitate the entire ship. If an Engines Crippled result is rolled on the Critical Hits table always treat the engines as wrecked, as if an 8-10 had subsequently been rolled."
+          }
+        ]
+      },
+      {
+        "component": "Lathe-pattern 2a Drive",
+        "hulls": [
+          "Transports"
+        ],
+        "power": 40,
+        "space": 14,
+        "shipPoints": 2,
+        "special": [
+          {
+            "title": "Oversized Engines",
+            "effect": "Increase the starship's Manoeuvrability by +3, and Speed by +1."
+          }
+        ]
+      },
+      {
+        "component": "Lathe-pattern 2a Drive",
+        "hulls": [
+          "Raiders",
+          "Frigates"
+        ],
+        "power": 47,
+        "space": 14,
+        "shipPoints": 2,
+        "special": [
+          {
+            "title": "Oversized Engines",
+            "effect": "Increase the starship's Manoeuvrability by +3, and Speed by +1."
+          }
+        ]
+      },
+      {
+        "component": "Station Genatorium",
+        "hulls": [
+          "Space Stations"
+        ],
+        "power": 50,
+        "space": 12,
+        "shipPoints": 0,
+        "special": []
+      }
+    ],
+    "warpEngines": [
+      {
+        "component": "Strelov 1 Warp Engine",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -10,
+        "space": 10,
+        "shipPoints": 0,
+        "special": []
+      },
+      {
+        "component": "Strelov 2 Warp Engine",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -12,
+        "space": 12,
+        "shipPoints": 0,
+        "special": []
+      },
+      {
+        "component": "Miloslav G-616.b Warp Engine",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -8,
+        "space": 10,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Haste of the Damned",
+            "effect": "Reduce the duration of all warp passages by half. However, roll on the Warp Travel Encounters table every three days rather than every five days."
+          }
+        ]
+      },
+      {
+        "component": "Miloslav H-616.b Warp Engine",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -10,
+        "space": 12,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Haste of the Damned",
+            "effect": "Reduce the duration of all warp passages by half. However, roll on the Warp Travel Encounters table every three days rather than every five days."
+          }
+        ]
+      },
+      {
+        "component": "Markov 1 Warp Engine",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -12,
+        "space": 12,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Overcharged",
+            "effect": "Reduce the base travel time for a journey through the Immaterium by 1d5 weeks. It may be further modified by the results of the Navigation (Warp) Test."
+          }
+        ]
+      },
+      {
+        "component": "Markov 2 Warp Engine",
+        "hulls": [
+          "Light Cruisers"
+        ],
+        "power": -13,
+        "space": 13,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Overcharged",
+            "effect": "Reduce the base travel time for a journey through the Immaterium by 1d10 days. It may be further modified by the results of the Navigation (Warp) Test."
+          }
+        ]
+      },
+      {
+        "component": "Albanov 1 Warp Engine",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -10,
+        "space": 11,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Ride the Shallows",
+            "effect": "Double the base travel time for a journey through the Immaterium. It may be further modified by the results of the Navigation (Warp) Test."
+          },
+          {
+            "title": "Steady as She Goes",
+            "effect": "Add a +20 bonus, cumulative with any applicable bonus for Assessing Warp Conditions, to any tests made on *Table: Warp Travel Encounters.*"
+          },
+          {
+            "title": "Quiet Entrance",
+            "effect": "When leaving the warp, the vessel has ample time to accurately position itself. Any tests the Navigator makes to fix the exit point gain a +10 bonus."
+          }
+        ]
+      },
+      {
+        "component": "Klenova class M Warp Engine",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -10,
+        "space": 10,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Mysteries of the Warp",
+            "effect": "The design intent was for these ships to travel without a Navigator. Adopting one of these warp engines is sure to bring the wrath of the Navis Nobilite upon a Rogue Trader. These vessels can only ride the currents of the warp to follow a \"Calculated Jump\". Multiple redundant cogitation systems aid in finding safe passage. However, the systems required for a Navigator to interface with the Warp Engine are not present. No warp assessment is possible, so the dangers of the Immaterium are increased. When using this system, the vessel must make a daily test on *Table: Warp Travel Encounters*"
+          },
+          {
+            "title": "Static System",
+            "effect": "The Klenova Warp Engine is not compatible with a Navigator's Powers or any Components or other systems that modify warp travel."
+          }
+        ]
+      }
+    ],
+    "gellerFields": [
+      {
+        "component": "Geller Field",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -1,
+        "space": 0,
+        "shipPoints": 0,
+        "special": []
+      },
+      {
+        "component": "Warpsbane Hull",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -1,
+        "space": 0,
+        "shipPoints": 2,
+        "special": [
+          {
+            "title": "Shield of Faith",
+            "effect": "The entire hull of the vessel is covered with silver, hand-inscribed hexagramic wards. These reinforce a Geller Field projected from a 50 metre statue of an Imperial Saint, located just fore of the bridge. Any Navigation Tests to pilot the ship through the warp gain a +10 bonus. When rolling on Table Warp Travel Encounters, the GM rolls twice and allows the Navigator to chose which result is applied."
+          }
+        ]
+      },
+      {
+        "component": "Belecane-pattern 90.r Gellar Field",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -1,
+        "space": 0,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Tainted Field",
+            "effect": "Any Navigation Tests to pilot the ship through the warp gain a +10 bonus. However, subtract -20 from the result of any rolls made on the Warp Travel Encounters table to reflect the increased risk of warp incident using this type of Gellar field."
+          }
+        ]
+      },
+      {
+        "component": "Emergency Field",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -2,
+        "space": 0,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Auto-Engagement Routines",
+            "effect": "If the ship unexpectedly enters the warp, roll 1d10. On a 3 or higher, the Gellar Field activates automatically, protecting the ship from any warp intrusion that may have taken place."
+          }
+        ]
+      },
+      {
+        "component": "Mezoa Geller Void Integrant",
+        "hulls": [
+          "Transports",
+          "Raiders"
+        ],
+        "power": 0,
+        "space": 0,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Poorly Tuned",
+            "effect": "Because the system serves double duty, it is less effective as a Geller Field. The vessel suffers a +5 penalty to all rolls on  *Table: Warp Travel Encounters*."
+          },
+          {
+            "title": "Dependent Systems",
+            "effect": "If the vessel's void shield is damaged by a Critical Hit, the Geller Field is damaged as well."
+          }
+        ]
+      }
+    ],
+    "voidShields": [
+      {
+        "component": "Single Void Shield Array",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -5,
+        "space": 1,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Void Shield Array",
+            "effect": "Provides 1 Void Shield."
+          }
+        ]
+      },
+      {
+        "component": "Multiple Void Shield Array",
+        "hulls": [
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -7,
+        "space": 2,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Void Shield Array",
+            "effect": "Provides 2 Void Shields."
+          }
+        ]
+      },
+      {
+        "component": "Triple Void Shield Array",
+        "hulls": [
+          "Grand Cruisers",
+          "Space Stations"
+        ],
+        "power": -9,
+        "space": 3,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Void Shield Array",
+            "effect": "Provides 3 Void Shields."
+          }
+        ]
+      },
+      {
+        "component": "Voss \"Glimmer\"-pattern Single Void Shield Array",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -3,
+        "space": 1,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Void Shield Array",
+            "effect": "Provides 1 Void Shield."
+          },
+          {
+            "title": "Flickering Void Shield",
+            "effect": "When this Void Shield cancels a hit from any source, roll 1d10. On a 3 or lower the Void Shield suffers a localized overload and does not cancel the hit."
+          }
+        ]
+      },
+      {
+        "component": "Voss \"Glimmer\"-pattern Multiple Void Shield Array",
+        "hulls": [
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -5,
+        "space": 2,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Void Shield Array",
+            "effect": "Provides 2 Void Shields."
+          },
+          {
+            "title": "Flickering Void Shield",
+            "effect": "When this Void Shield cancels a hit from any source, roll 1d10. On a 3 or lower the Void Shield suffers a localized overload and does not cancel the hit."
+          }
+        ]
+      },
+      {
+        "component": "Repulsor Shield",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -6,
+        "space": 1,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Void Shield Array",
+            "effect": "Provides 1 Void Shield."
+          },
+          {
+            "title": "Charged Particle Repulsion Effect",
+            "effect": "The ship does not suffer penalties to Manoeuvre Actions when travelling through nebulas, ice rings, plasma clouds or other celestial phenomena consisting primarily of small particles."
+          }
+        ]
+      },
+      {
+        "component": "Repulsor Shield Array",
+        "hulls": [
+          "Cruisers"
+        ],
+        "power": -8,
+        "space": 1,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Void Shield Array",
+            "effect": "Provides 2 Void Shields."
+          },
+          {
+            "title": "Charged Particle Repulsion Effect",
+            "effect": "The ship does not suffer penalties to Manoeuvre Actions when travelling through nebulas, ice rings, plasma clouds or other celestial phenomena consisting primarily of small particles."
+          }
+        ]
+      }
+    ],
+    "bridges": [
+      {
+        "component": "Combat Bridge",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -1,
+        "space": 1,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Damage Control Station",
+            "effect": "As long as the bridge remains undamaged, all Tests to repair the ship gain +10."
+          }
+        ]
+      },
+      {
+        "component": "Combat Bridge",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -2,
+        "space": 2,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Damage Control Station",
+            "effect": "As long as the bridge remains undamaged, all Tests to repair the ship gain +10."
+          }
+        ]
+      },
+      {
+        "component": "Stationmaster's Bridge",
+        "hulls": [
+          "Space Stations"
+        ],
+        "power": -3,
+        "space": 3,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Damage Control Station",
+            "effect": "As long as the bridge remains undamaged, all Tests to repair the ship gain +10."
+          }
+        ]
+      },
+      {
+        "component": "Smuggler's Bridge",
+        "hulls": [
+          "Transports"
+        ],
+        "power": -1,
+        "space": 1,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Shady Business",
+            "effect": "When working towards a Criminal objective, the Explorers earn an additional 50 Achievement points towards completing that objective."
+          }
+        ]
+      },
+      {
+        "component": "Command Bridge",
+        "hulls": [
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -2,
+        "space": 1,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Enhanced Cogitator Relays",
+            "effect": "As long as the bridge remains undamaged, all Command Tests made by the captain gain +5 and all Ballistic Skill Tests to fire shipboard weapons gain +5. If this Component ever suffers a Critical Hit, it becomes unpowered on a 1d10 roll of 3 or higher."
+          }
+        ]
+      },
+      {
+        "component": "Command Bridge",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -3,
+        "space": 2,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Enhanced Cogitator Relays",
+            "effect": "As long as the bridge remains undamaged, all Command Tests made by the captain gain +5 and all Ballistic Skill Tests to fire shipboard weapons gain +5. If this Component ever suffers a Critical Hit, it becomes unpowered on a 1d10 roll of 3 or higher."
+          }
+        ]
+      },
+      {
+        "component": "Commerce Bridge",
+        "hulls": [
+          "Transports"
+        ],
+        "power": -1,
+        "space": 1,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Organised",
+            "effect": "When working towards a Trade objective, the Explorers earn an additional 50 Achievement Points towards completing that objective."
+          }
+        ]
+      },
+      {
+        "component": "Armoured Command Bridge",
+        "hulls": [
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -2,
+        "space": 2,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Reinforced Armour",
+            "effect": "If this Component takes a Critical Hit or becomes damaged or unpowered, roll 1d10. On a 4 or higher, the component is unharmed."
+          },
+          {
+            "title": "Enhanced Cogitator Relays",
+            "effect": "As long as the bridge remains undamaged, all Command Tests made by the captain gain +5 and all Ballistic Skill Tests to fire shipboard weapons gain +5. If this Component ever suffers a Critical Hit, it becomes unpowered on a 1d10 roll of 3 or higher."
+          }
+        ]
+      },
+      {
+        "component": "Armoured Command Bridge",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -3,
+        "space": 2,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Reinforced Armour",
+            "effect": "If this Component takes a Critical Hit or becomes damaged or unpowered, roll 1d10. On a 4 or higher, the component is unharmed."
+          },
+          {
+            "title": "Enhanced Cogitator Relays",
+            "effect": "As long as the bridge remains undamaged, all Command Tests made by the captain gain +5 and all Ballistic Skill Tests to fire shipboard weapons gain +5. If this Component ever suffers a Critical Hit, it becomes unpowered on a 1d10 roll of 3 or higher."
+          }
+        ]
+      },
+      {
+        "component": "Ship Master's Bridge",
+        "hulls": [
+          "Cruisers"
+        ],
+        "power": -4,
+        "space": 3,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Master Plotting Table",
+            "effect": "All Operate and Navigation tests by crew on the Bridge gain +5. "
+          },
+          {
+            "title": "Improved Fire Direction",
+            "effect": "All Ballistic Skill Tests to fire shipboard weapons gain +10."
+          }
+        ]
+      },
+      {
+        "component": "Fleet Flag Bridge",
+        "hulls": [
+          "Battlecruisers",
+          "Grand Cruisers"
+        ],
+        "power": -4,
+        "space": 4,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Fleet Command",
+            "effect": "As long as the bridge remained undamaged, all Command Tests made by the ship's commanding officers (any officer on the bridge) gain +10. In addition, any Operate and Navigation Tests made by this vessel or an allied vessel within 30 VUs gain +5."
+          }
+        ]
+      },
+      {
+        "component": "Flight Command Bridge",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -2,
+        "space": 2,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Flight Command",
+            "effect": "As long as the bridge remains undamaged, all Command Tests dealing with attack craft gain +5, and tests to ready new squadrons are automatically passed. "
+          },
+          {
+            "title": "Flight Control",
+            "effect": "All Trade objectives involving ground to orbit or small craft operations gain +25 Achievement Points."
+          }
+        ]
+      },
+      {
+        "component": "Invasion Bridge",
+        "hulls": [
+          "Cruisers"
+        ],
+        "power": -4,
+        "space": 3,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Improved Bombardment Directions",
+            "effect": "All Ballistic Skills Tests against planetary based targets gain a +10 bonus. Additionally, ground-based forces in vox communication with a ship equipped with an Invasion Bridge count as being equipped with a Multicompass"
+          }
+        ]
+      },
+      {
+        "component": "Exploration Bridge",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -4,
+        "space": 1,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Long Range Scanning",
+            "effect": "This ship gains +5 Detection when using Active Augury. "
+          },
+          {
+            "title": "Navigation Records",
+            "effect": "When working towards an Exploration objective, the players earn an additional 50 Endeavour Points."
+          }
+        ]
+      },
+      {
+        "component": "Exploration Bridge",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -4,
+        "space": 2,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Long Range Scanning",
+            "effect": "This ship gains +5 Detection when using Active Augury. "
+          },
+          {
+            "title": "Navigation Records",
+            "effect": "When working towards an Exploration objective, the players earn an additional 50 Endeavour Points."
+          }
+        ]
+      }
+    ],
+    "lifeSustainers": [
+      {
+        "component": "M-1.r Life Sustainer",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -3,
+        "space": 1,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Stale Air",
+            "effect": "Increase all Morale loss by 1."
+          }
+        ]
+      },
+      {
+        "component": "M-1.r Life Sustainer",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -4,
+        "space": 2,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Stale Air",
+            "effect": "Increase all Morale loss by 1."
+          }
+        ]
+      },
+      {
+        "component": "Vitae Pattern Life Sustainer",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -4,
+        "space": 2,
+        "shipPoints": 0,
+        "special": []
+      },
+      {
+        "component": "Vitae Pattern Life Sustainer",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -5,
+        "space": 3,
+        "shipPoints": 0,
+        "special": []
+      },
+      {
+        "component": "Clemency-pattern Life sustainer",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -4,
+        "space": 4,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Lifeline",
+            "effect": "Increase Morale permanently by +1. This starship reduces Crew Population and Morale losses due to Depressurization by 4, to a minimum of 0."
+          }
+        ]
+      },
+      {
+        "component": "Clemency-pattern Life sustainer",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -5,
+        "space": 5,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Lifeline",
+            "effect": "Increase Morale permanently by +1. This starship reduces Crew Population and Morale losses due to Depressurization by 4, to a minimum of 0."
+          }
+        ]
+      },
+      {
+        "component": "Euphoric Life Sustainer",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -4,
+        "space": 2,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Soothing Balm",
+            "effect": "While the euphoric functions are activated, increase Morale by 10, but the ship's Crew Rating drops by one level (e.g. 30 to 20)."
+          },
+          {
+            "title": "Withdrawal",
+            "effect": "If the euphoric functions are deactivated, the crew requires a day to sober up. Until this time has passed, decrease Morale by 10."
+          },
+          {
+            "title": "Lay Down and Rest",
+            "effect": "If a vessel running the euphoric functions is the victim of a Hit and Run action, the attacker suffers a -10 penalty to his Command Test, unless the boarders are equipped with air filtration systems."
+          }
+        ]
+      },
+      {
+        "component": "Euphoric Life Sustainer",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -5,
+        "space": 3,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Soothing Balm",
+            "effect": "While the euphoric functions are activated, increase Morale by 10, but the ship's Crew Rating drops by one level (e.g. 30 to 20)."
+          },
+          {
+            "title": "Withdrawal",
+            "effect": "If the euphoric functions are deactivated, the crew requires a day to sober up. Until this time has passed, decrease Morale by 10."
+          },
+          {
+            "title": "Lay Down and Rest",
+            "effect": "If a vessel running the euphoric functions is the victim of a Hit and Run action, the attacker suffers a -10 penalty to his Command Test, unless the boarders are equipped with air filtration systems."
+          }
+        ]
+      }
+    ],
+    "crewQuarter": [
+      {
+        "component": "Pressed-crew Quarters",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -1,
+        "space": 2,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Cramped",
+            "effect": "Decrease Morale permanently by 2."
+          }
+        ]
+      },
+      {
+        "component": "Pressed-crew Quarters",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -2,
+        "space": 3,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Cramped",
+            "effect": "Decrease Morale permanently by 2."
+          }
+        ]
+      },
+      {
+        "component": "Voidsmen Quarters",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -1,
+        "space": 3,
+        "shipPoints": 0,
+        "special": []
+      },
+      {
+        "component": "Voidsmen Quarters",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -2,
+        "space": 4,
+        "shipPoints": 0,
+        "special": []
+      },
+      {
+        "component": "Bilge-Rat Quarters",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -1,
+        "space": 2,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Living in Squalor",
+            "effect": "Reduce Morale permanently by 3. However, reduce all Crew Population losses due to depressurisation by 2, to a minimum of 0."
+          }
+        ]
+      },
+      {
+        "component": "Bilge-Rat Quarters",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -2,
+        "space": 3,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Living in Squalor",
+            "effect": "Reduce Morale permanently by 3. However, reduce all Crew Population losses due to depressurisation by 2, to a minimum of 0."
+          }
+        ]
+      },
+      {
+        "component": "Clan-kin Quarters",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -1,
+        "space": 4,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "For Hearth and Home!",
+            "effect": "All Command Tests to defend against boarding and hit and run actions gain +5. In addition, all sources of Morale loss are reduced by 1, to a minimum of 1."
+          }
+        ]
+      },
+      {
+        "component": "Clan-kin Quarters",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -2,
+        "space": 5,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "For Hearth and Home!",
+            "effect": "All Command Tests to defend against boarding and hit and run actions gain +5. In addition, all sources of Morale loss are reduced by 1, to a minimum of 1."
+          }
+        ]
+      },
+      {
+        "component": "Cold Quarters",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -3,
+        "space": 4,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Manpower Reserves",
+            "effect": "Once per game session, the ship's captain may choose to reduce one source of Crew Population loss to zero."
+          }
+        ]
+      },
+      {
+        "component": "Cold Quarters",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -4,
+        "space": 5,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "Manpower Reserves",
+            "effect": "Once per game session, the ship's captain may choose to reduce one source of Crew Population loss to zero."
+          }
+        ]
+      },
+      {
+        "component": "Slave Quarters",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates"
+        ],
+        "power": -1,
+        "space": 1,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Dangerously Cramped",
+            "effect": "A vessel using these quarters decreases Morale permanently by 5."
+          }
+        ]
+      },
+      {
+        "component": "Slave Quarters",
+        "hulls": [
+          "Light Cruisers",
+          "Cruisers"
+        ],
+        "power": -1,
+        "space": 2,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "Dangerously Cramped",
+            "effect": "A vessel using these quarters decreases Morale permanently by 5."
+          }
+        ]
+      }
+    ],
+    "augurArrays": [
+      {
+        "component": "M-100 Auger Array",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -3,
+        "space": 0,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "External",
+            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+          }
+        ]
+      },
+      {
+        "component": "M-201.b Auger Array",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -5,
+        "space": 0,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "External",
+            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit. "
+          },
+          {
+            "title": "Sensitive",
+            "effect": "Increased power draw provides a +5 bonus to the ship's Detection."
+          }
+        ]
+      },
+      {
+        "component": "R-50 Auspex Multi-band",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -4,
+        "space": 0,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "External",
+            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit. "
+          },
+          {
+            "title": "Stellar Detection",
+            "effect": "Mapping protocols provide a +5 bonus to Manoeuvre Tests to avoid celestial phenomena, but subtracts -2 from the ship's Detection. "
+          },
+          {
+            "title": "Long Distance Scan",
+            "effect": "When working toward an Exploration objective, the players earn an additional 50 Achievement Points toward completing that objective."
+          }
+        ]
+      },
+      {
+        "component": "Deep Void Auger Array",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -7,
+        "space": 0,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "External",
+            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+          },
+          {
+            "title": "Eye of the Omnissiah",
+            "effect": "The exceptional sensitivity of the array grants +10 to the ship's Detection."
+          }
+        ]
+      },
+      {
+        "component": "BG-15 Assault Scanners",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -5,
+        "space": 0,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "External",
+            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or Damaged by a Critical hit. "
+          },
+          {
+            "title": "Incoming!",
+            "effect": "All Ballistic Skills Tests against planetary based targets gain a +5 bonus. "
+          },
+          {
+            "title": "Mark Your Targets",
+            "effect": "When working towards a Military objective, the players earn an additional 50 Achievement Points towards completing that objective."
+          }
+        ]
+      },
+      {
+        "component": "X-470 Ultimo Array",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -6,
+        "space": 0,
+        "shipPoints": 0,
+        "special": [
+          {
+            "title": "External",
+            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit. "
+          },
+          {
+            "title": "Active Scanning",
+            "effect": "The broad array of systems grants +10 to the ship's Detection, and a +15 to detect vessels on Silent Running when using Active Augury. "
+          },
+          {
+            "title": "Signal Beacon",
+            "effect": "Due to the intense energy signature of the array, vessels targeting a ship equipped with this component gain +5 to all Ballistic Skill Tests to fire their weapons."
+          }
+        ]
+      },
+      {
+        "component": "W-240 Passive Detection Arrays",
+        "hulls": [
+          "Transports",
+          "Raiders",
+          "Frigates",
+          "Light Cruisers",
+          "Cruisers",
+          "Space Stations"
+        ],
+        "power": -3,
+        "space": 0,
+        "shipPoints": 1,
+        "special": [
+          {
+            "title": "External",
+            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+          },
+          {
+            "title": "No Broadcasting",
+            "effect": "When on \"Silent Running\" this vessel may perform any Detection actions without penalty."
+          }
+        ]
+      }
+    ]
+  }
+}

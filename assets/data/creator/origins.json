@@ -1,0 +1,2095 @@
+[
+  {
+    "name": "Feral World",
+    "builds":
+    [
+      {
+        "build": "Rangy",
+        "height":
+        {
+          "min": 1.8,
+          "max": 1.9
+        },
+        "weight":
+        {
+          "min": 60,
+          "max": 65
+        }
+      },
+      {
+        "build": "Lean",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 55,
+          "max": 60
+        }
+      },
+      {
+        "build": "Muscular",
+        "height":
+        {
+          "min": 1.7,
+          "max": 1.85
+        },
+        "weight":
+        {
+          "min": 70,
+          "max": 85
+        }
+      },
+      {
+        "build": "Squat",
+        "height":
+        {
+          "min": 1.55,
+          "max": 1.65
+        },
+        "weight":
+        {
+          "min": 70,
+          "max": 80
+        }
+      },
+      {
+        "build": "Strapping",
+        "height":
+        {
+          "min": 2,
+          "max": 2.1
+        },
+        "weight":
+        {
+          "min": 100,
+          "max": 120
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "Warrior",
+        "base": 15,
+        "weight": 7
+      },
+      {
+        "age": "Old One",
+        "base": 25,
+        "weight": 3
+      }
+    ],
+    "skin":
+    ["Dark", "Tan", "Fair", "Ruddy", "Bronze"],
+    "hair":
+    ["Red", "Blond", "Brown", "Black", "Grey"],
+    "eyes":
+    ["Blue", "Grey", "Brown", "Green", "Yellow"],
+    "quirks":
+    ["Hairy Knuckles", "Joined Eyebrows", "Warpaint", "Huge Hands", "Filed Teeth", "Beetling Brows", "Musky Smell", "Hairy", "Ripped Ears", "Long Fingernails", "Tribal Tattooing", "Scarring", "Pierced Nose", "Cat's Eyes", "Small Head", "Thick Jaw"],
+    "superstitions":
+    [
+      "Ward of Soil: Each world protects those who honour it; applying a handful of native soil to the skin helps keep foul spirits at bay.",
+      "Unlucky Colour: The sky flashed an unnatural shade just before the tribe's greatest disaster; this colour must be shunned whenever it appears.",
+      "Hunter’s Oath: Eating food that he did not personally kill brings bad luck, and only acts of contrition can appease the angry spirits.",
+      "Thirsty Blade: The spirit of a weapon is a hungry ghost; it must taste blood every time it is drawn lest great ill befall those around it.",
+      "Spirit Shackle: All items gain a portion of their owner's soul; taking a trophy from a vanquished foe brings the victor great luck.",
+      "A Good Death: Honour comes from a glorious death, while cowardice brings only shame to the tribe. The ancestors are watching; do not disappoint them.",
+      "Power of Names: Never use the true names of friends and loved ones; the shadows are always listening and ready to use them for evil.",
+      "Lonely Dead: Never utter the true names of the dead, lest they be summoned back from the void.",
+      "Living Record: Each victory must be recorded; scarred inscriptions and tattoos ensures the Emperor can read of their mighty deeds.",
+      "Sacred Ground: Distance from the living earth upsets the natural balance; time spent not in contact with a world is ill-omened and unnatural."
+    ],
+    "mementos":
+    [
+      "Length of Braided Hair",
+      "Animal Skull",
+      "Bag of Home World Dirt",
+      "Broken Spear Tip",
+      "Leather Pouch",
+      "Collection of Dried Leaves",
+      "Carved Idol",
+      "Stone Finger Ring",
+      "Dried Umbilical Cord (yours)",
+      "Fire Stick",
+      "Fur or Skin Cloak",
+      "Stone Knife",
+      "Hide Boots",
+      "Human Skull",
+      "Leather Bracers",
+      "Bag of Ashes",
+      "Necklace of Teeth",
+      "Tallow Candle",
+      "Ceremonial Mask",
+      "Dried Frog"
+    ]
+  },
+  {
+    "name": "Forge World",
+    "builds":
+    [
+      {
+        "build": "Minimal",
+        "height":
+        {
+          "min": 1.6,
+          "max": 1.7
+        },
+        "weight":
+        {
+          "min": 50,
+          "max": 55
+        }
+      },
+      {
+        "build": "Low Nominal",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 50,
+          "max": 65
+        }
+      },
+      {
+        "build": "Optimal",
+        "height":
+        {
+          "min": 1.7,
+          "max": 1.8
+        },
+        "weight":
+        {
+          "min": 70,
+          "max": 75
+        }
+      },
+      {
+        "build": "High Nominal",
+        "height":
+        {
+          "min": 1.7,
+          "max": 1.85
+        },
+        "weight":
+        {
+          "min": 70,
+          "max": 85
+        }
+      },
+      {
+        "build": "Maximal",
+        "height":
+        {
+          "min": 1.8,
+          "max": 1.9
+        },
+        "weight":
+        {
+          "min": 90,
+          "max": 100
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "Young",
+        "base": 15,
+        "weight": 1
+      },
+      {
+        "age": "Mature",
+        "base": 25,
+        "weight": 3
+      },
+      {
+        "age": "Venerated",
+        "base": 45,
+        "weight": 1
+      }
+    ],
+    "skin":
+    ["Dark", "Tan", "Fair", "Ruddy", "Pale"],
+    "hair":
+    ["Rust", "Blond", "Brown", "Black", "None"],
+    "eyes":
+    ["Brown", "Green", "Blue", "Grey", "Lenses (Any)"],
+    "quirks":
+    ["Radiation Scar", "Large Head", "Mechanicum Tattoo", "Crooked Nose", "Metallic Smell", "Small Eyes", "Soot-stained Skin", "Acid Burns", "Missing Eyebrows", "Wheezing Speech", "Missing One Ear", "Smashed Toe", "Squinted Eyes", "Short Fingers", "Wire Grill Over Eyes", "Discoloured Fingernail"],
+    "superstitions":
+    [
+      "Native Metal: A forge's primary metal is linked to each birth there; when that alloy is encountered, it is wise to softly polish or oil it to improve probabilities.",
+      "Waste Not: There is no such thing as unneeded materials; let nothing go to waste, and always seek to reuse and refurbish lest the spirits of the item become upset.",
+      "Binary Perfection: The machine speaks in binary to show the proper path. Life should also form in pairs, and whenever possible, turn the odd into even to honour the balance.",
+      "Castigate the Flesh: The flesh must always be reminded of its inherent weakness; inflicting minor tortures and pain upon oneself brings strength to nearby machine spirits.",
+      "Purifying Heat: A forge purifies ores into refined metal; always seek out heat and steam to purify the mind and strengthen the will.",
+      "Placate the Machine-Spirit: To soothe the machine is to honour its spirit; soft humming and sub-vocal harmonics brings favour with devices.",
+      "Never to Dust: No machine should go still; always seek to utilise all moving parts on a device and activate its motive means, lest its spirit grow quiet and fade.",
+      "Tapping for Blessing: A machine spirit that is acknowledged is one that responds well to its users; slightly tapping a device twice with two fingers soothes the spirit and brings fortune.",
+      "Honour the Metal: No machine should fall forgotten; whenever a stray part or shard is found left in the dirt, raise it up and place it in a prominent spot to honour its service.",
+      "Abhor the Natural: The flesh is best serviced with machine-blessed meals; avoid food and drink that have not been properly rendered and processed."
+    ],
+    "mementos":
+    [
+      "Skull Fragment",
+      "Small Copper Disk",
+      "Vial of Sand",
+      "Snapped Lock",
+      "Plasteel Marble",
+      "Pressed Leaf",
+      "Twisted Wire",
+      "Chunk of Coal",
+      "Greasy Rod (2cm)",
+      "Tin of Ashes",
+      "Strip of Conduit Insulation",
+      "Handkerchief with Burn Hole",
+      "Boot Lace",
+      "Smudged Optic Lens",
+      "Broken Tooth (not yours)",
+      "Phial of Used Lubricant Oil",
+      "Bloodstained Kerchief",
+      "Snapped Callipers",
+      "Broken Bionic Finger",
+      "Cracked Gunsight"
+    ]
+  },
+  {
+    "name": "Highborn",
+    "builds":
+    [
+      {
+        "build": "Slender",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 60,
+          "max": 65
+        }
+      },
+      {
+        "build": "Svelte",
+        "height":
+        {
+          "min": 1.75,
+          "max": 1.85
+        },
+        "weight":
+        {
+          "min": 65,
+          "max": 70
+        }
+      },
+      {
+        "build": "Fit",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 60,
+          "max": 70
+        }
+      },
+      {
+        "build": "Well-built",
+        "height":
+        {
+          "min": 1.80,
+          "max": 1.90
+        },
+        "weight":
+        {
+          "min": 80,
+          "max": 90
+        }
+      },
+      {
+        "build": "Powerful",
+        "height":
+        {
+          "min": 1.7,
+          "max": 1.8
+        },
+        "weight":
+        {
+          "min": 90,
+          "max": 100
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "Scion",
+        "base": 20,
+        "weight": 5
+      },
+      {
+        "age": "Prime",
+        "base": 30,
+        "weight": 3
+      },
+      {
+        "age": "Authority",
+        "base": 40,
+        "weight": 2
+      }
+    ],
+    "skin":
+    ["Dark", "Tan", "Fair", "Ruddy", "Dyed (Any)"],
+    "hair":
+    ["Dyed (Any)", "Blond", "Brown", "Black", "Grey"],
+    "eyes":
+    ["Blue", "Brown", "Grey", "Green", "Lenses (Any)"],
+    "quirks":
+    ["Missing Fingertip", "Aquiline Nose", "Bright White Teeth", "Duelling Scar", "Pierced Nose", "Shiny Hair", "Aquila Tattoo", "Perfumed Odour", "Pox Marks", "Devotional Scar", "Decorative Electoo", "Quivering Fingers", "Pierced Ears", "Sinister Boil", "Sharp Cheekbones", "Slouched Gait"],
+    "superstitions":
+    [
+      "Count the Blessings: Knowledge of power is power continued; maintaining a ledger of debts and favours helps ensure power is retained and strengthened.",
+      "Each Land a Conquest: To journey to a planet is to start the process of control; the first step onto a new world must be a firm stomp, to begin its taming.",
+      "Layers of Protection: A deed pawned to another is a deed disguised; whenever possible, have others conduct your directives so they can never be traced to their source.",
+      "Arms Length: Nearness breeds contempt; always seek to keep lessers at a distance, lest they believe themselves equal.",
+      "Nothing Left Behind: Fill the belly and enforce the station; never leave an unfinished meal which could allow lessers to dine far above their lot.",
+      "Speak Strongly: None should be unaware when their betters speak; always vocalise with powerful tones to suitably impress those nearby.",
+      "Comport in Style: Proper conduct is the true test of blood; to never panic, to maintain the finest of manners, and to never embarrass the family name, are all marks of the lordly.",
+      "Beware the Poisoner: The quickest way to the heart is through the stomach; be wary of a meal from unknown sources, lest it be the last.",
+      "Trappings of Power: It is essential to display power in order to wield it properly; fine clothing, carrying batons or other devices of control, and well-styled hair should always be the goal.",
+      "Disguise Strength: Power hidden is power multiplied; always refrain from showing the full extent of capabilities to ensure there are still surprises left to use."
+    ],
+    "mementos":
+    [
+      "Brocade Coat",
+      "Metal Lho-Stick Case",
+      "Tattered Cape",
+      "Ancestral Sabre (broken)",
+      "Glassteel Disc",
+      "Necklace",
+      "Metal Flute",
+      "Book of Inspiring Words",
+      "Icon of the Emperor",
+      "Metal Coin (bent)",
+      "Antique Earring",
+      "Tattered Velvet Cloak",
+      "Impressive Hat",
+      "Incense Sticks",
+      "Old key",
+      "Shard of Stained Glass",
+      "Headband",
+      "Skull Charm",
+      "Pilgrimage Token",
+      "Vial of Blessed Water"
+    ]
+  },
+  {
+    "name": "Hive World",
+    "builds":
+    [
+      {
+        "build": "Runt",
+        "height":
+        {
+          "min": 1.55,
+          "max": 1.6
+        },
+        "weight":
+        {
+          "min": 40,
+          "max": 45
+        }
+      },
+      {
+        "build": "Scrawny",
+        "height":
+        {
+          "min": 1.6,
+          "max": 1.7
+        },
+        "weight":
+        {
+          "min": 50,
+          "max": 55
+        }
+      },
+      {
+        "build": "Wiry",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 55,
+          "max": 65
+        }
+      },
+      {
+        "build": "Lanky",
+        "height":
+        {
+          "min": 1.7,
+          "max": 1.8
+        },
+        "weight":
+        {
+          "min": 60,
+          "max": 65
+        }
+      },
+      {
+        "build": "Brawny",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 75,
+          "max": 80
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "Nipper",
+        "base": 15,
+        "weight": 3
+      },
+      {
+        "age": "Adult",
+        "base": 25,
+        "weight": 6
+      },
+      {
+        "age": "Old Timer",
+        "base": 35,
+        "weight": 1
+      }
+    ],
+    "skin":
+    ["Dark", "Tan", "Fair", "Ruddy", "Stained (Any)"],
+    "hair":
+    ["Brown", "Mousy", "Dyed (Any)", "Grey", "Black"],
+    "eyes":
+    ["Blue", "Grey", "Brown", "Green", "Lenses (Any)"],
+    "quirks":
+    ["Thin Lips", "Grimy Skin", "Painted Fingernails", "Rotten Teeth", "Faded Electoo", "Pierced Eyebrow", "Wire Mesh Along Cheek", "Hacking Cough", "Tattoo Over One Eye", "Bullet Wound Scar", "Nervous Tic", "Large Mole", "Pollution Scars", "Hump", "Small Hands", "Chemical Smell"],
+    "superstitions":
+    [
+      "Touch the Sky: To feel the sturdy metal above is to know serenity; whenever entering a new enclosure, always reach upwards to the ceiling to honour the dwelling.",
+      "Blight in Darkness: An area unlit is a dangerous area; whenever possible, leave glow-globes and torches lit and never wander from their comforting presence.",
+      "Combat Strength: Tap a melee weapon against a wall or flooring before battle, allowing it to gain a sliver of the hive's strength and power.",
+      "Comfortable Numbers: Only when surrounded with fellow hivers is the hive complete, and rooms should never be allowed to become bereft of crowded flesh.",
+      "Distrust the Strange: Familiarity breeds comfort; new places, people, or sights should be avoided as they can only bring unwelcome change.",
+      "Strengthen the Hive: Forming stray objects into pyramidal shapes bolsters the hive's spirit and brings good fortune until the next waking hour.",
+      "Fear the Silence: A hive is always filled with sound; quiet only means death is coming, and should silence descend, make noise to ward off ill-fortune.",
+      "Keep Nature at Bay: Base life should never intrude; pluck and toss stray weeds to gain luck.",
+      "Hive and Skin: Make the hive part of the flesh, and honour its spirit; always rub dust or metal shavings from the ground under fingernails to ensure luck.",
+      "Solitude is Golden: For the crowded masses, the smallest measure of privacy is priceless; seclusion should be respected and honoured."
+    ],
+    "mementos":
+    [
+      "Heavy Gloves",
+      "Jacket in Gang/Hive Colours",
+      "Deck of Cards",
+      "Wooden Dice",
+      "Spent Bullet Casing",
+      "Engraved Knife",
+      "Hipflask",
+      "Identity Card",
+      "Tattoo Kit",
+      "Chip from Hive Wall",
+      "Leather Cap",
+      "Vial of Glowing Water",
+      "Smoking Pipe",
+      "Mass of Melted Bullets",
+      "Crystalline Carving",
+      "Steel Toecap Boots",
+      "Small Length of Chain",
+      "Lucky Cog",
+      "Tube of Grease",
+      "Fancy Vest"
+    ]
+  },
+  {
+    "name": "Shrine World",
+    "builds":
+    [
+      {
+        "build": "Diminished",
+        "height":
+        {
+          "min": 1.55,
+          "max": 1.60
+        },
+        "weight":
+        {
+          "min": 40,
+          "max": 45
+        }
+      },
+      {
+        "build": "Lessened",
+        "height":
+        {
+          "min": 1.6,
+          "max": 1.7
+        },
+        "weight":
+        {
+          "min": 50,
+          "max": 55
+        }
+      },
+      {
+        "build": "Faithful",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 55,
+          "max": 65
+        }
+      },
+      {
+        "build": "Commended",
+        "height":
+        {
+          "min": 1.8,
+          "max": 1.9
+        },
+        "weight":
+        {
+          "min": 70,
+          "max": 95
+        }
+      },
+      {
+        "build": "Abundant",
+        "height":
+        {
+          "min": 1.55,
+          "max": 1.65
+        },
+        "weight":
+        {
+          "min": 75,
+          "max": 85
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "Novate",
+        "base": 20,
+        "weight": 1
+      },
+      {
+        "age": "Vital",
+        "base": 25,
+        "weight": 3
+      },
+      {
+        "age": "Elder",
+        "base": 50,
+        "weight": 1
+      }
+    ],
+    "skin":
+    ["Dark", "Tan", "Fair", "Ruddy", "Freckled"],
+    "hair":
+    ["None", "Blond", "Black", "Brown", "Russet"],
+    "eyes":
+    ["Amber", "Brown", "Grey", "Blue", "Emerald"],
+    "quirks":
+    ["Heavy Brows", "Long Nose", "Ministorum Tattoo", "Ridged Fingernails", "Crooked Teeth", "Clefted Chin", "Dry Skin", "Thick Eyebrows", "Imk-stained Fingernails", "Shrivelled Ear", "Ritual Scars", "Third Nipple", "Bloodshot Eyes", "Moudly Scent", "Winestain Birthmark", "Broad Shoulders"],
+    "superstitions":
+    [
+      "Honour the Skulls: Those who serve after death are especially favoured; always show signs of respect to all servo-skulls and honour their duty.",
+      "Endless Repose: Respect the spirits of the fallen by refraining from sudden movements or gestures; perfect stillness is perfect honour.",
+      "Suffer the Pilgrims: Only through pain can pilgrims properly appreciate the sacrifice of others; always scatter nails or sharp rocks along any pathways they would take.",
+      "Never Disturb the Dead: Those buried should be allowed their sleep; never walk over a grave or even any location where a death occurred.",
+      "Cloud Revelations: The patterns above can reveal the faith below; the colours and shapes in aerial masses of smoke indicate true faith of the next pilgrim encountered.",
+      "Challenge the Sun: Faith is stronger than nature; stare into the sun once a day until it is sufficiently cowed into submission to man's dominion.",
+      "Stone Abides: When entering a new building or habitation, press strongly against a wall to ensure it is as strong and eternal as faith.",
+      "Death in the Odds: Any group of pilgrims with an odd number of people will surely suffer a death before sundown, so ensure they are split or merged to create an even number.",
+      "Drink to the Dead: The first sip of any liquid should be spit unto the floor, as an offering to those who fell that the Imperium would survive.",
+      "Aquila Blessing: The sign of the Emperor is sacred; always return the mark of the Aquila after it is given."
+    ],
+    "mementos":
+    [
+      "Pinfeather",
+      "Burned Pilgrimage Ribbon",
+      "Fragment of Tanned Skin",
+      "Bag of Wax Scrapings",
+      "Cloth Sash",
+      "Chip of Inscribed Bone",
+      "Bag of Blessed Dirt",
+      "Small Stone Bowl",
+      "Bag of Dead Spices",
+      "Torn Page from a Prayer Scroll",
+      "Phial of Ashes",
+      "Vial of Blood",
+      "Handmade Aquila",
+      "Rat Tail",
+      "Bone Flute",
+      "Bundle of Dried Grass",
+      "Bone Ring",
+      "Chip from Fallen Servo-Skull",
+      "Fragment from Statue",
+      "Carved Animal Tooth"
+    ]
+  },
+  {
+    "name": "Voidborn",
+    "builds":
+    [
+      {
+        "build": "Skeletal",
+        "height":
+        {
+          "min": 1.7,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 50,
+          "max": 55
+        }
+      },
+      {
+        "build": "Stunted",
+        "height":
+        {
+          "min": 1.55,
+          "max": 1.65
+        },
+        "weight":
+        {
+          "min": 45,
+          "max": 55
+        }
+      },
+      {
+        "build": "Gaunt",
+        "height":
+        {
+          "min": 1.75,
+          "max": 1.8
+        },
+        "weight":
+        {
+          "min": 55,
+          "max": 60
+        }
+      },
+      {
+        "build": "Gangling",
+        "height":
+        {
+          "min": 1.85,
+          "max": 2
+        },
+        "weight":
+        {
+          "min": 70,
+          "max": 80
+        }
+      },
+      {
+        "build": "Spindly",
+        "height":
+        {
+          "min": 1.95,
+          "max": 2.1
+        },
+        "weight":
+        {
+          "min": 70,
+          "max": 75
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "Youth",
+        "base": 15,
+        "weight": 4
+      },
+      {
+        "age": "Mature",
+        "base": 20,
+        "weight": 3
+      },
+      {
+        "age": "Methuselah",
+        "base": 50,
+        "weight": 3
+      }
+    ],
+    "skin":
+    ["Porcelain", "Fair", "Bluish", "Greyish", "Milky"],
+    "hair":
+    ["Red", "Blond", "Copper", "Black", "Auburn"],
+    "eyes":
+    ["Watery Blue", "Grey", "Black", "Green", "Violet"],
+    "quirks":
+    ["Long Toes", "Fine Hair", "Long Fingers", "Tiny Ears", "Spindly Limbs", "Yellow Fingernails", "Stumpy Teeth", "Widely Spaced Eyes", "Large Head", "Curved Spine", "Hairless", "Elegant Hands", "Slightly Cross-eyed", "Webbed Toes", "Minor Limp", "Mismatched Eyes"],
+    "superstitions":
+    [
+      "Nailed Hulls: Leaving a pile of toenail clippings (the longer and more plentiful the better) at the base of a bulkhead bolsters its strength.",
+      "Haunted Decks: If the lights in an area fail three times in a shift, hold one hand over the eyes when passing through it. This allows passage without detection from the angry souls trapped within.",
+      "Welcoming Hatches: Always leave hatchways open, to ensure the vessel's spirit can move freely.",
+      "Unlucky Eclipses: Refrain from important actions whenever the vessel is in shadow.",
+      "Feared Octet: When prominent stars are sighted in an eightfold symbol, make the sign of the Aquila, lest foul spirits notice the unprotected soul.",
+      "Third Ship Omen: If a squadron comes alongside, the third vessel to pass along the viewport is destined to bring bad luck.",
+      "Rumbling Plasma: If the ship's engines roar loudly in a burst of vibration, always stomp three times on the deck as an answering reply.",
+      "Lucky Rub: If offered real meat, first rub it up and down twice against a wall or bulkhead, so the ship's luck infuses the meal.",
+      "Knocking Shells: Before loading a weapon, bounce three shells off the ceiling. If all are caught in one hand, the clip becomes lucky.",
+      "Ebon Offerings: To remove poor fortune, venture to the under-decks and throw a day's rations into the darkness. If no impact is heard, good luck is certain to return."
+    ],
+    "mementos":
+    [
+      "Bag of Salt",
+      "Ceremonial Sword (broken)",
+      "Corpse Hair Amulet",
+      "Three Quartz Marbles",
+      "Bone Dice",
+      "Wooden Beads",
+      "Indent Tags",
+      "Glow Lantern",
+      "Aquila Pendent",
+      "Squeezebox",
+      "Lodestone",
+      "Lucky Rat’s Foot",
+      "Mirror",
+      "Asteroid Fragment",
+      "Deck Plate Section",
+      "Expired Rad-Counter",
+      "Glass Lens",
+      "Bag of Seeds",
+      "Polished Coral Icon",
+      "Whittling Knife"
+    ]
+  },
+  {
+    "name": "Daemon World",
+    "builds":
+    [
+      {
+        "build": "Lesser",
+        "height":
+        {
+          "min": 1.6,
+          "max": 1.7
+        },
+        "weight":
+        {
+          "min": 50,
+          "max": 85
+        }
+      },
+      {
+        "build": "Sinuous",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 45,
+          "max": 75
+        }
+      },
+      {
+        "build": "Muscular",
+        "height":
+        {
+          "min": 1.7,
+          "max": 1.8
+        },
+        "weight":
+        {
+          "min": 65,
+          "max": 95
+        }
+      },
+      {
+        "build": "Gaunt",
+        "height":
+        {
+          "min": 1.8,
+          "max": 1.9
+        },
+        "weight":
+        {
+          "min": 55,
+          "max": 80
+        }
+      },
+      {
+        "build": "Corpulent",
+        "height":
+        {
+          "min": 1.55,
+          "max": 1.65
+        },
+        "weight":
+        {
+          "min": 70,
+          "max": 105
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "Runner",
+        "base": 16,
+        "weight": 1
+      },
+      {
+        "age": "Rock",
+        "base": 24,
+        "weight": 3
+      },
+      {
+        "age": "Saint",
+        "base": 32,
+        "weight": 1
+      }
+    ],
+    "skin":
+    ["Dark", "Tan", "Fair", "Ruddy", "Golden"],
+    "hair":
+    ["Copper", "Blond", "Black", "White", "White"],
+    "eyes":
+    ["Purple", "Blue", "Green", "Red", "Brown"],
+    "quirks":
+    ["Webbed Toes", "Extremely Stiff Posture", "Elongated Canine Teeth", "Stunningly Attractive", "Missing Eyebrows", "Thick Skin", "Hairless", "Reddish Sclera", "Aquila Branding", "Oily Hair", "Long Fingers", "Vibrant Birthmark", "Shifting Scars", "Mismatched Eye Colours", "Blinks Too Often", "Odd Odour"],
+    "superstitions":
+    [
+      "Endless Appetites: Those who enjoy excesses, be they food, drink, or base sensation, can only find themselves starving and deprived when they are without such things. Self-denial is the only true path to self-reliance.",
+      "Feel the Pain: Any who would try to understand and share the pain of others will only find that pain only multiplied.",
+      "Empathy is for the weak; the Emperor knows the pain of His subjects, and that should be enough for anyone.",
+      "Seek the Truth: The untainted truth is the foulest of poisons. Any who would insist that the truth is all should instead try to find whatever enjoyment possible, for a life filled with truth has no room for the Emperor.",
+      "Honour is All: A life structured around perfect integrity in one’s actions is a life made of brittle bricks. Do not demand honourable behaviour from anyone, or hold yourself to such standards—concentrate instead only on the end results.",
+      "Hope Pains Eternal: To long for a better future is to be forever disappointed. Forego any faith that tomorrow could be an improvement on yesterday; the only faith that matters is your faith in the Emperor.",
+      "Fall to Pride: Those who dare take pride in their accomplishments are surely seeking destruction. Always remember that self-satisfaction can only lead to arrogance, so shrug off compliments and concentrate on past failings instead.",
+      "Perfect Vision: To truly study the world around you in exacting clarity is to witness more than mortal minds can withstand. Better to merely see and not observe, and trust that the Emperor is watching over all.",
+      "Never Forget: Those who forget the past might repeat it, but those who cannot forget it are doomed to never be content with the present. Memories can only lead to pain, so let them go and apply yourself to surviving the current day.",
+      "Pressing Throngs: There are few hells worse than those that come from being surrounded by maddening crowds. Find solace in solitude instead, for in the end we are all alone save for the Emperor’s grace.",
+      "Persistent Dreams: The fantasies of sleep can make the night pass more easily, but dreams that refuse to fade away in waking hours only reinforce the horrid nature of life. Better to forget your dreams and live in the world around you."
+    ],
+    "mementos":
+    [
+      "Sealed Pot of Oily Mud",
+      "Glistening Feather",
+      "Dead Compass",
+      "Lump of Wax",
+      "Bag of Grass Clippings",
+      "Dried Piece of Meat",
+      "Chunk of Rough Glass",
+      "Faded Prayer Parchment",
+      "Remains of Burned-Out Can",
+      "Vial of Blood (not yours)",
+      "Chip of Obsidian Horn",
+      "Chewed-Up Bolter Shell",
+      "Iron Shackles (bent open)",
+      "Bag of Bone Dust",
+      "Root of Unknown Plant",
+      "Backwards-Running Chrono",
+      "Pressed Violet Flower",
+      "Chip of Voidship Hull",
+      "Rock with Claw Marks",
+      "Hand-Carved Wooden Aquila"
+    ]
+  },
+  {
+    "name": "Penal Colony",
+    "builds":
+    [
+      {
+        "build": "Chain",
+        "height":
+        {
+          "min": 1.55,
+          "max": 1.65
+        },
+        "weight":
+        {
+          "min": 40,
+          "max": 60
+        }
+      },
+      {
+        "build": "Stiletto",
+        "height":
+        {
+          "min": 1.75,
+          "max": 1.85
+        },
+        "weight":
+        {
+          "min": 60,
+          "max": 80
+        }
+      },
+      {
+        "build": "Hammer",
+        "height":
+        {
+          "min": 1.7,
+          "max": 1.8
+        },
+        "weight":
+        {
+          "min": 65,
+          "max": 90
+        }
+      },
+      {
+        "build": "Boulder",
+        "height":
+        {
+          "min": 1.6,
+          "max": 1.7
+        },
+        "weight":
+        {
+          "min": 75,
+          "max": 100
+        }
+      },
+      {
+        "build": "Stubber",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 70,
+          "max": 95
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "New Meat",
+        "base": 20,
+        "weight": 3
+      },
+      {
+        "age": "Convict",
+        "base": 30,
+        "weight": 4
+      },
+      {
+        "age": "Lifer",
+        "base": 45,
+        "weight": 3
+      }
+    ],
+    "skin":
+    ["Dark", "Tan", "Fair", "Ruddy", "Pale"],
+    "hair":
+    ["None", "Black", "Blond", "Brown", "Chestnut"],
+    "eyes":
+    ["Brown", "Green", "Dark Blue", "Hazel", "Black"],
+    "quirks":
+    ["Missing Fingertip", "Scarred Back", "Broken Nose", "Missing One Toe", "Tattoos (Gang)", "Slight Overbite", "Torn Ear", "Double Jointed", "ID Tattoo (Burnt Off)", "Hairy Knuckles", "Multiple Piercings", "Torn Fingernails", "Metal Teeth", "Tattoos (Personal)", "Shuffling Gait", "Nervous Tic"],
+    "superstitions":
+    [
+      "Code of Silence: No matter what the event, never speak of it to outsiders or warders. Despite the intentions or assurances of others, it is better to deal with transgressions against yourself or your cadre internally and through your own means.",
+      "Code of Vengeance: Every slight must be returned, no matter how small or who it was from. Anything less only invites further disrespect, and so any misconceptions concerning your strength must be corrected lest others also act against you.",
+      "Code of Blood: Family is all, be the connection arise from shared blood or shared bloodshed. Care for your kin, and your kin will care for you. Turn against your blood kin, and no one will aid you when your kin come for your blood.",
+      "Code of Forgiveness: The only way for bloodshed to end is to grant forgiveness, not out of weakness but out of pragmatism. Endless conflict profits no one, and if needed you can always strike once a back is foolishly turned to you.",
+      "Code of Protection: Take care to watch for danger, and prepare for any occurrence. With proper protection, attacks and insults can be turned away or twisted against a foe, and others will flock to your side as they see your power.",
+      "Code of Remembrance: Never forget, ever. The past is everything, and once it is lost then so are the lives and deeds of those who came before you. Thus so too will your own deeds turn to dust when you are gone if they are forgotten.",
+      "Code of Trust: The highest honour you can bestow on others is to rely on them, no matter how bad things get. They will stand with you when death or worse is on the line, and you for them—without such trust, life is worthless.",
+      "Code of Reliance: There are only two things you can count on in the end: yourself and the Emperor—and the Emperor expects you to take care of yourself, as He’s busy. Mind yourself, and let the Emperor can take care of the rest.",
+      "Code of Faith:There is more around you than prison walls and iron chains, but only those who reach out and place their fate in the Emperor’s hands will ever see this. Have faith that the Emperor acts through all things, and you will be rewarded.",
+      "Code of Discipline: The best way to survive is to always follow a strict internal regimen and rigidly control yourself no matter the madness around you. Only when you master yourself can you master others."
+    ],
+    "mementos":
+    [
+      "Bloodstained Bandana",
+      "Set of Juggling Balls",
+      "Cracked Leg Irons",
+      "Leather Cap",
+      "Glassteel Armonica Disk",
+      "Pouch of Crumbled Masonry",
+      "Metal Key",
+      "Broken Shock Maul Haft",
+      "Regicide Piece",
+      "Paintbrush",
+      "Broken Shiv",
+      "Orange Tunic (torn)",
+      "Cracked Guard’s Badge",
+      "Metal Shot Glass",
+      "Broken Tattoo Needle",
+      "Cracked Reading Lens",
+      "Lho Stick Stub",
+      "Leaky Flask",
+      "Explosive Collar Fragments",
+      "Expired Handmeal Brick"
+    ]
+  },
+  {
+    "name": "Quarantine World",
+    "builds":
+    [
+      {
+        "build": "Spiked",
+        "height":
+        {
+          "min": 1.55,
+          "max": 1.7
+        },
+        "weight":
+        {
+          "min": 45,
+          "max": 65
+        }
+      },
+      {
+        "build": "Acute",
+        "height":
+        {
+          "min": 1.6,
+          "max": 1.8
+        },
+        "weight":
+        {
+          "min": 50,
+          "max": 80
+        }
+      },
+      {
+        "build": "Shrunken",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.85
+        },
+        "weight":
+        {
+          "min": 55,
+          "max": 70
+        }
+      },
+      {
+        "build": "Prolonged",
+        "height":
+        {
+          "min": 1.7,
+          "max": 1.9
+        },
+        "weight":
+        {
+          "min": 70,
+          "max": 100
+        }
+      },
+      {
+        "build": "Stable",
+        "height":
+        {
+          "min": 1.55,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 65,
+          "max": 110
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "Clean",
+        "base": 15,
+        "weight": 1
+      },
+      {
+        "age": "Survivor",
+        "base": 25,
+        "weight": 5
+      },
+      {
+        "age": "Fossil",
+        "base": 35,
+        "weight": 4
+      }
+    ],
+    "skin":
+    ["Dark", "Tan", "Fair", "Ruddy", "Chalky"],
+    "hair":
+    ["White", "Khaki", "Dark Red", "Blond", "Black"],
+    "eyes":
+    ["Sky Blue", "Grey", "Violet", "Sea Green", "Yellow"],
+    "quirks":
+    ["Bony Elbows", "Softly Glowing Teeth", "Slightly Pointed Ears", "Rad Burns", "Rubbery Skin", "Stained Teeth", "Long Neck", "Clammy Skin", "Odd Lump", "Under Skin", "Sixth Finger (Cut Off)", "Pronounced Chin", "Prominent Forehead", "Warts (Burnt Off)", "Glistening Hair", "Protruding Ears", "Watery Eyes"],
+    "superstitions":
+    [
+      "Hold the Breath: Those who breathe first are often not breathing for long. Whenever walking into a new habroom, a ship cabin, or especially the outdoors, always hold your breath until you see others safely draw air and still live.",
+      "Walk in Footsteps: Never reveal your passage to others, for who knows what might be watching or what a wayward footfall might trigger? Ensure your feet only follow where others have stepped, especially in rough earth.",
+      "Blood to Ashes: Offer life to the dead whenever possible. A few drops of blood can suffice for a minor friend or battle comrade, while a long cut to allow for both a gout and a scar of remembrance is proper for valued friends or family.",
+      "Care for Yourself: Personal care is often overlooked, but is as essential as armour or filterplugs. Grooming might be mocked, but it detects diseases and ailments before they become necrotic, and also ensures you always leave a clean corpse.",
+      "Watch the Skies: Death commonly comes from above, be it from xenos raiders, insectoid swarms, or avian predators. Keep your eyes always scanning upwards, and be ready to defend yourself against the lethal dangers in the air.",
+      "Blink Before Seeing: True sight only comes from clear eyes, so be sure to blink at least three times whenever your vision is essential. This also wards off any biotic mites, strands of poison flora, or foul spirits that might infest your eyes.",
+      "Carry the Water: There is one thing you should always have—your own water supply. This might be a small flask, an assortment of plasteel bottles, or even a conformal tank worn on the back. Forget your water, and forget tomorrow.",
+      "Observe the Others: The greatest dangers can be those around you, even those you have trusted for years. Trust only goes so far, so always keep a close eye in case others turn traitor, become possessed by alien minds, or gain unnatural appetites.",
+      "Sanctity of the Meal: Sustenance is essential for survival, so any opportunity to safely gather and eat together should be grasped and cherished. Every meal could be your last, so give thanks to the Emperor for both food and friendship.",
+      "Paranoia is Not Enough: Anything, at any moment, could be the cause of your death. Always check your gear before travel, double-check your weaponry before combat, and triple-check your so-called allies before turning your back."
+    ],
+    "mementos":
+    [
+      "Cracked Auspex Display",
+      "Dried Seek Husk (5cm)",
+      "Pouch of Ceramic Filings",
+      "Small Glowing Rock",
+      "Part from Warning Beacon",
+      "Cube of Odd Metal (1cm)",
+      "Length of Braided Hair (yours?)",
+      "Bag of Powdery Sand",
+      "Curved Fingerbone (not yours)",
+      "Pollen-Stained Rag",
+      "Shard of Black Armour",
+      "Mechanical Eye (broken)",
+      "Used Flare Casing",
+      "Empty Food Pouch",
+      "Xenos Bone Fragment",
+      "Insect-Eaten Coat",
+      "Small Soapstone Carving",
+      "Piece of Greenish Glassteel",
+      "Filtration Plugs (clogged)",
+      "Acid-Burned Hat"
+    ]
+  },
+  {
+    "name": "Agri-World",
+    "builds":
+    [
+      {
+        "build": "Sprout",
+        "height":
+        {
+          "min": 1.6,
+          "max": 1.7
+        },
+        "weight":
+        {
+          "min": 50,
+          "max": 85
+        }
+      },
+      {
+        "build": "Weedy",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 45,
+          "max": 75
+        }
+      },
+      {
+        "build": "Oaken",
+        "height":
+        {
+          "min": 1.7,
+          "max": 1.8
+        },
+        "weight":
+        {
+          "min": 65,
+          "max": 95
+        }
+      },
+      {
+        "build": "Willowy",
+        "height":
+        {
+          "min": 1.8,
+          "max": 1.9
+        },
+        "weight":
+        {
+          "min": 55,
+          "max": 80
+        }
+      },
+      {
+        "build": "Generous",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.70
+        },
+        "weight":
+        {
+          "min": 70,
+          "max": 105
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "Seedling",
+        "base": 15,
+        "weight": 1
+      },
+      {
+        "age": "Ripe",
+        "base": 25,
+        "weight": 3
+      },
+      {
+        "age": "Deep Rooted",
+        "base": 40,
+        "weight": 1
+      }
+    ],
+    "skin":
+    ["Dark", "Tan", "Fair", "Ruddy", "Pallid"],
+    "hair":
+    ["Blond", "Ginger", "Black", "Grey", "Brown"],
+    "eyes":
+    ["Grey", "Blue", "Green", "Brown", "Red"],
+    "quirks":
+    [
+      "Bald Spot",
+      "Large Birthmark",
+      "Broken Nose",
+      "Yellowed Eyes",
+      "Crooked Teeth",
+      "Thinned Eyebrows",
+      "Smokey Odour",
+      "Torn Ear",
+      "Stooped Posture",
+      "Grass-stained Fingernails",
+      "Missing Earlobe",
+      "Hunched Shoulders",
+      "Widely Spaced Eyes",
+      "Thin Lips",
+      "Burn Scars",
+      "Hairy Ears"
+    ],
+    "superstitions":
+    [
+      "Earth to Earth: Always ensure a vessel takes a portion of the land with it when it departs, such as a lump of soil or handful of grass, to share the Emperor’s blessings from one world to the next.",
+      "Share the Pain, Share the Gain: Watering the green with red shows respect for the blessed crops that feed Mankind. Always cut one’s thumb before cutting a plant or chopping wood, or suffer poor digestion for a fortnight.",
+      "Water to Water: The waters that bind all humans and the worlds they inhabit is one. Whenever it rains, spit into a puddle or open body of water, or be thirsty the rest of the day.",
+      "Grand in the Light, Small in the Dark: When light is strongest, be of least dark so vile things cannot find any haven. Stand upright when the sun is directly overhead to lessen one’s shadow and shine brightly for the Emperor.",
+      "Strength from the Dead: Even when departed to the Emperor, the fallen should aid the living. Grind a bone from the departed and add it into the next meal.",
+      "Tread Lightly, Grow Brightly: Only through direct communion with the ground can luck grow in abundance. Honour the soil by walking barefoot on it before planting, or to ensure terrain acts favourably in battle.",
+      "Smooth Cuttings, Strong Blessings: No scything should be unimportant. Gather and bury one’s trimmed hair to promote a speedy harvest, or to smooth a comrade’s passage to the Emperor’s embrace.",
+      "Deny the Black, Embrace the Green: Patience is rewarded at night. Those who place a plucked leaf over each eye before sleeping will see crops grow faster and voyages pass more smoothly.",
+      "Close the Season, Sound the Horn: Announce every victory loudly and with pride, so the Emperor can rejoice. After the last crops are taken from a field or a hard-fought battle is won, stomp on the ground in a thunderous manner.",
+      "Connect to the Land, Taller You Stand: It behooves the tillers to know their fields. Sprinkle soil taken from the first steps onto a new land into one’s shoes, and only remove it when leaving."
+    ],
+    "mementos":
+    [
+      "Knife Handle (cracked)",
+      "Toenail (yours)",
+      "Bundle of Dried Leaves",
+      "Charcoal Stylus",
+      "Mealbrick wrapper",
+      "Pouch of Burnt Soil",
+      "Clump of Lichen",
+      "Frayed Scrap of Cloth",
+      "Rusted Coin",
+      "Dried Root (inedible)",
+      "Broken Lens",
+      "Insect in Amber",
+      "Length of Twine (10cm)",
+      "Wooden Dowel (split)",
+      "Seed Pod (empty)",
+      "Small Fossil",
+      "Pressed Leaf",
+      "Vial of Native Rainwater",
+      "Bloodstained Bandana",
+      "Small Pebble"
+    ]
+  },
+  {
+    "name": "Feudal World",
+    "builds":
+    [
+      {
+        "build": "Measly",
+        "height":
+        {
+          "min": 1.55,
+          "max": 1.65
+        },
+        "weight":
+        {
+          "min": 40,
+          "max": 60
+        }
+      },
+      {
+        "build": "Lank",
+        "height":
+        {
+          "min": 1.75,
+          "max": 1.85
+        },
+        "weight":
+        {
+          "min": 60,
+          "max": 80
+        }
+      },
+      {
+        "build": "Stalwart",
+        "height":
+        {
+          "min": 1.7,
+          "max": 1.9
+        },
+        "weight":
+        {
+          "min": 65,
+          "max": 90
+        }
+      },
+      {
+        "build": "Stout",
+        "height":
+        {
+          "min": 1.6,
+          "max": 1.7
+        },
+        "weight":
+        {
+          "min": 75,
+          "max": 100
+        }
+      },
+      {
+        "build": "Hardy",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 70,
+          "max": 95
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "Childe",
+        "base": 20,
+        "weight": 2
+      },
+      {
+        "age": "Of Age",
+        "base": 30,
+        "weight": 5
+      },
+      {
+        "age": "Hoary",
+        "base": 45,
+        "weight": 3
+      }
+    ],
+    "skin":
+    ["Dark", "Tan", "Fair", "Ruddy", "Ochre"],
+    "hair":
+    ["Golden", "Brown", "Blond", "Chestnut", "Black"],
+    "eyes":
+    ["Green", "Brown", "Hazel", "Blue", "Olive"],
+    "quirks":
+    [
+      "Wide Nose",
+      "Cracked Fingernail",
+      "Thinning Hair",
+      "Joined Eyebrows",
+      "Pierced Nose",
+      "Smashed Toe",
+      "Faded Family Tattoo",
+      "Stubby Fingers",
+      "Facial Wart",
+      "Missing Tooth",
+      "Squinting Eye",
+      "Earthy Smell",
+      "Punishment Scars",
+      "Boney Hands",
+      "Chalky Skin",
+      "Slightly Crossed Eyes"
+    ],
+    "superstitions":
+    [
+      "Humbled Visitor: So as a vassal to his lord, bow when entering a house to honour the dead who dwelled within.",
+      "Impart Stewardship: All much belong to someone, for all belong to the Emperor. Whenever venturing into a forest, carve a marking to show dominion over the land.",
+      "Always Loyal: Even when no present, none should forget their obligations. Spit out the last mouthful of food as an offering to absent lords.",
+      "Honour Thy Lords: The burden of command weighs heavy, only lightening through the service of others. Invoke the Emperor’s Blessing on the ruler of each land after stepping foot onto a new domain.",
+      "Respect the Craft: To carve the bedrock of a world is to impart the grace of the Emperor on it. Knock on stonework to show respect for its mason.",
+      "Gifts for the Night: There is no greater favour than to house others, and no greater gift than to nourish those who would provide it. Food should be offered to any who would grant shelter.",
+      "Shield from Darkness: Only through the mark of the Emperor can the vile unknowables be kept at bay. Make the sign of the Aquila whenever witchcraft is invoked or spoken of.",
+      "Friends before Spirits: No vintage is more valuable than a ready blade at one’s side. Always pour for others, and only drink if there is any left after this.",
+      "Give Thanks to the Flames: For that which keeps life warm and protected, life’s blood is called for. After dousing a fire, offer three drops of blood to the ashes for the warmth it provided.",
+      "Trust Not the New: What was enough for the father is good enough for the son. Wherever possible, the weapons of the honoured forefathers should be used above all others."
+    ],
+    "mementos":
+    [
+      "Metal Bell (missing clapper)",
+      "Woolen Cap",
+      "Brightly Coloured Feather",
+      "Dried Animal Intestine (5cm)",
+      "Crossbow Shaft (cracked)",
+      "Mudstreaked Straw (5cm)",
+      "Small Animal Femur",
+      "Small Hair-stuffed Pillow",
+      "Chip of Granite",
+      "Parchment Fragment (blank)",
+      "Stone Arrowhead",
+      "Scrap of Leather",
+      "Reed Flute",
+      "Darning Needle (bent)",
+      "Torn Cloth Pouch",
+      "Shard of Armour Plate",
+      "Frayed Rope (10cm)",
+      "Bloodstained Quill",
+      "Lump of Dyed Wax",
+      "Thick Ribbon (20cm)"
+    ]
+  },
+  {
+    "name": "Frontier World",
+    "builds":
+    [
+      {
+        "build": "Meagre",
+        "height":
+        {
+          "min": 1.55,
+          "max": 1.7
+        },
+        "weight":
+        {
+          "min": 45,
+          "max": 65
+        }
+      },
+      {
+        "build": "Rangy",
+        "height":
+        {
+          "min": 1.6,
+          "max": 1.8
+        },
+        "weight":
+        {
+          "min": 60,
+          "max": 80
+        }
+      },
+      {
+        "build": "Tough",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.85
+        },
+        "weight":
+        {
+          "min": 65,
+          "max": 95
+        }
+      },
+      {
+        "build": "Robust",
+        "height":
+        {
+          "min": 1.7,
+          "max": 1.9
+        },
+        "weight":
+        {
+          "min": 70,
+          "max": 100
+        }
+      },
+      {
+        "build": "Marbled",
+        "height":
+        {
+          "min": 1.55,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 75,
+          "max": 110
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "Kid",
+        "base": 15,
+        "weight": 3
+      },
+      {
+        "age": "Primed",
+        "base": 25,
+        "weight": 5
+      },
+      {
+        "age": "Grandly",
+        "base": 45,
+        "weight": 2
+      }
+    ],
+    "skin":
+    ["Dark", "Tan", "Fair", "Ruddy", "Olive"],
+    "hair":
+    ["White", "Blond", "Henna", "Black", "Khaki"],
+    "eyes":
+    ["Brown", "Grey", "Green", "Blue", "Violet"],
+    "quirks":
+    [
+      "Weathered Skin",
+      "Hairy Arms",
+      "Cauliflower Ear",
+      "Long Fingers",
+      "Blackened Lips",
+      "Branding Scars",
+      "Mottled Skin",
+      "Large Ears",
+      "Twitching Eye",
+      "Bullet-marked Skin",
+      "Yellowed Teeth",
+      "Rope Burns",
+      "Bowlegged",
+      "Wheezing Cough",
+      "Long Eyebrows",
+      "Greasy Hair"
+    ],
+    "superstitions":
+    [
+      "Never Kill with a Dull Blade: Clean and resharpen a knife after each use, or it will turn badly in the next fight.",
+      "May Their Dead Eyes Burn: Mere death isn’t enough for the worst. Bury hated enemies face up, so they can always witness the Emperor’s eternal hatred.",
+      "Early to Bleed, Lessen Will Feed: Early light means darkness is still about. Butchering an animal before noon means the meat will spoil early.",
+      "Three on Three, Witches May Be: Evil comes in flocks, so always burn any feathers found in groups of nine.",
+      "See the Good First: None should trust a gun until it’s fired and draws blood or saves a life. Shun strangers until they show evidence of their worthiness.",
+      "From One to the Next: Let strength and courage pass on, to ensure it never dies. If a steed falls in combat, remove a tooth to make as an offering to the next steed.",
+      "Blood Proof Deal: Only through shared pain and blood can honesty grow. Mingle blood with that from a trading partner to ensure the deal is good.",
+      "Cracked Echoes, Dark Comings: A visage that is broken can never heal properly. If a mirror cracks, bury all of the pieces so it cannot reflect again.",
+      "Signed Death: Even if one’s face is hidden, let the bullets signal the marksman. Carve a nick in the first shell of each clip so an enemy knows who struck him.",
+      "Smite for the Emperor: Let the first blow drive out bad and welcome the good. When constructing a dwelling, pound a hammer into the wood once before driving in nails to invoke blessings on the house."
+    ],
+    "mementos":
+    [
+      "Belt Buckle (bent)",
+      "Leaky Waterskin",
+      "Melted Lump of Lead",
+      "Dead Dataslate",
+      "Shot Glass (cracked)",
+      "Lucky Leather Leggings",
+      "Autopistol Clip (crushed)",
+      "Imperial Hymnal",
+      "Eyepatch",
+      "Rusty Razorblade (dulled)",
+      "Bag of Gravel",
+      "Bullet on a Necklace",
+      "Widebrimmed Hat",
+      "Autogun Trigger",
+      "Pouch of Grass Clippings",
+      "Strip of Grox Hide",
+      "Bottle (broken)",
+      "Faded Ship’s Manifest",
+      "Sour-smelling Cork",
+      "Large Seashell Button"
+    ]
+  },
+  {
+    "name": "Death World",
+    "builds":
+    [
+      {
+        "build": "Longpole",
+        "height":
+        {
+          "min": 1.75,
+          "max": 1.9
+        },
+        "weight":
+        {
+          "min": 55,
+          "max": 80
+        }
+      },
+      {
+        "build": "Tough",
+        "height":
+        {
+          "min": 1.55,
+          "max": 1.85
+        },
+        "weight":
+        {
+          "min": 60,
+          "max": 90
+        }
+      },
+      {
+        "build": "Muscle",
+        "height":
+        {
+          "min": 1.7,
+          "max": 1.8
+        },
+        "weight":
+        {
+          "min": 65,
+          "max": 95
+        }
+      },
+      {
+        "build": "Dagger",
+        "height":
+        {
+          "min": 1.5,
+          "max": 1.6
+        },
+        "weight":
+        {
+          "min": 50,
+          "max": 60
+        }
+      },
+      {
+        "build": "Bastion",
+        "height":
+        {
+          "min": 1.85,
+          "max": 2
+        },
+        "weight":
+        {
+          "min": 75,
+          "max": 115
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "Green",
+        "base": 15,
+        "weight": 2
+      },
+      {
+        "age": "Lucky",
+        "base": 20,
+        "weight": 2
+      },
+      {
+        "age": "Immortal",
+        "base": 30,
+        "weight": 1
+      }
+    ],
+    "skin":
+    ["Dark", "Tan", "Fair", "Pallid", "Olive"],
+    "hair":
+    ["Black", "Blond", "Brown", "Chestnut", "Coppery"],
+    "eyes":
+    ["Brown", "Cobalt", "Black", "Green", "Amber"],
+    "quirks":
+    [
+      "Impressive Scars",
+      "Pockmarked Skin",
+      "Thick Fingernails",
+      "Front Teeth Missing",
+      "Large Hands",
+      "Cracking Joints",
+      "Ripped Nostril",
+      "Bent Fingertip",
+      "Nervous Twitch",
+      "Missing Eyebrow",
+      "Rough Skin",
+      "Hoarse Voice",
+      "Acid Burns",
+      "Broken Nose",
+      "Thick Eyebrows",
+      "Swampy Odour"
+    ],
+    "superstitions":
+    [
+      "Softly into the Dark: Your end should be a personal matter. When death approaches, strive to find a place of isolation and privacy where you can settle your duty to the Emperor.",
+      "Gain from Death: Each end is an opportunity to learn ways to prevent future endings. Whenever death occurs seek to gain as much information as the cause, either from nature or combat, to ensure it does not follow that way again.",
+      "At Peace with the End: No matter how you lived your life or what brought you here, it all ends the same way. Given this, face your end with serenity and grace, knowing that your real duty to the Emperor is only beginning.",
+      "Scars for the Emperor: Judgement is based on scars, not on words. Ensure every victory (but also every failure) is proudly and clearly marked, so the Emperor can properly judge your life when it ends.",
+      "Rail Against the Night: Death can only represent the end of your duty, and duty to the Emperor should never be allowed to end. Fight death to the utmost, with everything method possible, for every loss is one less fighter for Mankind.",
+      "Go Not Alone: The only thing worse than dying would be dying alone. Never leave a friend who is facing the final moments—instead offer support and courage until the end, no matter what dangers you might face yourself.",
+      "A Blaze of Glory: Anyone can die, but only the best can die in the midst of extraordinary accomplishment or after completing a fantastic feat. Ensure the Emperor sees your final action by making it as exceptional as possible.",
+      "The More Dead, the More Worthy: There is only one important thing about dying, and that is how many of your foes you take with you. The higher the mound of slain enemies around you, the more the Emperor values your end.",
+      "Create the Legend: Each death should become a heroic story that becomes tales of wonder, to grow with each telling around firepits at night. Strive for an end that can be made into epic myth, as legend inspires better than mere fact.",
+      "When the Emperor Calls: Death can come at any moment, so any attempt to prepare for it is futile—even thinking about the end is a waste of precious time. Live for the moment, for only the Emperor can know when you are needed."
+    ],
+    "mementos":
+    [
+      "Crumpled ID Tag (not yours)",
+      "Bloodstained Rag",
+      "Section of Reptilian Hide (10cm)",
+      "Fragment of Skull Bone (yours?)",
+      "Dried Plant Tentacle (5cm)",
+      "Metallic Eggshell Fragments",
+      "Beast Snare Hook (bent)",
+      "Xenos Femur",
+      "Tooth-marked Bolter Shell",
+      "Length of Braided Vine (10cm)",
+      "Chunk of Volcanic Rock",
+      "Bionic Hand (melted)",
+      "Wristband of Human Teeth",
+      "Bandana",
+      "Bag of Slightly Acidic Soil",
+      "Heavy Steel-toed Boot",
+      "Chipped Carnivore Tooth",
+      "Chip of Chewed Stone",
+      "Insectoid Leg Segment (5cm)",
+      "Worn Leather Vest"
+    ]
+  },
+  {
+    "name": "Garden World",
+    "builds":
+    [
+      {
+        "build": "Flowering",
+        "height":
+        {
+          "min": 1.6,
+          "max": 1.8
+        },
+        "weight":
+        {
+          "min": 55,
+          "max": 90
+        }
+      },
+      {
+        "build": "Vine",
+        "height":
+        {
+          "min": 1.8,
+          "max": 1.95
+        },
+        "weight":
+        {
+          "min": 65,
+          "max": 80
+        }
+      },
+      {
+        "build": "Pastoral",
+        "height":
+        {
+          "min": 1.65,
+          "max": 1.75
+        },
+        "weight":
+        {
+          "min": 60,
+          "max": 85
+        }
+      },
+      {
+        "build": "Mountain",
+        "height":
+        {
+          "min": 1.75,
+          "max": 2
+        },
+        "weight":
+        {
+          "min": 75,
+          "max": 110
+        }
+      },
+      {
+        "build": "Zephyr",
+        "height":
+        {
+          "min": 1.5,
+          "max": 1.6
+        },
+        "weight":
+        {
+          "min": 50,
+          "max": 70
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "Attendant",
+        "base": 20,
+        "weight": 1
+      },
+      {
+        "age": "Docent",
+        "base": 30,
+        "weight": 2
+      },
+      {
+        "age": "Exemplar",
+        "base": 40,
+        "weight": 2
+      }
+    ],
+    "skin":
+    ["Dark", "Tan", "Pale", "Ruddy", "Bronzed"],
+    "hair":
+    ["Khaki", "Brown", "White", "Black", "Aubrun"],
+    "eyes":
+    ["Olive", "Sapphire", "Gold", "Green", "Teal"],
+    "quirks":
+    [
+      "Perfect Complexion",
+      "Long Nose",
+      "Vibrant Tattoo",
+      "Extra Toe",
+      "Watery Eyes",
+      "Streaked Hair",
+      "Poorly Removed Tattoo",
+      "Wispy Hair",
+      "Pierced Cheek",
+      "Calloused Feet",
+      "No Body Hair",
+      "Hidden Piercing",
+      "Slightly Pointed Ears",
+      "Glistening Teeth",
+      "Pleasant Smell",
+      "Tiny Feet"
+    ],
+    "superstitions":
+    [
+      "Answers Come From Within: While your home planet is wondrous indeed, its nature is only a distraction. Only though introspection and contemplation can the soul find its true place in the Emperor’s Plan.",
+      "Embrace the Wild: Nature contains red secrets that cannot be found anywhere else, from the ways of bloodthirsty predators to those of devious prey. Observe from the creatures around you, and learn new ways to thrive.",
+      "Every World a Garden: No matter its outward nature, any location can achieve the Emperor’s Grace if enough believe it to be worthy. Always encourage natives to seek perfection in their own settings and thus create their own gardens.",
+      "Serenity of the Green: Take inspiration from the calm and peaceful native flora of your world. Keeping an even countenance no matter what terrors come your way will ensure all goes as smoothly as your nature.",
+      "Honour the Wounded: Many of the Emperor’s servants came to your world to recuperate in mind and body, and you grew up knowing of their bravery. Always show proper respect to those who openly display their wounds and scars.",
+      "Tend the Garden: No natural setting can sustain itself without proper support. Wherever you go, strive to improve your settings and leave them better than when you arrived, from retrieving discarded bolter shells to replanting burnt flora.",
+      "Perfection in Everything: Life surrounded with immaculate nature has taught you that perfection can be found everywhere and in all things. Examine your surroundings and you will always find wonders that display the Emperor’s Hand.",
+      "Welcome the Stranger: Your world saw continuous visitors, all of whom left some part of their own culture and grace after they departed. Always embrace newcomers as ways to discover more of the Imperium and its peoples.",
+      "Beauty is All: Your world and its natives are epitomes of physical perfection, and you grew knowing this the most crucial element in life. No matter your circumstances, ensure your form and your surroundings are always flawless.",
+      "Breathe in the Air: The only way to embrace a new world is to embrace its atmosphere. No matter how unpleasant it might be for non-natives, take at least one full breath before leaving to honour your setting and those who live there."
+    ],
+    "mementos":
+    [
+      "Length of Silk Ribbon (10cm)",
+      "Pouch of Fine Black Sand",
+      "Multicoloured Flower (pressed)",
+      "Shard of Aquila Lander Footpad",
+      "Leather Slipper",
+      "Piece of Burnt Firelog",
+      "Vial of Native Water",
+      "String from Family Lyre",
+      "Small Animal Paw (preserved)",
+      "Length of Braided Hair (yours)",
+      "Fragment of Xenos Material",
+      "Bag of Bound Twigs",
+      "Chunk of Honeycomb",
+      "Small Polished Stone",
+      "Thin Fabric Cloak",
+      "Phial of Tree Sap",
+      "Bamboo Fife",
+      "Paintbrush",
+      "Rock with Odd Markings",
+      "Long Iridescent Feather"
+    ]
+  },
+  {
+    "name": "Research Station",
+    "builds":
+    [
+      {
+        "build": "Pulse",
+        "height":
+        {
+          "min": 1.5,
+          "max": 1.55
+        },
+        "weight":
+        {
+          "min": 55,
+          "max": 60
+        }
+      },
+      {
+        "build": "Spike",
+        "height":
+        {
+          "min": 1.75,
+          "max": 1.9
+        },
+        "weight":
+        {
+          "min": 65,
+          "max": 75
+        }
+      },
+      {
+        "build": "Sigma",
+        "height":
+        {
+          "min": 1.7,
+          "max": 1.8
+        },
+        "weight":
+        {
+          "min": 70,
+          "max": 95
+        }
+      },
+      {
+        "build": "Attenuated",
+        "height":
+        {
+          "min": 1.8,
+          "max": 1.95
+        },
+        "weight":
+        {
+          "min": 60,
+          "max": 70
+        }
+      },
+      {
+        "build": "Saturated",
+        "height":
+        {
+          "min": 1.85,
+          "max": 2
+        },
+        "weight":
+        {
+          "min": 75,
+          "max": 120
+        }
+      }
+    ],
+    "ages":
+    [
+      {
+        "age": "Notion",
+        "base": 15,
+        "weight": 3
+      },
+      {
+        "age": "Evidentiary",
+        "base": 30,
+        "weight": 5
+      },
+      {
+        "age": "Conviction",
+        "base": 50,
+        "weight": 2
+      }
+    ],
+    "skin":
+    ["Dark", "Tan", "Fair", "Ruddy", "Pale"],
+    "hair":
+    ["Grey", "Black", "Ginger", "Brown", "Ash-Blond"],
+    "eyes":
+    ["Red", "Grey", "Hazel", "Brown", "Blue"],
+    "quirks":
+    [
+      "Bulging Eyes",
+      "Smashed Fingernail",
+      "Scars From Ex-Tattoo",
+      "Large Ears",
+      "Oddly Shaped Mole",
+      "Hacking Cough",
+      "Ink-stained Fingernails",
+      "Radiation Burns",
+      "Hunched Posture",
+      "Prominent Chin",
+      "Unnerving Stare",
+      "Missing Toenails",
+      "Hairy Knuckles",
+      "No Eyelashes",
+      "Long Toes",
+      "Bloodshot Eyes"
+    ],
+    "superstitions":
+    [
+      "No Datum Irrelevant: None but the Omnissiah can ever know what information is actually useful or not, as all data can be necessary at some point or in some way. Never discard any data, or any other items found in the course of research.",
+      "Power is All: Without the flow of power, machinery cannot function and information cannot be gathered. Before undertaking any effort ensure power conduits are secure and cells are charged, or your quest will end before it begins.",
+      "Only the Emperor Knows: The quests for understanding can never end, but the wisest know there are some truths that Mankind will never find. To know all would place humanity above itself, and so some secrets will always remain secret.",
+      "Purity of the Data: Once collected, information must be protected above all else lest it be corrupted by tainting mockery or disbelief. Keep evidence and findings away from those who would not properly honour the blessed data.",
+      "Everything a Factor: It is not just the actual data; any aspect from ambient lighting to the colour of the parchment could be important. Whenever gathering information you should record everything, no matter how seemingly trivial.",
+      "Reward in the Ritual: Others might find glory in end results, but properly following rote liturgy of the process is the real path to truth. Carefully adhere to all rites and instructions, and the Emperor will reward your proper dedication.",
+      "Honour the Recorders: Information is only as good as the blessed mechanisms used to collect it, so it is essential to properly care for your machinery. Keep all devices pristine so their spirits are appeased and eager to operate.",
+      "Ever Vigilant: Data not recorded is data that is lost forever. There is no telling when items of importance might appear, so always be ready to react to them from recording features in ink to isolating physicalities in huge Gellar-Field tanks.",
+      "Question Not the Cause: It is not for those who gather the data to understand the goal or purpose behind the effort. Directives from those above you should be faithfully followed and trust the Emperor’s Judgement in their station.",
+      "Not Real Unless Recorded: Events that are not preserved to parchment or dataslate for the ages do not exist except in error-prone memories. Always seek to document every deed, lest it be forgotten and consigned to dust."
+    ],
+    "mementos":
+    [
+      "Tin of Scribing Ink (empty)",
+      "Scroll of Smudged Parchment",
+      "Dataslate Pouch",
+      "Lump of Melted Candle Wax",
+      "Wide-brimmed Visor",
+      "Focusing Lens (cracked)",
+      "Ribbon Used to Bind Scrolls",
+      "Autoquill Nib (dulled)",
+      "Collection of Machine Spirit Cants",
+      "Softly Glowing Rock",
+      "Toggle Switch",
+      "Fragment of Voidsuit Faceplate",
+      "Small Fossilised Creature (2cm)",
+      "Rad-Shield Glove (torn)",
+      "Length of Leaky Tubing (10cm)",
+      "Auspex Probe (broken)",
+      "Set of Small Callipers (faulty)",
+      "Thin Stick of Charcoal",
+      "Dial from Transcription Station",
+      "Section of Burnt Cable (5cm)"
+    ]
+  }
+]

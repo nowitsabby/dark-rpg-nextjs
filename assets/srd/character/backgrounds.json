@@ -1,0 +1,776 @@
+{
+  "info": "# Backgrounds",
+  "type": "Backgrounds",
+  "data": [
+    {
+      "background": "Adepta Sororitas",
+      "id": "adepta-sororitas",
+      "skills": [
+        "Athletics",
+        [
+          "Charm",
+          "Intimidate"
+        ],
+        "Common Lore (Adepta Sororitas)",
+        "Linguistics (High Gothic)",
+        [
+          "Medicae",
+          "Parry"
+        ]
+      ],
+      "talents": [
+        [
+          "Weapon Training (Flame)",
+          "Weapon Training (Las)"
+        ],
+        "Weapon Training (Chain)"
+      ],
+      "equipment": [
+        [
+          "Hand flamer",
+          "laspistol"
+        ],
+        "chainblade",
+        "armoured bodyglove",
+        "chrono",
+        "dataslate",
+        "stablight",
+        "micro-bead"
+      ],
+      "bonuses": [
+        {
+          "title": "Incorruptible Devotion",
+          "effect": "Whenever an Adepta Sororitas character would gain 1 or more Corruption Points, she gains that many Insanity Points minus 1 (to a minimum of 0) instead."
+        }
+      ],
+      "aptitude": [
+        "Social",
+        "Offence"
+      ],
+      "traits": null
+    },
+    {
+      "background": "Adeptus Administratum",
+      "id": "adeptus-administratum",
+      "skills": [
+        [
+          "Commerce",
+          "Medicae"
+        ],
+        "Common Lore (Adeptus Administratum)",
+        "Linguistics (High Gothic)",
+        "Logic",
+        "Scholastic Lore ({X})"
+      ],
+      "talents": [
+        [
+          "Weapon Training (Las)",
+          "Weapon Training (Solid Projectile)"
+        ]
+      ],
+      "equipment": [
+        [
+          "Laspistol",
+          "stub automatic"
+        ],
+        "Imperial robes",
+        "autoquill",
+        "chrono",
+        "dataslate",
+        "medi-kit"
+      ],
+      "bonuses": [
+        {
+          "title": "Master of Paperwork",
+          "effect": "An Adeptus Administratum character counts the Availability of all items as one level more available (Very Rare items count as Rare, Average items count as Common, etc.)."
+        }
+      ],
+      "aptitude": [
+        "Knowledge",
+        "Social"
+      ],
+      "traits": null
+    },
+    {
+      "background": "Adeptus Arbites",
+      "id": "adeptus-arbites",
+      "skills": [
+        "Awareness",
+        "Common Lore (Adeptus Arbites)",
+        "Common Lore (Underworld)",
+        [
+          "Inquiry",
+          "Interrogation"
+        ],
+        "Intimidate",
+        "Scrutiny"
+      ],
+      "talents": [
+        [
+          "Weapon Training (Shock)",
+          "Weapon Training (Solid Projectile)"
+        ]
+      ],
+      "equipment": [
+        [
+          "Shotgun",
+          "shock maul"
+        ],
+        [
+          "Enforcer light carapace armour",
+          "carapace chestplate"
+        ],
+        "3 doses of stimm",
+        "manacles",
+        "12 lho sticks"
+      ],
+      "bonuses": [
+        {
+          "title": "The Face of the Law",
+          "effect": "An Arbitrator can re-roll any Intimidation and Interrogation test, and can substitute his Willpower bonus for his degrees of success on these tests."
+        }
+      ],
+      "aptitude": [
+        "Offence",
+        "Defence"
+      ],
+      "traits": null
+    },
+    {
+      "background": "Adeptus Astra Telepathica",
+      "id": "adeptus-astra-telepathica",
+      "skills": [
+        "Awareness",
+        "Common Lore (Adeptus Astra Telepathica)",
+        [
+          "Deceive",
+          "Interrogation"
+        ],
+        "Forbidden Lore (the Warp)",
+        [
+          "Psyniscience",
+          "Scrutiny"
+        ]
+      ],
+      "talents": [
+        "Weapon Training (Las)",
+        "Weapon Training (Low-Tech)"
+      ],
+      "equipment": [
+        "Laspistol",
+        [
+          "staff",
+          "whip"
+        ],
+        [
+          "light flak cloak",
+          "flak vest"
+        ],
+        [
+          "micro-bead",
+          "psy focus"
+        ]
+      ],
+      "bonuses": [
+        {
+          "title": "The Constant Threat",
+          "effect": "When the character or an ally within 10 metres triggers Psychic Phenomenon, the Adeptus Astra Telepathica character can increase or decrease the result by amount equal to his Willpower bonus."
+        },
+        {
+          "title": "Tested on Terra",
+          "effect": "If the character takes the Psyker elite advance during character creation, he also gains the Sanctioned trait."
+        }
+      ],
+      "aptitude": [
+        "Psyker",
+        "Defence"
+      ],
+      "traits": null
+    },
+    {
+      "background": "Adeptus Mechanicus",
+      "id": "adeptus-mechanicus",
+      "skills": [
+        [
+          "Awareness",
+          "Operate ({X})"
+        ],
+        "Common Lore (Adeptus Mechanicus)",
+        "Logic",
+        "Security",
+        "Tech-Use"
+      ],
+      "talents": [
+        "Mechadendrite Use (Utility)",
+        "Weapon Training (Solid Projectile)"
+      ],
+      "equipment": [
+        [
+          "Autogun",
+          "hand cannon"
+        ],
+        [
+          "monotask servo-skull (utility)",
+          "optical mechadendrite"
+        ],
+        "Imperial robes",
+        "2 vials of sacred unguents"
+      ],
+      "bonuses": [
+        {
+          "title": "Tech-Wright",
+          "effect": "When making a Crafting test using Tech-Use, an Adeptus Mechanicus character gains a +20 bonus. In addition, this character has access to designs for all items in the Imperial Armoury of Availability Scarce or lower. This Increases to Very Rare if they gain a Rank in Forbidden Lore (Adeptus Mechanicus)"
+        },
+        {
+          "title": "Replace the Weak Flesh",
+          "effect": "An Adeptus Mechanicus character counts the Availability of all cybernetics as two levels more available (Rare items count as Average, Very Rare items count as Scarce, etc.)."
+        }
+      ],
+      "aptitude": [
+        "Knowledge",
+        "Tech"
+      ],
+      "traits": "Mechanicus Implants"
+    },
+    {
+      "background": "Adeptus Ministorum",
+      "id": "adeptus-ministorum",
+      "skills": [
+        "Charm",
+        "Command",
+        "Common Lore (Adeptus Ministorum)",
+        [
+          "Inquiry",
+          "Scrutiny"
+        ],
+        "Linguistics (High Gothic)"
+      ],
+      "talents": [
+        [
+          "Weapon Training (Flame)",
+          [
+            "Weapon Training (Low-Tech)",
+            "Weapon Training (Solid Projectile)"
+          ]
+        ]
+      ],
+      "equipment": [
+        [
+          "Hand flamer",
+          [
+            "Warhammer",
+            "Stub Revolver"
+          ]
+        ],
+        [
+          "Imperial robes",
+          "flak vest"
+        ],
+        "backpack",
+        "glow-globe",
+        "monotask servo-skull (laud hailer)"
+      ],
+      "bonuses": [
+        {
+          "title": "Faith is All",
+          "effect": "When spending a Fate point to gain a +10 bonus to any one test, an Adeptus Ministorum character gains a +20 bonus instead."
+        }
+      ],
+      "aptitude": [
+        "Leadership",
+        "Social"
+      ],
+      "traits": null
+    },
+    {
+      "background": "Schola Graduate",
+      "id": "schola-graduate",
+      "skills": [
+        "Command",
+        "Scholastic Lore ({X})",
+        [
+          "Charm",
+          "Deceive"
+        ],
+        [
+          "Intimidate",
+          "Scrutiny"
+        ]
+      ],
+      "talents": [
+        "Weapon Training (Low-Tech)",
+        [
+          "Air of Authority",
+          "Disturbing Voice"
+        ]
+      ],
+      "equipment": [
+        "Bastard Sword",
+        "Imperial Guard flak armour",
+        "chrono",
+        "dataslate",
+        "micro-bead"
+      ],
+      "bonuses": [
+        {
+          "title": "Inspiring Presence",
+          "effect": "When an ally within sight of the Schola Graduate uses a Fate Point, as a Free Action the Schola Graduate may make a Challenging (+0) Command Test. If they succeed the ally does not lose the fate point. The Schola Graduate may use this ability a number of times per session equal to their Fellowship Bonus"
+        }
+      ],
+      "aptitude": [
+        "Leadership",
+        "Offence"
+      ],
+      "traits": null
+    },
+    {
+      "background": "Exorcised",
+      "id": "exorcised",
+      "skills": [
+        "Awareness",
+        [
+          "Deceive",
+          "Inquiry"
+        ],
+        "Dodge",
+        "Forbidden Lore (Daemonology)",
+        [
+          "Intimidate",
+          "Scrutiny"
+        ]
+      ],
+      "talents": [
+        "Hatred (Daemons)",
+        "Weapon Training (Solid Projectile)",
+        "Weapon Training (Chain)"
+      ],
+      "equipment": [
+        [
+          "Autopistol",
+          "stub revolver"
+        ],
+        "shotgun",
+        "chainblade",
+        "Imperial robes",
+        [
+          "3 doses of obscura",
+          "3 doses of tranq"
+        ],
+        [
+          "disguise kit",
+          "excruciator kit"
+        ],
+        "rebreather",
+        [
+          "stablight",
+          "glow-globe"
+        ]
+      ],
+      "bonuses": [
+        {
+          "title": "Touched by a Daemon",
+          "effect": "An Exorcised character counts his Insanity bonus as 2 higher for purposes of avoiding Fear tests. Additionally, he can never again become possessed by the same Daemon that once possessed him."
+        },
+        {
+          "title": "Signs of Corruption",
+          "effect": "The Exorcised character begins play with one Malignancy"
+        }
+      ],
+      "aptitude": [
+        "Defence",
+        "Knowledge"
+      ],
+      "traits": null
+    },
+    {
+      "background": "Forge Labourer",
+      "id": "forge-labourer",
+      "skills": [
+        "Athletics",
+        [
+          "Common Lore (Adeptus Mechanicus)",
+          "Common Lore (Tech)"
+        ],
+        "Survival",
+        "Tech-Use"
+      ],
+      "talents": [
+        "Iron Jaw",
+        [
+          "Weapon Training (Low-Tech)",
+          "Weapon Training (Solid Projectile)"
+        ]
+      ],
+      "equipment": [
+        "Flak cloak",
+        [
+          "combi-tool",
+          "lascutter"
+        ],
+        [
+          "stub automatic",
+          "hammer"
+        ],
+        "1 vial of sacred unguents"
+      ],
+      "bonuses": [
+        {
+          "title": "Genetic Pantropy",
+          "effect": "A Forge Labourer may re-roll any Test that is the result of extreme environments, such as very hot or cold conditions, areas of low oxygen, or even toxic atmospheres. Additionally, they suffer no adverse effects in areas of slightly higher or lower gravity, and can move in them normally."
+        }
+      ],
+      "aptitude": [
+        "Fieldcraft",
+        "Tech"
+      ],
+      "traits": null
+    },
+    {
+      "background": "Heretek",
+      "id": "heretek",
+      "skills": [
+        [
+          "Deceive",
+          "Inquiry"
+        ],
+        "Forbidden Lore ({X})",
+        [
+          "Medicae",
+          "Security"
+        ],
+        "Tech-Use",
+        "Trade ({X})"
+      ],
+      "talents": [
+        "Weapon Training (Solid Projectiles)"
+      ],
+      "equipment": [
+        "Stub revolver",
+        [
+          "2 extra clips of Expander bullets",
+          "2 extra clips of Man-Stopper rounds"
+        ],
+        "1 web grenade",
+        "combi-tool",
+        "flak cloak",
+        "filtration plugs",
+        "1 dose of de-tox",
+        "dataslate",
+        "stablight"
+      ],
+      "bonuses": [
+        {
+          "title": "Master of Hidden Lores",
+          "effect": "When a Heretek makes a Tech-Use test to comprehend, use, repair, or modify an unfamiliar device, he gains a +20 bonus if he has one or more relevant Forbidden Lore skill specialisations at Rank 1 (Known) or higher."
+        },
+        {
+          "title": "Replace the Weak Flesh",
+          "effect": "A Heretek character counts the Availability of all cybernetics as two levels more available (Rare items count as Average, Very Rare items count as Scarce, etc.)."
+        }
+      ],
+      "aptitude": [
+        "Finesse",
+        "Tech"
+      ],
+      "traits": "Mechanicus Implants"
+    },
+    {
+      "background": "Imperial Guard",
+      "id": "imperial-guard",
+      "skills": [
+        "Athletics",
+        "Command",
+        "Common Lore (Imperial Guard)",
+        [
+          "Medicae",
+          "Operate (Surface)"
+        ],
+        "Navigate (Surface)"
+      ],
+      "talents": [
+        "Weapon Training (Las)",
+        "Weapon Training (Low-Tech)"
+      ],
+      "equipment": [
+        [
+          "Lasgun",
+          [
+            "laspistol",
+            "sword"
+          ]
+        ],
+        "combat vest",
+        "Imperial Guard flak armour",
+        "grapnel and line",
+        "12 lho sticks",
+        "magnoculars"
+      ],
+      "bonuses": [
+        {
+          "title": "Hammer of the Emperor",
+          "effect": "When attacking a target that an ally attacked since the end of the Guardsman’s last turn, the Guardsman can re-roll any results of 1 or 2 on damage rolls."
+        }
+      ],
+      "aptitude": [
+        "Leadership",
+        "Fieldcraft"
+      ],
+      "traits": null
+    },
+    {
+      "background": "Imperial Navy",
+      "id": "imperial-navy",
+      "skills": [
+        "Athletics",
+        [
+          "Command",
+          "Intimidate"
+        ],
+        "Common Lore (Imperial Navy)",
+        "Navigate (Stellar)",
+        [
+          "Operate (Aeronautica)",
+          "Operate (Voidship)"
+        ]
+      ],
+      "talents": [
+        [
+          "Weapon Training (Chain)",
+          "Weapon Training (Shock)"
+        ],
+        "Weapon Training (Solid Projectile)"
+      ],
+      "equipment": [
+        [
+          "Combat shotgun",
+          "hand cannon"
+        ],
+        [
+          "chainsword",
+          "shock whip"
+        ],
+        "flak coat",
+        "rebreather",
+        "micro-bead"
+      ],
+      "bonuses": [
+        {
+          "title": "Close Quarters Discipline",
+          "effect": "An Imperial Navy character scores one additional degree of success on successful Ballistic Skill tests he makes against targets at Point-Blank range, at Short range, and with whom he is engaged in melee."
+        }
+      ],
+      "aptitude": [
+        "Offence",
+        "Tech"
+      ],
+      "traits": null
+    },
+    {
+      "background": "Mutant",
+      "id": "mutant",
+      "skills": [
+        [
+          "Acrobatics",
+          "Athletics"
+        ],
+        "Awareness",
+        [
+          "Deceive",
+          "Intimidate"
+        ],
+        "Forbidden Lore (Mutants)",
+        "Survival"
+      ],
+      "talents": [
+        "Weapon Training (Low-Tech)",
+        "Weapon Training (Solid Projectile)"
+      ],
+      "equipment": [
+        [
+          "Shotgun",
+          [
+            "stub revolver",
+            "great weapon"
+          ]
+        ],
+        "grapnel and line",
+        "heavy leathers",
+        "combat vest",
+        "2 doses of stimm"
+      ],
+      "bonuses": [
+        {
+          "title": "Twisted Flesh",
+          "effect": "A Mutant character can always choose to fail any test associated with resisting malignancy or mutation. Whenever he would gain a malignancy, he may roll on Mutations to gain a mutation instead."
+        },
+        {
+          "title": "Mutation Without",
+          "effect": "A Mutant character begins play with 10 Corruption points. Instead of rolling as normal for malignancy or mutation, roll 5d10 on Mutations to determine a starting mutation for the character."
+        }
+      ],
+      "aptitude": [
+        "Fieldcraft",
+        "Offence"
+      ],
+      "traits": [
+        "Amphibious",
+        "Dark-sight",
+        "Natural Weapons",
+        "Sonar Sense",
+        "Sturdy",
+        "Toxic (1)",
+        "Unnatural Agility (1)",
+        "Unnatural Strength (1)",
+        "Unnatural Toughness (1)"
+      ]
+    },
+    {
+      "background": "Navis Nobilite",
+      "id": "navis-nobilite",
+      "skills": [
+        "Common Lore (Navis Nobilite)",
+        "Forbidden Lore (Navigators)",
+        "Forbidden Lore (Warp)",
+        [
+          "Navigation (Warp)",
+          "Commerce"
+        ],
+        "Awareness",
+        "Scholastic Lore (Astromancy)",
+        "Linguistics (High Gothic)"
+      ],
+      "talents": [
+        [
+          "Weapon Training (Las)",
+          "Weapon Training (Solid Projectile)"
+        ],
+        "Weapon Training (Low-Tech)"
+      ],
+      "equipment": [
+        "Autopistol",
+        "laspistol",
+        [
+          "staff",
+          "sword"
+        ],
+        "Imperial robes",
+        "micro-bead"
+      ],
+      "bonuses": [
+        {
+          "title": "House Prestige",
+          "effect": "A Navis Nobilite character may re-roll any Charm and Commerce Tests."
+        },
+        {
+          "title": "House Lineage",
+          "effect": "If the character takes the Navigator Elite Advance during character creation, they may either select one additional power or improve an existing power. "
+        }
+      ],
+      "aptitude": [
+        "Knowledge",
+        "Psyker"
+      ],
+      "traits": null
+    },
+    {
+      "background": "Outcast",
+      "id": "outcast",
+      "skills": [
+        [
+          "Acrobatics",
+          "Sleight of Hand"
+        ],
+        "Common Lore (Underworld)",
+        "Deceive",
+        "Dodge",
+        "Stealth"
+      ],
+      "talents": [
+        "Weapon Training (Chain)",
+        [
+          "Weapon Training (Las)",
+          "Weapon Training (Solid Projectile)"
+        ]
+      ],
+      "equipment": [
+        [
+          "Autopistol",
+          "laspistol"
+        ],
+        "chainsword",
+        [
+          "armoured bodyglove",
+          "flak vest"
+        ],
+        "injector",
+        [
+          "2 doses of obscura",
+          "2 doses of slaught"
+        ]
+      ],
+      "bonuses": [
+        {
+          "title": "Never Quit",
+          "effect": "An Outcast character counts his Toughness bonus as two higher for purposes of determining Fatigue."
+        }
+      ],
+      "aptitude": [
+        "Social",
+        "Fieldcraft"
+      ],
+      "traits": null
+    },
+    {
+      "background": "Rogue Trader Fleet",
+      "id": "rogue-trader-fleet",
+      "skills": [
+        [
+          "Charm",
+          "Scrutiny"
+        ],
+        "Commerce",
+        "Common Lore (Rogue Traders)",
+        [
+          "Linguistics (Eldar)",
+          "Linguistics (Kroot)",
+          "Linguistics (Necrontyr)",
+          "Linguistics (Ork)",
+          "Linguistics (Tau)"
+        ],
+        [
+          "Operate (Surface)",
+          "Operate (Aeronautica)"
+        ]
+      ],
+      "talents": [
+        "Weapon Training (Las)",
+        "Weapon Training (Solid Projectile)",
+        "Weapon Training (Shock)"
+      ],
+      "equipment": [
+        [
+          "Laspistol, Compact",
+          "autopistol, Compact"
+        ],
+        "shock maul",
+        [
+          "mesh cloak",
+          "carapace chestplate"
+        ],
+        "auspex",
+        "chrono"
+      ],
+      "bonuses": [
+        {
+          "title": "Inured to the Xenos",
+          "effect": "A character from a Rogue Trader Fleet gains a +10 bonus to Fear tests caused by aliens and a +20 bonus to Interaction skill tests with alien characters."
+        }
+      ],
+      "aptitude": [
+        "Finesse",
+        "Social"
+      ],
+      "traits": null
+    }
+  ]
+}

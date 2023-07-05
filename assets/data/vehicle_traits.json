@@ -1,0 +1,132 @@
+[
+  {
+    "trait": "Amphibious",
+    "id": "amphibious",
+    "description": "The vehicle has additional waterproofing, sealed fuel lines, or is just simply resistant to water. Amphibious vehicles treat bodies of water as open ground."
+  },
+  {
+    "trait": "Anti-Air (Rudimentary)",
+    "id": "anti-air-rudimentary",
+    "description": "The vehicle is sometimes used to shoot down enemy aircraft, although this is not its primary purpose. A vehicle with this Trait halves the standard penalties for ground vehicles firing at aircraft."
+  },
+  {
+    "trait": "Anti-Air (Advanced)",
+    "id": "anti-air-advanced",
+    "description": "The vehicle's primary purpose is to eliminate enemy air assets. A vehicle with this Trait ignores the standard penalties for ground vehicles firing at aircraft."
+  },
+  {
+    "trait": "Bike",
+    "id": "bike",
+    "description": "The smallest sub-type of vehicles, bikes take many different forms, from the iron steeds ridden by the Adeptus Astartes, to the nimble darts of the Eldar, right through to the smoke-belching contraptions favoured by the Orks. Bikes follow all the standard rules for vehicles and are treated as having the Open-Topped trait. However, due to their size and lower profiles, in melee characters attacking a vehicle with the Bike trait can choose between the rider and the vehicle without needing to make a Called Shot. Bikes are usually Wheeled vehicles, but can also be Skimmers or Tracked. They cannot make Ram! actions due to their light construction."
+  },
+  {
+    "trait": "Command and Control",
+    "id": "command-and-control",
+    "description": "Vehicles are often designated as a command vehicle to ensure there is a central point for all orders and instructions. This is often done via enhanced communication systems, but can be just as easily achieved with large banners, racks of trophies and totems, or burning symbols of devotion. The commander (or driver if there is no designated commander) of a vehicle with the Command and Control Vehicle Trait may use his Command Skill to affect a number of squads or units (such as a Leman Russ or Chimera), in any combination, equal to his Fellowship bonus. This effect combines with Fellowship-based Talents such as Iron Discipline, Master Orator, and the like. Any character using this equipment also gains a +10 bonus to Command Skill Tests."
+  },
+  {
+    "trait": "Daemonic Possession",
+    "id": "daemonic-possession",
+    "description": "Thanks to the bound daemonic essence that drives it, a vehicle with the Daemonic Possession trait does not require a pilot or gunners to function. Instead, the vehicle uses its own characteristics profile on all necessary tests. Essentially, a vehicle with this trait is its own pilot and gunner. This trait allows a vehicle to fire all of its weapons as a part of a single attack action as though each weapon had its own gunner. A vehicle with this trait can make melee attacks if it is armed with a melee weapon and adjacent to a viable target. In addition, a Possessed vehicle that suffers any Critical damage that results in damage to the crew ignores these effects. The vehicle itself can still suffer Critical Effects from these results, but any damage that would be inflicted upon the crew is ignored."
+  },
+  {
+    "trait": "Damage Control",
+    "id": "damage-control",
+    "description": "The vehicle possesses some limited form of self-repair. This could be an ancient machine spirit, slaved servitors, quick-growing Eldar Wraithbone, or even a team of Ork Grots scurrying across the hull hammering at loose armour plates and holding wires together. When a vehicle with the Damage Control vehicle trait suffers Critical damage due to Righteous Fury, the vehicle's commander (or driver if there is no designated commander) can force the 1d5 to be re-rolled. If a vehicle with the Damage Control trait ever catches fire, then attempting to put out that fire is a Free Action for whichever crewmember or passenger makes the attempt."
+  },
+  {
+    "trait": "Enclosed",
+    "id": "enclosed",
+    "description": "The greater majority of vehicles are completely enclosed, keeping their crew and passengers safe from the outside elements with thick armour, bulky hatchways, and heavy glassteel visors. Crew and passengers within an Enclosed vehicle cannot attack targets with their own personal weapons unless they have some way of getting outside of the vehicle, be it through a hatch, doorway, or firing slit. Within an Enclosed vehicle, crew and passengers cannot be specifically targeted by those outside the vehicle (unless there is a particularly good reason, such as a mind-based psychic attack)."
+  },
+  {
+    "trait": "Enhanced Motive Systems",
+    "id": "enhanced-motive-systems",
+    "description": "The vehicle has some way of gaining extra speed out of its engines, either via an enhanced form of promethium, ancient xeno-technology, or even a squig fuel injector. Vehicles with the Enhanced Motive Systems trait can move up to twice their Tactical Speed as a Half-Action rather than a Full Action, and can up to move three times their Tactical Speed as a Full Action. This applies to the Floor It! action as well, where vehicles with this trait move triple rather than double their Tactical Speed for the Full Action, and the Operate test for this action is treated as Ordinary (+10) rather than Difficult (-10)."
+  },
+  {
+    "trait": "Environmentally Sealed",
+    "id": "environmentally-sealed",
+    "description": "The vehicle is sealed off from the outside world completely, allowing it to function in almost any environment. It will also have its own life support system. Vehicles that become exposed due to Critical damage results lose this ability until their armour is repaired. Passengers and crew cannot fire their own personal weaponry from a vehicle with the Environmentally Sealed trait without first breaching those seals (or if they were already breached due to vehicle damage)."
+  },
+  {
+    "trait": "Extremely Volatile",
+    "id": "extremely-volatile",
+    "description": "The vehicle possesses an unstable power plant, large ammunition bays, or great quantities of explosive fuel. Extremely Volatile vehicles double their chance of exploding whenever they catch fire. When an Extremely Volatile vehicle explodes, all those caught in the blast must make a Difficult (-10) Agility test or catch fire."
+  },
+  {
+    "trait": "Flyer",
+    "id": "flyer",
+    "description": "The following rules apply to a vehicle with the Flyer vehicle trait:\n-   Flyers must move at least their Tactical Speed every turn; a flyer moving less than this descends by one level of Altitude at the start of the pilot's turn.\n-   As a general rule, a flyer can only turn 45° (instead of 90°) each time it moves its own length in distance. It can turn more than once during a given Movement action, provided it moves a sufficient distance each time.\n-   Flyers can have their Altitude changed via the Tactical Manoeuvring action, altering their Altitude by one level higher or lower. Altitudes can be increased only when using a Full Action in this way.\n-   Flyers ignore ground terrain while airborne (except in the case of mountains, hive cities, or other exceedingly tall features).\n-   Flyers that go Out of Control while airborne immediately descend by one Altitude level and turn in a three-dimensional random direction using the Scatter Diagram. This can result in a ground crash (see below).\n-   Unless it is already at ground level, a flyer that is destroyed automatically crashes (see below).\n-   Firing on an airborne flyer incurs a -20 penalty to Ballistic Skill tests on top of any other penalties. Flyers at High or Orbital Altitudes cannot be targeted by ground forces unless a weapon or user has a special ability allowing for this.\n-   A flyer that crashes for any reason is treated as a skimmer crashing from a height of 10 metres or higher."
+  },
+  {
+    "trait": "Immobile",
+    "id": "immobile",
+    "description": "Some vehicles, such as drop pods, are deployed via types of motive systems that do not operate on the ground. An Immobile vehicle cannot move under its own power, has a default Manoeuvrability Value of +0, and cannot make use of the Jink action. Immobile vehicles often have some other method of movement (such as large rocket engines to bring them in via orbital drop), and Motive Systems Critical damage applies to these methods."
+  },
+  {
+    "trait": "Improved Command And Control",
+    "id": "improved-command-and-control",
+    "description": "Vehicles that are in command of larger formations often have even greater command and control systems than low-level command vehicles. Further enhanced communication systems and scanning equipment are a good way to achieve this, but more primitive races, such as the Orks, can achieve much the same result with massive \"Shoutin' Tubes\" or even groups of Grots enthusiastically waving large banners and glyphs. The commander (or driver if there is no designated commander) of a vehicle with the Improved Command and Control Vehicle Trait may use his Command Skill to affect a number of squads or units (such as a Leman Russ or Chimera), in any combination, equal to his Fellowship bonus. This effect combines with Fellowship-based Talents such as Iron Discipline, Master Orator, and the like. Any character using this equipment also gains a +20 bonus to Command Skill Tests and may re-roll any failed Command Skill Tests. These systems are often used to coordinate the actions of large forces, up to the size of an Imperial Guard Company or Super-Heavy Tank Regiment."
+  },
+  {
+    "trait": "Open-Topped",
+    "id": "Open-Topped",
+    "description": "The vehicle's passenger or crew compartments are not sealed and are instead exposed to the open air around them. This limits their protection, but it does allow transported troops to fire their own weapons as the vehicle moves. Crew and passengers mounted on an Open-topped vehicle can be specifically targeted by those outside the vehicle via the use of the Called Shot action. Additionally, passengers mounted in Open- Topped vehicles are struck by any Blast or Spray attacks of which they are in range. Crew and passengers within an Open-topped can attack targets with their own personal weaponry."
+  },
+  {
+    "trait": "Orbital Deployment",
+    "id": "Orbital Deployment",
+    "description": "Some vehicles possess the ability to be deployed from orbit, allowing for rapid movements of troops and other vital materiel. The most famous of this type of vehicle is the Drop Pod used by the Adeptus Astartes, but there are a number of other vehicle types that are capable of orbital insertion, including Ork Roks, which are little more than hollowed out asteroids hurled at a planet in vast numbers in the hope that some will survive the impact! A vehicle with the Orbital Deployment Vehicle Trait can choose a location on the battlefield to land rather than moving to that location like other vehicles. After choosing a location, the vehicle scatters 2d10 metres in a random direction. All shooting at a vehicle undergoing an Orbital Deployment suffers a -30 to hit whilst it is in flight. If the vehicle is capable of moving after that, it may do so during the next Round. Any weapons the vehicle possesses and any passengers that were transported by the vehicle must wait a full Round before they fire or disembark."
+  },
+  {
+    "trait": "Ponderous",
+    "id": "Ponderous",
+    "description": "Some vehicles are so massive and so bulky that their ability to move at any significant speed is greatly reduced. A Ponderous Vehicle may not use the Floor It! Action and moving its Tactical Speed requires a Full Action (therefore it can never move twice its Tactical Speed). If a vehicle has both the Ponderous Vehicle Trait and the Enhanced Motive Systems Vehicle Trait, then these two Traits cancel each other out and it may move as a regular vehicle."
+  },
+  {
+    "trait": "Ramshackle",
+    "id": "Ramshackle",
+    "description": "The vehicle's construction methods are so haphazard that it is both more fragile than regular vehicles, yet at the same time has many more redundant and jury rigged systems, making the vehicle easier to repair. When rolling Righteous Fury  against a vehicle with the Ramshackle vehicle trait, roll 1d10 rather than 1d5. The vehicle takes twice the usual damage against itself when attempting a Ram! action against another vehicle, building, or something equally solid. Repairing a vehicle with the Ramshackle vehicle trait takes half the listed time, and tests to implement these repairs gain a +20 bonus. Damaged vehicles with the Ramshackle vehicle trait are always treated as Lightly Damaged, unless they are suffering from Critical damage."
+  },
+  {
+    "trait": "Reinforced Armour",
+    "id": "Reinforced Armour",
+    "description": "The vehicle's armour and vital locations have been internally reinforced with additional layers of ceramite and adamantine. Vehicles with the Reinforced Armour vehicle trait that receive Critical damage halve the total (rounding up) and then apply the result. This ability does not affect rolls on the Vehicle Critical Effects tables caused by Righteous Fury."
+  },
+  {
+    "trait": "Rugged",
+    "id": "Rugged",
+    "description": "Robust power systems, modular armour plates, and redundant fuel systems can make a vehicle far easier to repair, saving time and resources and allowing the vehicle to be put back into the field far more quickly than other designs. All Repair tests made to repair a vehicle with the Rugged trait gain a +20 bonus."
+  },
+  {
+    "trait": "Sentry",
+    "id": "Sentry",
+    "description": "The vehicle is controlled not by a living crewman but by some form of machine spirit, logis engine or some other ancient form of technology. A vehicle with the Sentry Vehicle Trait must be set to one of two possible firing modes: Point Defence or Sentry Mode.\n\n-   Point Defence: The vehicle sits in permanent Overwatch but with a 90 degree fire arc.\n-   Sentry Mode: In Sentry Mode the vehicle has a specific area of influence (up to half the vehicle's weapon's range set by the one controlling the vehicle) and it may fire in any direction during its Turn. The vehicle rolls for Initiative as per the normal rules for initiative order.\n\nSetting and changing modes on a vehicle with the Sentry Vehicle Trait requires an Ordinary (+10) Tech-Use Test. Failure means the machine spirit has not accepted the command and its weapons automatically Jam (but no ammunition is lost). The Jams must be cleared before the Character reattempts the Test. In addition to setting/changing the vehicles mode, the Character also sets the vehicle's target priority between anti-infantry, anti-tank and anti-air (assuming it is capable of later). The GM has final say in what counts as anti-infantry and anti-tank (eg. Squiggoths, whilst not technically vehicles, could be included in anti-tank whereas Reaver Jetbikes could be categorised as infantry). The vehicle's target priority is set at the time that the vehicle's firing mode is determined."
+  },
+  {
+    "trait": "Skimmer",
+    "id": "Skimmer",
+    "description": "The following rules apply to a vehicle with the Skimmer trait:\n-   It moves roughly 2 metres above the ground at all times, in much the same way as people and creatures with the Hoverer trait, but can adjust that height slightly when moving over ground-based obstacles. Skimmers can also move to Low Altitude, as described in the rules for Flying.\n-   It ignores all forms of difficult terrain (except those deemed appropriate by the GM).\n-   It gains a +10 bonus on all tests involving Manoeuvrability.\n-   A Skimmer is not a true aircraft and therefore cannot fly at any significant altitude. Nevertheless, a sudden loss in motive power can be catastrophic as it ploughs into the ground, often at great speed. Skimmers follow special rules for Crashing.\n-   It can make use of the Ram! action, but if the Operate test is failed, it is treated as having instead Crashed into its target (see rules for Crashing).\n-   A Skimmer is often far more difficult to hit in melee combat than its ground-based counterparts, and thus all Weapon Skill tests made to attack it in melee suffer a -10 penalty.\n-   It can turn as many times as desired when moving, regardless of how far it moves."
+  },
+  {
+    "trait": "Super-Heavy",
+    "id": "Super-Heavy",
+    "description": "Enormous leviathans that dominate the battlefield, superheavy vehicles are often used to take on entire troop and tank formations by themselves, or to take on massive targets such as Titans and Ork Gargants. Heavily armed and armoured, superheavy vehicles suffer from few of the trivial problems that plague their smaller cousins. A vehicle with the Super-Heavy Trait is able to ignore penalties for moving through difficult terrain and can negotiate obstacles such as rockslides, tank traps, fallen trees, and shattered buildings without penalty. Walkers with the Super-Heavy Vehicle Trait can walk over obstacles 5 metres high, or simply bulldoze through walls, forests, or medium-sized buildings without suffering negative effects. Vehicles with the Super-Heavy Trait automatically gain the Ponderous Vehicle Trait."
+  },
+  {
+    "trait": "Tracked Vehicle",
+    "id": "Tracked Vehicle",
+    "description": "The following rules apply to a Tracked vehicle:\n-   It suffers a -10 penalty to all tests involving Manoeuvrability.\n-   Vehicles with the Tracked vehicle trait gain a +10 bonus to all tests involving difficult terrain.\n-   To represent its more robust nature, whenever a vehicle with the Tracked vehicle trait suffers Critical damage to its Motive Systems that results in the vehicle being slowed, the result of the roll to determine how much Tactical Speed is lost is halved (rounded down).\n-   The motive systems of vehicles with this trait are often more complex than simple wheeled mechanisms, and therefore repairing Critical damage to the vehicle's Motive Systems, as well as any lasting Motive System damage (such as Motive Systems Damaged, Motive Systems Crippled, etc.) takes twice as long as normal (see Repairing Vehicles)."
+  },
+  {
+    "trait": "Walker",
+    "id": "Walker",
+    "description": "The following rules apply to a vehicle with the Walker trait:\n-   It is able to ignore many types of difficult terrain due to its sure-footed and agile limbs. It treats conditions such as rockslides, tank traps, fallen trees, and basic rubble and ruins as open ground. It is up to the GM to determine what other types of terrain a walker can ignore.\n-   It cannot make use of the Ram! action, but if it has a melee weapon, it can make a Charge action (using the operator's Weapon Skill) instead.\n-   Far more combat capable than most other vehicle types, a walker (or rather its pilot) is better able to turn to face its opponents in the midst of a melee. It can turn to face its melee opponents at the end of its turn as a Free Action (this does not count as a form of movement). It should always be clear to the GM and the players which direction it is facing for the purposes of working out which armour value its opponents must attempt to penetrate, as well as which direction the walker may make its attacks.\n-   It may turn as many times as it likes when moving, regardless of how far it moved."
+  },
+  {
+    "trait": "Wheeled Vehicle",
+    "id": "Wheeled Vehicle",
+    "description": "The following rules apply to a Wheeled vehicle:\n\n-   It suffers a -20 penalty to all tests involving difficult terrain.\n-   It gains a +10 bonus to all tests involving Manoeuvrability.\n-   Wheeled Vehicles are extremely difficult to control once they suffer serious damage to their motive systems; the loss of even one wheel can make even the most experienced of drivers struggle to keep the vehicle moving in a straight line, especially in the heat of combat. Vehicles with the Wheeled Vehicle trait suffer Motive Systems Critical damage as normal, but once any such damage has been taken, all forms of movement require Operate tests, and all tests related to the vehicle's Manoeuvrability, are made at a -10 penalty.\n-   Wheeled mechanisms are generally far less complex than those belonging to tracked vehicles. Repairing Critical damage to the vehicle's Motive Systems, as well as any lasting Motive System damage (such as Motive Systems Damaged, Motive Systems Crippled, etc.) takes half as long as normal."
+  }
+]

@@ -1,0 +1,239 @@
+{
+  "info": "# Torpedoes and Attack Craft",
+  "type": "TorpedoesAttackCraft",
+  "data": {
+    "attackCraft": [
+      {
+        "craft": "Fury Interceptor",
+        "type": "Imperial",
+        "rating": 10,
+        "speed": 10,
+        "size": 20,
+        "special": [
+          {
+            "title": "Durable",
+            "effect": "When checking for Squadron losses, this squadron reduces its losses by one to a minimum of zero or gains a +5 bonus on the Upkeep Test."
+          }
+        ]
+      },
+      {
+        "craft": "Starhawk Bomber",
+        "type": "Imperial",
+        "rating": 0,
+        "speed": 6,
+        "size": 10,
+        "special": [
+          {
+            "title": "Durable",
+            "effect": "When checking for Squadron losses, this squadron reduces its losses by one to a minimum of zero or gains a +5 bonus on the Upkeep Test."
+          }
+        ]
+      },
+      {
+        "craft": "Shark Assault Boat",
+        "type": "Imperial",
+        "rating": 5,
+        "speed": 10,
+        "size": 8,
+        "special": []
+      },
+      {
+        "craft": "Swiftdeath Fighter",
+        "type": "Chaos",
+        "rating": 10,
+        "speed": 11,
+        "size": 30,
+        "special": [
+          {
+            "title": "Fragile",
+            "effect": "When checking for Squadron losses, this squadron increases its losses by one to the squadron maximum or suffers -5 penalty on the Upkeep Test."
+          }
+        ]
+      },
+      {
+        "craft": "Doomfire Bomber",
+        "type": "Chaos",
+        "rating": 0,
+        "speed": 7,
+        "size": 15,
+        "special": [
+          {
+            "title": "Fragile",
+            "effect": "When checking for Squadron losses, this squadron increases its losses by one to the squadron maximum or suffers -5 penalty on the Upkeep Test."
+          }
+        ]
+      },
+      {
+        "craft": "Dreadclaw Assault Boat",
+        "type": "Chaos",
+        "rating": 5,
+        "speed": 11,
+        "size": 15,
+        "special": []
+      },
+      {
+        "craft": "Darkstar Fighter",
+        "type": "Eldar",
+        "rating": 15,
+        "speed": 12,
+        "size": 12,
+        "special": [
+          {
+            "title": "Master Pilots",
+            "effect": "These squadrons do not suffer a penalty if their squadron is below half-strength."
+          }
+        ]
+      },
+      {
+        "craft": "Eagle Bomber",
+        "type": "Eldar",
+        "rating": 6,
+        "speed": 9,
+        "size": 6,
+        "special": [
+          {
+            "title": "Master Pilots",
+            "effect": "These squadrons do not suffer a penalty if their squadron is below half-strength."
+          }
+        ]
+      },
+      {
+        "craft": "Fighta-bommerz",
+        "type": "Ork",
+        "rating": "+8(+5)",
+        "speed": 8,
+        "size": 25,
+        "special": [
+          {
+            "title": "Multi-purpose craft",
+            "effect": "The Fighta-bomma is “designed” as both an interceptor and bomber. When used as a bomber, its Rating drops to +5."
+          }
+        ]
+      },
+      {
+        "craft": "Assault Boats",
+        "type": "Ork",
+        "rating": "+8(+5)",
+        "speed": 10,
+        "size": 15,
+        "special": []
+      }
+    ],
+    "torpedoes": {
+      "warheads": [
+        {
+          "warhead": "Plasma",
+          "availability": "Rare",
+          "speed": 10,
+          "damage": "2d10+14",
+          "crit": 10,
+          "range": 60,
+          "special": [
+            {
+              "title": "Terminal Penetration (3)",
+              "effect": "When rolling damage for this weapon, re-roll any dice results of 3 or lower. The results of the second roll stand."
+            }
+          ]
+        },
+        {
+          "warhead": "Boarding",
+          "availability": "Very Rare",
+          "speed": 10,
+          "damage": "2d10+11",
+          "crit": "-",
+          "range": 60,
+          "special": [
+            {
+              "title": "Boarders",
+              "effect": "When a boarding torpedo successfully hits a target craft, roll the weapon's damage as normal. If the damage exceeds the target's armour, the torpedo does not inflict damage to Hull Integrity. Instead, it immediately inflicts a Hit-and-Run attack. "
+            },
+            {
+              "title": "Terminal Penetration (2)",
+              "effect": "When rolling damage for this weapon, re-roll any dice results of 2 or lower. The results of the second roll stand."
+            }
+          ]
+        },
+        {
+          "warhead": "Melta",
+          "availability": "Extremely Rare",
+          "speed": 10,
+          "damage": "2d10+15",
+          "crit": "9+",
+          "range": 60,
+          "special": [
+            {
+              "title": "Inferno",
+              "effect": "A hit from a Melta Torpedo that deals damage automatically causes a Fire! Critical Result, in addition to any other Critical Results is may cause. Carrying these extremely volatile weapons is nearly as dangerous for a vessel as it is for its targets. If Torpedo Tubes armed with these warheads are destroyed, one additional Components of the GM's choice is set on fire. "
+            },
+            {
+              "title": "Terminal Penetration (4)",
+              "effect": "When rolling damage for this weapon, re-roll any dice results of 4 or lower. The results of the second roll stand."
+            }
+          ]
+        },
+        {
+          "warhead": "Virus",
+          "availability": "Near Unique",
+          "speed": 10,
+          "damage": "2d10+10",
+          "crit": "-",
+          "range": 60,
+          "special": [
+            {
+              "title": "Viral Payload",
+              "effect": "When a torpedo armed with a Virus Warhead successfully hits a target vessel, roll damage. Provided the result exceeds the target's Armour, the vessel immediately suffers 3d10 damage to Crew Population and 2d10 damage to Morale. The ship does not, however, suffer damage to Hull Integrity. A character must immediately make a Difficult (-10) Command Test to isolate survivors from the infected crew. If this test succeeds, the spread of the virus is halted. However, if the test is failed, the vessel will suffer the same damage again each strategic turn until the test is passed. Note that this test must be taken for each successful warhead strike in a salvo. The danger imposed by Virus Warheads is not entirely one-sided. If a Torpedo Tube armed with these weapons is Damaged, the vessel counts as being affected by a virus warhead. "
+            },
+            {
+              "title": "Terminal Penetration (1)",
+              "effect": "When rolling damage for this weapon, re-roll any dice results of 1. The results of the second roll stand."
+            }
+          ]
+        },
+        {
+          "warhead": "Vortex",
+          "availability": "Unique",
+          "speed": 10,
+          "damage": "2d10+15",
+          "crit": "6+",
+          "range": 60,
+          "special": [
+            {
+              "title": "Maelstrom",
+              "effect": "When attacked by these torpedoes, word of these horrifying weapons spreads like wildfire through the target crew. In addition to the Hull Integrity damage and the Critical Hit from each Vortex warhead, each successful vortex warhead strike also causes 1d5 damage to Morale. Vortex warheads ignore Armour when calculating damage. Maintaining and safeguarding these weapons requires rituals that have been lost to most enginseers. If torpedo tubes armed with these warheads are Damaged, the torpedo tubes are immediately destroyed. Further, the vessel is immediately subjected to three additional Critical Hits at locations of the GM's choice. In addition, when an upkeep test to resupply Vortex torpedoes is failed by two or more degrees of failure, the new Vortex torpedoes are defective. These torpedoes will detonate damaging (but not destroying) the torpedo tubes at a time of the GM's choice. "
+            },
+            {
+              "title": "Terminal Penetration (5)",
+              "effect": "When rolling damage for this weapon, re-roll any dice results of 5 or lower. The results of the second roll stand."
+            }
+          ]
+        }
+      ],
+      "guidanceSystems": [
+        {
+          "guidanceSystem": "Standard ",
+          "availability": "",
+          "rating": "+20",
+          "description": ""
+        },
+        {
+          "guidanceSystem": "Guided",
+          "availability": "Rare",
+          "rating": "+20",
+          "description": "At the beginning of the torpedo's movement, one Explorer or NPC on the launching ship may make a Challenging (+0) Tech Use+Detection Test. Success means he may change the direction the torpedoes are moving by up to 45 degrees. For every degree of success, he may slow the torpedoes movement speed that Round by 1 VU. If an enemy vessel has previously used a Focused Augury Test to identify the torpedo tubes on the launching vessel, they will have identified the hallmarks of the guided torpedo system. In this case, a character on the target vessel may make a Arduous (-40) Tech Use Test. If this test succeeds, the target vessel seizes control of the guided torpedoes and may redirect them towards any target within their remaining flight range."
+        },
+        {
+          "guidanceSystem": "Seeking",
+          "availability": "Extremely Rare",
+          "rating": "+30",
+          "description": ""
+        },
+        {
+          "guidanceSystem": "Short Burn",
+          "availability": "Rare",
+          "rating": "+15",
+          "description": "These torpedoes move at a speed of 15 VU per turn, rather than the 10 VU of all other types. However, their massive fuel consumption reduces their maximum range to 30 VU."
+        }
+      ]
+    }
+  }
+}

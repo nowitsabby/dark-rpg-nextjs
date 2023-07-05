@@ -1,0 +1,364 @@
+{
+  "info": "# Ammunition\n\nRequisition yields two clips, plus one extra clip per additional degree of success.\n\nRequisitioning a weapon's 'Standard Ammunition' has an availability of 1 level more available than the weapon.",
+  "type": "Ammunition",
+  "data": [
+    {
+      "ammunition": "Abyssal Bolts",
+      "availability": "Very Rare",
+      "usedWith": [
+        "Bolt Weapons",
+        "Crossbows"
+      ],
+      "effect": "A weapon using this ammunition gains the Crippling (2) and Tainted quality, but loses the Reliable and/or Sanctified qualities (if the weapon has them).",
+      "source": "Enemies Beyond"
+    },
+    {
+      "ammunition": "Amputator Shells",
+      "availability": "Extremely Rare",
+      "usedWith": [
+        "Basic Solid Projectile Weapons",
+        "Hand Cannons"
+      ],
+      "effect": "Amputator shells add 2 to the weapon's damage.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "ammunition": "Barbed Rounds",
+      "availability": "Scarce",
+      "usedWith": [
+        "Solid Projectile Weapons"
+      ],
+      "effect": "The weapon gains the Crippling (1) Quality.",
+      "source": "Black Crusade"
+    },
+    {
+      "ammunition": "Blazer Shells",
+      "availability": "Common",
+      "usedWith": [
+        "Shotguns"
+      ],
+      "effect": "Blazer shotgun shells reduce the weapon's Range to 15 metres unless that would be greater than its actual Range. In addition, they change the weapon's Damage type to Energy (E) and give it the Flame and Primitive (7) qualities.",
+      "source": "Inquisitor's Handbook"
+    },
+    {
+      "ammunition": "Bleeder Rounds",
+      "availability": "Rare",
+      "usedWith": [
+        "Solid Projectile Weapons, except Shotguns"
+      ],
+      "effect": "If a target takes damage from bleeder rounds, he begins to gush blood and suffers from the Blood Loss condition for 1d5 rounds or until it is successfully treated. Bleeder rounds do not affect targets with the Daemonic or Machine traits.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "ammunition": "Dumdum Bullets",
+      "availability": "Scarce",
+      "usedWith": [
+        "Stub Weapons",
+        "Sniper Rifles",
+        "Hand Cannons"
+      ],
+      "effect": "Dumdum bullets add 2 to the weapon's damage, but Armour points count double against them.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "ammunition": "Emperor's Light Thermal Bolts",
+      "availability": "Rare",
+      "usedWith": [
+        "Crossbows"
+      ],
+      "effect": "A weapon using thermal bolts loses the Primitive and Accurate qualities (if it has them), but gains +1d10 Energy damage, penetration 6, and the Melta and Inaccurate qualities. These bolts weigh twice as much as regular crossbow bolts.",
+      "source": "Enemies Within"
+    },
+    {
+      "ammunition": "Emperor's Wrath Shard Bolts",
+      "availability": "Scarce",
+      "usedWith": [
+        "Crossbows"
+      ],
+      "effect": "A weapon using shard bolt ammunition gains the Crippling (2) quality.",
+      "source": "Enemies Within"
+    },
+    {
+      "ammunition": "Envenomed Ammunition",
+      "availability": "Scarce",
+      "usedWith": [
+        "Low-Tech Ranged Weapons"
+      ],
+      "effect": "The weapon gains the Toxic (2) Quality.",
+      "source": "Hammer of the Emperor"
+    },
+    {
+      "ammunition": "Executioner Shotgun Shells",
+      "availability": "Very Rare",
+      "usedWith": [
+        "Shotguns"
+      ],
+      "effect": "The weapon loses the Scatter Quality, but adds +4 to its base Damage and +1 to its base Penetration. Ballistic Skill Tests for shots that miss at short or standard range may be re-rolled, and the defensive value of any cover for your target is ignored. When firing Executioner rounds, the weapon may not be used for Semi-Automatic or Automatic fire.",
+      "source": "Ascension"
+    },
+    {
+      "ammunition": "Exitus Shield-breaker Round",
+      "availability": "Unique",
+      "usedWith": [
+        "Exitus Weapons"
+      ],
+      "effect": "This ammunition ignores the Daemonic Trait, any protection from a Psychic Power, and the protection from any Field item. When this round hits a target utilising a protective Psychic Power and/or an item with the Field quality, that Psychic Power and/or Field ceases to function for 1 Round. ",
+      "source": "Ascension"
+    },
+    {
+      "ammunition": "Exitus Hellfire Round",
+      "availability": "Near Unique",
+      "usedWith": [
+        "Exitus Weapons"
+      ],
+      "effect": "The weapon inflicts +1d10 damage and may inflict Righteous Fury on any damage die results of a 9 or 10. In addition, the weapon gains the Tearing Quality ",
+      "source": "Ascension"
+    },
+    {
+      "ammunition": "Exitus Turbo-penetrator Round",
+      "availability": "Unique",
+      "usedWith": [
+        "Exitus Weapons"
+      ],
+      "effect": "The weapon inflicts +2d10 Damage and adds +5 to its Penetration. In addition, the weapon ignores any increase to a target's base Toughness Bonus from the Unnatural Toughness Trait (but does not ignore the Daemonic Trait, nor the Toughness Bonus associated with that Trait).",
+      "source": "Ascension"
+    },
+    {
+      "ammunition": "Expander Rounds",
+      "availability": "Scarce",
+      "usedWith": [
+        "Solid Projectile Weapons, except Shotguns"
+      ],
+      "effect": "These rounds add 1 to a weapon's damage and penetration.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "ammunition": "Explosive Arrows/Quarrels",
+      "availability": "Scarce",
+      "usedWith": [
+        "Bows",
+        "Crossbows"
+      ],
+      "effect": "Attacks using these rounds suffer a -10 penalty. These rounds change the weapon's damage type to Explosive, remove the Primitive quality, and grant the weapon the Blast (1) quality.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "ammunition": "Hellfire Bolt Rounds",
+      "availability": "Very Rare",
+      "usedWith": [
+        "Bolt Weapons"
+      ],
+      "effect": "The weapon gains the Toxic (3) Quality and gains Vengeful(9) when used against living targets. When used with a Heavy Bolter, these rounds change the weapon's RoF to S/-/- and add the Blast (3) Quality. When used against a Horde, each Hit from a Hellfire Round deals 1 additional damage to the Horde's Magnitude.",
+      "source": "Black Crusade"
+    },
+    {
+      "ammunition": "Heretic's Match Incendiary Rounds",
+      "availability": "Scarce",
+      "usedWith": [
+        "Bows",
+        "Crossbows",
+        "Shotguns"
+      ],
+      "effect": "A weapon using this ammunition gains the Flame and Unreliable qualities, and loses the Blast quality (if it had it).",
+      "source": "Enemies Within"
+    },
+    {
+      "ammunition": "Hot-Shot Charge Packs",
+      "availability": "Scarce",
+      "usedWith": [
+        "Pistol or Basic Las Weapons"
+      ],
+      "effect": "A weapon using a hot-shot charge adds 1 to its damage, gains the Tearing quality, and gains a penetration of 4. The weapon also loses its Reliable quality, and its clip size is reduced to 1.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "ammunition": "Hyper-Density Rounds",
+      "availability": "Rare",
+      "usedWith": [
+        "Hand Cannons",
+        "Shotguns",
+        "Basic single-shot Solid Projectile Weapons",
+        "Basic and Pistol Bolt Weapons"
+      ],
+      "effect": "Reduce the base range of the weapon by half. Shotguns lose the Scatter Quality and Bolt weapons change damage from X to I. Increase its Penetration by 2. The weapon gains the Tearing Quality. Finally, an average man-sized target hit by one of these rounds must succeed on an Ordinary (+10) Toughness Test or be knocked off its feet from the impact. ",
+      "source": "Inquisitor's Handbook"
+    },
+    {
+      "ammunition": "Inferno Shells",
+      "availability": "Rare",
+      "usedWith": [
+        "Shotguns",
+        "Bolt Weapons"
+      ],
+      "effect": "A weapon using inferno shells gains the Flame quality.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "ammunition": "Man-Stopper Bullets",
+      "availability": "Scarce",
+      "usedWith": [
+        "Solid Projectile Weapons, except Shotguns"
+      ],
+      "effect": "Man-stopper bullets add 3 to the weapon's penetration.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "ammunition": "Metal Storm Bolt Rounds",
+      "availability": "Very Rare",
+      "usedWith": [
+        "Bolt Weapons"
+      ],
+      "effect": "The weapon's Damage and Penetration are both reduced by 2 but it gains the Blast (2) Quality.",
+      "source": "Black Crusade"
+    },
+    {
+      "ammunition": "Nitidus Rounds",
+      "availability": "Very Rare",
+      "usedWith": [
+        "Shotguns"
+      ],
+      "effect": "When a psyker suffers damage from this weapon, he must make a Difficult (-10) Willpower test or be Stunned for a number of rounds equal to his degrees of failure. When a target with the Warp Instability trait suffers damage from this weapon, it must immediately test for Instability with a -10 penalty.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "ammunition": "Psybolts",
+      "availability": "Extremely Rare",
+      "usedWith": [
+        "Bolt Weapons"
+      ],
+      "effect": "The weapon using this ammunition gains the Daemonbane and Sanctified qualities, ignores all protective benefits granted by psychic powers, and inflicts +1 damage for every point of the user's psy rating.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "ammunition": "Psyflame",
+      "availability": "Very Rare",
+      "usedWith": [
+        "Flame Weapons"
+      ],
+      "effect": "A weapon using this ammunition gains the Sanctified quality and ignores any protective benefits granted by psychic powers. Targets in its area of effect suffer a penalty to the Agility test to avoid it equal to 5 times the psyker's psy rating.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "ammunition": "Purgatus Stakes",
+      "availability": "Extremely Rare",
+      "usedWith": [
+        "Purgatus Crossbow Only"
+      ],
+      "effect": "A weapon using Purgatus stakes gains the Sanctified quality. Further, whenever a target with either the Psyker or Daemon trait is struck by a Purgatus stake-bolt, it must make a Challenging (+0) Willpower test. If it fails, it must immediately roll on Psychic Phenomena",
+      "source": "Enemies Within"
+    },
+    {
+      "ammunition": "Purity Bolts",
+      "availability": "Very Rare",
+      "usedWith": [
+        "Crossbows"
+      ],
+      "effect": "A weapon using purity bolts gains the Haywire (2) quality",
+      "source": "Enemies Within"
+    },
+    {
+      "ammunition": "Sanctified Ammunition",
+      "availability": "Rare",
+      "usedWith": [
+        "Bows",
+        "Crossbows",
+        "Flame Weapons",
+        "Solid Projectile Weapons"
+      ],
+      "effect": "A weapon using this type of fuel or ammunition gains the Sanctified quality.",
+      "source": "Enemies Within"
+    },
+    {
+      "ammunition": "Scrambler Rounds",
+      "availability": "Rare",
+      "usedWith": [
+        "Bolt Weapons",
+        "Solid Projectile Weapons"
+      ],
+      "effect": "Scrambler rounds add the Hallucinogenic (2) and Recharge qualities to the weapon.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "ammunition": "Silver Stakes",
+      "availability": "Very Rare",
+      "usedWith": [
+        "Crossbows"
+      ],
+      "effect": "A weapon using silver stakes gains the Sanctified quality and inflicts an additional 1d10 damage against targets with the Daemonic or Psyker trait.",
+      "source": "Enemies Within"
+    },
+    {
+      "ammunition": "Solid Slugs",
+      "availability": "Common",
+      "usedWith": [
+        "Shotguns"
+      ],
+      "effect": "A shotgun loaded with slug rounds increases its Damage by +1 and Penetration by +2. It loses the Scatter Quality.",
+      "source": "Hammer of the Emperor"
+    },
+    {
+      "ammunition": "Stalker Bolt Rounds",
+      "availability": "Very Rare",
+      "usedWith": [
+        "Bolt Weapons"
+      ],
+      "effect": "Awareness Tests to hear shots made with stalker rounds suffer an additional -30 penalty and can only be attempted within 30 metres of the firer. However, reduce this weapon's Damage by 2.",
+      "source": "Black Crusade"
+    },
+    {
+      "ammunition": "Tempest Bolt Shells",
+      "availability": "Near Unique",
+      "usedWith": [
+        "Bolt Weapons"
+      ],
+      "effect": "Tempest bolt shells change the weapon's damage type to Energy and grant it the Shocking quality. They also add 3 to the weapon's damage against targets with the Machine trait.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "ammunition": "Theta-Pattern Concussion Bolts",
+      "availability": "Very Rare",
+      "usedWith": [
+        "Crossbows"
+      ],
+      "effect": "A weapon using this ammunition gains the Blast (5) and Concussive (5) qualities. Additionally, anyone within the blast radius must pass a Hard (-20) Strength test or be thrown 1d5 metres away from the centre of the blast and knocked Prone.",
+      "source": "Enemies Within"
+    },
+    {
+      "ammunition": "Theta-Pattern Shock Bolts",
+      "availability": "Very Rare",
+      "usedWith": [
+        "Crossbows"
+      ],
+      "effect": "A weapon using shock bolts gains the Shocking quality. In addition, if the target fails its Toughness test from the Shocking effect by three or more degrees, it becomes Unconscious instead of Stunned for a number of rounds equal to his degrees of failure.",
+      "source": "Enemies Within"
+    },
+    {
+      "ammunition": "Tox Rounds",
+      "availability": "Scarce",
+      "usedWith": [
+        "Bolt Weapons",
+        "Solid Projectile Weapons"
+      ],
+      "effect": "Tox rounds add the Toxic (1) quality to the weapon but reduce its damage by 2.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "ammunition": "Tracer Rounds",
+      "availability": "Common",
+      "usedWith": [
+        "Solid Projectile Weapons"
+      ],
+      "effect": "When making a Full-Auto Attack, the character scores an additional number of Degrees of Success equal to one half of the initial Degrees of Success, rounding up. If a Player Character's Comrade is equipped with tracer rounds, he adds an additional +5 to Ballistic Skill Tests when using the Ranged Volley Order (for a total of +10). At Point Blank Range, tracer rounds gain the Flame Quality. At the GM's discretion, tracers may have a chance of igniting inflammable materials at longer ranges, as well.",
+      "source": "Hammer of the Emperor"
+    },
+    {
+      "ammunition": "Void Rounds",
+      "availability": "Scarce",
+      "usedWith": [
+        "Solid Projectile Weapons"
+      ],
+      "effect": "Weapons using void rounds gain the Reliable quality in void conditions.",
+      "source": "Inquisitor's Handbook"
+    }
+  ]
+}

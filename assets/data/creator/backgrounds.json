@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Adepta Sororitas",
+    "mementos":
+    [
+      "Burnt Leather Strap",
+      "Broken Piece of Slate",
+      "Tooth from a Chainsword",
+      "Snapped Bootlace",
+      "Shard of Stained Glass",
+      "Handcarved Wooden Aquila",
+      "Shredded Flamer Hose",
+      "Fragment of Ceramite Plate",
+      "Flower Petal Embedded in Glass",
+      "Woolen Scarf",
+      "Cracked Exterminator Cartridge",
+      "Vial of Tattoo Ink",
+      "Pouch of Powdery Sand",
+      "Bag of Fingernails (yours?)",
+      "Piece of Melted Plasteel",
+      "Gear from Broken Autoquill",
+      "Used Field Sutures",
+      "Bloodstained Cestus Spike",
+      "Length of Braided String",
+      "Empty Bolt Shell"
+    ]
+  },
+  {
+    "name": "Adeptus Administratum",
+    "mementos":
+    [
+      "Brass Quill Tip",
+      "Ribbon Bookmark",
+      "Cracked Lens",
+      "Singed Parchment",
+      "Vial of Powdered Ink",
+      "Rusty Scalpel",
+      "Map Fragment",
+      "Finger Bone",
+      "Wire Coil",
+      "Lump of Candle Wax",
+      "Glass Key",
+      "Charcoal Stick",
+      "Curled Fingernail (yours)",
+      "Copper Key Punch",
+      "Metal Book Clasp",
+      "Fesnel Hair Paint Brush",
+      "Aquila Paperweight",
+      "Stitching Needle",
+      "Ancient Magnifying Lens",
+      "Blank Velum Folio"
+    ]
+  },
+  {
+    "name": "Adeptus Arbites",
+    "mementos":
+    [
+      "Short Length of Chain",
+      "Expired Wanted Poster",
+      "Bag of Shot Pellets",
+      "Dented Steel Toe Cap",
+      "Broken Spy-Eye Lens",
+      "Leather Wrist-Band",
+      "Bent Key",
+      "Lock of Hair",
+      "Knife Handle",
+      "Metal Shot Glass",
+      "Stick of Chalk",
+      "Cracked Data-Slate",
+      "Old Nameplate",
+      "Scrap of Chain Mail",
+      "Small Brush",
+      "Braided Dog Hair",
+      "Pommel Weight",
+      "Section of Chest Plate",
+      "Bag of Broken Teeth",
+      "Amasec Bottle Top"
+    ]
+  },
+  {
+    "name": "Adeptus Astra Telepathica",
+    "mementos":
+    [
+      "Myrrhine Musk Stick",
+      "Bent Spoon",
+      "Torn Tarot Card",
+      "Deck Plating Fragment",
+      "Pressed Flower Petal",
+      "Wooden Egg",
+      "Necklace of Beads",
+      "Metal Tube (5cm)",
+      "Wide Black Ribbon (30cm)",
+      "Cracked Looking Glass",
+      "Animal Horn Chip",
+      "Swath of Metallic Cloth",
+      "Charred Mahogonite Chip",
+      "Bag of Toenail Clippings",
+      "Thin Glassteel Disc",
+      "Crystal Ring",
+      "Rusted Iron Nail",
+      "Chipped Trilobite Fossil",
+      "Broken Chrono",
+      "Chipped Pearl"
+    ]
+  },
+  {
+    "name": "Adeptus Mechanicus",
+    "mementos":
+    [
+      "Brass Cog Wheel",
+      "Sulphur Crystal",
+      "Length of Coiled Wire",
+      "Plasteel Cube (1cm)",
+      "Bag of Red Sand",
+      "Tiny Hand-Gyroscope",
+      "Nugget of Copper Ore",
+      "Bar Magnet in Glass Block",
+      "Lump of Mummified Flesh (yours)",
+      "Cracked Crystal Wafer",
+      "Hematite Stone",
+      "Phial of Iron Filings",
+      "Small Brass Ingot",
+      "Oily Cleaning Rags",
+      "Twisted Metal Wrench",
+      "Phial of Gelatinous Liquid",
+      "Small Metal Pyramid",
+      "Fragment of Stained Glass",
+      "Finger Bone (possibly yours?)",
+      "Metal Carbon Rod (3cm)"
+    ]
+  },
+  {
+    "name": "Adeptus Ministorum",
+    "mementos":
+    [
+      "Broken Sextant",
+      "Lamp Wick",
+      "Leaking Hourglass",
+      "Match (used)",
+      "Tin of Soft Wax",
+      "Dried Leach",
+      "Ball of Feathers",
+      "Large Salt Crystal (5cm)",
+      "Bone Drill Bit",
+      "Phial of Dust",
+      "Fragment of Stone Tablet",
+      "Stained Wooden Tooth",
+      "Regicide Piece",
+      "Lump of Candle Wax",
+      "Tattered Bookmark",
+      "Cord from a Whip",
+      "Brass Key Punch",
+      "Scorched Fragment of Skin (possibly yours?)",
+      "Sliver of Silver in",
+      "Plasteel Disc",
+      "Burned Feather Quill"
+    ]
+  },
+  {
+    "name": "Exorcised",
+    "mementos":
+    [
+      "Bag of Dried Blood (not yours)",
+      "Small Iron Disk",
+      "Entire Fingernail (yours)",
+      "Strip of Stained Ribbon (10cm)",
+      "Faintly Glowing Fossil",
+      "Burnt Ministorum Sigil",
+      "Broken Magnifying Lens",
+      "Sealed Tube of Salt",
+      "Glistening Needle",
+      "Rusted Nail",
+      "Vial of Bluish Liquid",
+      "Drop of Blood in Amber Lump",
+      "Short Length of Thick Chain",
+      "Shedded Reptilian Skin",
+      "Stone Carved with Terrible Runes",
+      "Rib Bone (yours?)",
+      "Handkerchief Stained with Tears",
+      "Charred Parchment",
+      "Broken Metal Lock",
+      "Cracked Aquila"
+    ]
+  },
+  {
+    "name": "Heretek",
+    "mementos":
+    [
+      "Electromotive Force Probe (bent)",
+      "Length of Frayed Wire (20cm)",
+      "Magnifying Lens (scratched)",
+      "Ceramic Wrench",
+      "Shard of Insulation Silicate",
+      "Bag of Small Metal Cogs",
+      "Ichor-stained Hook",
+      "Sliver of Magnetic Glass",
+      "Segment of Plasma Coil",
+      "Fragment of Unknown Metal",
+      "Sealed Tube of Xenos Ichor",
+      "Hand-shaped Fulgurite",
+      "Arterial Clamp (faulty)",
+      "Cranial Socket (not yours)",
+      "Power Micro-conduit (fused)",
+      "Scalpel (cracked)",
+      "Scrap of Rust-coloured Fabric",
+      "Vial of Xenos Metal Shavings",
+      "Galvanic Pump Casing",
+      "Polarised Goggles (cracked)"
+    ]
+  },
+  {
+    "name": "Imperial Guard",
+    "mementos":
+    [
+      "Burnt Las Power Pack",
+      "Xenos Skin Fragment",
+      "Braided Boot Lace",
+      "Bent Grenade Pin",
+      "Bloodstained Rock",
+      "Chip of Tank Tread",
+      "Shard of Ceramite Armour",
+      "Ration Pack Foil",
+      "Small Iron Horseshoe",
+      "Rock that Glows in Dark",
+      "Cracked Baton",
+      "Ork Toof Necklace",
+      "Chunk of Fused Sand",
+      "Bloodstained Bandage",
+      "Smoked Glass Shard",
+      "Frayed Pennant",
+      "Old Helmet Strap",
+      "Dented Belt Buckle",
+      "Form 4111-JUN-555",
+      "Burnt and Cracked Commendation Medal"
+    ]
+  },
+  {
+    "name": "Imperial Navy",
+    "mementos":
+    [
+      "Wires from Torpedo Sensorium",
+      "Shoeshine Kit",
+      "Former Ship’s Insignia Icon",
+      "Pouch of Bridge Uniform Tassels",
+      "Small Section of Deck Plating",
+      "Rad-burned Purity Seal",
+      "Fragment of Body Armour Cloth",
+      "Officer’s Baton",
+      "Shard of Heirloom Sabre",
+      "Large Metal Key",
+      "Shotgun Strap",
+      "Heirloom Medal in Velvet Case",
+      "Lance-burned Hull Fragment",
+      "White Gloves",
+      "Monocle (cracked)",
+      "Haft from Shock Whip",
+      "Boson’s Whistle",
+      "Impressive Award (not yours)",
+      "Large Ale Stein",
+      "Greasy Rag"
+    ]
+  },
+  {
+    "name": "Mutant",
+    "mementos":
+    [
+      "Rusted Manacle (twisted open)",
+      "Broken Fang",
+      "Desiccated Lump of Flesh",
+      "Small Rag Doll",
+      "Shed Skin (yours?)",
+      "Set of Bone Dice",
+      "Frayed Lute String",
+      "Ichor-soaked Rag",
+      "Vial of Saliva (not yours)",
+      "Small Stone Knife (cracked)",
+      "Metal Aquila (bent)",
+      "Worn Habroom Key",
+      "Snapped Collar",
+      "Length of Intestine (yours)",
+      "Burnt Purity Seal",
+      "Tip of Stalagmite",
+      "Chunk of Coal",
+      "Stablight lens (broken)",
+      "Crude Metal Cup",
+      "Small Glowing Rock"
+    ]
+  },
+  {
+    "name": "Outcast",
+    "mementos":
+    [
+      "Box of Used Matches",
+      "Bottle of Shrapnel",
+      "Eye Patch",
+      "Silk Gorget",
+      "Ankle Bracelet",
+      "Shotgun Shell Casing",
+      "Leather Hair Strap",
+      "Cork Bottle Stopper",
+      "Bent Coin",
+      "Leather Pouch",
+      "Flagon Handle",
+      "Cloth Armband",
+      "Metal Artificial Nose",
+      "Cracked Autopistol Clip",
+      "Tube of Bright Lipstick",
+      "Mouth Harp",
+      "Loaded Dice (2)",
+      "Badly Forged Coin",
+      "Bag of Dust",
+      "Plasteel Toothpick"
+    ]
+  },
+  {
+    "name": "Rogue Trader Fleet",
+    "mementos":
+    [
+      "Burnt Parchment",
+      "Scarf Stained with Xenos Blood",
+      "Bag of Metallic Soil",
+      "Ornate Overcoat",
+      "Nail File",
+      "Ancient Feather Quill",
+      "Ornamental Tin of Ground Lho",
+      "Clump of Xenos Plumage",
+      "Kerchief with Fleet Iconography",
+      "Archaeotech Power Cell (dead)",
+      "Claw from Alien Beast",
+      "Corroded Brass Sextant",
+      "Aralesque Flask (sadly empty)",
+      "Tablet of Alien Runes",
+      "Xenos Fingerbone",
+      "Refractor Field Gem (shattered)",
+      "Length of Braided Beard (5cm)",
+      "Cracked Shuriken Catapult Disc",
+      "Fine Hat",
+      "Corner of Faded Warp Map"
+    ]
+  },
+  {
+    "name": "Schola Graduate",
+    "mementos":
+    [
+      "Empty Pack of Lho-sticks",
+      "Expired Mercenary Contract",
+      "Bloodstained bullet (your blood)",
+      "Cracked Brass Knuckles",
+      "Broken Pair of Magnoculars",
+      "Worn Leather Belt",
+      "Knife Hilt",
+      "Lock of Hair",
+      "Split Scabbard",
+      "Tarnished Hip Flask",
+      "Ident-Tags (not yours)",
+      "Dog-eared Reference Manual",
+      "Snapped Officer's Emblem",
+      "Loose Jacket Button",
+      "Frayed Boot Lace",
+      "Rejected Requisition Form",
+      "Fragment of Flak Armour",
+      "Broken Vox Mouth Piece",
+      "Dented Helmet Fragment",
+      "Vintage Amasec Label"
+    ]
+  },
+  {
+    "name": "Forge Labourer",
+    "mementos":
+    [
+      "Dented Brass Cog",
+      "Crystallized Industrial Waste",
+      "Uneven Wire Mesh",
+      "Corroded Plasteel Tube (6cm)",
+      "Malformed Las Charge Pack",
+      "Small Bronze Ingot",
+      "Mirror Polished Stone",
+      "Bag of Stripped Screws",
+      "Entire Discolored Fingernail (yours)",
+      "Vial of Sweat (not yours)",
+      "Used Filtration Plug",
+      "Sheared Rivet",
+      "Unstamped Steel Blank",
+      "Scrap of Worker Tunic",
+      "Hammer Head",
+      "Leather Glove (missing fingers)",
+      "Dented Steel Boot Toe",
+      "Stained Head Wrap",
+      "Finger Bone (possibly yours?)",
+      "Scrap from the Lex Mecahnicum"
+    ]
+  },
+  {
+    "name": "Navis Nobilite",
+    "mementos":
+    [
+      "Empty Perfume Bottle",
+      "Tarnished Walking Cane Head",
+      "Bag of Skin Flakes (yours?)",
+      "Bent Nobilite Insignia",
+      "Outdated Star Chart",
+      "Cracked Glasses",
+      "Cast Iron Bead",
+      "Short Jewelry Chain (10cm, Broken Clasp)",
+      "Tattered Piece of Robe (not yours)",
+      "Monocle (Missing Lens)",
+      "Bulkhead Rivet",
+      "Stuck Astrolabe",
+      "Clouded Crystal",
+      "Abnormally Long Finger Bone",
+      "Armageddon-Class Battlecruiser Scale Model",
+      "Magnetite Bracelet",
+      "Empty Inkwell",
+      "Labeled Vial of Dirt",
+      "Xenos Fur Scarf",
+      "Chipped Onyx"
+    ]
+  }
+]

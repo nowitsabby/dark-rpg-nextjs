@@ -1,0 +1,151 @@
+{
+    "core_rules": {
+        "core_mechanic": "/core/rules",
+        "movement": "/core/movement",
+        "combat": {
+            "structured_time": "/combat/structured_time",
+            "the_turn": "/combat/the_turn",
+            "actions": "/combat/actions",
+            "the_attack": "/combat/the_attack",
+            "combat_circumstances": "/combat/circumstances",
+            "injury": "/combat/injury",
+            "critical_tables": "/combat/critical_damage",
+            "hordes": "/combat/hordes"
+        },
+        "fear": "/fear"
+    },
+    "characters": {
+        "creation": {
+            "creating_a_character": "/character/creation",
+            "origins": "/character/origins",
+            "backgrounds": "/character/backgrounds",
+            "roles": "/character/roles"
+        },
+        "mental_trauma": {
+            "insanity": "/character/insanity",
+            "mental_disorders": "/character/mental_disorders",
+            "corruption": "/character/corruption"
+        },
+        "influence": "/character/influence",
+        "fate": "/character/fate"
+    },
+    "advancement": {
+        "purchasing_advances": "/advancement",
+        "skills": {
+            "skills_list": "/skills/list",
+            "rules": "/skills/rules",
+            "exploration": "/skills/exploration",
+            "crafting": "/skills/crafting"
+        },
+        "talents": {
+            "talent_list": "/talents/list",
+            "bestial_companions": "/talents/bestial_companions",
+            "minions": "/talents/minions"
+        },
+        "elite_advances": {
+            "astropath": "/elite_advance/astropath",
+            "inquisitor": "/elite_advance/inquisitor",
+            "navigator": "/elite_advance/navigator",
+            "psyker": "/elite_advance/psyker",
+            "rogue_trader": "/elite_advance/rogue_trader",
+            "sister_of_battle": "/elite_advance/sister_of_battle",
+            "sorcerer": "/elite_advance/sorcerer",
+            "untouchable": "/elite_advance/untouchable"
+        }
+    },
+    "traits": {
+        "trait_list": "/traits/list",
+        "bestial_companion_trait": "/traits/bestial",
+        "minion_traits": "/traits/minion"
+    },
+    "armoury": {
+        "availability_and_influence": "/armoury/availability_and_influence",
+        "services": "/armoury/services",
+        "weapons": {
+            "rules": "/armoury/weapons/rules",
+            "melee_weapons": "/armoury/weapons/melee_weapons",
+            "ranged_weapons": "/armoury/weapons/ranged_weapons",
+            "ammunition": "/armoury/weapons/ammunition",
+            "modifications": "/armoury/weapons/modifications",
+            "integrated_weapons": "/armoury/weapons/integrated"
+        },
+        "protective_gear": {
+            "rules": "/armoury/protective_gear/rules",
+            "armour_list": "/armoury/protective_gear/armour",
+            "force_fields": "/armoury/protective_gear/force_fields",
+            "modifications": "/armoury/protective_gear/modifications"
+        },
+        "equipment": {
+            "gear": "/armoury/equipment/gear",
+            "tools": "/armoury/equipment/tools"
+        },
+        "consumables": {
+            "addiction": "/armoury/consumables/addiction",
+            "list": "/armoury/consumables/list"
+        },
+        "cybernetics": "/armoury/cybernetics",
+        "cyber_constructs": "/armoury/cyber_constructs"
+    },
+    "psykers": {
+        "psychic_powers": {
+            "psychic_power_rules": "/psychic_powers",
+            "disciplines": {
+                "astropath": "/psychic_discipline/astropath",
+                "biomancy": "/psychic_discipline/biomancy",
+                "divination": "/psychic_discipline/divination",
+                "malefic_daemonology": "/psychic_discipline/malefic_daemonology",
+                "pyromancy": "/psychic_discipline/pyromancy",
+                "sanctic_daemonology": "/psychic_discipline/sanctic_daemonology",
+                "sorcerous_arcana": "/psychic_discipline/sorcerous_arcana",
+                "telekinesis": "/psychic_discipline/telekinesis",
+                "telepathy": "/psychic_discipline/telepathy"
+            }
+        },
+        "navigators": {
+            "navigator_powers": "/navigators/powers",
+            "navigator_houses": "/navigators/houses",
+            "navigator_mutations": "/navigators/mutations"
+        }
+    },
+    "narative_tools": {
+        "endeavours": {
+            "common_endeavours": "/endeavours/common",
+            "meta_endeavours": "/endeavours/meta",
+            "background_endeavours": "/endeavours/background",
+            "example_endeavours": "/endeavours/example"
+        },
+        "social_encounters": "/social_encounters",
+        "investigations": "/investigations",
+        "subtlety": "/subtlety"
+    },
+    "vehicles": {},
+    "starships": {
+        "overview": "/starships/overview",
+        "armoury": {
+            "constructing_a_starship": "/starships/construction",
+            "upgrading_a_starship": "/starships/upgrade",
+            "hulls": "/starships/armoury/hulls",
+            "essential_components": "/starships/armoury/essential_components",
+            "supplemental_components": "/starships/armoury/supplemental_components",
+            "weapon_components": "/starships/armoury/weapons",
+            "torpedoes_and_attack_craft": "/starships/armoury/torpedoes_and_attack_craft",
+            "archeotech_components": "/starships/armoury/archeotech_components",
+            "xeno_tech_components": "/starships/armoury/xeno_tech_components"
+        },
+        "combat": {
+            "combat_overview": "/starships/combat/overview",
+            "actions_reference": "/starships/combat/actions",
+            "firing_starship_weapons": "/starships/combat/weapons",
+            "launching_attack_craft": "/starships/combat/attack_craft",
+            "stern_chase": "/starships/combat/stern_chase",
+            "voidship_squadrons": "/starships/combat/squadrons"
+        },
+        "navigating_the_warp": "/starships/navigating_the_warp",
+        "void_hazards": "/starships/void_hazards",
+        "deep_void_run": "/starships/deep_void_run"
+    },
+    "misc": {
+        "organisations": "/organisations",
+        "profit_factor": "/profit_factor"
+    }
+}

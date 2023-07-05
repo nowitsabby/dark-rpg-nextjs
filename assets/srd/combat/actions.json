@@ -1,0 +1,275 @@
+{
+  "info": "# Combat Actions",
+  "type": "Actions",
+  "data": [
+    {
+      "action": "Aim",
+      "type": "Varies",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "The active character takes extra time to make a more precise attack. Aiming as a Half Action grants a +10 bonus to the character’s Weapon Skill or Ballistic Skill test for his next attack, while aiming as a Full Action grants a +20 bonus to the character’s next attack. The next action the Aiming character performs must be an attack (Standard Attack, Semi-Auto Burst, Lightning Attack, and so on) or the benefits of Aiming are lost. Aiming benefits are also lost if the character performs a Reaction before making his attack. Aiming can be used with both melee and ranged attacks, but not with attacks made with psychic powers."
+    },
+    {
+      "action": "All Out Attack",
+      "type": "Full",
+      "subtypes": [
+        "Attack",
+        "Melee"
+      ],
+      "description": "The character makes a furious melee attack at the expense of personal safety. He attacks by making an Easy (+30) Weapon Skill test, and if he succeeds, the character inflicts 1 hit on his target. However, whether he succeeds or fails, the character cannot attempt Evasion reactions until the beginning of his next turn. A character cannot combine an Aim action with an All Out Attack."
+    },
+    {
+      "action": "Brace Heavy Weapon",
+      "type": "Half",
+      "subtypes": [
+        "Miscellaneous"
+      ],
+      "description": "Heavy weapons must be braced before they can be fired accurately. This can involve using a bipod or tripod, propping the weapon up, or simply assuming a wide stance or kneeling. When a character fires an unbraced Heavy weapon, he suffers a –30 penalty to his Ballistic Skill test. He can use this action to secure the weapon in place, after which point it is braced and remains so until it is moved. Once it has been braced, it cannot be moved without losing the benefit of bracing. However, the user can still pivot it 45° (or sometimes more) depending on the type of bracing. For example, a weapon braced in the notch of a broken wall would have a limited field of fire, while one on a full tripod could potentially pivot up to 180°. Note that a character can leave a braced weapon behind, assuming that he was bracing the weapon against something other than himself—it only ceases being braced when relocated."
+    },
+    {
+      "action": "Called Shot",
+      "type": "Full",
+      "subtypes": [
+        "Attack",
+        "Concentration",
+        "Melee or Ranged"
+      ],
+      "description": "The active character attempts to attack a specific or vulnerable area on his target. The attacker declares a location on his target (e.g. Head, Body, Left Arm, Right Arm, Left Leg, or Right Leg) and makes an attack following all the rules for Standard Attacks, except the test is either a Hard (–20) Weapon Skill or Ballistic Skill test (depending on whether the attack is melee or ranged). If he succeeds, he skips the Determine Hit Location step of the attack and instead inflicts one hit on the declared location. At the GM’s discretion, this attack can be used to aim at specific locations on creatures or within the environment, such as shooting a door lock from across the room or disabling a wall-mounted vid-recorder. This attack does not gain the usual +10 bonus for Standard Attacks."
+    },
+    {
+      "action": "Charge",
+      "type": "Full",
+      "subtypes": [
+        "Attack",
+        "Melee",
+        "Movement"
+      ],
+      "description": "The character rushes at his foe and delivers a single melee attack. The target must be at least four metres away, but still within the attacker’s Charge Move. The last four metres of the Charge must be in a straight line so the attacker can build speed and line up with his target. Once the attacker reaches his target, he makes a single melee attack by making a Routine (+20) Weapon Skill test. Success inflicts one hit on the target. If the Charging character has no weapons or other items currently readied, he can attempt to Grapple his opponent instead of inflicting damage or to knock him down."
+    },
+    {
+      "action": "Defensive Stance",
+      "type": "Full",
+      "subtypes": [
+        "Concentration",
+        "Melee"
+      ],
+      "description": "The character makes no attacks and instead concentrates entirely on self-defence. Until the start of his next turn, the character can only use his Reactions to make the Evasion Reaction, but may make one additional Reaction, and all opponents suffer a –20 penalty to Weapon Skill tests made to attack him."
+    },
+    {
+      "action": "Delay",
+      "type": "Full",
+      "subtypes": [
+        "Miscellaneous"
+      ],
+      "description": "Instead of acting hastily, the character waits for a better opportunity. When he chooses Delay, his turn immediately ends. Any time before the start of his next turn, the character can perform a Half Action of his choice—even though it is not currently his turn. This later action counts as being part of his turn, though—so, for example, he cannot use it to make another action with the Attack or Concentration subtype if he made one before taking the Delay action. The later Half Action cannot interrupt another character’s turn already in progress, and if it is not used before the start of the character’s next turn, it is lost. If two or more characters both attempt to perform a Half Action gained from Delay at the same time, they must make an Opposed Agility test to see who acts first."
+    },
+    {
+      "action": "Disengage",
+      "type": "Full",
+      "subtypes": [
+        "Movement"
+      ],
+      "description": "The character breaks off from melee combat and may take a Half Move. Opponents that were engaged with the character cannot make the usual immediate Standard Attack actions against the withdrawing character as a result of this movement (see the Fleeing and Leaving Melee sidebar for more details)."
+    },
+    {
+      "action": "Evasion",
+      "type": "Reaction",
+      "subtypes": [
+        "Movement or Melee"
+      ],
+      "description": "After a character is hit from an attack, but before damage is rolled, he can attempt to negate the hit by making a Dodge or Parry test. A character must be aware of the attack in order to make the test (and cannot be Surprised). If he succeeds on the test, he gets out of the way at the last moment; the hit is negated and the attack is considered to have missed (and thus no damage is rolled). If the Evasion test fails, the attack connects and deals damage normally. If the attack is a ranged attack, he must test his Dodge skill. If the attack is a melee attack, he may test either his Dodge or his Parry skill. The default difficulty for this test is Challenging (+0) before any applicable modifiers. Reactions cannot be used during the his own turn, so he cannot Dodge/Parry attacks made via Overwatch or when he flees from combat during his own turn, and so on.\r\nSome attacks—such as those made with grenades, flamers, or guns firing semi-automatic or fully-automatic bursts—are especially difficult to avoid. When Dodging an area effect weapon (such as a weapon with the Blast or Spray qualities), a successful Dodge test moves the character to the edge of the area of effect, as long as it is no further away than the character’s Agility bonus in metres. If the character would need to move further than this to avoid the attack, or is unable to be moved out of the way due to an obstruction of some sort (such as the confines of a tight corridor), then he automatically fails the test. When Evading Swift Attacks, Lightning Attacks, Full Auto Bursts, Semi-Auto Bursts, attacks from weapons with the Twin-Linked quality, or any other attacks that would inflict multiple hits, each degree of success on the Evasion test negates one additional hit. When Evading attacks from weapons with the Storm quality, each degree of success on the test negates two hits. If the character cancels all of the hits an attack would inflict, the attack is considered a miss."
+    },
+    {
+      "action": "Feint",
+      "type": "Half",
+      "subtypes": [
+        "Melee"
+      ],
+      "description": "The character attempts to use guile and combat training to trick his opponent into a mistake. The character and his target make an Opposed Weapon Skill test. If the character wins, his next melee Standard Attack action against that same target during this turn cannot be Evaded. If the character’s next action is any other action, the advantage of Feinting is lost."
+    },
+    {
+      "action": "Focus Power",
+      "type": "Varies",
+      "subtypes": [
+        "Varies"
+      ],
+      "description": "Use a Psychic Power."
+    },
+    {
+      "action": "Full Auto Burst",
+      "type": "Half",
+      "subtypes": [
+        "Attack",
+        "Ranged"
+      ],
+      "description": "The character grips his gun tightly and unleashes a furious burst of fully automatic gunfire at his enemies. The attacker must be wielding a ranged weapon capable of fully automatic fire to take this action. If the character has such a weapon in each hand, both capable of fully automatic fire, he can fire both with this action (see Two-Weapon Fighting). If he is wielding a Heavy weapon, it must be braced as normal. The attacker makes a Ballistic Skill test with a –10 penalty to his attack; a dice result of 94 or higher indicates the weapon has jammed (see the Weapon Jams). If he succeeds, he scores one hit with his weapon per degree of success. The number of total hits scored in this manner cannot exceed the weapon’s fully automatic rate of fire. Extra hits can either be allocated to the original target or any other targets within two metres, provided none of the new targets would have been harder to hit than the original target. If extra hits are allocated to the same target, use Table 7–2: Multiple Hits to determine the extra Hit Locations. Remember, the first hit is always determined by reversing the numbers of the dice result made to perform the test (see The Attack). If the character is armed with two weapons, and has the appropriate talents, he can make a secondary attack with his other weapon as part of this action. See Two-Weapon Fighting for further details."
+    },
+    {
+      "action": "Grapple",
+      "type": "Varies",
+      "subtypes": [
+        "Attack",
+        "Melee"
+      ],
+      "description": "Affect a Grappled opponent or escape from a Grapple. (See full Grapple Rules)"
+    },
+    {
+      "action": "Guarded Action",
+      "type": "Half",
+      "subtypes": [
+        "Concentration",
+        "Melee or Ranged"
+      ],
+      "description": "The character’s next steps are careful and guarded, making sure he remains well poised to defend himself. This action must be the first action in the character’s turn. He suffers a –10 penalty to any Weapon Skill tests or Ballistic Skill tests made this turn, but gains a +10 bonus to all Evasion tests until the start of his next turn."
+    },
+    {
+      "action": "Jump or Leap",
+      "type": "Full",
+      "subtypes": [
+        "Movement"
+      ],
+      "description": "Jump vertically or leap horizontally. (See full Jumping rules)"
+    },
+    {
+      "action": "Knock Down",
+      "type": "Half",
+      "subtypes": [
+        "Attack",
+        "Melee"
+      ],
+      "description": "The attacker smashes his opponent in the hopes of knocking him off his feet. The active character makes an Opposed Strength test against the target, with a +10 bonus if he is using this action as part of a Charge action or immediately after making a Half Move action. If the attacker wins, the target is knocked Prone and must use a Stand action in his turn to regain his feet. If the attacker succeeds by two or more degrees of success, he can choose to inflict 1d5–3+SB Impact damage and one level of Fatigue on the target. If the target wins the test, he keeps his footing. If the target wins by two or more degrees of success, the attacker is knocked Prone instead."
+    },
+    {
+      "action": "Lightning Attack",
+      "type": "Half",
+      "subtypes": [
+        "Attack",
+        "Melee"
+      ],
+      "description": "This action can only be taken if the attacker has the Lightning Attack talent. With fury and precision, the attacker strikes his target multiple times in close combat. The attacker must be armed with a melee weapon or be able to make unarmed attacks to take this action. If he is armed with two melee weapons, he can attack with both as per the rules for Two-Weapon Fighting. Unbalanced or Unwieldy melee weapons cannot be used to make a Lightning Attack. The attacker makes a Difficult (–10) Weapon Skill test. If he succeeds on the test, he inflicts one hit on his target with his melee weapon for every degree of success he scored on the test. The number of hits scored cannot exceed the attacker’s Weapon Skill bonus. Extra hits can either be allocated to the original target or any other targets the character is engaged in melee with, provided none of the new targets would have been harder to hit than the original target. If extra hits are allocated to the same target, use Table Multiple Hits to determine the extra Hit Locations. Remember, the first hit is always determined by reversing the numbers of the dice result made to perform the test. If the character is armed with two weapons, and has the appropriate talents, he may make a secondary attack with his other weapon as part of this action."
+    },
+    {
+      "action": "Manoeuvre",
+      "type": "Half",
+      "subtypes": [
+        "Melee",
+        "Movement"
+      ],
+      "description": "By using superior footwork and aggression, the attacker can force his opponent to move by making an Opposed Weapon Skill test with his opponent. If he succeeds, the opponent must move one metre in the direction of the attacker’s choice. If desired, the attacker can advance one metre as well. The opponent cannot be forced into another character or some other obstacle (such as wall), but can be pushed off ledges."
+    },
+    {
+      "action": "Move",
+      "type": "Varies",
+      "subtypes": [
+        "Movement"
+      ],
+      "description": "The active character can spend a Half Action to move a number of metres up to his Agility bonus. As a Full Action, he can move up to twice that distance as per Structured Time Movement Table. If the active character ends his movement adjacent to an opponent, he may engage that opponent in melee. If the active character moves away from an opponent with whom he is engaged, that opponent can immediately make a free Standard Attack action against him as per the rules for the Fleeing and Leaving Melee."
+    },
+    {
+      "action": "Overwatch",
+      "type": "Full",
+      "subtypes": [
+        "Attack",
+        "Concentration",
+        "Ranged"
+      ],
+      "description": "The active character guards a specific area or target, poised to shoot at an opportune moment. When Overwatch is declared, the active character establishes a kill zone consisting of any general area, such as a corridor or tree line, which encompasses a 45° arc in the direction that the active character is facing. The active character then specifies Standard Attack, Full Auto Burst, or Semi-Auto Burst, along with the conditions under which he will perform the chosen attack. Each any time the specified conditions are met before the start of the character’s next turn, he can perform that attack (so long as he is otherwise eligible to do so). This attack occurs the moment the condition is met, such as an enemy entering the kill zone. If it occurs at the same time as another character’s action, the character with the higher Agility acts first. If both characters have the same Agility, they make an Opposed Agility test to see who acts first. After the attack is resolved, even if it does not succeed, targets must immediately make a Challenging (+0) Pinning test or become Pinned where they entered the kill zone. If a character on Overwatch performs any actions or Reactions, such as Evasion, his Overwatch immediately ends. Note this does not include Free Actions, such as speech."
+    },
+    {
+      "action": "Ready",
+      "type": "Half",
+      "subtypes": [
+        "Miscellaneous"
+      ],
+      "description": "The active character draws a weapon or retrieves an object stowed in a pouch or pocket. A weapon or item can also be properly stowed away with this action (but note that simply dropping an item is considered a Free Action). This action can also be used to do things such as apply a medi-patch, inject stimm or some other kind of drug, coat a blade with poison, and so forth. The Ready action can be declared twice in the same turn if it is used on two different weapons or items."
+    },
+    {
+      "action": "Reload",
+      "type": "Varies",
+      "subtypes": [
+        "Miscellaneous"
+      ],
+      "description": "Reload a ranged weapon."
+    },
+    {
+      "action": "Run",
+      "type": "Full",
+      "subtypes": [
+        "Movement"
+      ],
+      "description": "The active character runs, covering a distance up to his six times his Agility Bonus (see Structured Time Movement Table). This makes the character harder to hit with ranged weapons, but easier prey for melee attacks. Until the beginning of the character’s next turn, ranged attack made against him suffer a –20 penalty to Ballistic Skill tests, but melee attacks against him gain a +20 bonus to Weapon Skill tests."
+    },
+    {
+      "action": "Semi-Auto Burst",
+      "type": "Half",
+      "subtypes": [
+        "Attack",
+        "Ranged"
+      ],
+      "description": "With precision and discipline, the active character fires a short, controlled burst of semi-automatic gunfire at his enemies. The attacker must be wielding a ranged weapon capable of semiautomatic fire to take this action. If the character has such a weapon in each hand, both capable of semi-automatic fire, he can fire both with this action (see Two-Weapon Fighting). If he is wielding a Heavy weapon, it must be braced as normal. The attacker makes a Challenging (+0) Ballistic Skill test. A dice result of 94 or higher indicates the weapon has jammed. If he hits, he scores a hit for the initial degree of success plus an additional hit for every two additional degrees of success. The number of total hits scored in this manner cannot exceed the weapon’s semi-automatic rate of fire. Extra hits can either be allocated to the original target or any other targets within two metres, provided none of the new targets would have been harder to hit than the original target. If extra hits are allocated to the same target, use Multiple Hits Table to determine the extra Hit Locations. Remember, the first hit is always determined by reversing the numbers of the dice result made to perform the test. If the character is armed with two weapons, and has the appropriate talents, he can make a secondary attack with his other weapon as part of this action. This follows the standard rules for Two-Weapon Fighting."
+    },
+    {
+      "action": "Stand/Mount/Dismount",
+      "type": "Half",
+      "subtypes": [
+        "Movement"
+      ],
+      "description": "If the active character is lying or sitting on the ground, he can stand. If he is already standing, he can mount a riding beast or enter a vehicle. If he is already atop a riding beast or is already within a vehicle, he can dismount the riding beast or leave the vehicle and end the Dismount action standing. This action can also be used to move within a vehicle as needed."
+    },
+    {
+      "action": "Standard Attack",
+      "type": "Half",
+      "subtypes": [
+        "Attack",
+        "Melee or Ranged"
+      ],
+      "description": "The active character makes either one melee attack by making an Ordinary (+10) Weapon Skill test or one ranged attack by making an Ordinary (+10) Ballistic Skill test. Success inflicts one hit on the target. If the attacking character is unarmed and engaged in melee, he can attempt to Grapple his opponent instead of inflicting damage. If the character is armed with two weapons, and has the appropriate talents, he can make a secondary attack with his other weapon as part of this action."
+    },
+    {
+      "action": "Stun",
+      "type": "Full",
+      "subtypes": [
+        "Attack",
+        "Melee"
+      ],
+      "description": "If the active character is unarmed or armed with a melee weapon, he can strike to Stun instead of attempting to land a deadly blow. He makes a Hard (–20) Weapon Skill test targeting an enemy with whom he is engaged in melee. If he succeeds, roll 1d10 and add the attacker’s Strength bonus. This result is compared to the target’s total of his Toughness bonus +1 per Armour point protecting his head. If the attacker’s roll is equal to or higher than this value, the target is Stunned for a number of rounds equal to the difference between the two values and gains one level of Fatigue."
+    },
+    {
+      "action": "Suppressing Fire",
+      "type": "Full",
+      "subtypes": [
+        "Attack",
+        "Ranged"
+      ],
+      "description": "The active character unleashes a hail of firepower to force his opponents to take cover. This action requires a weapon capable of semi-automatic or fully automatic fire (see Rate of Fire). When Suppressing Fire is declared, the active character establishes a kill zone, which is any general area, such as a corridor or tree line, that encompasses a 30° (if the weapon is fired in semiautomatic mode) or 45° arc (if full automatic firing is used) in the direction the active character is facing. Then, as part of the Action the character fires a Full Auto or Semi-Auto Burst (as per the Full Auto and Semi-Auto Burst actions) and expends the appropriate ammo. All targets within the kill zone must make a Difficult (–10) Pinning test or become Pinned. If the attacker fired a Full Auto burst, the Pinning test is Hard (–20) instead. The character does not roll to hit following the usual penalties or bonuses of the Full Auto and Semi-Auto Burst actions. Instead the character makes a Hard (–20) Ballistic Skill test to see if his gunfire has hit anything. A roll of 94–100 on the test indicates the weapon has jammed (see Weapon Jams below). If the Ballistic Skill test succeeds, the GM assigns the hit to a random target within the kill zone, with every extra two degrees of success scoring an extra hit against another random victim. The number of hits scored cannot exceed the weapon’s semi-automatic or fully automatic rate of fire, and use Multiple Hits Table to determine Hit Locations against the same target. The active character cannot choose to fail this Ballistic Skill test."
+    },
+    {
+      "action": "Swift Attack",
+      "type": "Half",
+      "subtypes": [
+        "Attack",
+        "Melee"
+      ],
+      "description": "This action may only be taken if the attacker has the Swift Attack talent. With fury and precision, the attacker strikes his target multiple times in close combat. He must be armed with a melee weapon or be able to make unarmed attacks to take this action. If he is armed with two melee weapons, he can attack with both as per the rules for Two-Weapon Fighting. The attacker makes a Challenging (+0) Weapon Skill test. If he succeeds on the test, he inflicts one hit on his target with his melee weapon for the initial degree of success, plus one hit for every two additional degree of success. The number of hits scored cannot exceed the attacker’s Weapon Skill bonus. Extra hits can either be allocated to the original target or any other targets the character is in melee with, provided none of the new targets would have been harder to hit than the original target. If extra hits are allocated to the same target, use Multiple Hits Table to determine the additional Hit Locations used after the first. If the character is armed with two weapons, and has the appropriate talents, he can make a secondary attack with his other weapon as part of this action."
+    },
+    {
+      "action": "Tactical Advance",
+      "type": "Full",
+      "subtypes": [
+        "Concentration",
+        "Movement"
+      ],
+      "description": "The active character carefully moves from one position of cover to another position of cover. In so doing, he can move a number of metres up to his Half Move distance. For the duration of the move, he is considered to benefit from the cover he left, even though he is moving in the open for a brief time."
+    },
+    {
+      "action": "Use a Skill",
+      "type": "Varies",
+      "subtypes": [
+        "Concentration",
+        "Miscellaneous"
+      ],
+      "description": "Character may use a skill."
+    }
+  ]
+}

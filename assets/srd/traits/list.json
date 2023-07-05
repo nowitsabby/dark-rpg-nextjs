@@ -1,0 +1,241 @@
+{
+  "info": "# Traits",
+  "type": "Traits",
+  "data": [
+    {
+      "trait": "Amorphous",
+      "id": "amorphous",
+      "description": "Not every entity is constrained by a rigid skeleton; some organisms possess a malleable shape, or are made of a host of smaller beings, and can alter their forms as desired or due to changing environmental conditions. \n\nA creature with this trait may increase or decrease its Size trait value by 1 as a Free Action (though doing so does not change its movement values). \n\nA creature with this trait also has the Crawler trait. "
+    },
+    {
+      "trait": "Amphibious",
+      "id": "amphibious",
+      "description": "The creature can breathe water as well as air and can stay underwater indefinitely without the need to surface. If this trait is taken by a creature with the ability to breathe another substance other than air (i.e., water, ammonia, carbon-dioxide, etc.) then it can breathe air as well as its native atmosphere. "
+    },
+    {
+      "trait": "Auto-Stabilised",
+      "id": "auto-stabilised",
+      "description": "For exceptionally large creatures, even the most unstable of heavy weapons mean little compared to their huge limbs, gripping talons, or sheer bulk. These beings always count as braced when firing heavy weapons and therefore may fire a weapon on full or semi-automatic without taking the Brace action first, and not suffer any penalties to hit. "
+    },
+    {
+      "trait": "Baneful Presence (X)",
+      "id": "baneful-presence",
+      "description": "The creature's very existence is anathema to nearby mortals, and permeates its surroundings with the taint of the unnatural. All characters suffer a -10 penalty to Willpower tests taken while within __X__ metres of the creature. "
+    },
+    {
+      "trait": "Bestial",
+      "id": "bestial",
+      "description": "A creature with this trait is animalistic, tending to behave instinctively rather than rationally. No matter how high its Intelligence score is, it is still bestial. A creature with this trait never needs to make a Survival test whilst in its natural habitat. Unless starving or desperate, a Bestial creature must make a Challenging (+0) Willpower test when frightened, startled, or injured. If it fails, the creature flees. "
+    },
+    {
+      "trait": "Blind",
+      "id": "blind",
+      "description": "Blind creatures automatically fail all tests based on vision, and automatically fail all Ballistic Skill tests. Such creatures take a -30 penalty to Weapon Skill tests and most other tests that ordinarily involve or are benefited by vision. Note that this trait indicates not only that the creature cannot see but that it also has no other senses which would provide the same benefit as eyes (such as Unnatural Senses). The Blind Fighting talent reduces the penalty to Weapon Skill tests as normal for Blind creatures, from -30 to -15. "
+    },
+    {
+      "trait": "Brutal Charge (X)",
+      "id": "brutal-charge",
+      "description": "A creature with this trait is often massive and powerful, nearly unstoppable in combat. When Charging, the creature deals an extra (X) points of damage on each hit it inflicts that turn. "
+    },
+    {
+      "trait": "Burrower (X)",
+      "id": "burrower",
+      "description": "A creature with this trait can move through solid objects by burrowing through them. The number in parentheses (X) indicates its speed when burrowing. Such creatures can burrow through soil, rock, sand, and so on, though some (expressed in the creature entry) can even burrow through metal. When a creature burrows, it leaves behind a tunnel. Characters with a Size trait value lower than the burrower can enter these areas without impediment. At the end of each round after the burrower passes, roll 1d10; on a result of 5 or lower, the tunnel collapses behind the creature. "
+    },
+    {
+      "trait": "Crawler",
+      "id": "crawler",
+      "description": "Worms, serpents, and similar creatures crawl and slither along the surface rather than walk upright. The base move for a creature with this trait is half its normal movement rate (round up) as determined by its Agility bonus, but it does not take penalties for moving over difficult terrain."
+    },
+    {
+      "trait": "Daemonic (X)",
+      "id": "daemonic",
+      "description": "Daemonic creatures are denizens of the Warp, but can manifest in real space either through sheer strength of will, hunger, or occult rituals. Creatures with this trait increase their Toughness bonus against all damage by the number indicated in the parentheses (X), in the same manner as an Unnatural Characteristic, and stack if the latter also increases Toughness. This increase is negated by damage inflicted from force weapons, psychic powers, holy attacks, or other creatures with this trait. Daemonic creatures also have the Undying trait, and gain benefits when using psychic powers. "
+    },
+    {
+      "trait": "Dark-Sight",
+      "id": "dark-sight",
+      "description": "Some species are sensitive to different wavelengths of light than man, and can detect sights otherwise invisible. A creature with this trait sees normally even in areas of total darkness, and never takes a penalty for fighting in areas of dim or no lighting. "
+    },
+    {
+      "trait": "Deadly Natural Weapons",
+      "id": "deadly-natural-weapons",
+      "description": "This creature's natural attacks are powerful enough to crush plasteel or punch through armour. The creature gains all the benefits of the Natural Weapons trait, except that its attacks no longer have the Primitive weapon quality."
+    },
+    {
+      "trait": "Fear (X)",
+      "id": "fear",
+      "description": "A creature with this trait has an unnerving appearance. Some prey upon humanity's visceral terrors, while others depend on the inherent corruptive power of the Warp. The Fear trait always has an associated rating (1-4) to reflect how awful the creature is to behold; this is indicated by the number in parentheses (X). The higher the Fear rating, the harder it is for others to resist going insane from the encounter. When a character encounters a creature with this trait, the character must make a Willpower test with a penalty based on the creature's Fear rating. This penalty is equal (X - 1) * 10. If he succeeds, the character suffers no ill effects; if he fails, he must roll Shock, adding +10 to the roll for every degree of failure on the test. "
+    },
+    {
+      "trait": "Flyer (X)",
+      "id": "flyer",
+      "description": "A creature with this trait has the natural ability to fly, whether with broad leathery wings, strange warp energies, or inflatable gas sacs. The number in parentheses (X) indicates its speed when flying. This number replaces the creature's Agility bonus for movement actions while airborne. "
+    },
+    {
+      "trait": "From Beyond",
+      "id": "from-beyond",
+      "description": "Some creatures are free from the limitations of normal physiology, having emerged from the impossible realm of the Warp or perhaps using bodies forged from cold metal and circuitry. Their minds are beyond the petty frailties and precarious sanity of a mortal mind. Such a creature is immune to Fear, Pinning, Insanity points, and psychic powers used to cloud, control, or delude its mind. "
+    },
+    {
+      "trait": "Hoverer (X)",
+      "id": "hoverer",
+      "description": "Creatures with this trait have a limited capability for flight, flying no higher than two metres. The number in parentheses (X) indicates its speed when hovering; this number replaces its Agility bonus for purposes of calculating Movement while airborne. "
+    },
+    {
+      "trait": "Incorporeal",
+      "id": "incorporeal",
+      "description": "This creature is insubstantial and weightless, able to pass through solid objects such as walls and weapons. Incorporeal creatures gain the Hoverer (6) trait and a +30 bonus on Stealth tests due to their ability to merge with objects and nearly silent movement. An Incorporeal creature is also immune to normal weapons, which simply pass ineffectually through its body. Daemons, psychic powers, Warp creatures, other Incorporeal creatures, and opponents armed with force weapons can all injure an Incorporeal creature normally. An Incorporeal creature cannot usually affect the mortal world, and thus cannot damage normal opponents unless it has a suitable special ability or talent. Certain devices can keep these creatures at bay, though, most notably a Void Shield or a spaceship's Gellar Field, which acts as an impenetrable barrier to them. "
+    },
+    {
+      "trait": "Machine (X)",
+      "id": "machine",
+      "description": "A creature with this trait is fashioned from inorganic materials and is generally more rigorous then fleshy beings. Machines do not breathe, are immune to vacuum, extremes of cold, and mind-influencing psychic effects. Machines have a certain number of Armour points (indicated by the number in parentheses). This armour stacks with worn armour, but not with the Natural Armour trait, and provides resistance against damage from Fire."
+    },
+    {
+      "trait": "Mechanicus Implants",
+      "id": "mechanicus-implants",
+      "description": "The character is a servant of the Machine-God, and has been entrusted with a suite of specialised implants:\n\n- __Cranial Circuitry:__ Cranial circuitry is a series of linked processors, implants, and cortical circuits that enhances mental capacities. Most sit within a housing bolted onto the skull, whilst others nestle within the brain itself.\n\n- __Cyber-mantle:__ The Cyber-mantle is a framework of metal, wires, and impulse transmitters bolted onto the spine and lower ribcage. As the initiate gains further cybernetics such as mechadendrites, the mantle acts as a sub-dermal anchorage point. Many in the Mechanicum often refer to it as “the true flesh.”\n\n- __Electro-graft:__ This small device is grafted into the nervous system, allowing the adept to better commune with the many holy mechanisms that are now part of his life. It comes in many forms, such as skull shunts, finger probes, or spine jacks, depending on the forge world.\n\n- __Electoo Inductors:__  Electoo Inductors are palm-sized metal skin grafts that appear much like tattoos to the uninitiated. They are wired into the nervous system, where they derive power from the bioelectrical emanations of the flesh and the sacred mysteries of the Potentia Coil. With training, they can be used to emit or siphon power in many ways.\n\n- __Potentia Coil:__ Cradled within the cyber-mantle is a power unit known as the Potentia Coil. This mass can store energy and produce various types of fields. Coils come in many types, from small crystal stack affairs to bulky electrical galvinators, and a trained user can manipulate the stored energy into a variety of attacks and unique effects."
+    },
+    {
+      "trait": "Mind Lock",
+      "id": "mind-lock",
+      "description": "Many flesh-constructs or mindless creatures are implanted with control mechanisms, complete with programmed behavioural instructions. This helps ensure the creature acts properly within its designed parameters, but also can lead to stalled actions when it faces circumstances for which it has no guidance. If faced with a situation outside of its programming and with no recognised master to issue orders, the creature must pass a Routine (+20) Intelligence test or be Stunned for 1 round. Due to its essentially mindless nature, at the GM's discretion it is immune to all Opposed Social tests. "
+    },
+    {
+      "trait": "Multiple Arms (X)",
+      "id": "multiple-arms",
+      "description": "This creature has more than one pair of arms. The exact number of arms is indicated in parentheses (X), so a Genestealer with Multiple Arms (4) has four arms total. It gains a +10 bonus on Athletics tests involving climbing and swimming. In addition, for each full pair of arms it has (the Multiple Arms value divided by 2) it can make an additional attack as if wielding multiple melee weapons. In this case, the creature must either have natural weapons or actual melee weapons to wield for this to take effect. Note that a creature still requires the Two-Weapon Wielder (Melee or Ranged) talent to make multiple attacks in the same turn. "
+    },
+    {
+      "trait": "Natural Armour (X)",
+      "id": "natural-armour",
+      "description": "This creature has a naturally tough hide or an exoskeleton, affording it some protection against attacks. The number in parentheses (X) indicates how many Armour points the creature gains to all locations. Natural Armour stacks with worn armour, but not with the Machine trait. "
+    },
+    {
+      "trait": "Natural Weapons",
+      "id": "natural-weapons",
+      "description": "This creature has sharp claws, teeth, spines or some other natural weapon with which it can tear apart its foes. It counts as being armed even when not wielding weapons, with attacks that deal 1d10 points of damage plus its Strength bonus. The creature can make attacks with its Natural Weapons using its Weapon Skill, though it cannot Parry with its natural weapons, nor can it be disarmed unless, of course, its limbs are hacked off. In general, creatures with Natural Weapons are immune to the Power Field quality, as it is assumed they have enough teeth, claws, or spines to ignore a few being removed. Natural weapons have the Primitive (7) weapon quality unless stated otherwise in the profile. "
+    },
+    {
+      "trait": "Navigator",
+      "id": "navigator",
+      "description": "This individual was born with the Navigator gene, either of the Navis Nobilite or in the shadowed ranks of the unlicensed. The Warp Eye stares balefully from his forehead, allowing him to perceive the ebbs and flows of the empyrean. This trait allows characters to purchase the Psyniscience skill and Navigator Powers. The character also counts as being a Psyker for purposes of talents, equipment, etc., but not for purposes of Prerequisites. In addition, all Navigators possess the Lidless Stare Navigator power."
+    },
+    {
+      "trait": "Non-Imperial",
+      "id": "non-imperial",
+      "description": "This Character was not raised amongst humans, and knows little about the culture and history of the Imperium. The laws, traditions, religion and superstitions of Mankind are unfamiliar and alien to Characters with this trait. The character suffers a -10 penalty on all Common Lore, Forbidden Lore and Scholastic Lore tests relating to the Imperium of Man. "
+    },
+    {
+      "trait": "Phase",
+      "id": "phase",
+      "description": "A creature with this trait can transform its body into an insubstantial state, passing ghost-like through solid objects or barriers of any sort. This trait functions exactly like the Incorporeal trait, except the creature may become solid or insubstantial by spending a Half Action. Phase carries additional limitations. A creature in a phased state cannot cross psychically charged barriers, holy wards, or energy fields designed to flux space or manipulate the warp, such as a Gellar Field or a Void Shield."
+    },
+    {
+      "trait": "Power From Pain",
+      "id": "power-from-pain",
+      "description": "To stave off the slow dwindling of their own withered souls, the Druhkari must sup upon the tormented essence of others, devouring their pain and suffering to invigorate the body and renew the spirit. When glutted upon the suffering of others, Druhkari are almost unstoppable, gaining supernatural might and becoming heedless of peril. \n\nA Druhkari character gains a single __Pain Token__ whenever one or more living creatures (in other words, things that are not machines, daemonic, or otherwise “non-living”) within a number of metres equal to his Perception Bonus are killed, Stunned, suffer non-lethal Critical Damage, suffer Blood Loss, fail a Fear or Pinning Test, or are otherwise subjected to excruciating pain (gaining a single Pain Token after a set amount of time, depending on the nature and intensity of the pain, at the GM's discretion). \n\nEach time a Druhkari character accumulates eight __Pain Tokens__, he immediately expends them to gain a single temporary Fate Point, which may be spent as normal and vanishes at the end of the session if it goes unused. A Fate Point gained from accumulated __Pain Tokens__ cannot be “burnt.” \n\nEach failed malignancy test adds +1 to the number of __Pain Tokens__ the character requires in order to gain this additional Fate Point. A character may not gain more than one __Pain Token__ from any Action or non-Action event (such as the effects of the Crippling, Flame, or Toxic Weapon Qualities, or environmental effects) except as noted by certain Talents, etc. For example, non-lethal Critical Damage that also Stuns a creature only grants a single Pain Token, and even a Multiple Attacks Action or thrown grenade that harms several enemies simultaneously (or the same foe repeatedly) only yields a single Pain Token for the Action. Any session in which the Druhkari gains at least 1 __Pain Token__ they do not count as suffering from the [She Who Thirsts](/character/traits#she-who-thirsts) trait"
+    },
+    {
+      "trait": "Psyker",
+      "id": "psyker",
+      "description": "Whether due to unnatural influences, the study of forbidden lore, or simply sheer force of will, this individual is a psyker. Though this trait has no benefits on its own, it allows characters to purchase the Psyniscience skill and psychic powers. All psykers have a psy rating (or PR) which is listed out for each NPC. "
+    },
+    {
+      "trait": "Quadruped",
+      "id": "quadruped",
+      "description": "Quadrupeds are much quicker over a distance than their bipedal counterparts, and their movement is double that normally indicated by their Agility bonus. This trait is intended to cover creatures that travel on their hind legs and forepaws, rapidly crossing surface terrain or tall foliage. Creatures with more than four legs may gain this trait as well, increasing their movement as indicated above but adding an additional 2 (after doubling) to their final movement rate for each set of legs beyond the first two pairs (i.e., +2 for 6 legs, +4 for 8 legs, etc.)."
+    },
+    {
+      "trait": "Regeneration (X)",
+      "id": "regeneration",
+      "description": "Physiological enhancements, mutations, xenos physiology, and even Warp-corruption can all result in organisms that heal from injury at an inconceivable pace. Each round, at the start of its turn, the creature can make a Toughness test to remove an amount of damage indicated in the parentheses after the trait. "
+    },
+    {
+      "trait": "Sanctioned",
+      "id": "sanctioned",
+      "description": "As part of the tithes every world owes the Imperium, each must collect all who show any sign of psychic abilities for the Black Ships to carry to Terra. There, the Adeptus Astra Telepathica conduct fearsome testing known as sanctioning for power levels, mental strength, and other factors that decide each psyker's fate. To survive is to have passed these tests, and gone on to serve the Emperor as a Sanctioned Psyker. If a Sanctioned character gains the Psyker elite advance, he does not gain the Corruption normally inflicted with that advance and starts at psy rating of 2 instead of 1. "
+    },
+    {
+      "trait": "She Who Thirsts",
+      "id": "she-who-thirsts",
+      "description": "While the Aeldari understand the threat of all the Chaos Gods as being dire, no single entity poses a greater threat to Aeldari existence than Slaanesh. This manifests itself as a leeching of their spirit, a perpetual drain upon their fundamental essence that cannot be stopped, only delayed. \n\nAeldari gain Corruption Points as normal, but do not gain mutations or malignancies; instead, a failed Malignancy Test imparts a greater appearance of age and greater frailty, an Aeldari nominates a single Characteristic other than Willpower or a Characteristic that has nominated in this way before. At the end of any session, or other intervals as determined by the GM, in which the Aeldari is still suffering from this trait, they suffer 1d5 Willpower Damage, plus 1d5 Damage to any other Characteristics that they have chosen from failed Malignancy Tests. This Damage does not begin to heal until the character is no longer suffering from this trait. \n\nSee the Power From Pain trait and Empty Spirit Stone equipment."
+    },
+    {
+      "trait": "Size (X)",
+      "id": "size",
+      "description": "Creatures come in one of ten different size categories. Size affects movement, how well the creature can hide and move undetected, and how easy or hard it is to strike in combat. When calculating movement, apply the size modifier first, and then other modifiers from other traits or talents (such as Quadruped). Note that a creature's movement cannot be reduced to less than 1.\n__Size And Examples__|__Modifier To Hit__|__Stealth__|__Base Movement__\n---|---|---|---\nMiniscule (1): Autoquill, Knife|-30|+30|AgB-3\nPuny (2): Bolt pistol, Servo-skull|-20|+20|AgB-2\nScrawny (3): Gretchin, Human child|-10|+10|AgB-1\nAverage (4): Human, Eldar|+0|+0|AgB\nHulking (5): Ork Nob, Armoured Space Marine|+10|-10|AgB+1\nEnormous (6): Sentinel Walker, Autocarriage|+20|-20|AgB+2\nMassive (7): Chimera, Greater Daemon|+30|-30|AgB+3\nImmense (8): Land Raider, Valkyrie Gunship|+40|-40|AgB+4\nMonumental (9): Ork Squiggoth, Baneblade super-heavy tank|+50|-50|AgB+5\nTitanic (10): Reaver Battle Titan, Ordinatus war machine|+60|-60|AgB+6"
+    },
+    {
+      "trait": "Sonar Sense",
+      "id": "sonar-sense",
+      "description": "A creature with this trait perceives its surroundings by emitting uniquely toned pulses, allowing the creature to locate the position of any solid object within 30 metres. Other creatures within this 30 metre range that succeed on a Difficult (-10) Awareness skill can detect the oddly-pitched sounds echoing around them. "
+    },
+    {
+      "trait": "Soul Bound",
+      "id": "soul-bound",
+      "description": "The soul of this creature is bound to a higher power or being, in return for a measure of protection. When this trait is first gained, the entity to which the soul is bound must be decided. Many Imperial psykers, especially Astropaths, are soul bound to the Emperor, for example, whereas Chaos Sorcerers may be bound to one of the Ruinous Powers. A soul bound psyker rolls an extra die when forced to roll Perils of the Warp, then replaces either the ones die or the tens die with the extra die he rolled to determine the final result. \n\nUpon becoming soul-bound, the psyker must choose one of the following effects: 3d10 Insanity points, the permanent loss of his sight, permanent loss of 1d10 points from one characteristic, or a random mutation. In addition, a soul bound character is permanently indebted to the entity, which undoubtedly entails all manner of other duties and consequences. "
+    },
+    {
+      "trait": "Speak Not Unto The Alien",
+      "id": "speak-not-unto-the-alien",
+      "description": "This character is a member of an alien species, viewed with a mixture of fear and loathing by those of other species, and so is essentially different in form and thought that any kind of social interaction is a significant challenge. This creature counts all Fellowship-based tests as being two steps more difficult when dealing with creatures of a species other than its own. \n\nAdditionally, those of other species treat their Fellowship-based tests as being two steps more difficult when dealing with him. These penalties do not apply when dealing with individuals who have come to trust the xenos player character, for whatever reason (although the final arbitrator of this is the GM). \n\nFinally, the presence of any xenos aboard a human vessel is unsettling for the crew, and as rumours spread, discontent over the alien in their midst becomes noticeable. The continued presence of one or more xenos player characters aboard a ship reduces its Morale by 2."
+    },
+    {
+      "trait": "Stampede",
+      "id": "stampede",
+      "description": "Whenever a creature with this trait fails a Willpower test, it automatically moves in a straight line forwards as far as possible, overrunning anything in its path until the source of danger is escaped or crushed under hoof. Anyone in the way suffers a single hit from the creature's Natural Weapons (or 1d5+SB Impact damage if it does not have that trait). One stampeding creature automatically causes all other creatures with the same trait within sight to stampede as well. The stampede lasts until the source of danger is no longer visible or for 1d10 minutes, whichever occurs last. "
+    },
+    {
+      "trait": "Stuff of Nightmares",
+      "id": "stuff-of-nightmares",
+      "description": "Some Warp entities are so terribly powerful that the willpower perpetuating their bodies in reality is almost impossible to break or disrupt. Such creatures count as having the Undying trait, and are completely immune to most environmental hazards, Blood Loss, and Stunning. They also ignore any Critical Effect other than one that would destroy them outright, unless it was caused by a psychic power, force weapon, or holy attack."
+    },
+    {
+      "trait": "Sturdy",
+      "id": "sturdy",
+      "description": "Sturdy creatures are hard to move, and thus gain a +20 bonus to tests made to resist Grappling and Knock Down actions, and uses of the Takedown talent. "
+    },
+    {
+      "trait": "Strange Physiology",
+      "id": "strange-physiology",
+      "description": "A creature with this trait has an unusual, alien, or altogether bizarre anatomy. All hits count as Body hits and death results when damage equals or exceeds the creature's Wounds."
+    },
+    {
+      "trait": "Touched by the Fates (X)",
+      "id": "touched-by-the-fates",
+      "description": "Where the naive might see only luck, those who have glimpsed the true nature of the galaxy can see when powers outside this realm have made their favour known. The NPC has a number of Fate points shown in parentheses (X). It can use these Fate points in exactly the same way as Player Characters and can even burn a Fate point to survive death and destruction at the GM's discretion. The NPC's attacks also use the rules for Righteous Fury. "
+    },
+    {
+      "trait": "Toxic (X)",
+      "id": "toxic",
+      "description": "A creature with this trait has corrosive blood or other exotic defensive mechanisms that inflict harm when it is struck. A character that successfully deals damage to a Toxic creature in melee combat must make a Toughness test at the end of his turn with a penalty equal to 10 times the number in parentheses (X), or suffer 1d10 points of Energy damage not reduced by Armour or Toughness. For example, a creature with Toxic (4) would impose a -40 on Toughness tests. Some creatures carry additional effects with their toxins, or inflict more damage as indicated in their individual descriptions. "
+    },
+    {
+      "trait": "Undying",
+      "id": "undying",
+      "description": "This creature has a strange and barely understood physiology. It cannot be harmed by diseases, poisons, or toxic effects. It also has no need to breathe, and thus can survive unaided in a vacuum. "
+    },
+    {
+      "trait": "Unnatural Characteristic (X)",
+      "id": "unnatural-characteristic",
+      "description": "One or more of the creature's characteristics is unnaturally enhanced. This is indicated by a number that is then added directly to the relevant Characteristic bonus. For example, a creature with a Strength of 41 normally has a Strength bonus of 4. If the creature had Unnatural Strength (3) then its Strength bonus increases to 7 (4+3). A creature can have this trait more than once, but each time must be applied to a new characteristic. Successful tests using a characteristic tied to this trait gain a number of bonus degrees of success equal to half the Unnatural Characteristic value. "
+    },
+    {
+      "trait": "Unnatural Senses (X)",
+      "id": "unnatural-senses",
+      "description": "The creature can perceive its surroundings using senses other than sight or hearing, such as special organs, fine hairs, or some other disturbing ability. This trait always includes a range in metres indicated by the number in parentheses (X). "
+    },
+    {
+      "trait": "Warp Instability",
+      "id": "warp-instability",
+      "description": "Most Warp-entities have a tenuous hold on reality, often maintained only by horror and bloodshed, and can be disrupted if sufficient harm can be done to their manifested forms. If a creature with this trait takes damage and does not deal any damage or Insanity points to another creature by the end of its next turn, it must make a Willpower test. The creature suffers 1 point of damage for failing, plus 1 additional point of damage for each degree of failure. If this would deal damage equal to (or in excess of) the creature's wounds, it is cast back into the Warp. "
+    },
+    {
+      "trait": "Warp Weapons",
+      "id": "warp-weapons",
+      "description": "Creatures with this trait have weapons that are partially insubstantial, able to ignore such mundane things as armour or cover. Natural weapons and attacks made by a creature with this trait ignore physical armour, unless the armour is created from psychoactive materials or is somehow warded against the Warp. Force fields still work against these attacks normally."
+    }
+  ]
+}

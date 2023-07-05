@@ -1,0 +1,43 @@
+{
+  "info": "# Rogue Trader - Elite Advance",
+  "type": "EliteAdvance",
+  "data": {
+    "eliteAdvance": "Rogue Trader",
+    "cost": 300,
+    "prerequisites": [
+      {
+        "title": "Talent",
+        "description": "Air of Authority"
+      },
+      {
+        "title": "Warrant of Trade",
+        "description": "The Warrant of Trade is the instrument by which a Rogue Trader is granted his lofty position and the method by which he exercises his considerable powers. Warrants are granted on the highest of authorities, usually by the office of the High Lords of Terra themselves—and by extension, the Emperor. The issuing of a Warrant is an occasion of great significance, marked by extravagant pomp and ceremony, for it marks the establishment of a new noble line that, should the recipient prove successful, might conquer and rule entire regions of space in the name of the Imperium, thus expanding Mankind's domains. Warrants are issued for many reasons. Some are granted in recognition of a great service done to the Imperium, while others are created for entirely political ends. Rogue Trader Warrants are hereditary. Once one is issued, it will be passed down from one generation to the next, at least for as long as there are heirs extant to receive it. Many Rogue Trader lines die out and yet more are created to replace them, ensuring a constant supply of individuals driven to expand the Imperium's holdings. New lines are created as a reward for military service, as a tool for political purposes, self-rewarded by the powerful, or as a means of virtual exile for those with powerful enemies."
+      }
+    ],
+    "instantChanges": [
+      "Forbidden Lore (Rogue Traders)",
+      "__Exceptional Leader__ (See Below)",
+      "Leadership Aptitude"
+    ],
+    "information": [
+      {
+        "title": "Exceptional Leader",
+        "description": "As a free action once per round, the Rogue Trader may grant an ally that he can see and who can hear him +10 to any one test. The Rogue Trader's Exceptional Leader ability may be used once per Strategic Turn in Space Combat, provided that they can both see and hear the Rogue Trader. Typically, this means they must be in the same location aboard the ship (such as the bridge). The Rogue Trader may not give himself the bonus from Exceptional Leader."
+      }
+    ],
+    "talents": [
+      {
+        "tier": 1,
+        "talent": "Renowned Warrant",
+        "id": "renowned-warrant",
+        "prerequisites": null,
+        "aptitudes": [
+          "Fellowship",
+          "Social"
+        ],
+        "benefit": "The character's Warrant of Trade is ancient and hallowed, signed before the Imperium knew of the Expanse, and garners the respect of merchants and officials alike. The character gains a +10 bonus to Interaction Skill Tests with those who understand the importance of the warrant, such as other traders and Imperial official .",
+        "source": "Rogue Trader"
+      }
+    ]
+  }
+}

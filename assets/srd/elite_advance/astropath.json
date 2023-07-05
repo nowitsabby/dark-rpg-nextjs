@@ -1,0 +1,92 @@
+{
+  "info": "# Astropath - Elite Advance",
+  "type": "EliteAdvance",
+  "data": {
+    "eliteAdvance": "Astropath",
+    "cost": 300,
+    "prerequisites": [
+      {
+        "title": "Traits",
+        "description": "Sanctioned, Psyker"
+      }
+    ],
+    "instantChanges": [
+      "Soul Bound trait; instead of choosing a side effect, the Astropath permanently loses their sight",
+      "Unnatural Senses (X) trait; where X equals the Astropath's Willpower characteristic.",
+      "Gain access to Astropath psychic power discipline"
+    ],
+    "talents": [
+      {
+        "tier": 3,
+        "talent": "Bound to the Highest Power",
+        "id": "bound-to-the-highest-power",
+        "prerequisites": [
+          "Warp Lock"
+        ],
+        "aptitudes": [
+          "Willpower",
+          "Defence"
+        ],
+        "benefit": "The Astropath may spend a Fate Point to ignore a Psychic Phenomena he has rolled (including a result of Perils of the Warp), completely negating its effects. Doing so requires him to distance himself from the Warp, and he cannot use the Focus Power action or sustain psychic powers until the start of his next turn.",
+        "source": "Enemies Beyond"
+      },
+      {
+        "tier": 3,
+        "talent": "Supreme Telepath",
+        "id": "supreme-telepath",
+        "prerequisites": [
+          "Fellowship 40",
+          "Willpower 50"
+        ],
+        "aptitudes": [
+          "Fellowship"
+        ],
+        "benefit": "Before making a Focus Power test to manifest a power from the Telepathy discipline or the Astropath discipline, the Astropath may spend a Fate point to increase his psy rating by an amount equal to half his Willpower bonus (rounded down) for that test.",
+        "source": "Enemies Beyond"
+      },
+      {
+        "tier": 2,
+        "talent": "Second Sight",
+        "id": "second-sight",
+        "prerequisites": [
+          "Perception 35"
+        ],
+        "aptitudes": [
+          "Perception ",
+          "Willpower"
+        ],
+        "benefit": "The value of the Astropath's Unnatural Senses trait increases to twice his Willpower characteristic.",
+        "source": "Enemies Beyond"
+      },
+      {
+        "tier": 3,
+        "talent": "Soul Ward",
+        "id": "soul-ward",
+        "prerequisites": [
+          "Strong Minded",
+          "Willpower 50"
+        ],
+        "aptitudes": [
+          "Willpower",
+          "Defence"
+        ],
+        "benefit": "The Astropath may re-roll Willpower tests he must make due to Psychic Phenomena or Perils of the Warp, tests to avoid gaining mutations, and tests to resist daemonic possession.",
+        "source": "Enemies Beyond"
+      },
+      {
+        "tier": 2,
+        "talent": "Warp Awareness",
+        "id": "warp-awareness",
+        "prerequisites": [
+          "Warp Sense"
+        ],
+        "aptitudes": [
+          "Perception ",
+          "Psyker"
+        ],
+        "benefit": "The Astropath may use his Psyniscience skill in place of his Awareness skill for Awareness tests.",
+        "source": "Enemies Beyond"
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "info": "# Inquisitor - Elite Advance",
+  "type": "EliteAdvance",
+  "data": {
+    "eliteAdvance": "Inquisitor",
+    "cost": 1000,
+    "prerequisites": [
+      {
+        "title": "Influence",
+        "description": "75"
+      },
+      {
+        "title": "Emperor's Blessing",
+        "description": "A character elevates to this rank through the decree of an existing Inquisitor or some other suitably momentous occasion. Only an exceptional individual, who has performed mighty deeds and displayed sufficient courage, might be gifted such power and authority; it is not something that is offered lightly. See __Becoming an Inquisitor__ below"
+      }
+    ],
+    "instantChanges": [
+      "Peer (Inquisition)",
+      "Forbidden Lore (Pick One)",
+      "Leadership Aptitude"
+    ],
+    "information": [
+      {
+        "title": "Becoming an Inquisitor",
+        "description": "Just as each Inquisitor is unique, so are the means by which each gains his office. Few who know of the true burden such power carries would desire such ascension; Acolytes might serve their Inquisitor their entire lives and never even consider it.Many Inquisitors are drawn from the ranks of Acolytes, for they may have at least a glimpse of what dread responsibilities it carries. Others might come from outside, discovered during investigations or battles and through deeds and fortitude proved themselves worthy. There is no standard way a new Inquisitor is named or to decide when one is ready to become an Inquisitor. Some are created via a master/apprentice relationship, but others might happen in a joint decision from a group of Inquisitors, or acclamation of peers. There could be grand ceremonies in opulent palaces, or a simple clasping together of their arms before the new Inquisitor departs. The only constants are the truths they share, the power they wield, and the burdens they carry knowing that if they falter, Mankind is doomed..."
+      }
+    ],
+    "talents": [
+      {
+        "tier": 1,
+        "talent": "Shared Destiny",
+        "id": "shared-destiny",
+        "prerequisites": [
+          "Willpower 40"
+        ],
+        "aptitudes": [
+          "Fellowship",
+          "Leadership"
+        ],
+        "benefit": "The character may spend two Fate points as a Free Action to grant another character within 10 metres a Fate point. Likewise, any character in 10 metres may spend two Fate points as a Free Action to grant this character a Fate point. This does not allow characters to gain Fate points in excess of their Fate threshold",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "tier": 2,
+        "talent": "Complete Control",
+        "id": "complete-control",
+        "prerequisites": [
+          "Perception 45"
+        ],
+        "aptitudes": [
+          "Intelligence",
+          "Social"
+        ],
+        "benefit": "The character may spend a Fate point to gain one of the following for the duration of the session: a bonus to Influence checks equal to their WpB; or impose a penalty to any Tests made to identify them or their warband equal to their WpB * 10. Repeated uses do not stack, but can be used to change from one effect to the other",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "tier": 2,
+        "talent": "Jack of All Trades",
+        "id": "jack-of-all-trades",
+        "prerequisites": [
+          "Intelligence 45"
+        ],
+        "aptitudes": [
+          "Knowledge"
+        ],
+        "benefit": "When this talent is acquired, the character gains all unknown non-Specialist skills as Known skills (rank 1)",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "tier": 2,
+        "talent": "Shield of Contempt",
+        "id": "shield-of-contempt",
+        "prerequisites": [
+          "Willpower 50"
+        ],
+        "aptitudes": [
+          "Defence",
+          "Toughness"
+        ],
+        "benefit": "Whenever this character would gain any amount of Corruption points, he may spend a Fate point to gain 0 instead",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "tier": 2,
+        "talent": "Strength through Conviction",
+        "id": "strength-through-conviction",
+        "prerequisites": [
+          "Willpower 50"
+        ],
+        "aptitudes": [
+          "Defence",
+          "Willpower"
+        ],
+        "benefit": "Whenever this character would gain any amount of Insanity points, he may spend a Fate point to gain 0 instead",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "tier": 3,
+        "talent": "Fated",
+        "id": "fated",
+        "prerequisites": [
+          "Inspired Intuition",
+          "Shield of Contempt",
+          "Strength through Conviction"
+        ],
+        "aptitudes": [
+          "Knowledge",
+          "Willpower"
+        ],
+        "benefit": "When this talent is acquired, the character immediately increases his Fate threshold by one.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "tier": 3,
+        "talent": "Master of All Trades",
+        "id": "master-of-all-trades",
+        "prerequisites": [
+          "Intelligence 55",
+          "Jack of All Trades"
+        ],
+        "aptitudes": [
+          "Knowledge"
+        ],
+        "benefit": "When this talent is acquired, the character immediately advances all Known skills (rank 1) to Trained (rank 2).",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "tier": 3,
+        "talent": "Will of the Inquisitor",
+        "id": "will-of-the-inquisitor",
+        "prerequisites": [
+          "Fated",
+          "Intelligence 50",
+          "Perception 50",
+          "Willpower 55"
+        ],
+        "aptitudes": [
+          "Knowledge",
+          "Willpower"
+        ],
+        "benefit": "Before rolling the d100 when making a test, the character may spend one Fate point to count as having rolled a result of 01 on that roll",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "tier": 3,
+        "talent": "Aegis of Contempt",
+        "id": "aegis-of-contempt",
+        "prerequisites": [
+          "Shared Destiny",
+          "Shield of Contempt",
+          "Hatred (any)"
+        ],
+        "aptitudes": [
+          "Defence",
+          "Leadership"
+        ],
+        "benefit": "Whenever this character or an ally within 10 metres gains Corruption, reduce the amount gained by 1 to a minimum of 0. In addition, an ally within 10 metres can spend a Fate point to gain 0 Corruption instead. These effects do not stack when there are multiple characters with this talent within range",
+        "source": "Enemies Within"
+      },
+      {
+        "tier": 3,
+        "talent": "Into the Jaws of Hell",
+        "id": "into-the-jaws-of-hell",
+        "prerequisites": [
+          "Adamantium Faith",
+          "Halo of Command",
+          "Will of the Inquisitor"
+        ],
+        "aptitudes": [
+          "Fellowship",
+          "Leadership"
+        ],
+        "benefit": "Followers and Allies within 10 metres can subtract the Inquisitor's Fellowship bonus from their degrees of failure on a failed Fear or Pinning test, so long as the Inquisitor passes the test. If this reduces the degrees of failure to 0 or less, a character counts as having passed the test with 1 degree of success. The effects of this talent apply to Acolytes in the Inquisitor's warband and to other servants of the Imperium fighting under the Inquisitor's orders, as well as others at the GM's discretion.",
+        "source": "Enemies Within"
+      },
+      {
+        "tier": 3,
+        "talent": "Indomitable Conviction",
+        "id": "indomitable-conviction",
+        "prerequisites": [
+          "Shared Destiny",
+          "Strength through Conviction",
+          "Resistance (Fear)",
+          "Jaded"
+        ],
+        "aptitudes": [
+          "Willpower",
+          "Leadership"
+        ],
+        "benefit": "Whenever this character or an ally within 10 metres gains Insanity, reduce the amount gained by 1. In addition, an ally within 10 metres can spend a Fate point to gain 0 Insanity instead. These effects do not stack when there are multiple characters with this talent within range",
+        "source": null
+      }
+    ]
+  }
+}

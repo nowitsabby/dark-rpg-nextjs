@@ -1,0 +1,155 @@
+{
+  "info": "# Pyromancy - Psychic Discipline",
+  "type": "PsychicDiscipline",
+  "data": {
+    "discipline": "Pyromancy",
+    "information": "A most destructive discipline, pyromancy allows a psyker to control and create flame using his mind. These powers focus on combat, from incinerating foes from within to summoning walls of flame to shield allies. Pyromancers are greatly feared, for their powers are often difficult to control once released, and can inflict great collateral damage.",
+    "powers": [
+      {
+        "power": "Manipulate Flame",
+        "cost": 100,
+        "prerequisites": [
+          "Willpower 35"
+        ],
+        "action": "Half",
+        "focus": "+20 Willpower",
+        "range": "10m * PR",
+        "sustained": "Half",
+        "subtypes": [
+          "Attack"
+        ],
+        "effects": "The psyker chooses a patch of fire in range and line of sight with a radius no greater than PR metres. Each round, he can either extinguish or control the fire. If he extinguishes the fire, this power ends and the fire goes out. If he controls the fire, he can move it up to a number of metres equal to his psy rating per round along a flammable surface.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Spontaneous Combustion",
+        "cost": 200,
+        "prerequisites": [
+          "Willpower 40"
+        ],
+        "action": "Half",
+        "focus": "+10 Willpower",
+        "range": "20m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Attack"
+        ],
+        "effects": "Psychic Bolt; 1d10+2+2*PR E; Pen 0; Special: Flame",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Cauterise",
+        "cost": 300,
+        "prerequisites": [
+          "Willpower 45"
+        ],
+        "action": "Half",
+        "focus": "+20 Willpower",
+        "range": "1m",
+        "sustained": "No",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker chooses himself or another character he can physically touch. If the target is suffering from Blood Loss, successfully using the power removes that condition.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Fire Shield",
+        "cost": 300,
+        "prerequisites": [
+          "Agility 40"
+        ],
+        "action": "Half",
+        "focus": "+0 Willpower",
+        "range": "20m * PR",
+        "sustained": "Free",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "While this power is in effect, any character in range and line of sight that successfully strikes the psyker with an attack immediately suffers Energy damage, with the Flame special quality, equal to the psyker's psy rating. The degrees of success on this attack are equal to those from the Focus Power test, and the inflicted damage is not reduced by Armour or Toughness bonus.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Flame Breath",
+        "cost": 300,
+        "prerequisites": [
+          "Psy Rating 3"
+        ],
+        "action": "Half",
+        "focus": "+0 Willpower",
+        "range": "20m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Attack"
+        ],
+        "effects": "Psychic Barrage; 1d10+2+2*PR E; Pen 0; Special: Flame",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Fiery Form",
+        "cost": 400,
+        "prerequisites": [
+          "Psy Rating 4"
+        ],
+        "action": "Half",
+        "focus": "-10 Willpower",
+        "range": "Self",
+        "sustained": "Half",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "While this power is in effect, all of the psyker's melee attacks deal additional Energy damage equal to his psy rating and gain the Flame quality. In addition, at the end of each of the psyker's turns in which he sustains this power, he emits a Psychic Blast (1d10+PR E; Pen 0; Special: Blast (PR), Flame) centred on his location. Each character within the area of the blast, with the exception of the psyker himself, are struck.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Molten Beam",
+        "cost": 400,
+        "prerequisites": [
+          "Psy Rating 4"
+        ],
+        "action": "Half",
+        "focus": "+0 Willpower",
+        "range": "5m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Attack"
+        ],
+        "effects": "Psychic Bolt; 1d10+5+3*PR E; Pen 2*PR; Special: Melta",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Sunburst",
+        "cost": 400,
+        "prerequisites": [
+          "Psy Rating 4"
+        ],
+        "action": "Half",
+        "focus": "+0 Willpower",
+        "range": "20m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Attack"
+        ],
+        "effects": "Psychic Storm; 1d10+2+2*PR E; Pen 0; Special: Flame",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Inferno",
+        "cost": 500,
+        "prerequisites": [
+          "Psy Rating 5"
+        ],
+        "action": "Half",
+        "focus": "-10 Willpower",
+        "range": "10m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Attack",
+          "Concentration"
+        ],
+        "effects": "Psychic Blast; 2d10+3*PR E; Pen 0; Special: Blast (PR), Flame",
+        "source": "Dark Heresy 2e"
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "info": "# Telekinesis - Psychic Discipline",
+  "type": "PsychicDiscipline",
+  "data": {
+    "discipline": "Telekinesis",
+    "information": "Through the power of the Warp, telekines translate mental impulses into physical force. Powers from the telekinesis discipline can defy gravity, blast opponents with invisible bolts of force, and even tear holes in the very fabric of reality. Such powers offer great utility in a variety of situations, for they allow a psyker to affect the world around him without the constraints of his physical body.",
+    "powers": [
+      {
+        "power": "Telekinetic Control",
+        "cost": 100,
+        "prerequisites": [
+          "Willpower 35"
+        ],
+        "action": "Half",
+        "focus": "+20 Willpower",
+        "range": "10m * PR",
+        "sustained": "Half",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker chooses an object in range and line of sight with a weight no greater than 2 x PR kilograms. At the beginning of each of his turns, he can move the object in any direction up to a number of metres equal to twice his psy rating. If the object ever leaves the range of the power, the power ends",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Assail",
+        "cost": 200,
+        "prerequisites": [
+          "Willpower 40"
+        ],
+        "action": "Half",
+        "focus": "+10 Willpower",
+        "range": "20m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Attack",
+          "Concentration"
+        ],
+        "effects": "Psychic Bolt; 1d10+PR I; Pen 2;\n\nIf the psyker scores at least three degrees of success on the Focus Power test for this attack, the target is also thrown 1d5 metres away and knocked Prone. Certain especially large targets such as battle tanks, Greater Daemons, and Titans are immune to this effect at the Game Master's discretion",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Telekine Shield",
+        "cost": 200,
+        "prerequisites": [
+          "Intelligence 40"
+        ],
+        "action": "Half",
+        "focus": "+20 Willpower",
+        "range": "Self",
+        "sustained": "Free",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "For the duration of the power, all of the psyker's Hit Locations count as being protected by cover with an Armour Value equal to half this power's psy rating. This shield can be damaged just like normal cover by damage that exceeds the shield's Armour Value. If the shield is reduced to 0 Armour points, the power stops, and is no longer sustained.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Crush",
+        "cost": 300,
+        "prerequisites": [
+          "Willpower 45"
+        ],
+        "action": "Half",
+        "focus": "+0 Opposed Willpower",
+        "range": "10m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Attack",
+          "Concentration"
+        ],
+        "effects": "The psyker nominates a single target in range and line of sight who opposes this power with a Toughness test. If the target fails to resist the power, it suffers the attack below\n\nPsychic Bolt; 1d10+PR I; Pen 2; Special: Snare (PR/2)",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Objuration Mechanicum",
+        "cost": 300,
+        "prerequisites": [
+          "Intelligence 40"
+        ],
+        "action": "Half",
+        "focus": "+0 Willpower",
+        "range": "10m * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker chooses a point anywhere within range and line of sight. This power creates a Haywire Field  centred at this point, with a radius in metres equal to the psyker's psy rating.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Shockwave",
+        "cost": 300,
+        "prerequisites": [
+          "Willpower 50"
+        ],
+        "action": "Half",
+        "focus": "+0 Willpower",
+        "range": "Self",
+        "sustained": "No",
+        "subtypes": [
+          "Attack",
+          "Concentration"
+        ],
+        "effects": "Each character in the area of effect (other than the psyker) suffers the damage below. He is also pushed directly away from the psyker a number of metres equal to the psyker's psy rating.\n\nPsychic Blast; 1d10+PR X; Pen 0; Special: Blast (PR)",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Telekine Dome",
+        "cost": 300,
+        "prerequisites": [
+          "Psy Rating 4"
+        ],
+        "action": "Half",
+        "focus": "+0 Willpower",
+        "range": "5m * PR",
+        "sustained": "Free",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker chooses a point in range and line of sight, and creates a dome of invisible energy centred on that point with a radius equal to half the psyker's psy rating, rounded up. Each ally (including the psyker, potentially) standing inside the dome gains a number of Armour points equal to the psy rating to all Hit Locations against any attack that originated outside of the dome's radius. However, characters may still physically pass through the dome at no penalty",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Gate of Infinity",
+        "cost": 400,
+        "prerequisites": [
+          "Psy Rating 5"
+        ],
+        "action": "Extended (3)",
+        "focus": "-20 Willpower",
+        "range": "1km * PR",
+        "sustained": "No",
+        "subtypes": [
+          "Concentration"
+        ],
+        "effects": "The psyker chooses a point anywhere within 5 metres times his psy rating, and opens a gate to the Immaterium at that point. He then chooses a point within range of the power, and opens an exit to the gate at that location. The psyker must be aware of the location in which he is opening the exit to the gate, either having visited it before, seen it from afar, or simply studied it on a map. The gate lasts for a number of rounds equal to the psyker's psy rating, and has a radius in metres equal to the psyker's psy rating as well. For the duration of the power, the two sides of the gate are linked, and any person or objects may pass between them freely provided they can fit through the gate. This power is incredibly taxing and requires at least 12 hours of recovery before it may be used again.",
+        "source": "Dark Heresy 2e"
+      },
+      {
+        "power": "Vortex of Doom",
+        "cost": 400,
+        "prerequisites": [
+          "Psy Rating 5"
+        ],
+        "action": "Half",
+        "focus": "-10 Willpower",
+        "range": "5m * PR",
+        "sustained": "Half",
+        "subtypes": [
+          "Attack",
+          "Concentration"
+        ],
+        "effects": "The psyker chooses a point in range and line of sight, and creates a vortex of energy centred on that point that starts with a radius of 2 metres. Each character who is touching the vortex at the end of the psyker's turn suffers damage as detailed below: \n\nPsychic Blast; 2d10+2*PR X; Pen Vortex Radius; Special: Blast (2)\n\nThe psyker cannot voluntarily stop sustaining this power. Instead, at the beginning of each turn the psyker is sustaining the vortex, he must make a Challenging (+0) Willpower test with a –5 penalty for each metre in the vortex's current radius. If he passes the test, he may perform one of the following actions: \n* Increase the vortex's radius by one metre. \n* Decrease the vortex's radius by one metre. \n* Move the vortex any direction a number of metres equal to the psyker's psy rating. \n\nIf the psyker fails the Willpower test to sustain the vortex, or if he is unable to make the test due to other circumstances, its radius increases by one metre and it moves a number of metres equal to the psyker's psy rating in a random direction. If the vortex's radius ever decreases to zero metres, the power ends and the vortex disappears. If the vortex's radius ever grows larger than the psyker's psy rating, it explodes, ending the power, and destroying the vortex. \n\nPsychic Blast; 2d10+4\\*PR X; Pen Vortex Radius; Special: Blast (2\\*PR)\n\nThe psyker is hit by this damage regardless of his proximity to the exploding vortex as the energy of the Warp he was channelling lashes back into him",
+        "source": "Dark Heresy 2e"
+      }
+    ]
+  }
+}

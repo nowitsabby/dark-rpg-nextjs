@@ -1,0 +1,174 @@
+{
+  "info": "# Armour Mods",
+  "type": "Modifications",
+  "data": [
+    {
+      "mod": "Brazier of Saint Roberto",
+      "weight": "+10 kg",
+      "availability": "Common",
+      "upgrades": "Any armour, helmet, or backpack.",
+      "description": "A brazier must be affixed to a backpack, helmet, or similarly worn item. Setting it aflame requires a Half Action and it can burn for 2 hours. Whilst alight, it acts as a glow-globe and grants a +30 bonus to all Charm and Command tests, a +10 bonus to Intimidate tests, and a -40 penalty to all Stealth tests. If the wearer is ever knocked Prone while it is lit, he must pass an Ordinary (+10) Agility test to avoid setting himself on fire.",
+      "source": "Enemies Within"
+    },
+    {
+      "mod": "Devotional Iconography",
+      "weight": "+1 kg",
+      "availability": "Common",
+      "upgrades": "Any armour",
+      "description": "The wearer gains a +10 bonus to Command tests when dealing with those faithful to the Imperium, but suffers a -10 penalty to Fellowship tests when dealing with those not loyal to the Emperor.",
+      "source": "Enemies Within"
+    },
+    {
+      "mod": "Insulated",
+      "weight": "+1 kg",
+      "availability": "Common",
+      "upgrades": "Any armour",
+      "description": "Characters with Insulated upgrades to their armour do not need to take Toughness Tests due to hot temperatures or environments (within reason, as this will not protect against the extreme heat of being burned, for example).",
+      "source": "Black Crusade"
+    },
+    {
+      "mod": "Spikes",
+      "weight": "+3 kg",
+      "availability": "Common",
+      "upgrades": "Flak, Carapace, Power",
+      "description": "Any melee hits against the wearer to a spike-covered part of their body result in the attacker suffering 1d5+1 R Damage to the attacker (Dodge or Parry can negate, as the attacker attempts to twist out of the way). In addition, so long as the upgraded armour covers the wearer's arms, the wearer always counts as being armed with a Knife in melee.",
+      "source": "Black Crusade"
+    },
+    {
+      "mod": "Thermal",
+      "weight": "+1 kg",
+      "availability": "Common",
+      "upgrades": "Any armour",
+      "description": "Characters with Thermal upgrades to their armour do not need to take Toughness Tests due to cold temperatures or environments (within reason, as this will not protect against the extreme cold of a liquid nitrogen sea, for example).",
+      "source": "Black Crusade"
+    },
+    {
+      "mod": "Unguents of Warding",
+      "weight": "-",
+      "availability": "Common",
+      "upgrades": "Any armour",
+      "description": "Working the unguents onto armour takes roughly one hour, and empties one container for each hit location treated. As part of the process, careful rituals must also be performed to inscribe runes and litanies into the armour. This requires a Hard (-20) Scholastic Lore (Occult) or Forbidden Lore (Imperial Creed) test for each location; failure means the unguents must be cleaned off that location and the ritual started again. For each hit location treated with Unguents of Warding, the armour grants its wearer a +5 bonus to tests to resist Fear caused by characters with the Daemonic trait and to resist psychic powers. The effects of the unguents last for one month (or less due to wear and tear or contamination, at the GM's discretion).",
+      "source": "Enemies Beyond"
+    },
+    {
+      "mod": "Ablative Materials",
+      "weight": "+2 kg",
+      "availability": "Scarce",
+      "upgrades": "Flak, Mesh, Carapace, and Power armour",
+      "description": "Ablative materials provide +5 AP to the armour upgraded. However, every hit against the armour reduces the AP by one, until the armour is reduced to its standard AP.",
+      "source": "Black Crusade"
+    },
+    {
+      "mod": "Vac-Sealed",
+      "weight": "+2 kg",
+      "availability": "Scarce",
+      "upgrades": "Mesh, Carapace, or Power Armour that covers all locations",
+      "description": "Characters with Vac-Sealed upgrades to their armour can survive in vacuum (or other environments with a hostile atmosphere) for 6 hours without suffering adverse affects. After that time, they run out of oxygen and suffocate.",
+      "source": "Black Crusade"
+    },
+    {
+      "mod": "Ceramite Plating",
+      "weight": "+2 kg",
+      "availability": "Rare",
+      "upgrades": "Carapace and power armour.",
+      "description": "Armour upgraded with ceramite plating provides an additional 3 Armour points of protection against attacks with the Flame or Melta qualities and other heat-based attacks.",
+      "source": "Enemies Within"
+    },
+    {
+      "mod": "Helmet Modifications",
+      "weight": "+1 kg",
+      "availability": "Rare",
+      "upgrades": "Any helmet",
+      "description": "While a basic helmet will offer simple cranial protection, specific upgrades can also add advanced vox links, targeting feeds, visual augmentations, combat data readouts, and more. These can include the benefits of wearing such items as preysense goggles, a rebreather, photo-visor, vox-caster, or micro-bead, with standard upgrades containing all but preysense goggles. Good Craftsmanship models contain the goggles as well, while the user can only choose two of the above for Poor models.",
+      "source": "Black Crusade"
+    },
+    {
+      "mod": "Sacred Incense Burner",
+      "weight": "+3 kg",
+      "availability": "Rare",
+      "upgrades": "Any armour",
+      "description": "A sacred incense burner must be affixed to a backpack, helmet, or similarly worn item. Setting it aflame requires a Half Action and it can burn for 1 hour. While the burner is alight, any creature with the Daemonic trait within 3 metres of the bearer suffers a -10 penalty to Weapon Skill tests and a -10 penalty to Warp Instability tests.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "mod": "Magnetised Boot Soles",
+      "weight": "+2 kg",
+      "availability": "Rare",
+      "upgrades": "Power Armour",
+      "description": "These electromagnetically equipped boot soles allow the user to adhere to metallic surfaces such as exterior hull plating. When activated, reduce the wearer's Agility by half (this also affects Movement), but the wearer may otherwise move normally in low or zero-gravity areas provided there is a suitable surface to walk on.\n\nThis is a power armour sub-system. Sub-systems do not count towards the maximum number of upgrades a piece of armour can have",
+      "source": "Black Crusade"
+    },
+    {
+      "mod": "Diagnostor Sensors",
+      "weight": "-",
+      "availability": "Rare",
+      "upgrades": "Power Armour Helmet",
+      "description": "A paired infra-lens and x-ray imager help the Apothecary monitor small changes in a patient and diagnose internal injuries, even through power armour. A character equipped with a diagnostor helmet gains a +10 to all Medicae Tests where he is working directly on a patient. The improved sensory capabilities also duplicate the effects of a Preysense sight.",
+      "source": "Deathwatch"
+    },
+    {
+      "mod": "Adamantine Chainguard",
+      "weight": "+4 kg",
+      "availability": "Very Rare",
+      "upgrades": "Any armour",
+      "description": "When an enemy uses a melee weapon to strike a character wearing this armour, if the 1s digit of his attack roll is a 1, the weapon is destroyed unless it has the Power Field or Warp Weapon quality, or is otherwise immune to being destroyed (such as being granted by the Natural Weapons trait). When added to non-power armour, this upgrade imposes a -5 penalty on the upgraded armour's Maximum Agility rating due to its bulk.",
+      "source": "Enemies Within"
+    },
+    {
+      "mod": "Auto-Senses",
+      "weight": "+2 kg",
+      "availability": "Very Rare",
+      "upgrades": "Power Armour",
+      "description": "As long as the user wears the upgraded helmet, the wearer gains a +5 bonus to his Ballistic Skill and a +10 bonus to all Awareness tests based on Sight and Hearing. When added to Terminator Armour the wearer also counts as being equipped with an auspex\n\nThis is a power armour sub-system. Sub-systems do not count towards the maximum number of upgrades a piece of armour can have",
+      "source": "Enemies Within"
+    },
+    {
+      "mod": "Truesilver Filigree",
+      "weight": "-",
+      "availability": "Very Rare",
+      "upgrades": "Any armour",
+      "description": "While engaged in melee with the wearer of Truesilver filigreed armour, any character with the Daemonic trait suffers a penalty to Weapon Skill tests equal to 5 times the wearer's Willpower bonus.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "mod": "Potentia Coil Connectors",
+      "weight": "-15%",
+      "availability": "Very Rare",
+      "upgrades": "Power Armour",
+      "description": "The user's potentia coil is directly integrated into the power armour's systems, providing it with endless power. While worn by a character with the Mechanicus Implants trait, this suit of armour does not need to be recharged or replenished to operate. However, the standard power source is removed (reducing the weight by 15%) so this armour will not function when worn by a character without the Mechanicus Implants trait\n\nThis is a power armour sub-system. Sub-systems do not count towards the maximum number of upgrades a piece of armour can have",
+      "source": "Homebrew"
+    },
+    {
+      "mod": "Hexagrammatic Wards",
+      "weight": "-",
+      "availability": "Extremely Rare",
+      "upgrades": "Carapace and power armour.",
+      "description": "The wearer gains a +20 bonus to tests made to resist any psychic attack or manipulation directed at him. The upgraded armour's Armour points are doubled against hits inflicted by psychic attacks. The Warp Weapon quality does not ignore the AP provided by this armour.",
+      "source": "Enemies Within"
+    },
+    {
+      "mod": "Pentagramatic Wards",
+      "weight": "-",
+      "availability": "Extremely Rare",
+      "upgrades": "Any armour",
+      "description": "Whenever a character with the Daemonic or Warp Instability trait becomes engaged in melee with the warded armour's wearer or begins his turn engaged with the wearer, that character must make a Hard (-20) Willpower test. If the character fails, he suffers 1d5 Energy damage per degree of failure (ignoring armour and Toughness bonus). If the character scores 4 or more degrees of success on the test, however, the pentagramatic ward shatters and the armour permanently loses this upgrade.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "mod": "Refractory",
+      "weight": "+1 kg",
+      "availability": "Extremely Rare",
+      "upgrades": "Mesh armour",
+      "description": "Those armour locations upgraded in this manner count as having 3 extra Armour Points against attacks from Las Weapons.",
+      "source": "Black Crusade"
+    },
+    {
+      "mod": "Sustainable Power Source",
+      "weight": "-",
+      "availability": "Near Unique",
+      "upgrades": "Power Armour",
+      "description": "Whether a miniature stacked atomic pile or something more esoteric, the backpack power supply of this armour is effectively everlasting. This suit of armour does not need to be recharged or replenished to operate.\n\nThis is a power armour sub-system. Sub-systems do not count towards the maximum number of upgrades a piece of armour can have",
+      "source": "Black Crusade"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "info": "# Psyker - Elite Advance",
+  "type": "EliteAdvance",
+  "data": {
+    "eliteAdvance": "Psyker",
+    "cost": 300,
+    "prerequisites": [
+      {
+        "title": "Willpower",
+        "description": "40"
+      },
+      {
+        "title": "A Beacon in the Warp",
+        "description": "Characters with the Untouchable or Navigator elite advance cannot gain the Psyker elite advance."
+      }
+    ],
+    "instantChanges": [
+      "Psyker trait",
+      "Psyker Aptitude",
+      "Psy Rating 1",
+      "1d10+3 Corruption"
+    ],
+    "information": [
+      {
+        "title": "Rogue Psykers",
+        "description": "Characters _without_ the Adeptus Astra Telepathica background who gain the Psyker elite advance _are not_ sanctioned. They do not gain the Sanctioned trait and count as Rogue Psykers (see Psychic Strength)."
+      },
+      {
+        "title": "Sanctioned Psykers",
+        "description": "Characters _with_ the Adeptus Astra Telepathica background who gain the Psyker elite advance during Character Creation _are_ Sanctioned. They gain the Sanctioned trait and count as Bound Psykers (see Psychic Strength). As such, the begin play with a Psy Rating of 2, and do not gain Corruption Points when taking this Elite Advance"
+      }
+    ],
+    "advances": [
+      {
+        "advance": "Increase Psy Rating",
+        "cost": "The new Psy Rating * 200xp",
+        "information": "Character's Psy Rating increases by 1"
+      },
+      {
+        "advance": "Learn Psychic Power",
+        "cost": "See cost associated with each Psychic Power",
+        "information": "Character is now able to use the specified power. See Psychic Powers"
+      }
+    ]
+  }
+}

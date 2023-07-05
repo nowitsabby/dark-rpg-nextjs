@@ -1,0 +1,618 @@
+{
+  "info": "# Armour",
+  "type": "Armour",
+  "data": [
+    {
+      "armour": "Heavy Leathers",
+      "type": "Basic",
+      "locations": [
+        "Arms",
+        "Body"
+      ],
+      "ap": 1,
+      "maxAg": null,
+      "description": "",
+      "weight": "5 kg",
+      "availability": "Common",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Quilted Vest",
+      "type": "Basic",
+      "locations": [
+        "Body"
+      ],
+      "ap": 2,
+      "maxAg": null,
+      "description": "",
+      "weight": "2 kg",
+      "availability": "Common",
+      "source": "Black Crusade"
+    },
+    {
+      "armour": "Chainmail Suit",
+      "type": "Basic",
+      "locations": [
+        "Arms",
+        "Body",
+        "Legs"
+      ],
+      "ap": 3,
+      "maxAg": 35,
+      "description": "",
+      "weight": "15 kg",
+      "availability": "Common",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Imperial Robes",
+      "type": "Basic",
+      "locations": [
+        "Arms",
+        "Body",
+        "Legs"
+      ],
+      "ap": 1,
+      "maxAg": null,
+      "description": "",
+      "weight": "4 kg",
+      "availability": "Average",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Beast Furs",
+      "type": "Basic",
+      "locations": [
+        "Body"
+      ],
+      "ap": 2,
+      "maxAg": 50,
+      "description": "",
+      "weight": "10.2kg",
+      "availability": "Average",
+      "source": "Black Crusade"
+    },
+    {
+      "armour": "Feudal World Plate",
+      "type": "Basic",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 5,
+      "maxAg": 25,
+      "description": "",
+      "weight": "30 kg",
+      "availability": "Scarce",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Heavy Plate",
+      "type": "Basic",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 6,
+      "maxAg": 20,
+      "description": "",
+      "weight": "35 kg",
+      "availability": "Scarce",
+      "source": "Inquisitor's Handbook"
+    },
+    {
+      "armour": "Monrass Hide Armour",
+      "type": "Basic",
+      "locations": [
+        "Arms",
+        "Body",
+        "Legs"
+      ],
+      "ap": 3,
+      "maxAg": 30,
+      "description": "wearers gain a +10 bonus on Agility Tests made to avoid catching fire.",
+      "weight": "15kg",
+      "availability": "Very Rare",
+      "source": "Inquisitor's Handbook"
+    },
+    {
+      "armour": "Armoured Bodyglove",
+      "type": "Basic",
+      "locations": [
+        "Arms",
+        "Body",
+        "Legs"
+      ],
+      "ap": 2,
+      "maxAg": null,
+      "description": "",
+      "weight": "5 kg",
+      "availability": "Rare",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Enviro-suit",
+      "type": "Basic",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 0,
+      "maxAg": 40,
+      "description": "The filtration system in an Enviro-suit grants a +40 bonus to any Toughness test made to resist the effects of harmful gasses, as well as a +10 bonus to tests for resisting extreme temperatures and being set on fire. Each contains a separate rebreather unit that lasts for 5 hours before requiring replacement. It is not designed for battle, and offers no combat protection though it can be worn over armour. If the wearer takes more than 5 points of damage in a single round, the suit becomes damaged and ceases to provide filtering benefits until repaired.",
+      "weight": "10 kg",
+      "availability": "Rare",
+      "source": "Enemies Within"
+    },
+    {
+      "armour": "Sanctified Vestments",
+      "type": "Basic",
+      "locations": [
+        "Arms",
+        "Body",
+        "Legs"
+      ],
+      "ap": 5,
+      "maxAg": 45,
+      "description": "Only available to characters with an Adeptus Ministorum background",
+      "weight": "12kg",
+      "availability": "Very Rare",
+      "source": "Shield of Humanity"
+    },
+    {
+      "armour": "Xenos Hide Vest",
+      "type": "Basic",
+      "locations": [
+        "Body"
+      ],
+      "ap": 6,
+      "maxAg": 50,
+      "description": "",
+      "weight": "20 kg",
+      "availability": "Very Rare",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Obsidian Plate",
+      "type": "Basic",
+      "locations": [
+        "Body"
+      ],
+      "ap": 6,
+      "maxAg": 35,
+      "description": "A character wearing this armour gains the Resistance (Psychic Powers) talent, or an additional +10 to tests to resist psychic powers if the character already has this talent. Obsidian plate counts its listed Armour points as triple against hits inflicted by Psychic Bolts. A psyker wearing obsidian plate cannot push his psychic powers, and reduces his psy-rating by 3 (to a minimum of 1).",
+      "weight": "35 kg",
+      "availability": "Very Rare",
+      "source": "Enemies Beyond"
+    },
+    {
+      "armour": "Praetor Armour",
+      "type": "Basic",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 6,
+      "maxAg": 50,
+      "description": "Praetor Armour contains an integral respirator, commlink, photo-visor, targeter, and recoil suppression sleeves, as well as a magnetic harness on the back capable of holding a single basic weapon. Any Acolyte without the Adeptus Mechanicus background gains the Enemy (Adeptus Mechanicus) talent while openly wearing or displaying Praetor Armour.",
+      "weight": "16 kg",
+      "availability": "Extremely Rare",
+      "source": "Enemies Within"
+    },
+    {
+      "armour": "Carapace Chestplate",
+      "type": "Carapace",
+      "locations": [
+        "Body"
+      ],
+      "ap": 6,
+      "maxAg": 55,
+      "description": "",
+      "weight": "7 kg",
+      "availability": "Rare",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Carapace Helm",
+      "type": "Carapace",
+      "locations": [
+        "Head"
+      ],
+      "ap": 4,
+      "maxAg": null,
+      "description": "",
+      "weight": "2 kg",
+      "availability": "Rare",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Carapace Gauntlets",
+      "type": "Carapace",
+      "locations": [
+        "Arms"
+      ],
+      "ap": 5,
+      "maxAg": null,
+      "description": "",
+      "weight": "2 kg",
+      "availability": "Rare",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Carapace Greaves",
+      "type": "Carapace",
+      "locations": [
+        "Legs"
+      ],
+      "ap": 5,
+      "maxAg": null,
+      "description": "",
+      "weight": "3 kg",
+      "availability": "Rare",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Magistratum Combat Carapace",
+      "type": "Carapace",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 5,
+      "maxAg": 45,
+      "description": "The suit of armour also has a built-in respirator, comm-bead and photo-visor.",
+      "weight": "16 kg",
+      "availability": "Very Rare",
+      "source": "Inquisitor's Handbook"
+    },
+    {
+      "armour": "Enforcer Light Carapace",
+      "type": "Carapace",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 5,
+      "maxAg": 45,
+      "description": "",
+      "weight": "15 kg",
+      "availability": "Rare",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Judge's Carapace",
+      "type": "Carapace",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 5,
+      "maxAg": 45,
+      "description": "Judge's carapace armour has a helmet equipped with an integral encrypted micro-bead, good quality photo-visor (granting him Dark Sight and allowing him to ignore photon flash grenades), and a vox-amplifier (allowing the user to amplify his voice to near-deafening levels). A small stab-light can also be attached to the shoulder pads. These systems are powered by a small charge pack (equivalent in size and cost to a lasgun charge pack) that must be replaced after a week of continuous use.",
+      "weight": "15.5 kg",
+      "availability": "Rare",
+      "source": "Ascension"
+    },
+    {
+      "armour": "Militarum Tempestus Carapace",
+      "type": "Carapace",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 6,
+      "maxAg": 45,
+      "description": "",
+      "weight": "15 kg",
+      "availability": "Very Rare",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Crimson Armour",
+      "type": "Carapace",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 6,
+      "maxAg": 50,
+      "description": "Crimson armour comes equipped with a Good Quality photo-visor and grants the wearer the Unnatural Strength (1) Trait (or increases the value of this Trait by 1). Crimson armour is environmentally sealed as long as the helmet is worn. Only available to characters with an Adeptus Mechanicus background",
+      "weight": "6kg",
+      "availability": "Extremely Rare",
+      "source": "Shield of Humanity"
+    },
+    {
+      "armour": "Flak Helmet",
+      "type": "Flak",
+      "locations": [
+        "Head"
+      ],
+      "ap": 2,
+      "maxAg": null,
+      "description": "+1 AP vs Blast splash damage",
+      "weight": "2 kg",
+      "availability": "Average",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Flak Gauntlets",
+      "type": "Flak",
+      "locations": [
+        "Arms"
+      ],
+      "ap": 2,
+      "maxAg": null,
+      "description": "+1 AP vs Blast splash damage",
+      "weight": "1 kg",
+      "availability": "Average",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Flak Vest",
+      "type": "Flak",
+      "locations": [
+        "Body"
+      ],
+      "ap": 3,
+      "maxAg": 60,
+      "description": "+1 AP vs Blast splash damage",
+      "weight": "5 kg",
+      "availability": "Average",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Flak Pants",
+      "type": "Flak",
+      "locations": [
+        "Legs"
+      ],
+      "ap": 2,
+      "maxAg": null,
+      "description": "+1 AP vs Blast splash damage",
+      "weight": "2 kg",
+      "availability": "Average",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Flak Coat",
+      "type": "Flak",
+      "locations": [
+        "Arms",
+        "Body"
+      ],
+      "ap": 3,
+      "maxAg": 60,
+      "description": "+1 AP vs Blast splash damage",
+      "weight": "5 kg",
+      "availability": "Average",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Light Flak Cloak",
+      "type": "Flak",
+      "locations": [
+        "Arms",
+        "Body",
+        "Legs"
+      ],
+      "ap": 2,
+      "maxAg": 55,
+      "description": "+1 AP vs Blast splash damage",
+      "weight": "4 kg",
+      "availability": "Scarce",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Flak Cloak",
+      "type": "Flak",
+      "locations": [
+        "Arms",
+        "Body",
+        "Legs"
+      ],
+      "ap": 3,
+      "maxAg": 55,
+      "description": "+1 AP vs Blast splash damage",
+      "weight": "8 kg",
+      "availability": "Scarce",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Imperial Guard Flak Armour",
+      "type": "Flak",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 4,
+      "maxAg": 50,
+      "description": "+1 AP vs Blast splash damage",
+      "weight": "11 kg",
+      "availability": "Scarce",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Mesh Cowl",
+      "type": "Mesh",
+      "locations": [
+        "Head"
+      ],
+      "ap": 3,
+      "maxAg": null,
+      "description": "",
+      "weight": "1 kg",
+      "availability": "Rare",
+      "source": "Black Crusade"
+    },
+    {
+      "armour": "Mesh Gloves",
+      "type": "Mesh",
+      "locations": [
+        "Arms"
+      ],
+      "ap": 3,
+      "maxAg": null,
+      "description": "",
+      "weight": "1 kg",
+      "availability": "Rare",
+      "source": "Black Crusade"
+    },
+    {
+      "armour": "Mesh Vest",
+      "type": "Mesh",
+      "locations": [
+        "Body"
+      ],
+      "ap": 4,
+      "maxAg": null,
+      "description": "",
+      "weight": "2 kg",
+      "availability": "Rare",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Mesh Leggings",
+      "type": "Mesh",
+      "locations": [
+        "Legs"
+      ],
+      "ap": 3,
+      "maxAg": null,
+      "description": "",
+      "weight": "2 kg",
+      "availability": "Rare",
+      "source": "Homebrew"
+    },
+    {
+      "armour": "Mesh Cloak",
+      "type": "Mesh",
+      "locations": [
+        "Arms",
+        "Body",
+        "Legs"
+      ],
+      "ap": 4,
+      "maxAg": 60,
+      "description": "",
+      "weight": "3 kg",
+      "availability": "Very Rare",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Dragon Scale Armour",
+      "type": "Power",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 8,
+      "maxAg": 50,
+      "description": "Dragon Scale Armour grants the user the Unnatural Strength (1) trait (or increases the value of this Trait by 1) and has built-in Photo-Visors, Respirator, and Potentia Coil Connectors.",
+      "weight": "20 kg",
+      "availability": "Extremely Rare",
+      "source": "Inquisitor's Handbook"
+    },
+    {
+      "armour": "Light Power Armour",
+      "type": "Power",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 7,
+      "maxAg": 40,
+      "description": "Light power armour requires a constant power supply, normally built into the suit, which offsets its weight so it does not count against the user's normal carrying limit. It grants the user the Unnatural Strength (1) trait (or increases the value of this Trait by 1). Unless stated otherwise, the power supply functions for 24 hours before needing recharging or refuelling. Most suits feature a detachable helmet; when this in place, the wearer benefits from an internal oxygen supply and standard vox systems.",
+      "weight": "40 kg",
+      "availability": "Very Rare",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "armour": "Adepta Sororitas Power Armour",
+      "type": "Power",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 7,
+      "maxAg": 50,
+      "description": "Adepta Sororitas power armour grants the Auto-Stabilised and Unnatural Strength (1) trait (or increases the value of this Trait by 1). Unless stated otherwise, the power supply functions for 24 hours before needing recharging or refuelling. Most suits feature a detachable helmet; when this in place, the wearer benefits from an internal oxygen supply and standard vox systems. The armour does not increase the wearer's Size trait, and is only available to Acolytes with the Adepta Sororitas background.",
+      "weight": "35 kg",
+      "availability": "Extremely Rare",
+      "source": "Enemies Within"
+    },
+    {
+      "armour": "Heavy Power Armour",
+      "type": "Power",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 8,
+      "maxAg": 35,
+      "description": "Heavy power armour grants the wearer the Auto-Stabilised and Unnatural Strength (2) trait (or increases the value of this Trait by 2), and increases the value of his Size (X) trait by 1. When used with the detachable helmet, it is environmentally sealed with its own oxygen supply and voxcaster systems. Its power supply can operate for 24 hours before recharging or refueling is needed, and while powered the suit's weight does not count towards the user's carry limit",
+      "weight": "65kg",
+      "availability": "Extremely Rare",
+      "source": "Enemies Beyond"
+    },
+    {
+      "armour": "Magma Armour",
+      "type": "Power",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 9,
+      "maxAg": 30,
+      "description": "A Magma Suit is a suit of heavy power armour that has all the standard abilities of power armour, as well as the following upgrades: Sustainable Power Source, and Recoil Suppression. Additionally, a Magma Suit grants the wearer the Resistance (Heat) Talent",
+      "weight": "90kg",
+      "availability": "Near Unique",
+      "source": "Tome of Fate"
+    },
+    {
+      "armour": "Terminator Armour",
+      "type": "Power",
+      "locations": [
+        "Arms",
+        "Body",
+        "Head",
+        "Legs"
+      ],
+      "ap": 14,
+      "maxAg": 20,
+      "description": "Terminator armour grants the wearer the Auto-Stabilised and Unnatural Strength (3) trait (or increases the value of this Trait by 3), and increases the value of his Size (X) trait by 1. While in Terminator armour, the user can wield two-handed melee weapons and fire Basic and Heavy Weapons one-handed, but cannot use Pistols. Other weapons, particularly small or delicate ones, might also be unusable in terminator armour. The GM has final say on what can or cannot be used. Terminator armour counts as having a force field with a protection rating of 35, however, this represents shots glancing off the armour's strongest surfaces, so there is no chance for an overload. Delicate tasks suffer a -10 penalty and the user cannot Run or Dodge. When used with the detachable helmet, it is environmentally sealed with its own oxygen supply and voxcaster systems. Its power supply can operate for 24 hours before recharging or refueling is needed, and while powered the suit's weight does not count towards the user's carry limit",
+      "weight": "400kg",
+      "availability": "Near Unique",
+      "source": "Black Crusade"
+    }
+  ]
+}

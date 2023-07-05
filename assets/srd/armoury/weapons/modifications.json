@@ -1,0 +1,446 @@
+{
+  "info": "# Weapon Mods",
+  "type": "Modifications",
+  "data": [
+    {
+      "mod": "Melee Attachment",
+      "weight": "+2kg",
+      "availability": "Plentiful",
+      "upgrades": "Any Basic ranged weapon.",
+      "description": "The ranged weapon counts as a spear when used in melee combat.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Silencer",
+      "weight": "+0.5kg",
+      "availability": "Plentiful",
+      "upgrades": "Any Solid Projectile or Radium weapon of the Basic or Pistol class.",
+      "description": "Awareness tests to hear shots made with a silenced weapon suffer an additional -20 penalty, and can only be attempted at half the normal distance.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Exterminator",
+      "weight": "+1kg",
+      "availability": "Common",
+      "upgrades": "Any weapon except Pistol or Thrown.",
+      "description": "This small device contains a small one-shot device that shoots out a sheet of fire. Rather than firing the weapon as normal, the wielder may discharge the exterminator cartridge as a Half Action, resolving the effects as if he had made a Standard Attack action with a flamer.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Gun Carriage",
+      "weight": "+25kg",
+      "availability": "Common",
+      "upgrades": "Any Heavy Las, Solid Projectile, Bolter, Melta, or Launcher weapon.",
+      "description": "As a Half Action, a character can “lock” a Heavy weapon into a gun carriage (or remove it from the gun carriage). While it is “locked” in, it has a 45-degree firing arc and counts as being Braced. A Player Character or Comrade can move the gun carriage with him as part of any Full Move Action, but may not make Reactions in any Round in which he does so",
+      "source": "Hammer of the Emperor"
+    },
+    {
+      "mod": "Gun Shield",
+      "weight": "+15kg",
+      "availability": "Common",
+      "upgrades": "Any Heavy Las, Solid Projectile, Bolter, Melta, or Launcher weapon.",
+      "description": "A gun shield provides 4 APs of Cover to the gunner and up to one other individual entrenched behind it. Due to the added weight, the shield must be paired with a gun carriage in order for the heavy weapon team to have any mobility whatsoever.",
+      "source": "Hammer of the Emperor"
+    },
+    {
+      "mod": "Overcharge Pack",
+      "weight": "+0.5kg",
+      "availability": "Common",
+      "upgrades": "Laspistols, Lasrifles, Lasguns, Lascarbines, Long-las",
+      "description": "An overcharge pack adds 1 to the weapon's Damage. Unfortunately, the increased output of Damage reduces the number of shots and so the Clip Size is halved.",
+      "source": "Only War"
+    },
+    {
+      "mod": "Reduced Weight",
+      "weight": "-20%",
+      "availability": "Common",
+      "upgrades": "Any weapon.",
+      "description": "A weapon's weight is decreased by 20%, or a minimum of a 0.5 kg loss. However, the resulting weapon is substantially more fragile. If it is used in melee—either as intended or as an improvised weapon—it may crumple under an impact. Any unmodified roll of 90-100 results in the weapon shattering and becoming irreparably damaged.",
+      "source": "Only War"
+    },
+    {
+      "mod": "Sawn-Off",
+      "weight": "-1/4",
+      "availability": "Common",
+      "upgrades": "Any shotgun or autogun.",
+      "description": "A sawn-off weapon reduces its range and weight by one quarter and inflicts an additional +2 Damage when fired at Short Range or closer.",
+      "source": "Hammer of the Emperor"
+    },
+    {
+      "mod": "Carbine",
+      "weight": "-",
+      "availability": "Average",
+      "upgrades": "Any Pistol weapon.",
+      "description": "With the addition of a stock and possibly some additional modifications, a pistol weapon can be effectively turned into a carbine. A weapon with this customisation changes its type to Basic and increases its Range by half.",
+      "source": "Hammer of the Emperor"
+    },
+    {
+      "mod": "Compact",
+      "weight": "x1/2",
+      "availability": "Average",
+      "upgrades": "Any Pistol or any Las, Solid Projectile, Flame, Bolt, or Plasma weapon of the Basic class.",
+      "description": "This halves the weight of the weapon, but also halves its clip size and range as well as reducing the inflicted damage by 1. Anyone attempting to find a concealed weapon with the Compact upgrade suffers a -20 penalty to any related Skill test. If this upgrade is forcibly removed the weapon remains smaller, but its range and clip size are reduced by half again, and its damage is reduced by 2.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Telescopic Sight",
+      "weight": "+1kg",
+      "availability": "Average",
+      "upgrades": "Any Las, Solid Projectile, Radium, Bolt, Low-Tech or Plasma weapon of the Basic class.",
+      "description": "A weapon with a telescopic sight ignores penalties for Long and Extreme range, as long as the shooter is benefitting from a Full Action to Aim. A gun can only have one sight.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Trigger Adjustment",
+      "weight": "-",
+      "availability": "Average",
+      "upgrades": "Any ranged weapon.",
+      "description": "During the first Round of combat, a character wielding a weapon with this modification receives a +1 bonus to Initiative. However, due to the variation, if any other individual uses the weapon, he suffers a -5 penalty to Ballistic Skill Tests made with it.",
+      "source": "Only War"
+    },
+    {
+      "mod": "Tripod/Bipod",
+      "weight": "+2kg",
+      "availability": "Average",
+      "upgrades": "Any Basic or Heavy weapon.",
+      "description": "Bipods and tripods allow a weapon to be braced anywhere there is a reasonably flat surface. A weapon braced on a bipod has a 90° fire arc, while one on a tripod has a 180° arc. ",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Auxiliary Shotgun",
+      "weight": "+2.0kg",
+      "availability": "Scarce",
+      "upgrades": "Any Basic Las, Solid Projectile, or Bolt Weapon.",
+      "description": "The auxiliary shotgun can be fired instead of shooting with the weapon as normal (but both cannot be fired in the same turn), with the profile of a shotgun with a Clip of 1",
+      "source": "Hammer of the Emperor"
+    },
+    {
+      "mod": "Backpack Ammo Supply",
+      "weight": "+15kg",
+      "availability": "Scarce",
+      "upgrades": "Any non-Launcher ranged weapon.",
+      "description": "This increases the clip size of the weapon to five times its current clip size, but it cannot be reloaded in combat. To reload the weapon, the character must have the necessary amount of ammunition and spend five minutes reloading the backpack. If the weapon jams, it only loses one clip's worth of ammunition and does not need to be reloaded.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Belt Feed",
+      "weight": "+2kg",
+      "availability": "Scarce",
+      "upgrades": "Any Bolt or Solid Projectile weapon",
+      "description": "The weapon adds 2 to its full auto RoF (though only if it has a full auto RoF of at least 1 before being upgraded) and increases its clip size to 100 unless it is already higher. It gains the Unreliable Special Quality and loses the Reliable Special Quality if it has it.",
+      "source": "Black Crusade"
+    },
+    {
+      "mod": "Chain Attachment",
+      "weight": "+3kg",
+      "availability": "Scarce",
+      "upgrades": "Any Basic weapon",
+      "description": "A weapon with a chain attachment can be used in close combat with the profile of a chain blade",
+      "source": "Hammer of the Emperor"
+    },
+    {
+      "mod": "Expanded Magazine",
+      "weight": "+1kg",
+      "availability": "Scarce",
+      "upgrades": "Any Ranged Weapon",
+      "description": "The clip size of the weapon increases by half its current clip size (rounded up), and thus must be reloaded using ammunition/energy from multiple standard clips to fully stock the larger magazine",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Extended Barrel",
+      "weight": "+50%",
+      "availability": "Scarce",
+      "upgrades": "Any Las, Solid Projectile, Radium, or Bolt weapon.",
+      "description": "A weapon with an extended barrel increases its Range and weight by half.",
+      "source": "Hammer of the Emperor"
+    },
+    {
+      "mod": "Forearm Weapon Mounting",
+      "weight": "+1kg",
+      "availability": "Scarce",
+      "upgrades": "Any Las, Low-Tech, Solid Projectile, Bolt, or Melta weapon of the Pistol class; or any one-handed bladed melee weapon.",
+      "description": "This heavy bracing allows a single ranged or melee weapon to be mounted along the arm, with specific hand movements triggering/extending the weapon. It allows the user to keep both hands free and can have a strong visual impression on their foes, as fire seems to appear from the user's outstretched arms. This upgrade reduces a ranged weapon's range by one-third.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Grapnel Mounting",
+      "weight": "+2kg",
+      "availability": "Scarce",
+      "upgrades": "Any Basic or Pistol weapon.",
+      "description": "A weapon with a grapnel mounting counts as being a grapnel and line in addition to being a weapon.",
+      "source": "Hammer of the Emperor"
+    },
+    {
+      "mod": "Manual Operation",
+      "weight": "-",
+      "availability": "Scarce",
+      "upgrades": "Any Solid Projectile, Radium, or Bolt weapon capable of Semi-Auto or Full Auto fire.",
+      "description": "A weapon with this customisation changes its fire mode to S/-/- and gains the Reliable Quality, or loses the Unreliable Quality, if it had it.",
+      "source": "Hammer of the Emperor"
+    },
+    {
+      "mod": "Modified Stock",
+      "weight": "-",
+      "availability": "Scarce",
+      "upgrades": "Any weapon.",
+      "description": "When a character takes an Aim action with weapons modified in this way, he receives an additional +2 bonus on a Half Action or an additional +4 bonus for a Full Action. This customisation is compatible with any other devices that modify Aim actions. It is most commonly applied to the stock of a Basic ranged weapon, but comparable changes can be made to virtually any weapon.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Mono",
+      "weight": "+0kg",
+      "availability": "Scarce",
+      "upgrades": "Any Low-Tech or Power Melee weapon.",
+      "description": "A weapon with this modification loses the Primitive quality (if it had it) and has its penetration increased by 2. This upgrade can be applied to a power weapon, but it has no effect whilst the power field is active. If the power field is ever lost or deactivated, the mono upgrade's bonuses then apply.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Red-Dot Laser Sight",
+      "weight": "+0.5kg",
+      "availability": "Scarce",
+      "upgrades": "Any Las, Solid Projectile, Bolt, Low-Tech, or Plasma weapon of the Pistol or Basic class.",
+      "description": "It grants a +10 bonus to Ballistic Skill tests when firing a single shot. A gun may only have one sight.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Reinforced",
+      "weight": "+20%",
+      "availability": "Scarce",
+      "upgrades": "Any weapon.",
+      "description": "A weapon's weight is increased by 20% when it becomes reinforced. If it is a ranged weapon, it receives an additional +1 bonus to damage when used as an improvised weapon. A melee weapon with this upgrade is only destroyed on a result of 41 or higher when Parried by a weapon with the Power Field quality.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Sacred Inscriptions",
+      "weight": "-",
+      "availability": "Scarce",
+      "upgrades": "Any weapon.",
+      "description": "The constant reminder of his faith serves to instill additional courage in the weapon's wielder when his courage is tested. A character who possesses one or more weapons with this modification gains a +10 bonus to Pinning tests.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Symbol of Sanctity",
+      "weight": "+0.2kg",
+      "availability": "Scarce",
+      "upgrades": "Any ranged weapon.",
+      "description": "The first time that a weapon with a symbol of sanctity Jams during a game session, its wielder can immediately attempt to clear that Jam as a Free Action",
+      "source": "Hammer of the Emperor"
+    },
+    {
+      "mod": "Auxiliary Grenade Launcher",
+      "weight": "+2.5kg",
+      "availability": "Rare",
+      "upgrades": "Any Las, Solid Projectile, or Bolt weapons of the Basic class.",
+      "description": "A character using a weapon with an auxiliary grenade launcher can choose to either fire the launcher or the weapon it is attached to in his turn, but not both at once. It has a range of 45 metres with damage and penetration as per the loaded grenade, and can be fired Indirectly. The device however is too cumbersome to be reloaded during combat; each new acquisition for the weapon reloads the launcher with one fresh round but does not require the modification to be reapplied.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Censer Attachment",
+      "weight": "+2.5kg",
+      "availability": "Rare",
+      "upgrades": "Any Two-handed Melee weapon",
+      "description": "When added to any pole weapon such as a staff or flail, these censers can be lit to emit perfumed smoke, diseased vapours, euphoric substances, or other gases as desired. The effects of this depend on the gas or vapour used.",
+      "source": "Black Crusade"
+    },
+    {
+      "mod": "Custom Grip",
+      "weight": "-",
+      "availability": "Rare",
+      "upgrades": "Any weapon.",
+      "description": "The character for whom the customisation was performed receives a +5 to Ballistic Skill or Weapon Skill when wielding the weapon. Other characters wielding the weapon suffer a -5 penalty, as the weapon feels slightly out of alignment when they attempt to use it.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Deactivated Safety Features",
+      "weight": "-",
+      "availability": "Rare",
+      "upgrades": "Any weapon.",
+      "description": "When using a Ready action to prepare a weapon with this modification, a character may Ready another weapon or draw another item as part of the same action. However, any time a character who is carrying a weapon with this modification suffers four or more degrees of failure on a Movement skill test, this weapon fires, activates, or cuts itself free as a result of the jostling.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Fire Selector",
+      "weight": "+1kg",
+      "availability": "Rare",
+      "upgrades": "Any Bolt, Launcher, and Solid Projectile weapon of the Pistol or Basic class.",
+      "description": "The weapon can now have up to three different types of ammunition loaded (the total amount of shells not exceeding its clip size); at the start of his turn, the wielder can use the fire selector to select which type of ammunition he fires for his shooting that round.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Fluid Action",
+      "weight": "-",
+      "availability": "Rare",
+      "upgrades": "Any ranged weapon capable of Semi-Automatic fire.",
+      "description": "When the character uses the weapon as part of a successful Semi-Auto Burst action, he counts as scoring one additional degree of success for purposes of determining the number of rounds that hit the target. Weapons with this customisation are trickier to load, as the ammunition feed must be more carefully engaged, and so reload time is increased by an additional Half Action.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Pistol Grip",
+      "weight": "-",
+      "availability": "Rare",
+      "upgrades": "Any Basic ranged weapon.",
+      "description": "This modified handle is designed for smoother usage, and allows the weapon to be wielded in one hand without the usual -20 penalty. However, it becomes more difficult to aim accurately and thus its range is halved.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Quick-Release",
+      "weight": "-",
+      "availability": "Rare",
+      "upgrades": "Any ranged weapon.",
+      "description": "The weapon's reload time is reduced by a Half Action, down to a minimum of a Half Action. For example, a weapon that normally took 2 Full Actions to reload can be reloaded with one Full Action and one Half Action.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Recoil Baffling",
+      "weight": "+0.5kg",
+      "availability": "Rare",
+      "upgrades": "Any weapon (except Low-Tech) capable of Full Auto fire",
+      "description": "Though the use of cunning compensators and counter-velocity breaks, the weapon is much easier to handle when fired on full auto. The wielder ignores the normal penalty to hit when firing the weapon on full auto",
+      "source": "Black Crusade"
+    },
+    {
+      "mod": "Spread Limiter",
+      "weight": "+25%",
+      "availability": "Rare",
+      "upgrades": "Any weapon with a Semi-or Full Auto rate of fire, or the Scatter Quality",
+      "description": "An extended barrel and chamber compressors mean that each round in a burst or shatter shot retains a closer grouping. When determining hit locations for Semi and Full Auto bursts, each location is struck twice before moving on to the next location indicated. Weapons with the Scatter Special Quality with this upgrade suffer no reduction to their Damage for firing at longer ranges, but gain no bonus to hit at any range.",
+      "source": "Black Crusade"
+    },
+    {
+      "mod": "Targeter",
+      "weight": "+1.5kg",
+      "availability": "Rare",
+      "upgrades": "Any Las, Solid Projectile, Radium, Bolt, or Heavy weapon.",
+      "description": "If there is a final penalty to a Ballistic Skill test when using a weapon with a targeter, it is reduced by ten. Thus, a Very Hard (-30) final penalty to hit becomes Hard (-20) for example. ",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Tox Dispenser",
+      "weight": "+0.75kg",
+      "availability": "Rare",
+      "upgrades": "Any Low-Tech or Chain melee weapon.",
+      "description": "As a Free Action, a character with a weapon equipped with a tox dispenser may cause his weapon to gain the Toxic (2) quality for one round. A tox dispenser can be used 10 times before requiring refilling; no Requisition test in needed as long as the character is in a location the ingredients would be available. ",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Vox-Operated",
+      "weight": "+0.5kg",
+      "availability": "Rare",
+      "upgrades": "Any Pistol, Basic, Launcher, or Heavy weapon that is not of the Low-Tech type.",
+      "description": "Keyed into the user's vocal signature, these vox receptors are linked into a weapon's firing controls. With spoken commands, the operator can fire his gun, switch firing modes, and also change ammunition (should it be fitted with a fire selector).",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Lathe-Blade",
+      "weight": "-",
+      "availability": "Very Rare",
+      "upgrades": "Bladed Low-Tech Melee or Throwing weapons",
+      "description": "A Lathe-bladed weapon loses the Primitive quality, if it had it. Increase the weapon's Damage by 2 and its Penetration by +3. Wielders of these weapons gain a +10 bonus on Weapon Skill Tests. A Lathe blade cannot be destroyed by the effects of a power field and counts as having an Armour value of 25 if directly attacked. A Lathe blade is automatically of the Best Craftsmanship (the effects of this have already been included in these rules). This upgrade cannot be combined with the Mono upgrade.",
+      "source": "Inquisitor's Handbook"
+    },
+    {
+      "mod": "Motion Predictor",
+      "weight": "+0.5kg",
+      "availability": "Very Rare",
+      "upgrades": "Any ranged weapon (except Low-Tech) capable of Semi-Auto or Full Auto fire.",
+      "description": "A motion predictor adds a +10 bonus to any Ballistic Skill test made as part of a Semi-Auto Burst or Full Auto Burst action.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Photo Sight",
+      "weight": "+0.5kg",
+      "availability": "Very Rare",
+      "upgrades": "Any ranged Las, Solid Projectile, Bolt, Low-Tech, or Plasma weapon of the Basic class.",
+      "description": "A character using a photo sight suffers no penalties due to darkness. A gun can only have one sight.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Preysense Sight",
+      "weight": "+0.5kg",
+      "availability": "Very Rare",
+      "upgrades": "Any ranged Las, Solid Projectile, Bolt, Low-Tech, or Plasma weapon of the Basic class.",
+      "description": "A character using a preysense sight suffers no penalties due to darkness and gains a +20 bonus to vision-based Perception tests in the dark. A gun can only have one sight.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Spoor Targeter",
+      "weight": "+0.5kg",
+      "availability": "Very Rare",
+      "upgrades": "Any Pistol, Basic, or Heavy weapon that does not have the Blast or Spray Quality, or any other Quality that would cause it to affect an area rather than a single target.",
+      "description": "A spoor targeter counts as a sight, and a gun can have only one sight. Through an esoteric arcane rite, a spoor targeter can be imprinted with the bio-profiles of up to 10 individuals, a process that takes 10 minutes and a Routine (+20) Tech- Use Test. Once an ally's signature has been implanted into the targeter, it prevents the attached weapon from triggering so long as there is a risk of hitting that ally. Even if pointed directly at the ally, the weapon's spirit loyally refuses to fire. A character with a spoor targeter can shoot into melee involving anyone whose bio-profile is loaded into the targeter with no penalty and never hits such individuals when doing so.",
+      "source": "Hammer of the Emperor"
+    },
+    {
+      "mod": "Truesilver Gilding",
+      "weight": "-",
+      "availability": "Very Rare",
+      "upgrades": "Any Low-Tech melee weapon",
+      "description": "A weapon with Truesilver gilding grants its wielder a bonus to tests to Parry the attacks of foes with the Daemonic trait equal to 5 times the wielder's Willpower bonus.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "mod": "Warpleech Canister",
+      "weight": "+1 kg",
+      "availability": "Very Rare",
+      "upgrades": "Any Solid Projectile weapon without a silencer.",
+      "description": "A weapon with this upgrade gains the Crippling (2) quality against targets with the Daemonic trait. Each canister contains enough liquid to last for 40 rounds.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "mod": "Integrated Weapon Components",
+      "weight": "+0.5 kg",
+      "availability": "Extremely Rare",
+      "upgrades": "Any Basic or Pistol Las, Flame, Melta, and Plasma weapons or any Melee weapons",
+      "description": "See Integrated Weapon rules for details",
+      "source": "Shield of Humanity"
+    },
+    {
+      "mod": "Storm Field",
+      "weight": "+0.5 kg",
+      "availability": "Extremely Rare",
+      "upgrades": "Any weapon with the Power Field Quality",
+      "description": "A power weapon can be fitted with an overcharged generator to increase the output of its power field, though it is not without risk as the cracking halo of energy can sometime be as dangerous to the user as his foes. The weapon increases its Damage and Penetration by 2 and any weapon without the Power Field, Force, etc. Qualities which parries or is parried by a weapon with a Storm Field is automatically destroyed. If the wielder rolls an unmodified 91-00 when making attacks with the weapon he has been touched by the field and takes one hit from the weapon that cannot be evaded (do not add the bearer's Strength Bonus to this damage roll).",
+      "source": "Black Crusade"
+    },
+    {
+      "mod": "Suspensors",
+      "weight": "-50%",
+      "availability": "Extremely Rare",
+      "upgrades": "Any Heavy weapon.",
+      "description": "Suspensors reduce the weight of a weapon by one-half. When firing a weapon with suspensors, the operator counts as having the Auto-stabilised trait and so always counts as being braced.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Truesilver Weaving",
+      "weight": "-",
+      "availability": "Extremely Rare",
+      "upgrades": "One Clip of ammunition for a Launcher, Low-Tech, or Solid Projectile ranged weapon.",
+      "description": "Whenever a target with the Daemonic trait attempts to Dodge an attack made with a weapon using ammunition upgraded with Truesilver weaving, the target suffers a penalty to the Dodge test equal to 5 times the attacker's Willpower bonus.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "mod": "Omni-Scope",
+      "weight": "+2kg",
+      "availability": "Near Unique",
+      "upgrades": "Any Las, Solid Projectile, Bolt, Low-Tech, or Plasma weapon of the Basic class.",
+      "description": "The omni-scope combines the benefits of a preysense sight, red-dot laser sight, and telescopic sight. An omni-scope counts as a sight, and a gun can only have one sight.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "mod": "Chimera Combi-Weapon",
+      "weight": "+1/2 Secondary Weapon",
+      "availability": "Special",
+      "upgrades": "Any Low-Tech melee weapon.",
+      "description": "A melee weapon with this modification has had a Pistol integrated into itself, often disguised as an ornate part of the hilt or handle. Its secondary weapon has a clip size of 1, and so can only be fired once before needing a reload. A Chimera Combi-Weapon modification has the availability as the rarer of the two weapons",
+      "source": "Inquisitor's Handbook"
+    },
+    {
+      "mod": "Combi-Weapon",
+      "weight": "+1/2 Secondary Weapon",
+      "availability": "Special",
+      "upgrades": "Any Basic or Pistol weapon.",
+      "description": "Common versions use either a flamer, graviton gun, meltagun, or plasma gun. A combi-weapon can fire its main weapon as normal, but its secondary weapon has a clip size of 1, and so can only be fired once before needing a reload. This action reloads the main weapon as well. Each combi-weapon has an Availability equal to one level less available than the Availability of the rarer of the two weapons. The GM has the final say on which weapons may and may not be combined.",
+      "source": "Dark Heresy 2e"
+    }
+  ]
+}
