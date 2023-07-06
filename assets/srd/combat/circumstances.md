@@ -9,13 +9,13 @@ Many circumstances offer modifications to tests, making them easier or harder to
 
 | Difficulty | Skill Modifier | Example |
 |---|---|---|
-| Easy | +30 Bonus | Attacking a Surprised or Unaware target.<br />Attacking a Massive ([Size](/character/traits#size) [7]) target.<br />Shooting a target at Point Blank range.<br />Evading an attack that has been anticipated for at least one round. |
-| Routine | +20 Bonus | Melee attacks against a foe that is outnumbered three to one or more.<br />Attacking a Stunned opponent.<br />Attacking an Enormous ([Size](/character/traits#size) [6]) target.<br />Evading an attack whilst in full cover from the attacker |
-| Ordinary | +10 Bonus | Attacking a Prone opponent with a melee weapon.<br />Attacking from higher ground.<br />Attacking a Hulking ([Size](/character/traits#size) [5]) target.<br />Shooting a target at Short range.<br />Making a Standard Attack action.<br />Melee attacks against a foe who is outnumbered two to one.<br />Evading an attack whilst in partial cover from the attacker. |
-| Challenging | +0 Bonus | Attacking an Average ([Size](/character/traits#size) [4]) target.<br />Making a Swift Attack action. |
-| Difficult | –10 Penalty | Shooting at a target at Long range.<br />Shooting a Prone target.<br />Attacking a Scrawny ([Size](/character/traits#size) [3]) target.<br />Attacking an enemy in melee whist Prone.<br />Making a Lightning Attack action.<br />Making a Full-Auto ranged action. |
-| Hard | –20 Penalty | Shooting into melee combat.<br />Performing a Called Shot action.<br />Dodging whilst Prone.<br />Making an unarmed attack against an armed opponent.<br />Melee attacks in the darkness.<br />Shooting at a target in fog, mist, or shadow.<br />Attacking a Puny ([Size](/character/traits#size) [2]) target.<br />Using a weapon without the correct Weapon Training talent. |
-| Very Hard | –30 Penalty | Attacking or Dodging in deep snow.<br />Firing a heavy weapon that has not been Braced.<br />Attacking a Miniscule ([Size](/character/traits#size) [1]) target.<br />Shooting a target at Extreme range.<br />Shooting a completely concealed target.<br />Evading an attack whilst unable to see its source.<br />Shooting at a target in darkness. |
+| Easy | +30 Bonus | Attacking a Surprised or Unaware target.<br />Attacking a Massive (Size [7]) target.<br />Shooting a target at Point Blank range.<br />Evading an attack that has been anticipated for at least one round. |
+| Routine | +20 Bonus | Melee attacks against a foe that is outnumbered three to one or more.<br />Attacking a Stunned opponent.<br />Attacking an Enormous (Size [6]) target.<br />Evading an attack whilst in full cover from the attacker |
+| Ordinary | +10 Bonus | Attacking a Prone opponent with a melee weapon.<br />Attacking from higher ground.<br />Attacking a Hulking (Size [5]) target.<br />Shooting a target at Short range.<br />Making a Standard Attack action.<br />Melee attacks against a foe who is outnumbered two to one.<br />Evading an attack whilst in partial cover from the attacker. |
+| Challenging | +0 Bonus | Attacking an Average (Size [4]) target.<br />Making a Swift Attack action. |
+| Difficult | –10 Penalty | Shooting at a target at Long range.<br />Shooting a Prone target.<br />Attacking a Scrawny (Size [3]) target.<br />Attacking an enemy in melee whist Prone.<br />Making a Lightning Attack action.<br />Making a Full-Auto ranged action. |
+| Hard | –20 Penalty | Shooting into melee combat.<br />Performing a Called Shot action.<br />Dodging whilst Prone.<br />Making an unarmed attack against an armed opponent.<br />Melee attacks in the darkness.<br />Shooting at a target in fog, mist, or shadow.<br />Attacking a Puny (Size [2]) target.<br />Using a weapon without the correct Weapon Training talent. |
+| Very Hard | –30 Penalty | Attacking or Dodging in deep snow.<br />Firing a heavy weapon that has not been Braced.<br />Attacking a Miniscule (Size [1]) target.<br />Shooting a target at Extreme range.<br />Shooting a completely concealed target.<br />Evading an attack whilst unable to see its source.<br />Shooting at a target in darkness. |
 
 
 ## Cover 
@@ -29,7 +29,7 @@ If a Hit Location would benefit from multiple cover bonuses, the character choos
 As attacks strike cover, they can wear it down, reduce its effectiveness, and eventually even destroy it\. Whenever a hit strikes a piece of cover and deals damage that exceeds the cover's Armour points, that piece of cover has its Armour points reduced by 1\. Cover that has its Armour points reduced to 0 is destroyed and offers no further protection\.
 
 ### Example Cover
-__Cover Types__                                              |__Armour Points__
+__Cover Types__ | __Armour Points__
 ---------------------------------------------------------|-------------
 Armour-glass, genatorium pipes, thin metal, wooden planks|4            
 Flakboard, storage crates, sandbags, thick ice, trees    |8            
@@ -82,9 +82,11 @@ Targets that are at a distance of more than double the range of a character's we
 Sometimes, when flinging a thrown weapon, it is important to know where the weapon lands should the attacker fail his Ballistic Skill test\. When a character fails this test, the GM rolls 1d10 and consults the Scatter Diagram\. Roll 1d5 to determine the number of metres the item travels in the indicated direction\. This is also used with weapons with the Blast quality\. These affect a wide enough area that if the shot goes awry, it might still damage something, even if what is struck is not the original target\. 
 
 ### Scatter Diagram
-1|2|3
-4|Target|5
-6-7|8|9-10
+| | Source | |
+|---|---|---|
+|1|2|3|
+|4|**Target**|5|
+|6-7|8|9-10|
 
 ### Scattering in Zero Gravity 
 

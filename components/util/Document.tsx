@@ -38,7 +38,7 @@ export default function Document({ doc, includeToc = false }: SrdDoc) {
         title: children[0],
       });
       return (
-        <Element name={id}>
+        <Element name={id} id={id}>
           {createElement(props.node.tagName, props, children)}
         </Element>
       );

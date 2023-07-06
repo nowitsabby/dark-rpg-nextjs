@@ -1,6 +1,8 @@
 {
     "core_rules": {
-        "core_mechanic": "/core/rules",
+        "core_mechanic_-_tests": "/core/tests",
+        "characteristics": "/core/characteristics",
+        "dice": "/core/dice",
         "movement": "/core/movement",
         "combat": {
             "structured_time": "/combat/structured_time",

@@ -2,7 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const matter = require('gray-matter');
 
-const getAllFiles = (dirPath, arrayOfFiles) => {
+function getAllFiles(dirPath, arrayOfFiles) {
   files = fs.readdirSync(dirPath)
   arrayOfFiles = arrayOfFiles || []
 

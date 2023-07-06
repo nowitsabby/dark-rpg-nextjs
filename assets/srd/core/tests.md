@@ -1,7 +1,7 @@
 ---
-title: The Core Mechanic
+title: The Core Mechanic - Tests
 ---
-# The Core Mechanic 
+# The Core Mechanic - Tests
 
 Whenever a character attempts a task that has some chance of failure, the player who controls that character makes a percentile roll \(d100\) called a test to determine the outcome\. The following steps are used to determine if the character succeeds in a test: 
 
@@ -16,80 +16,6 @@ The GM identifies any modifiers that affect the test, both positive and negative
 ### Roll Dice 
 
 The player makes a percentile roll as described under Game Dice\. If the result of the percentile roll is less than or equal to the target number, then the test succeeds\. Otherwise, the test fails\. If the result of the percentile roll is 1, the test automatically succeeds, even if the target number is less than 1\. Likewise, if the result is 100, then the test automatically fails, even if the target number is greater than 100\.
-
-# Characteristics 
-
-Characteristics represent a character's raw potential and natural physical and mental gifts, such as his strength, agility, intelligence, and skill with melee and ranged weaponry\. Characteristic values range from 1 to 100 and the higher the characteristic is, the more raw talent the character has in that particular area\. There are ten characteristics, and each represents a different mental or physical attribute\. Each is listed briefly here, with its common abbreviation \(Willpower, for example, is often abbreviated as “WP” in game text\)\. 
-
-Characteristics are important to a character for a number of reasons, not least of which is that they reflect a character's ability to succeed at particular actions\. Characteristics are modified by external factors such as skills, and can be improved in a number of temporary and permanent ways\. Since characteristics set the base target number for all tests, high characteristics are always more favourable than low characteristics\. For more information on how to generate characteristics and how they relate to character generation, see Character Creation\. 
-
-### Characteristic Bonuses 
-
-In addition to its numerical value, each characteristic has a characteristic bonus, a number equal to the “tens” digit of that characteristic\. For example, a character with a Strength of 42 would have a Strength bonus of 4\. 
-
-When a characteristic bonus is abbreviated in text, it uses the normal abbreviation listed for each characteristic with an additional “B” at the end \(the Agility bonus, for example, would be abbreviated as “AgB” in text\)\. 
-
-### Weapon Skill \(WS\) 
-
-Weapon Skill measures a character's competence in all forms of close\-quarters combat\. Characters with high Weapon Skill values are excellent warriors, renowned with a chainsword or even their bare hands\. 
-
-### Ballistic Skill \(BS\) 
-
-Ballistic Skill measures a character's accuracy with all forms of ranged weapons\. A high Ballistic Skill indicates a character is an excellent marksman, someone to be rightly feared in a fire\-fight or shootout\. 
-
-### Strength \(S\) 
-
-Strength measures a character's muscle and physical power\. A high Strength characteristic value allows a character to lift heavier objects and punch a foe harder\.
-
-### Toughness \(T\) 
-
-Toughness measures a character's health, stamina, and resistance\. Exceptionally Tough characters can shrug off otherwise damaging weapon hits and better withstand poisonous attacks\. 
-
-### Agility \(Ag\) 
-
-This measures a character's quickness, reflex, and poise\. High Agility can allow a character to manipulate delicate machinery with finesse, or keep his footing when crossing treacherous terrain\. This characteristic also determines a character's movement rate; the higher the Agility bonus, the farther he can move each turn\. 
-
-### Intelligence \(Int\) 
-
-Intelligence measures a character's acumen, reason, and general knowledge\. A character with a strong Intelligence value can recall huge volumes of data, correlate esoteric clues, or determine if an ancient archaeotech relic is genuine or not\. 
-
-### Perception \(Per\) 
-
-This measures a character's awareness and the acuteness of his senses\. A character who has a high Perception value can pick out a stray bolter shell casing left amidst an underhive morass, or tell when someone is being deceitful\. 
-
-### Willpower \(WP\) 
-
-Willpower measures a character's mental strength and resilience\. High Willpower allows a character to exert control over a crowd of near\-rioting hab workers or interrogate a captured heretic\. It is also often used when wielding and resisting psychic powers\.
-
-### Fellowship \(Fel\) 
-
-Fellowship measures a character's persuasiveness, ability to lead, and force of personality\. Having a strong Fellowship makes for a character who can ingratiate himself into a gathering of suspicious forge menials or make skilled trades with wily vendors\. 
-
-### Influence/Infamy \(Inf\) 
-
-This measures a character's connections, reputation, and resources\. High Influence can allow a character to quickly summon the aid of local military forces to his side, or arrange for fast transit to another star system\. Unlike the other characteristics, Influence changes only as a character performs actions: it would decrease should he fail a mission in a highly visible manner, for example, or increase after he successfully rescues a kidnapped planetary governor\. In the case heretic or otherwise "Evil" characters, this characteristic is called Infamy instead\. The methods used to obtain it may vary, but it functions identically
-
-# Game Dice 
-
-Dice rolls use only ten\-sided polyhedral dice\. These are used for three different types of rolls: the d10 roll, the d5 roll, and the percentile \(d100\) roll\. 
-
-### d10 Roll 
-
-When required to make a d10 roll, the player or GM rolls a number of ten\-sided dice indicated before the “d” and adds them together to create the final result\. For example, a 3d10 roll would consist of three dice rolled and added together \(for a total result between 3 and 30\)\. If there is no number before the “d,” it is assumed to be a 1\. 
-
-### d5 Roll
-
-This follows the same process as above, but the player or GM divides the result on each ten\-sided die by two and rounds up, to create a result between 1 and 5 for each die\. 
-
-### Percentile \(d100\) Roll
-
-When required to make a percentile roll, the player or GM generates a number between 1 and 100 by rolling two ten\-sided dice\. One \(designated before the roll\) is the tens digit; the other is the ones digit\. Two 0s represents 100\. These tests are commonly abbreviated as “d100” in the text\. 
-
-Often the rules can call for a dice roll with a fixed modifier to gain a value, such as 2d10\+5 or 1d5–1\. In this case, the result from the dice is added or subtracted to the fixed modifier to gain the final result\. Note that if the final result is less than zero then it counts as zero \(unless a rule particularly states otherwise\)\. Sometimes, a special rule can allow a player to re\-roll the dice\. When this happens, the second result must be used, even if it is worse than the original result\. 
-
-### Rounding and Multiplying 
-
-If a fraction is generated when dividing, unless specified otherwise round the result up, even if the fraction is less than one\-half\. When two or more multipliers apply to a value, add them together to form a single multiple, with each multiplier beyond the first adding 1 less than its value to the first multiplier\. Thus a double \(x2\) and a double \(x2\) applied to the same number results in a triple \(x3, as 2 \+ 1 = 3\)\.
 
 # Skill Tests
 
