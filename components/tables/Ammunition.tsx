@@ -17,16 +17,9 @@ export interface AmmunitionRecord {
 export default function Ammunition({ data }: { data: AmmunitionRecord[] }) {
   const [filterText, setFilterText] = useState('');
   const subHeaderComponentMemo = useMemo(() => {
-    const handleClear = () => {
-      if (filterText) {
-        setFilterText('');
-      }
-    };
-
     return (
       <FilterComponent
         onFilter={(event) => setFilterText(event.currentTarget.value)}
-        onClear={handleClear}
         filterText={filterText}
       />
     );

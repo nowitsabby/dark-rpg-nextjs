@@ -21,16 +21,9 @@ export interface TalentType {
 export default function Talents({ data }: { data: TalentType[] }) {
   const [filterText, setFilterText] = useState('');
   const subHeaderComponentMemo = useMemo(() => {
-    const handleClear = () => {
-      if (filterText) {
-        setFilterText('');
-      }
-    };
-
     return (
       <FilterComponent
         onFilter={(event) => setFilterText(event.currentTarget.value)}
-        onClear={handleClear}
         filterText={filterText}
       />
     );
