@@ -1,4 +1,8 @@
-The range and scale of unpleasant disorders that might afflict a character is potentially limitless, and a few examples are presented here\. GMs should also feel free to invent their own to suit individual characters and the terrible trials they’ve undergone\. Below are a few examples of common battlefield disorders, any of which may progress during a character’s development from Minor to Acute:
+---
+title: Mental Disorders
+---
+# Mental Disorders
+The range and scale of unpleasant disorders that might afflict a character is potentially limitless, and a few examples are presented here\. GMs should also feel free to invent their own to suit individual characters and the terrible trials they've undergone\. Below are a few examples of common battlefield disorders, any of which may progress during a character's development from Minor to Acute:
 
 ## Phobia
 
@@ -6,11 +10,11 @@ The character has a deep fear of a particular thing or circumstance\. A phobic c
 
 ### Fear of the Dead 
 
-The character has an abiding fear and loathing of corpses and the dead, and can’t stand to be around them for any length of time\. Perhaps this is because sometimes they refuse to stay dead, or have others inhabit their flesh\.\.\.
+The character has an abiding fear and loathing of corpses and the dead, and can't stand to be around them for any length of time\. Perhaps this is because sometimes they refuse to stay dead, or have others inhabit their flesh\.\.\.
 
 ### Fear of Insects
 
-Scuttling, carapaced things with many legs are the stuff of this character’s waking nightmares: faceless, numberless, and hungry, forever hungry\.
+Scuttling, carapaced things with many legs are the stuff of this character's waking nightmares: faceless, numberless, and hungry, forever hungry\.
 
 ## Obsession/Compulsion
 

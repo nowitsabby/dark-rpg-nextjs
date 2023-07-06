@@ -1,6 +1,7 @@
 {
+  "title": "Astropath - Psychic Discipline",
   "info": "# Astropath - Psychic Discipline",
-  "type": "PsychicDiscipline",
+  "component": "PsychicDiscipline",
   "data": {
     "discipline": "Astropath",
     "information": "Astropaths are rare among sanctioned psykers in that they have undergone the Soul Binding, an ancient and hallowed ritual whereby the individual is imbued with a small portion of the Emperor's power. This enhances their abilities and grants the strength necessary to communicate telepathically between the stars, while also protecting Astropaths against the attacks of Warp entities. They must transmit critical messages and dark secrets, and so must be strong of will to fulfil their duties. Although Astropaths suffers the permanent loss of their sight as a result of the Soul Binding, their psychic senses are increased. To Astropaths, though, it is those who rely on their eyes who are truly blind.\n\nThe following psychic powers are available only to an Astropath character, and are purchased with experience in the same manner as regular psychic powers.",

@@ -1,6 +1,7 @@
 {
+  "title": "Melee Weapons",
   "info": "# Melee Weapons\n\n† Add the user's SBx2 to the damage.\n†† Only against targets with the Daemonic trait",
-  "type": "MeleeWeapons",
+  "component": "MeleeWeapons",
   "data": [
     {
       "weapon": "Chain Axe",

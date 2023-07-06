@@ -111,6 +111,10 @@
  
  /******************************/
  
+ .MuiButton-text {
+  background-color: transparent !important;
+ }
+
  .btn-link {
    border-color: transparent !important;
  }

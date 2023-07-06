@@ -1,6 +1,7 @@
 {
+  "title": "Armour",
   "info": "# Armour",
-  "type": "Armour",
+  "component": "Armour",
   "data": [
     {
       "armour": "Heavy Leathers",

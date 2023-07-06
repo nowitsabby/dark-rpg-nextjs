@@ -1,6 +1,7 @@
 {
+  "title": "Divination - Psychic Discipline",
   "info": "# Divination - Psychic Discipline",
-  "type": "PsychicDiscipline",
+  "component": "PsychicDiscipline",
   "data": {
     "discipline": "Divination",
     "information": "Perhaps the most ancient of psychic disciplines, divination foretells the future. Though diviners may seek answers by scattering animal entrails or studying the movement of stars, it is in fact the timeless realm of the Warp to which they turn. The powers of divination are of inestimable use to an Inquisitor and his Acolytes in the pursuit of their duties, both in the frenzied arena of combat and while undertaking investigative pursuits.",

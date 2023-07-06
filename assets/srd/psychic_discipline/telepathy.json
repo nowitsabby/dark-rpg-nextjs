@@ -1,6 +1,7 @@
 {
+  "title": "Telepathy - Psychic Discipline",
   "info": "# Telepathy - Psychic Discipline",
-  "type": "PsychicDiscipline",
+  "component": "PsychicDiscipline",
   "data": {
     "discipline": "Telepathy",
     "information": "Perhaps due to Astropaths being amongst the more common types of psyker, many individuals equate all psychic ability with telepathy. In fact, only certain psykers possess the talent to enter the minds of others, and even fewer the strength of will to maintain their own sanity in the face of constant exposure to others' thoughts. These powers may not inspire awe in the same way as other, less subtle, disciplines, but a skilled telepath can end a battle before a single shot is fired.",

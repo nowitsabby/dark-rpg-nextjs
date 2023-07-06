@@ -1,3 +1,6 @@
+---
+title: The Core Mechanic
+---
 # The Core Mechanic 
 
 Whenever a character attempts a task that has some chance of failure, the player who controls that character makes a percentile roll \(d100\) called a test to determine the outcome\. The following steps are used to determine if the character succeeds in a test: 
@@ -16,9 +19,9 @@ The player makes a percentile roll as described under Game Dice\. If the result 
 
 # Characteristics 
 
-Characteristics represent a character’s raw potential and natural physical and mental gifts, such as his strength, agility, intelligence, and skill with melee and ranged weaponry\. Characteristic values range from 1 to 100 and the higher the characteristic is, the more raw talent the character has in that particular area\. There are ten characteristics, and each represents a different mental or physical attribute\. Each is listed briefly here, with its common abbreviation \(Willpower, for example, is often abbreviated as “WP” in game text\)\. 
+Characteristics represent a character's raw potential and natural physical and mental gifts, such as his strength, agility, intelligence, and skill with melee and ranged weaponry\. Characteristic values range from 1 to 100 and the higher the characteristic is, the more raw talent the character has in that particular area\. There are ten characteristics, and each represents a different mental or physical attribute\. Each is listed briefly here, with its common abbreviation \(Willpower, for example, is often abbreviated as “WP” in game text\)\. 
 
-Characteristics are important to a character for a number of reasons, not least of which is that they reflect a character’s ability to succeed at particular actions\. Characteristics are modified by external factors such as skills, and can be improved in a number of temporary and permanent ways\. Since characteristics set the base target number for all tests, high characteristics are always more favourable than low characteristics\. For more information on how to generate characteristics and how they relate to character generation, see Character Creation\. 
+Characteristics are important to a character for a number of reasons, not least of which is that they reflect a character's ability to succeed at particular actions\. Characteristics are modified by external factors such as skills, and can be improved in a number of temporary and permanent ways\. Since characteristics set the base target number for all tests, high characteristics are always more favourable than low characteristics\. For more information on how to generate characteristics and how they relate to character generation, see Character Creation\. 
 
 ### Characteristic Bonuses 
 
@@ -28,43 +31,43 @@ When a characteristic bonus is abbreviated in text, it uses the normal abbreviat
 
 ### Weapon Skill \(WS\) 
 
-Weapon Skill measures a character’s competence in all forms of close\-quarters combat\. Characters with high Weapon Skill values are excellent warriors, renowned with a chainsword or even their bare hands\. 
+Weapon Skill measures a character's competence in all forms of close\-quarters combat\. Characters with high Weapon Skill values are excellent warriors, renowned with a chainsword or even their bare hands\. 
 
 ### Ballistic Skill \(BS\) 
 
-Ballistic Skill measures a character’s accuracy with all forms of ranged weapons\. A high Ballistic Skill indicates a character is an excellent marksman, someone to be rightly feared in a fire\-fight or shootout\. 
+Ballistic Skill measures a character's accuracy with all forms of ranged weapons\. A high Ballistic Skill indicates a character is an excellent marksman, someone to be rightly feared in a fire\-fight or shootout\. 
 
 ### Strength \(S\) 
 
-Strength measures a character’s muscle and physical power\. A high Strength characteristic value allows a character to lift heavier objects and punch a foe harder\.
+Strength measures a character's muscle and physical power\. A high Strength characteristic value allows a character to lift heavier objects and punch a foe harder\.
 
 ### Toughness \(T\) 
 
-Toughness measures a character’s health, stamina, and resistance\. Exceptionally Tough characters can shrug off otherwise damaging weapon hits and better withstand poisonous attacks\. 
+Toughness measures a character's health, stamina, and resistance\. Exceptionally Tough characters can shrug off otherwise damaging weapon hits and better withstand poisonous attacks\. 
 
 ### Agility \(Ag\) 
 
-This measures a character’s quickness, reflex, and poise\. High Agility can allow a character to manipulate delicate machinery with finesse, or keep his footing when crossing treacherous terrain\. This characteristic also determines a character’s movement rate; the higher the Agility bonus, the farther he can move each turn\. 
+This measures a character's quickness, reflex, and poise\. High Agility can allow a character to manipulate delicate machinery with finesse, or keep his footing when crossing treacherous terrain\. This characteristic also determines a character's movement rate; the higher the Agility bonus, the farther he can move each turn\. 
 
 ### Intelligence \(Int\) 
 
-Intelligence measures a character’s acumen, reason, and general knowledge\. A character with a strong Intelligence value can recall huge volumes of data, correlate esoteric clues, or determine if an ancient archaeotech relic is genuine or not\. 
+Intelligence measures a character's acumen, reason, and general knowledge\. A character with a strong Intelligence value can recall huge volumes of data, correlate esoteric clues, or determine if an ancient archaeotech relic is genuine or not\. 
 
 ### Perception \(Per\) 
 
-This measures a character’s awareness and the acuteness of his senses\. A character who has a high Perception value can pick out a stray bolter shell casing left amidst an underhive morass, or tell when someone is being deceitful\. 
+This measures a character's awareness and the acuteness of his senses\. A character who has a high Perception value can pick out a stray bolter shell casing left amidst an underhive morass, or tell when someone is being deceitful\. 
 
 ### Willpower \(WP\) 
 
-Willpower measures a character’s mental strength and resilience\. High Willpower allows a character to exert control over a crowd of near\-rioting hab workers or interrogate a captured heretic\. It is also often used when wielding and resisting psychic powers\.
+Willpower measures a character's mental strength and resilience\. High Willpower allows a character to exert control over a crowd of near\-rioting hab workers or interrogate a captured heretic\. It is also often used when wielding and resisting psychic powers\.
 
 ### Fellowship \(Fel\) 
 
-Fellowship measures a character’s persuasiveness, ability to lead, and force of personality\. Having a strong Fellowship makes for a character who can ingratiate himself into a gathering of suspicious forge menials or make skilled trades with wily vendors\. 
+Fellowship measures a character's persuasiveness, ability to lead, and force of personality\. Having a strong Fellowship makes for a character who can ingratiate himself into a gathering of suspicious forge menials or make skilled trades with wily vendors\. 
 
 ### Influence/Infamy \(Inf\) 
 
-This measures a character’s connections, reputation, and resources\. High Influence can allow a character to quickly summon the aid of local military forces to his side, or arrange for fast transit to another star system\. Unlike the other characteristics, Influence changes only as a character performs actions: it would decrease should he fail a mission in a highly visible manner, for example, or increase after he successfully rescues a kidnapped planetary governor\. In the case heretic or otherwise "Evil" characters, this characteristic is called Infamy instead\. The methods used to obtain it may vary, but it functions identically
+This measures a character's connections, reputation, and resources\. High Influence can allow a character to quickly summon the aid of local military forces to his side, or arrange for fast transit to another star system\. Unlike the other characteristics, Influence changes only as a character performs actions: it would decrease should he fail a mission in a highly visible manner, for example, or increase after he successfully rescues a kidnapped planetary governor\. In the case heretic or otherwise "Evil" characters, this characteristic is called Infamy instead\. The methods used to obtain it may vary, but it functions identically
 
 # Game Dice 
 
@@ -102,7 +105,7 @@ Although technically all actions require tests, in practice this would greatly s
 
 # Degrees of Success and Failure
 
-During a game, knowing whether a test has succeeded or failed is often sufficient\. There are times, however, when it is helpful to know just how well a character has succeeded at a given task, or just how badly he has failed\. This is of particular importance with social skills, such as Charm and Inquiry, as well as during some combat situations such as when firing an automatic weapon, which can score additional hits depending on the roll\. Measuring a character’s degrees of success or failure is a rather straightforward process\. Once the percentile roll for the test is made, compare the outcome of the roll with the modified characteristic score\. If the roll is equal to or lower than the characteristic, the character has gained one degree of success \(DoS\)\. He also gains additional degrees of success equal to the tens digit of the target value minus the tens digit of the roll\. Conversely, if the roll is higher than the characteristic, the character has gained one degree of failure \(DoF\), and gains additional degrees of failure equal to the tens digit of the roll minus the tens digit of the target value\.
+During a game, knowing whether a test has succeeded or failed is often sufficient\. There are times, however, when it is helpful to know just how well a character has succeeded at a given task, or just how badly he has failed\. This is of particular importance with social skills, such as Charm and Inquiry, as well as during some combat situations such as when firing an automatic weapon, which can score additional hits depending on the roll\. Measuring a character's degrees of success or failure is a rather straightforward process\. Once the percentile roll for the test is made, compare the outcome of the roll with the modified characteristic score\. If the roll is equal to or lower than the characteristic, the character has gained one degree of success \(DoS\)\. He also gains additional degrees of success equal to the tens digit of the target value minus the tens digit of the roll\. Conversely, if the roll is higher than the characteristic, the character has gained one degree of failure \(DoF\), and gains additional degrees of failure equal to the tens digit of the roll minus the tens digit of the target value\.
 
 # Extended Tests
 
@@ -110,11 +113,11 @@ Occasionally, a character will attempt a task so complicated that it requires qu
 
 # Opposed Tests
 
-There are times when a character needs to test himself against a foe, and times like these call for an Opposed test\. In an Opposed test, each participant makes his appropriate test normally and whoever succeeds wins the test\. If both parties succeed, the party with the most degrees of success wins the test\. If the number of successes is equal, then the party with the highest characteristic bonus wins\. If there is still a tie, then the lowest die roll wins\. Should both parties fail, then one of two things occurs: either the test ends in a stalemate and nothing happens, or both parties re\-roll until there is a clear winner\. Either outcome is appropriate and is left to the GM’s discretion\.
+There are times when a character needs to test himself against a foe, and times like these call for an Opposed test\. In an Opposed test, each participant makes his appropriate test normally and whoever succeeds wins the test\. If both parties succeed, the party with the most degrees of success wins the test\. If the number of successes is equal, then the party with the highest characteristic bonus wins\. If there is still a tie, then the lowest die roll wins\. Should both parties fail, then one of two things occurs: either the test ends in a stalemate and nothing happens, or both parties re\-roll until there is a clear winner\. Either outcome is appropriate and is left to the GM's discretion\.
 
 # Test Difficulty
 
-No two tests are created equal\. Driving an autocarriage across an open field is one thing, while racing through a ruined, debris\-choked underhive while under heavy fire is quite another\. Both require Operate \(Surface\) tests, but the latter is demonstrably more difficult than the former\. The question, however, is just how much harder is it to drive the autocarriage through the underhive? This is where test difficulty and the GM’s discretion come into play\. While the difficulty of a given test is sometimes clearly stated by the rules, often it is left to the GM to determine just how difficult an action is\. Once the difficulty of a task has been determined, the GM needs to consult Table Test Difficulties to find the appropriate modifier\. The difficulty modifier is then applied to the governing characteristic associated with the test before the percentile roll is made\. Some tests can even require multiple modifiers depending on the various factors involved in the attempt\. In these cases, the modifiers are added to create the final bonus or penalty to be applied\. Regardless of the source or combined sources, no final bonus can ever exceed \+60 and no final penalty can exceed –60\. If no modifier is listed when a test is described, the test begins as Challenging \(\+0\)\.
+No two tests are created equal\. Driving an autocarriage across an open field is one thing, while racing through a ruined, debris\-choked underhive while under heavy fire is quite another\. Both require Operate \(Surface\) tests, but the latter is demonstrably more difficult than the former\. The question, however, is just how much harder is it to drive the autocarriage through the underhive? This is where test difficulty and the GM's discretion come into play\. While the difficulty of a given test is sometimes clearly stated by the rules, often it is left to the GM to determine just how difficult an action is\. Once the difficulty of a task has been determined, the GM needs to consult Table Test Difficulties to find the appropriate modifier\. The difficulty modifier is then applied to the governing characteristic associated with the test before the percentile roll is made\. Some tests can even require multiple modifiers depending on the various factors involved in the attempt\. In these cases, the modifiers are added to create the final bonus or penalty to be applied\. Regardless of the source or combined sources, no final bonus can ever exceed \+60 and no final penalty can exceed –60\. If no modifier is listed when a test is described, the test begins as Challenging \(\+0\)\.
 
 ## Test Difficulties
 __DIFFICULTY__ | __TEST MODIFIER__
@@ -135,14 +138,14 @@ Hellish|–60
 
 # Assistance
 
-Acolytes must depend on each other to succeed, and should always be ready to assist fellow members of their warband to combat the enemies of Mankind\. There are commonly times during a game when a task will be too great, an obstacle too insurmountable, or an enemy too implacable, for a lone Acolyte to succeed\. The only way for the players to succeed at such a task is to pool their skills and resources to work together\. During a complicated or delicate test \(and with the Game Master’s permission\), the character performing the test can request the assistance of other characters in the group\. When the percentile roll is made, only the character who is actually making the test rolls the dice, but he gains a \+10 bonus for each character giving assistance to him\.
+Acolytes must depend on each other to succeed, and should always be ready to assist fellow members of their warband to combat the enemies of Mankind\. There are commonly times during a game when a task will be too great, an obstacle too insurmountable, or an enemy too implacable, for a lone Acolyte to succeed\. The only way for the players to succeed at such a task is to pool their skills and resources to work together\. During a complicated or delicate test \(and with the Game Master's permission\), the character performing the test can request the assistance of other characters in the group\. When the percentile roll is made, only the character who is actually making the test rolls the dice, but he gains a \+10 bonus for each character giving assistance to him\.
 
 ### Limits On Assistance 
 
 While characters can assist each other in most tasks, there are some restrictions and conditions that must be met: 
 
 - To give assistance on a skill test, a character must have training in that skill\. 
-- The assisting character must usually be adjacent to the character performing the test, though certain tests could gain assistance from over a vox channel at the GM’s discretion\. 
+- The assisting character must usually be adjacent to the character performing the test, though certain tests could gain assistance from over a vox channel at the GM's discretion\. 
 - Assistance cannot be given for tests made as part of Reactions or Free Actions
 - Assistance cannot be given on tests made to resist disease, poison, Fear, or anything else the GM deems inappropriate\. 
 - No more than two characters can attempt to assist another on a single test, unless the GM decides otherwise \(such as if the warband is attempting to right an overturned vehicle\)\.

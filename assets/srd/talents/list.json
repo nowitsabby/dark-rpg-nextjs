@@ -1,6 +1,7 @@
 {
+  "title": "Talents",
   "info": "# Talents",
-  "type": "Talents",
+  "component": "Talents",
   "data": [
     {
       "tier": 3,

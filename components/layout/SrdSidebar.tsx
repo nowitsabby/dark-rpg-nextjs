@@ -15,6 +15,8 @@ import {
 } from 'react-pro-sidebar';
 import { useState } from "react";
 
+import { v4 as uuidv4 } from 'uuid';
+
 export default function SrdSidebar({ sidebar }: { sidebar: {} }) {
   const [collapsed, setCollapsed] = useState(false);
   return (
@@ -50,12 +52,12 @@ function GenerateSidebar({ sidebar }: { sidebar: {} }) {
 
 function CreateSubMenu({ key, label, item }: { key: string, label: string, item: string | object }) {
   return ( typeof item === 'string' ? 
-    <MenuItem icon={<TextSnippetOutlinedIcon />} key={key} component={<Link href={item}/>}>
+    <MenuItem icon={<TextSnippetOutlinedIcon />} component={<Link href={item}/>}>
       {toTitleCase(label)}
     </MenuItem> : 
     <SubMenu icon={<AddIcon />} label={toTitleCase(label)}>
       {Object.entries(item).map(([itemLabel, itemValue]) => (
-        <CreateSubMenu key={`${key}-${itemLabel}`} label={itemLabel} item={itemValue} />
+        <CreateSubMenu key={uuidv4()} label={itemLabel} item={itemValue} />
         ))}
     </SubMenu>);
 }

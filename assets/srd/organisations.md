@@ -1,3 +1,6 @@
+---
+title: Organisations
+---
 # Organisations
 
 #### Administratum
@@ -46,7 +49,7 @@ Mysterious and powerful Space Marines from multiple Chapters, banded together ag
 
 #### Ecclesiarchy
 
-The keepers of faith in the Emperor’s divinity\.
+The keepers of faith in the Emperor's divinity\.
 
 #### Heretical Cults
 
@@ -54,7 +57,7 @@ The many apostate and unholy groups operating throughout the sector and its frin
 
 #### Imperial Guard
 
-The Imperium’s immeasurable armies, fighting endless battles across the galaxy\.
+The Imperium's immeasurable armies, fighting endless battles across the galaxy\.
 
 #### Imperial Navy
 
@@ -70,7 +73,7 @@ The mutants whose abilities allow starships to pass through the warp\.
 
 #### Officio Assassinorum
 
-The secret bringers of death to any who would dare act against the Emperor’s Will\.
+The secret bringers of death to any who would dare act against the Emperor's Will\.
 
 #### Planetary Defence Forces
 

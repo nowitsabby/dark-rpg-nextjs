@@ -1,3 +1,6 @@
+---
+title: Using Skills
+---
 # Using Skills
 
 Throughout the course of a game session, the Game Master frequently calls upon players to make skill tests for their characters. These should be conducted in any circumstance where success or failure might have a meaningful impact upon the scenario. 

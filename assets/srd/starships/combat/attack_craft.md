@@ -1,3 +1,6 @@
+---
+title: Attack Craft
+---
 # Attack Craft
 
 Often ill-favoured by the command staff of Battlefleet Calixis due to a preference for "true" warships, carrier vessels like the Dictator-class cruiser are nonetheless a valuable strategic asset for the Imperial Navy, simply due to their versatility. The average launch bay on a cruiser-few smaller vessels can spare the internal volume needed to support attack craft operations-carries an assortment of craft, from an abundance of cargo lighters and personnel shuttles, to larger troop dropships, atmospheric craft (sometimes in storage containers, sometimes with limited void-capability for orbital deployment) to anti-ship heavy bombers, assault boats and fighters. This sheer abundance of different craft allows carriers to undertake a wide variety of missions either directly or in support of other vessels.

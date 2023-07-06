@@ -1,6 +1,7 @@
 {
+  "title": "Malefic Daemonology - Psychic Discipline",
   "info": "# Malefic Daemonology - Psychic Discipline",
-  "type": "PsychicDiscipline",
+  "component": "PsychicDiscipline",
   "data": {
     "discipline": "Malefic Daemonology",
     "information": "Malefic Daemonology is not viewed as a psychic discipline by the Adeptus Astra Telepathica, but as the gravest of sorcery and Warpcraft. To practice this discipline is to invite corruption and, should it be discovered, the branding of Excommunicate Traitoris.\n\n__To Invite Corruption__\n\nPracticing Malefic Daemonology and invoking the daemonic leaves an indelible stain on a psyker. A character who uses his full power or pushes consequently opens himself even further to the Warp, while one that holds back minimises the taint on his soul. Each time a psyker successfully manifests a power from the Malefic Daemonology discipline, he gains Corruption points equal to the psy rating used to manifest the power. This is gained after the power's effects are resolved.",

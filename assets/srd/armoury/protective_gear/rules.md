@@ -1,3 +1,6 @@
+---
+title: Protective Gear
+---
 # Protective Gear
 
 ## Armour

@@ -1,20 +1,18 @@
-import { ChangeEventHandler, MouseEventHandler } from 'react';
-import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
+import { ChangeEventHandler } from 'react';
+import FilterListOutlinedIcon from '@mui/icons-material/FilterListOutlined';
 import Stack from '@mui/material/Stack';
 
 export default function FilterComponent({
   filterText,
-  onFilter,
-  onClear,
+  onFilter
 }: {
   filterText: string;
   onFilter: ChangeEventHandler<HTMLInputElement>;
-  onClear: MouseEventHandler;
 }) {
   return (
     <div style={{ padding: '4px', marginBottom: '0.5rem' }}>
       <Stack direction="row" gap={1}>
-        <SearchOutlinedIcon />
+        <FilterListOutlinedIcon />
         <input
           type="text"
           value={filterText}

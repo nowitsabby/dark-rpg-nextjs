@@ -1,3 +1,6 @@
+---
+title: Crafting
+---
 # Crafting
 
 | **TYPE OF ITEM** | **TIME** | **EXTENDED TEST SUCCESSES** |

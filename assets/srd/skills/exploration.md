@@ -1,3 +1,6 @@
+---
+title: Exploration
+---
 # Exploration
 
 Rogue Trader is a story-driven game that involves lots of travel, exploration, and hopefully, the acquisition of wealth. This section explains additional rules for conducting the business of a Rogue Trader organisation — to venture into the unknown, explore, exploit, and conquer. There are two main groups of Skills characters are likely to rely on heavily during their travels, Exploration Skills and Investigation Skills. Both groups provide many interesting opportunities for individuals to grab a few moments in the spotlight. However, Skill Tests should not be used to replace roleplaying—instead they should be used to augment roleplaying and encourage total group participation.

@@ -1,6 +1,7 @@
 {
+  "title": "Backgrounds",
   "info": "# Backgrounds",
-  "type": "Backgrounds",
+  "component": "Backgrounds",
   "data": [
     {
       "background": "Adepta Sororitas",
@@ -508,7 +509,7 @@
       "bonuses": [
         {
           "title": "Hammer of the Emperor",
-          "effect": "When attacking a target that an ally attacked since the end of the Guardsman’s last turn, the Guardsman can re-roll any results of 1 or 2 on damage rolls."
+          "effect": "When attacking a target that an ally attacked since the end of the Guardsman's last turn, the Guardsman can re-roll any results of 1 or 2 on damage rolls."
         }
       ],
       "aptitude": [

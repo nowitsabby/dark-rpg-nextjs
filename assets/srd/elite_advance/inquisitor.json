@@ -1,6 +1,7 @@
 {
+  "title": "Inquisitor - Elite Advance",
   "info": "# Inquisitor - Elite Advance",
-  "type": "EliteAdvance",
+  "component": "EliteAdvance",
   "data": {
     "eliteAdvance": "Inquisitor",
     "cost": 1000,

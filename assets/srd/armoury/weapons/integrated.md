@@ -1,3 +1,6 @@
+---
+title: Integrated Weapons
+---
 # Integrated Weapons
 
 Rare and scarcely understood by the forces of the Imperial Guard, the integrated weapons wielded by the mysterious Crimson Guard give these red-robed warriors a distinct advantage over standard wargear. Part weapon system and part cybernetic implant, the user's potentia coil powers the weapon, giving it a near-endless amount of energy to draw from. This removes the usual logistical problems most Guard regiments encounter. Rarely seen on the Spinward Front, these arcane weapons have left a fearsome impression on those Guardsmen lucky enough to have served the Crimson Guard.

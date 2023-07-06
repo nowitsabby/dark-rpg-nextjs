@@ -1,6 +1,7 @@
 {
+  "title": "Rogue Trader - Elite Advance",
   "info": "# Rogue Trader - Elite Advance",
-  "type": "EliteAdvance",
+  "component": "EliteAdvance",
   "data": {
     "eliteAdvance": "Rogue Trader",
     "cost": 300,

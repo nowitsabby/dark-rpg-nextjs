@@ -1,6 +1,7 @@
 {
+  "title": "Weapon Mods",
   "info": "# Weapon Mods",
-  "type": "Modifications",
+  "component": "Modifications",
   "data": [
     {
       "mod": "Melee Attachment",

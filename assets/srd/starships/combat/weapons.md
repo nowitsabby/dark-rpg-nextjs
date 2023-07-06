@@ -1,4 +1,7 @@
-# Weapons and Shooting 
+---
+title: Firing Starship Weapons
+---
+# Firing Starship Weapons
 
 Starship weapons in the 41st millennium are as varied as the ships that carry them. Lasers, plasma projectors, macrocannons, rocket launchers, terra-watt beam weapons, and more esoteric weaponry such as grav-culverins and gamma emitters, all can be found in a starship's broadside. In game terms, the weapons on starships are Supplemental Components and can be divided into distinct classes; macrobatteries, lances, torpedoes, and nova cannons.
 

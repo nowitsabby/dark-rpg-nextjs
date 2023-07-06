@@ -1,6 +1,7 @@
 {
+  "title": "Origins",
   "info": "# Origins",
-  "type": "Origins",
+  "component": "Origins",
   "data": [
     {
       "origin": "Feral World",

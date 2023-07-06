@@ -1,6 +1,7 @@
 {
+  "title": "Sanctic Daemonology - Psychic Discipline",
   "info": "# Sanctic Daemonology - Psychic Discipline",
-  "type": "PsychicDiscipline",
+  "component": "PsychicDiscipline",
   "data": {
     "discipline": "Sanctic Daemonology",
     "information": "The practice of Sanctic Daemonology is amongst the most difficult arts a psyker can study, and amongst the most potent. Few have the necessary will to excel in this discipline, which is the purview of the legendary Grey Knights. Many who have attempted to master the discipline have lost their sanity or succumbed to the temptation offered by the darker branch of Daemonology.",

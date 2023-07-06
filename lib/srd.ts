@@ -1,4 +1,5 @@
 import fs from 'fs';
+import matter from 'gray-matter';
 import path from 'path';
 
 const resourcePath = path.join(process.cwd(), 'assets')
@@ -10,12 +11,26 @@ export function loadDocument(
     const filePath = path.join(resourcePath, 'srd', ...file);
     const markdownDoc = `${filePath}.md`;
     const jsonDoc = `${filePath}.json`;
+    let type = 'error';
+    let content: string | object = `Document '${file}' not found`;
+    let title = 'Error';
+
     if (fs.existsSync(markdownDoc)) {
-        return { type: 'doc', data: fs.readFileSync(markdownDoc, 'utf8') }
+        const contents = matter(fs.readFileSync(markdownDoc, 'utf8'))
+        type = 'md';
+        content = contents.content;
+        title = contents.data.title;
     } else if (fs.existsSync(jsonDoc)) {
-        return { type: 'json', data: fs.readFileSync(jsonDoc, 'utf8') }
-    } else {
-        return { type: 'error', data: `Document '${file}' not found` };
+        const contents = JSON.parse(fs.readFileSync(jsonDoc, 'utf8'))
+        type = 'json';
+        content = contents;
+        title = contents.title;
+    } 
+
+    return { 
+        type, 
+        content,
+        title
     }
 }
 

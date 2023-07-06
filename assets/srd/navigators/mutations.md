@@ -1,3 +1,8 @@
+---
+title: Navigator Mutations
+---
+# Navigator Mutations
+
 | Roll 1d100 | Mutation  | Effect |
 |---|---|---|
 | 01-15 | Strangely Jointed Limbs | Your limbs have extra joints that articulate differently to a normal human. You gain the Acrobatics Skill at Rank 1. If you already possess the Acrobatics Skill, you gain the Talented (Acrobatics) Talent instead.  |

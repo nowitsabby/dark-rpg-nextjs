@@ -1,6 +1,7 @@
 {
+  "title": "Drugs & Consumables",
   "info": "# Drugs & Consumables\n\n† Drug is Addictive",
-  "type": "Equipment",
+  "component": "Equipment",
   "data": [
     {
       "item": "Recaf",

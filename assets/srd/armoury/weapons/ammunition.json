@@ -1,6 +1,7 @@
 {
+  "title": "Ammunition",
   "info": "# Ammunition\n\nRequisition yields two clips, plus one extra clip per additional degree of success.\n\nRequisitioning a weapon's 'Standard Ammunition' has an availability of 1 level more available than the weapon.",
-  "type": "Ammunition",
+  "component": "Ammunition",
   "data": [
     {
       "ammunition": "Abyssal Bolts",

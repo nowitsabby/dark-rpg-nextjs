@@ -1,6 +1,7 @@
 {
+  "title": "Armour Mods",
   "info": "# Armour Mods",
-  "type": "Modifications",
+  "component": "Modifications",
   "data": [
     {
       "mod": "Brazier of Saint Roberto",

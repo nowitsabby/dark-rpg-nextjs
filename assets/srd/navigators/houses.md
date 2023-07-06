@@ -1,3 +1,6 @@
+---
+title: Navigator Houses
+---
 # Navigator Houses
 
 ---
@@ -6,7 +9,7 @@
 
 Some of the Great Houses have forsaken ties of sector and system, relinquishing their terrestrial holdings. Instead, over the centuries, these Navigator Houses have taken wholly to the stars to become wanderers and gypsies, their lines preserved on vast fleets of ships constantly on the move. To be part of a Nomadic House is to be born between the stars and spurn the life of a dirt dweller. It is also this long term exposure to both the void and the Immaterium that hones the skills of Navigators from Nomadic Houses, giving them an understanding of space and warp second to none. 
 
-Some Nomadic Houses known to travel the Expanse include Term’L, Xan’Tai and Aleene.
+Some Nomadic Houses known to travel the Expanse include Term'L, Xan'Tai and Aleene.
 
 A Navigator character that belongs to a Nomadic House gains the following benefits:
 
@@ -25,12 +28,12 @@ Navigators from a Nomadic House begin play with a single Navigator Mutation roll
 
 Greatest in size and power are the Magisterial Houses. The roots of the original Navigator families, these Houses maintain mighty palaces on Terra and their influence reaches to the very edges of the light of the Astronomican. The Magisterial Houses maintain traditions and practices that have served them for millennia. They are masters of the traditional Navigator crafts and have more control over the malign mutations that afflict those with the gene. To be part of a Magisterial House is to know without question the purity of your blood and the ancient power and nobility of your family. 
 
-Magisterial Houses with influence in the Expanse include the grand houses of Benetek and Vor’cle.
+Magisterial Houses with influence in the Expanse include the grand houses of Benetek and Vor'cle.
 
 A Navigator character that belongs to a Magisterial House gains the following benefits
 
 #### Warp Focus
-The warp eye is the core of a Navigator’s being and his oldest and most potent tool. Once per game session he may force a single opponent to re-roll a successful test when testing to resist the effects of The Lidless Stare Navigator Power. 
+The warp eye is the core of a Navigator's being and his oldest and most potent tool. Once per game session he may force a single opponent to re-roll a successful test when testing to resist the effects of The Lidless Stare Navigator Power. 
 #### Resistant Genes
 The Navigators of a Magisterial House are less likely to mutate due to their carefully cultivated genes. Whenever they must test for mutation the test is considered Routine (+20) rather than Ordinary (+10). 
 #### Exalted Lineage
@@ -42,16 +45,16 @@ Navigators from a Magisterial House begin play with a single Navigator Mutation 
 
 ## Shrouded Houses
 
-Shrouded houses have suffered great losses or shame within the more established dominions of the Imperium. They have opted to move their powerbase completely to the edge of known space, where they cling to the barest strands of their former status and power. Though they may be rich in skill, knowledge or lore, something in the past of Shrouded Houses has blighted them and reduced them to a state so far from their once exalted position that they are sometimes cruelly called ‘beggar houses’ by their more successful counterparts. To be part of a Shrouded House is to be part of a fallen line that is slowly rising again to stand defiant against those that once cast them down—or at least, so you are told by your elders. Their loss in standing has often forced such houses to flee to the margins of the Imperium and to develop a cunning and opportunistic mindset alongside a skill that is often lacked by more comfortably indolent houses.
+Shrouded houses have suffered great losses or shame within the more established dominions of the Imperium. They have opted to move their powerbase completely to the edge of known space, where they cling to the barest strands of their former status and power. Though they may be rich in skill, knowledge or lore, something in the past of Shrouded Houses has blighted them and reduced them to a state so far from their once exalted position that they are sometimes cruelly called ‘beggar houses' by their more successful counterparts. To be part of a Shrouded House is to be part of a fallen line that is slowly rising again to stand defiant against those that once cast them down—or at least, so you are told by your elders. Their loss in standing has often forced such houses to flee to the margins of the Imperium and to develop a cunning and opportunistic mindset alongside a skill that is often lacked by more comfortably indolent houses.
 
-Some of the more powerful and influential include the Modar, Yeshar, and the Rey’a’Nor triumvirate as well as the notorious Cedd house.
+Some of the more powerful and influential include the Modar, Yeshar, and the Rey'a'Nor triumvirate as well as the notorious Cedd house.
 
 A Navigator character that belongs to a Shrouded House gains the following benefits:
 
 #### Destitute
-The navigator’s fortunes are so low that he has little or nothing and is initially a drain on the resources of his fellows. The presence of a navigator from a Shrouded Lineage reduces the group’s starting Profit Factor, or their individual Influence, by –1. 
+The navigator's fortunes are so low that he has little or nothing and is initially a drain on the resources of his fellows. The presence of a navigator from a Shrouded Lineage reduces the group's starting Profit Factor, or their individual Influence, by –1. 
 #### A Gaze to Pierce the Soul
-The Navigator has a keen understanding of a person’s relationship to the warp born of enforced self-reliance and bitter musings. The Navigator begins play with Gaze into the Abyss as a bonus power. In addition, he may raise this ability above Master to Paragon (the xp cost is the same as to raise to Master) giving him a +30 bonus on all tests with this power. 
+The Navigator has a keen understanding of a person's relationship to the warp born of enforced self-reliance and bitter musings. The Navigator begins play with Gaze into the Abyss as a bonus power. In addition, he may raise this ability above Master to Paragon (the xp cost is the same as to raise to Master) giving him a +30 bonus on all tests with this power. 
 #### Mercantile Opportunists
 Raised in a volatile atmosphere where the need for profit and advancement outweighed all other concerns, these Navigators have had to learn the hard way the skills of hard bargaining and contract hunting—needs most of their kind are normally sheltered from. The Navigator gains a +10 bonus to tests with the Commerce and Charm Skills. 
 #### Initial Mutation

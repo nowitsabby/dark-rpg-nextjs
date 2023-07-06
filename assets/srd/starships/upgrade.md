@@ -1,10 +1,13 @@
+---
+title: Upgrading and Installing New Components in Starships
+---
 # Upgrading and Installing New Components in Starships
 
-An important aspect of owning a starship is improving and modifying it to suit the needs of its crew. This is done by retrofitting the vessel, a long, labour intensive, and time consuming process that often requires a full space-dock or forge world star-yard. It is also likely to be expensive, but can all pay off when marauding space-pirates feel the wrath of a freighter’s concealed macro-cannons.
+An important aspect of owning a starship is improving and modifying it to suit the needs of its crew. This is done by retrofitting the vessel, a long, labour intensive, and time consuming process that often requires a full space-dock or forge world star-yard. It is also likely to be expensive, but can all pay off when marauding space-pirates feel the wrath of a freighter's concealed macro-cannons.
 
 When installing or upgrading Components in a starship, the two Characteristics to keep in mind are Space and Power. Each Component requires a certain amount of both, and if a ship is unable to meet those requirements, the new Component will end up unpowered or exposed.
 
-The two exceptions to this are a ship’s plasma drives and hull. Plasma drives are not only the engines that move a ship through the void, they also generate power for the entire ship. Therefore, plasma drives don’t have a power requirement. Instead, they provide the ship’s power rating—how much power is available for the rest of the ship’s Components.
+The two exceptions to this are a ship's plasma drives and hull. Plasma drives are not only the engines that move a ship through the void, they also generate power for the entire ship. Therefore, plasma drives don't have a power requirement. Instead, they provide the ship's power rating—how much power is available for the rest of the ship's Components.
 
 Hulls are treated the same way in regards to space. Hulls define the class of vessel, and, of course, have a finite amount of space inside them. Therefore, hulls provide the amount of available space a ship has.
 
@@ -31,7 +34,7 @@ The Rogue Trader Jessica Cayde wants to reinforce the prow of her vessel, the Ar
 
 ## Ship Points 
 
-Ship Points have one other role to play — they determine how rare (and thus how expensive) Components are in Rogue Trader. The chart below lists the Components’ availability based on how many Ship Points they cost. However, when determining the Acquisition Threshold required to acquire starship Components, the GM should never give the players a bonus based on Scale — the Threshold should only be determined by availability (and perhaps craftsmanship).
+Ship Points have one other role to play — they determine how rare (and thus how expensive) Components are in Rogue Trader. The chart below lists the Components' availability based on how many Ship Points they cost. However, when determining the Acquisition Threshold required to acquire starship Components, the GM should never give the players a bonus based on Scale — the Threshold should only be determined by availability (and perhaps craftsmanship).
 
 ## Component Availability
 
@@ -51,7 +54,7 @@ Ship Points have one other role to play — they determine how rare (and thus ho
 Even in the lawless depths of the Expanse, there are fairly well known expectations when making purchases for a vessel. Every Trader worth their warrant knows how much deck space a standard Mark VI Mars-pattern macrocannon emplacement needs, or how much power Stygies pattern torpedo tubes draw in combat. The more skillful Traders know that there are shades of quality to their acquisitions, and depending on the circumstances those acquisitions may differ from that standard.
 
 The most common difference is simply due to lack of availability or funds. Not all worlds have the required goods at
-the quality desired—and of course, if the gelt is running low, then one must make due with what’s affordable. This holds true when buying a lasgun charge pack or a Titanforge Lance. Alternatively, should Explorers find themselves with a surplus of wealth, they may look to improve the quality of their shipboard Components. Replacing an ordinary Jovian Plasma Drive with one finely tuned and personally blessed by a visiting Tech-Priest Magos is oftentimes worth the investment for a variety of reasons. Usually products of better craftsmanship take up less space or power, due to the more-efficient workings of their ancient designs.
+the quality desired—and of course, if the gelt is running low, then one must make due with what's affordable. This holds true when buying a lasgun charge pack or a Titanforge Lance. Alternatively, should Explorers find themselves with a surplus of wealth, they may look to improve the quality of their shipboard Components. Replacing an ordinary Jovian Plasma Drive with one finely tuned and personally blessed by a visiting Tech-Priest Magos is oftentimes worth the investment for a variety of reasons. Usually products of better craftsmanship take up less space or power, due to the more-efficient workings of their ancient designs.
 
 All of these factors must come into play when the crew plan their acquisitions, perhaps even more so when times are good than when times are lean. Just as only a thin hull stands between air and the void, so does the prepared mind stand between disastrous poverty and long-term wealth. *Table: Component Craftsmanship Modifiers*, represents how the level of quality and craftsmanship for a Component affects its Acquisition and Installation, while *Table: Lance and Macrobattery Craftsmanship Modifiers* shows the performance effects on Lance and Macrobattery weapons (this table should be used instead of *Table: Component Craftsmanship Modifiers*). Other weapons should use *Table: Component Craftsmanship Modifiers*. 
 
@@ -61,9 +64,9 @@ In addition, although Poor Craftsmanship Components reduce Ship Point costs by 1
 
 ## Craftsmanship And Morale
 
-A ship runs on more than just plasma and adamantium. It also runs on the crew’s morale, their faith in their ship and those who command her. Much of the morale level at any given time is determined by what the crew see around them—the ship itself. When they see their masters improving the ship with better Components, they feel more confident in their lot. An ancient cogitator, musty with old smells and covered with seals of numistic purity, lifts the spirits of the most downtrodden ratings. Alternatively, a rusting life sustainer dripping vitae-unguents lowers expectations of survival. 
+A ship runs on more than just plasma and adamantium. It also runs on the crew's morale, their faith in their ship and those who command her. Much of the morale level at any given time is determined by what the crew see around them—the ship itself. When they see their masters improving the ship with better Components, they feel more confident in their lot. An ancient cogitator, musty with old smells and covered with seals of numistic purity, lifts the spirits of the most downtrodden ratings. Alternatively, a rusting life sustainer dripping vitae-unguents lowers expectations of survival. 
 
-To represent this, after a Component is installed the ship’s Morale is immediately modified based on the Craftsmanship Level as per Table Component Craftsmanship Modifiers. The modifier cannot reduce Morale to below half or take it to above the ship’s maximum level. This is not a permanent loss, and may be regained to the ship’s maximum.
+To represent this, after a Component is installed the ship's Morale is immediately modified based on the Craftsmanship Level as per Table Component Craftsmanship Modifiers. The modifier cannot reduce Morale to below half or take it to above the ship's maximum level. This is not a permanent loss, and may be regained to the ship's maximum.
 
 ## Component Craftsmanship Modifiers
 

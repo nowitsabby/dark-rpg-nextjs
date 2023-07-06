@@ -28,89 +28,100 @@ import { StarshipHullRecord } from '@/components/tables/components/HullTable';
 import { MeleeWeaponRecord, RangedWeaponRecord } from '@/components/tables/components/WeaponGroupTable';
 import Document from '@/components/util/Document'
 import { loadDocument } from '@/lib/srd'
+import Head from 'next/head';
 import { titleCase } from 'title-case';
 
 interface SrdData {
   info: string;
-  type: string;
+  component: string;
   data: object[] | object;
 }
 
-function DataComponent({ doc }: { doc: SrdData }) {
-  switch(doc.type) {
+function DataComponent({ component, data }: { component: string, data: object[] | object }) {
+  switch(component) {
     case 'Equipment':
-      return <Equipment data={ doc.data as EquipmentRecord[] } />
+      return <Equipment data={ data as EquipmentRecord[] } />
     case 'Armour':
-      return <Armour data={ doc.data as ArmourRecord[] } />
+      return <Armour data={ data as ArmourRecord[] } />
     case 'ForceFields':
-      return <ForceFields data={ doc.data as FieldRecord[] } />
+      return <ForceFields data={ data as FieldRecord[] } />
     case 'Modifications': 
-      return <Modifications data={ doc.data as ModRecord[] }/>
+      return <Modifications data={ data as ModRecord[] }/>
     case 'Ammunition': 
-      return <Ammunition data={ doc.data as AmmunitionRecord[] }/>
+      return <Ammunition data={ data as AmmunitionRecord[] }/>
     case 'MeleeWeapons': 
-      return <MeleeWeapons data={ doc.data as MeleeWeaponRecord[] }/>
+      return <MeleeWeapons data={ data as MeleeWeaponRecord[] }/>
     case 'RangedWeapons': 
-      return <RangedWeapons data={ doc.data as RangedWeaponRecord[] }/>
+      return <RangedWeapons data={ data as RangedWeaponRecord[] }/>
     case 'Backgrounds':
-      return <Backgrounds data={ doc.data as BackgroundsTable[] }/>
+      return <Backgrounds data={ data as BackgroundsTable[] }/>
     case 'Actions':
-      return <Actions data={ doc.data as ActionsTable[] } />
+      return <Actions data={ data as ActionsTable[] } />
     case 'CriticalDamage':
-      return <CriticalDamage data={ doc.data as CriticalDamageTable } />
+      return <CriticalDamage data={ data as CriticalDamageTable } />
     case 'EliteAdvance':
-      return <EliteAdvance data={ doc.data as EliteAdvanceRecord } />
+      return <EliteAdvance data={ data as EliteAdvanceRecord } />
     case 'NavigatorPowers':
-      return <NavigatorPowers data={ doc.data as NavigatorPowerType[] } />
+      return <NavigatorPowers data={ data as NavigatorPowerType[] } />
     case 'Origins':
-      return <Origins data={ doc.data as OriginsTable[] } />
+      return <Origins data={ data as OriginsTable[] } />
     case 'PsychicDiscipline':
-      return <PsychicDiscipline data={ doc.data as PsychicDisciplineRecord } />
+      return <PsychicDiscipline data={ data as PsychicDisciplineRecord } />
     case 'Roles':
-      return <Roles data={ doc.data as RolesTable[] } />
+      return <Roles data={ data as RolesTable[] } />
     case 'Skills':
-      return <Skills data={ doc.data as SkillsTable[] } />
+      return <Skills data={ data as SkillsTable[] } />
     case 'StarshipActions':
-      return <StarshipActions data={ doc.data as StarshipActionGroups } />
+      return <StarshipActions data={ data as StarshipActionGroups } />
     case 'StarshipComponents':
-      return <StarshipComponents data={ doc.data as StarshipComponentRecord[] } />
+      return <StarshipComponents data={ data as StarshipComponentRecord[] } />
     case 'StarshipEssential':
-      return <StarshipEssential data={ doc.data as EssentialComponents } />
+      return <StarshipEssential data={ data as EssentialComponents } />
     case 'StarshipHulls':
-      return <StarshipHulls data={ doc.data as StarshipHullRecord[] } />
+      return <StarshipHulls data={ data as StarshipHullRecord[] } />
     case 'StarshipSupplemental':
-      return <StarshipSupplemental data={ doc.data as SupplementalComponents } />
+      return <StarshipSupplemental data={ data as SupplementalComponents } />
     case 'StarshipWeapons':
-      return <StarshipWeapons data={ doc.data as WeaponComponents } />
+      return <StarshipWeapons data={ data as WeaponComponents } />
     case 'Talents':
-      return <Talents data={ doc.data as TalentType[] } />
+      return <Talents data={ data as TalentType[] } />
     case 'TorpedoesAttackCraft':
-      return <TorpedoesAttackCraft data={ doc.data as TorpedoAttackCraft } />
+      return <TorpedoesAttackCraft data={ data as TorpedoAttackCraft } />
     case 'Traits':
-      return <Traits data={ doc.data as TraitTable[] } />
+      return <Traits data={ data as TraitTable[] } />
   }
 }
 
 export default function SrdPage({ params }: { params: { srdPath: string[] } }) {
-  const { type, data } = loadDocument(params.srdPath);
+  const { type, content, title } = loadDocument(params.srdPath);
 
-  if (type === 'doc') {
-    return (
-      <Document doc={data} includeToc />
-    )
-  } else if (type === 'json') {
-    const doc = JSON.parse(data);
+  if (type === 'md') {
     return (
       <>
-        <Document doc={doc.info} />
-        <DataComponent doc={doc}/>
+        <Head>
+          <title>{title}</title>
+        </Head>
+        <Document doc={content as string} includeToc />
+      </>
+      
+    )
+  } else if (type === 'json') {
+    return (
+      <>
+        <Head>
+          <title>{title}</title>
+        </Head>
+        <Document doc={(content as SrdData)?.info} />
+        <DataComponent 
+          component={(content as SrdData)?.component}
+          data={(content as SrdData)?.data} />
       </>
     )
   } else {
     return (
       <>
         <h2>{titleCase(type)}</h2>
-        <div>{data}</div>
+        <div>{content as string}</div>
       </>
     )
   }

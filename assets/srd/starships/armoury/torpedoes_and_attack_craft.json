@@ -1,6 +1,7 @@
 {
-  "info": "# Torpedoes and Attack Craft",
-  "type": "TorpedoesAttackCraft",
+  "title": "Torpedoes & Attack Craft",
+  "info": "# Torpedoes & Attack Craft",
+  "component": "TorpedoesAttackCraft",
   "data": {
     "attackCraft": [
       {

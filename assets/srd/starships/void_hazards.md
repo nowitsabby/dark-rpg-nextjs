@@ -1,3 +1,6 @@
+---
+title: Void Hazards
+---
 # Void Hazards
 
 ## Hazards Onboard a Starship

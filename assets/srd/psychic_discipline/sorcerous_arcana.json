@@ -1,6 +1,7 @@
 {
+  "title": "Sorcerous Arcana - Psychic Discipline",
   "info": "# Sorcerous Arcana - Psychic Discipline",
-  "type": "PsychicDiscipline",
+  "component": "PsychicDiscipline",
   "data": {
     "discipline": "Sorcerous Arcana",
     "information": "The arduous study and strength of will required to become a psyker of ability drives many who lack the diligence, opportunity or the innate talent, to look for what some foolishly see as an easier path to power and even those with very limited or no latent psychic ability can become powerful Sorcerers If they have the will, intelligence and stomach to wield and pay the price for their dark lore. Despised and feared for their unnatural practices and the taint of the warp that lingers near them, sorcerers are often recluses. Like all who gaze too long at things which man was never meant to see, most sorcerers eventually succumb either to insanity, mutation or the daemon's hunger for there are no more treacherous paths to power known to mankind.\n\n__Dark Power__\n\nEvery time a Sorcerer successfully manifests a Sorcerous Power or Arcana Power, they gain a number of Corruption points equal to 1d10 minus their Willpower bonus.\n\nThe following arcana are available only to a Sorcerer character, and are purchased with experience in the same manner as regular psychic powers.",

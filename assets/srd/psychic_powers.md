@@ -1,3 +1,6 @@
+---
+title: Psykers & Psychic Powers
+---
 # Psykers
 
 Psykers are beings with the ability to manipulate the power of the Immaterium, bending the chaotic energy to their will to manifest potent psychic powers. Characters can become psykers by taking the Psyker elite advance. This grants them the ability to purchase psychic powers with experience points, and gives them access to a new resource: psy rating. Over the course of their adventures, warbands can encounter other beings that manifest powers using Warp energies. In all cases, the GM and players should use the rules presented here to represent a psyker's deadly gifts.

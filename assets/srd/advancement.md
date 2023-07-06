@@ -1,22 +1,25 @@
+---
+title: Advancement
+---
 # Advancement
 
 ## Aptitudes
 
-These represent tasks or abilities for which a character has a natural affinity, and can learn with greater ease than others\. Characteristic, skill, and talent advances in the game have aptitudes linked to them, usually two \(though especially rare abilities might have only one\)\. Those advances sharing a character’s aptitudes are easier for that character to learn, and thus cost fewer experience points to purchase\. If a character shares one aptitude with an advance, he gains a small discount to purchasing it, and if he shares two aptitudes with the advance he gains a large discount\. Players can still purchase advances for which they have no shared aptitudes, but these are typically very expensive\. All characters are considered to possess the 'General' aptitude
+These represent tasks or abilities for which a character has a natural affinity, and can learn with greater ease than others\. Characteristic, skill, and talent advances in the game have aptitudes linked to them, usually two \(though especially rare abilities might have only one\)\. Those advances sharing a character's aptitudes are easier for that character to learn, and thus cost fewer experience points to purchase\. If a character shares one aptitude with an advance, he gains a small discount to purchasing it, and if he shares two aptitudes with the advance he gains a large discount\. Players can still purchase advances for which they have no shared aptitudes, but these are typically very expensive\. All characters are considered to possess the 'General' aptitude
 
 Note that if during creation a character gains the same aptitude from different sources, he does not gain it twice\. He instead chooses and gains a Characteristic\-based aptitude that he does not already have\.
 
 ## Characteristic Advances
 
-A characteristic advance represents a natural improvement to a character’s body or mind\. When a player purchases an advance in a characteristic, he adds \+5 to that characteristic permanently\. Characteristic advances are divided into five progression levels:
+A characteristic advance represents a natural improvement to a character's body or mind\. When a player purchases an advance in a characteristic, he adds \+5 to that characteristic permanently\. Characteristic advances are divided into five progression levels:
 
-- Simple: A small fulfilment of the character’s potential\.
-- Intermediate: A significant and noticeable improvement of the character’s capabilities\.
-- Trained: A measure of the character’s improvement beyond most around him\.
-- Proficient: Active, focused effort upon improving the character’s prowess\.
-- Expert: The limit of a character’s natural abilities
+- Simple: A small fulfilment of the character's potential\.
+- Intermediate: A significant and noticeable improvement of the character's capabilities\.
+- Trained: A measure of the character's improvement beyond most around him\.
+- Proficient: Active, focused effort upon improving the character's prowess\.
+- Expert: The limit of a character's natural abilities
 
-As players set about increasing their characters’ characteristics, they must progress through each of the progression levels in turn\. This begins with Simple and ends at Expert, using the prices on the Characteristic Advances Table\.
+As players set about increasing their characters' characteristics, they must progress through each of the progression levels in turn\. This begins with Simple and ends at Expert, using the prices on the Characteristic Advances Table\.
 
 The costs for characteristic advances are cumulative\. For instance, a player could not simply pay 500 xp for a \+10 increase for a characteristic he has one aptitude matched with\. Instead, the player is required to buy the Simple advance for 250 xp first, and then pay the 500 xp for the Intermediate advance\.
 
@@ -71,7 +74,7 @@ Zero              |600 xp  |900 xp  |1,200 xp
 
 ### Taking Talents Multiple Times
 
-Some talents can be taken multiple times, which is noted in the talent’s description\. There are only a few of these talents; the most prominent is Sound Constitution, which increases a Player Character’s wounds each time it is taken\. When taking these talents multiple times, the player simply pays the experience cost each time\. It should be noted, however, that some talents that can be taken multiple times have a hard limit, indicating the maximum number of times they can be purchased\.
+Some talents can be taken multiple times, which is noted in the talent's description\. There are only a few of these talents; the most prominent is Sound Constitution, which increases a Player Character's wounds each time it is taken\. When taking these talents multiple times, the player simply pays the experience cost each time\. It should be noted, however, that some talents that can be taken multiple times have a hard limit, indicating the maximum number of times they can be purchased\.
 
 #### Specialist Talents
 

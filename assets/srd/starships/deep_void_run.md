@@ -1,3 +1,6 @@
+---
+title: The Deep Void Run
+---
 # The Deep Void Run 
 
 Though the Imperium of Man claims that vast swaths of the galaxy are subservient to the Golden Throne of Terra, it would be more accurate to describe mankind's dominion as tiny islands adrift in an enormous ocean. The space between stars is so huge that any claim of control is laughable, and so the majority of the Imperium remains safe, huddled around the fires of their stars. However, it is through these uncharted depths that mankind's ships must travel. Even with the help of warp drives-and the immaterium is a fickle ally at best-travel between star systems can take as long as months, or even years. Beyond the bounds of the Imperium, where the fires of civilisation are even farther apart, the journeys could even take decades.

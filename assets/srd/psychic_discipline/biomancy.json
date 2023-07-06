@@ -1,6 +1,7 @@
 {
+  "title": "Biomancy - Psychic Discipline",
   "info": "# Biomancy - Psychic Discipline",
-  "type": "PsychicDiscipline",
+  "component": "PsychicDiscipline",
   "data": {
     "discipline": "Biomancy",
     "information": "Artists of living flesh, Biomancers can push their own bodies beyond human limits, and even control the biological processes of others. These powers allow a psyker to enhance his own abilities and aid his allies, but can also be used stop a foe's heart with but a thought.",

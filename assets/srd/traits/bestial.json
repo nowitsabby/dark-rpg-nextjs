@@ -1,6 +1,7 @@
 {
+  "title": "Bestial Traits",
   "info": "# Bestial Traits",
-  "type": "Traits",
+  "component": "Traits",
   "data": [
     {
       "trait": "Bred for War",

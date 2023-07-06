@@ -1,3 +1,6 @@
+---
+title: Example Endeavours
+---
 # Example Endeavours
 
 Presented below is a selection of these Endeavour types and their requirements, as well as a number of specific Endeavours for each, is presented here for the GM to either use as is or to draw inspiration from.
@@ -24,25 +27,25 @@ The Lady Aspyce Chorda used her connections with the Cold Guild and other shadow
 
 __Themes:__ Exploration
 
-Explorers and surveyors must descend like thistle down from the Rogue Trader’s vessel, and all signs of toxins, taint, and unholy 280 IX: Playing the Game presences investigated. Who knows what might be missed if hirelings are left to complete these tasks unsupervised.
+Explorers and surveyors must descend like thistle down from the Rogue Trader's vessel, and all signs of toxins, taint, and unholy 280 IX: Playing the Game presences investigated. Who knows what might be missed if hirelings are left to complete these tasks unsupervised.
 
 #### Objective 2: Establish Dominance Over the Cold Guild
 
 __Themes:__ Criminal, Trade
 
-The fiercely independent Cold Guild representatives must be made to bow to the Rogue Trader’s will, either through respect or terror of the consequences of resistance.
+The fiercely independent Cold Guild representatives must be made to bow to the Rogue Trader's will, either through respect or terror of the consequences of resistance.
 
 #### Objective 3: Cleanse the Near Voids of Pirate Scum
 
 __Themes:__ Exploration, Military
 
-No Foundling World is safe whilst reavers of Iniquity roam its system voids with impunity. Their vessels must be found and their leaders made to fear the Rogue Trader’s presence.
+No Foundling World is safe whilst reavers of Iniquity roam its system voids with impunity. Their vessels must be found and their leaders made to fear the Rogue Trader's presence.
 
 ### The Second Colony of Grace
 
 _Lesser Endeavour, +2 Profit Factor_
 
-At some point in time, the ruins of Grace become attractive to a different Rogue Trader, one who sees Profit Factor in raising up a more holy colony in the God-Emperor’s name.
+At some point in time, the ruins of Grace become attractive to a different Rogue Trader, one who sees Profit Factor in raising up a more holy colony in the God-Emperor's name.
 
 #### Objective 1: Crush the Feral Orks Who Infest the Ruins
 
@@ -54,7 +57,7 @@ The Imperial ruins of Grace are overrun with tribes of feral Orks, the cast-off 
 
 __Themes:__ Creed
 
-The Rogue Trader must obtain allies and succeed in negotiations such that the Drusians or Vitrian Covenant open their coffers in support of the Rogue Trader’s goals and exhort their followers in pilgrimage to this new world.
+The Rogue Trader must obtain allies and succeed in negotiations such that the Drusians or Vitrian Covenant open their coffers in support of the Rogue Trader's goals and exhort their followers in pilgrimage to this new world.
 
 #### Objective 3: Raise up the Pilgrim Horde
 __Themes:__ Creed, Trade
@@ -99,13 +102,13 @@ The beast trade of the Drusus Marches is as much criminal as legitimate. The bla
 
 __Themes:__ Exploration, Military
 
-In the company of many hunters and other militants, protected by Imperial tech-devices, the Rogue Trader’s mission must slaughter and capture terrifying beasts to fill great-holds many times over. Further, the bases for future expeditions must be established and the results of this grand hunt brought back to Imperial space for the profit they will bring.
+In the company of many hunters and other militants, protected by Imperial tech-devices, the Rogue Trader's mission must slaughter and capture terrifying beasts to fill great-holds many times over. Further, the bases for future expeditions must be established and the results of this grand hunt brought back to Imperial space for the profit they will bring.
 
-### Enter the Nephium Trade of Lucin’s Breath
+### Enter the Nephium Trade of Lucin's Breath
 
 _Lesser Endeavour, +2 Profit Factor_
 
-The Winterscale lineage has for centuries benefited from pure nephium found on the frozen resource world of Lucin’s Breath, using it to gain favour with forge world Archmagi. Vast refineries, drill-machinery, and bulk-lifter ruins from years long past litter Lucin’s Breath, and tens of thousands of serfs and slaves toil within presently active installations. Yet there is still room for a new Rogue Trader to violently establish a refinery zone.
+The Winterscale lineage has for centuries benefited from pure nephium found on the frozen resource world of Lucin's Breath, using it to gain favour with forge world Archmagi. Vast refineries, drill-machinery, and bulk-lifter ruins from years long past litter Lucin's Breath, and tens of thousands of serfs and slaves toil within presently active installations. Yet there is still room for a new Rogue Trader to violently establish a refinery zone.
 
 #### Objective 1: Make Your Mark and Clear the Zone
 
@@ -117,7 +120,7 @@ Clear a new sinkhole refinery zone of frozen battle-debris, and burn down incurs
 
 __Themes:__ Criminal, Trade
 
-Forcing the Lucinite breed to toil in the frigid gas-snow outside Imperial installations is a great advantage and is necessary to success on Lucin’s Breath now that Rogue Traders vie for its treasure with such great violence. The secrets of their slavery must be wrested from other Rogue Traders’ servants, and a cadre of xenos-trainers established.
+Forcing the Lucinite breed to toil in the frigid gas-snow outside Imperial installations is a great advantage and is necessary to success on Lucin's Breath now that Rogue Traders vie for its treasure with such great violence. The secrets of their slavery must be wrested from other Rogue Traders' servants, and a cadre of xenos-trainers established.
 
 #### Objective 3: Challenge the Rival Rogue Traders
 
@@ -127,7 +130,7 @@ Unless partnership, dominance, respect, or fear is established, then the new ins
 
 ## Establish a Cold Trade from Dead Xenos Worlds
 
-The “Cold Trade” is the name given to the black market in xenos materials, much of it illegal despite the terms of a Rogue Trader’s Warrant of Trade. Xenos artefacts are rarer than common resources, but also more dangerous to trade within the Imperium. A Rogue Trader must make diligent efforts to develop a secure web of connections to smugglers and crime barons of the Cold Trade, as well as to wealthy collectors and xenosavants.
+The “Cold Trade” is the name given to the black market in xenos materials, much of it illegal despite the terms of a Rogue Trader's Warrant of Trade. Xenos artefacts are rarer than common resources, but also more dangerous to trade within the Imperium. A Rogue Trader must make diligent efforts to develop a secure web of connections to smugglers and crime barons of the Cold Trade, as well as to wealthy collectors and xenosavants.
 
 Example Requirements:
 * Xenos worlds, usually long dead
@@ -142,7 +145,7 @@ Example Requirements:
 
 _Grand Endeavour, +5 Profit Factor_
 
-In the 5th century M41, Balastus Irem established a fantastically lucrative Cold Trade in horrid artefacts recovered from cyclopean ruins upon dead worlds of the Cineris Malificum. His coffers swelled enormously as a result of this Endeavour. Little is known of the details of Balastus Irem’s allies, trade partners, voyages, and archeo-excavations, for Ordo Xenos forces expunged the Irem lineage and all their works in 443.M41, on suspicion of the most dire heresy.
+In the 5th century M41, Balastus Irem established a fantastically lucrative Cold Trade in horrid artefacts recovered from cyclopean ruins upon dead worlds of the Cineris Malificum. His coffers swelled enormously as a result of this Endeavour. Little is known of the details of Balastus Irem's allies, trade partners, voyages, and archeo-excavations, for Ordo Xenos forces expunged the Irem lineage and all their works in 443.M41, on suspicion of the most dire heresy.
 
 #### Objective 1: Establish Promising Archeosites
 
@@ -154,7 +157,7 @@ The ruins of the Cineris Malificum worlds are so ancient and vast they have beco
 
 __Themes:__ Criminal, Trade
 
-There is great risk attendant on entering the Cold Trade,even for a Rogue Trader. Potential buyers of great wealth and influence must be approached with caution—lest the Imperial authorities hear of these activities and lest the shadowy powers of the Drusus Marches underworld intervene. There are guides through this dangerous underworld, such as the Kasballica representatives of Footfall, but even they are difficult to pproach.
+There is great risk attendant on entering the Cold Trade,even for a Rogue Trader. Potential buyers of great wealth and influence must be approached with caution—lest the Imperial authorities hear of these activities and lest the shadowy powers of the Drusus Marches underworld intervene. There are guides through this dangerous underworld, such as the Kasballica representatives of Footfall, but even they are difficult to approach.
 
 #### Objective 3: Defeat the Treacherous Eldar
 
@@ -172,7 +175,7 @@ The strange hive-ruins of the deserted Egarian worlds are formed of a strange ma
 
 __Themes:__ Exploration
 
-The shifting warp of Winterscale’s Realm and the obsessive secrecy of those who harrow xenos worlds leaves navigation to the Egarian Dominion an uncertain proposition. A route must be established through the dangers of the Empyrean of the Expanse and the strange warp-phenomena that surround the Egarian stars. There are ugly currents in these voids that few Rogue Traders are willing to speak of, and some voidfarers believe them haunted.
+The shifting warp of Winterscale's Realm and the obsessive secrecy of those who harrow xenos worlds leaves navigation to the Egarian Dominion an uncertain proposition. A route must be established through the dangers of the Empyrean of the Expanse and the strange warp-phenomena that surround the Egarian stars. There are ugly currents in these voids that few Rogue Traders are willing to speak of, and some voidfarers believe them haunted.
 
 #### Objective 2: Develop a Cold Trade Network of Wealthy Clients
 
@@ -184,7 +187,7 @@ The trade in Egarian materials is presently accepted as falling within the bound
 
 __Themes:__ Exploration
 
-Led by rare savants of Egarian lore, the Rogue Trader’s mission must enter or even tear apart the hive-ruins of an Egarian world in search of the shards, sheets, and artefacts valued by the Cold Trade. This is dangerous toil, wherein explorers are under threat of becoming lost forever in the crumbling hive-mazes, or crushed and sliced apart by falling shards. Expeditions past have vanished utterly upon these worlds, leaving only deserted camps behind them, and no one knows what has become of such unfortunate souls. Something preys upon those who come here; that much is certain.
+Led by rare savants of Egarian lore, the Rogue Trader's mission must enter or even tear apart the hive-ruins of an Egarian world in search of the shards, sheets, and artefacts valued by the Cold Trade. This is dangerous toil, wherein explorers are under threat of becoming lost forever in the crumbling hive-mazes, or crushed and sliced apart by falling shards. Expeditions past have vanished utterly upon these worlds, leaving only deserted camps behind them, and no one knows what has become of such unfortunate souls. Something preys upon those who come here; that much is certain.
 
 ## Establish a Trade Route
 
@@ -192,7 +195,7 @@ Establishing a reliable path through the treacherous warp is but the first part 
 
 Example Requirements:
 * Two or more human worlds
-* Identified arp routes between the worlds
+* Identified warp routes between the worlds
 * Compacts of trade negotiated with leaders upon each world
 * A modest organisation of factors and negotiators upon each world
 * A small organisation of brokers and scribes
@@ -209,7 +212,7 @@ Given time, Jonquin Saul—or perhaps another Rogue Trader—will establish a pr
 
 __Themes:__ Exploration
 
-Long routes through the turbulent warp of the Koronus Expanse are a dire and terrifying prospect, and the Heathen Stars are far indeed from Footfall, far even from the better known worlds of Winterscale’s Realm. A route must be established, however, and potential dangers and layover worlds along the way explored. These are treacherous, unknown voids, and almost anything might emerge to threaten an exploring fleet
+Long routes through the turbulent warp of the Koronus Expanse are a dire and terrifying prospect, and the Heathen Stars are far indeed from Footfall, far even from the better known worlds of Winterscale's Realm. A route must be established, however, and potential dangers and layover worlds along the way explored. These are treacherous, unknown voids, and almost anything might emerge to threaten an exploring fleet
 
 #### Objective 2: Gain Allies Amongst the Zaythi Powers
 
@@ -221,9 +224,9 @@ Gaining the trust of any Zaythi faction is a grand challenge. Their world is roi
 
 __Themes:__ Military
 
-To seal the compacts of trade, it is necessary to perform a great deed of vengeance against the green-skinned demons who fall from the sky—the terrible Orks. Zathyi allies wish to accompany the Rogue Trader’s force away from Zayth to witness a strike against the Ork foe in the name of the Silvered God of War.
+To seal the compacts of trade, it is necessary to perform a great deed of vengeance against the green-skinned demons who fall from the sky—the terrible Orks. Zathyi allies wish to accompany the Rogue Trader's force away from Zayth to witness a strike against the Ork foe in the name of the Silvered God of War.
 
-### Forge a Guilder’s Route from Port Wander to the Drusus Marches
+### Forge a Guilder's Route from Port Wander to the Drusus Marches
 
 _Lesser Endeavour, +2 Profit Factor_
 
@@ -233,7 +236,7 @@ When needs must, a Rogue Trader can act in the manner of a common Free Trader or
 
 __Themes:__ Trade
 
-To ensure a great enough flow of rarities and favoured pickof strange goods, the Rogue Trader must go before his peers for assistance. Some Rogue Traders are reluctant to enter into such compacts, either through suspicion or a misplaced sense of loyalty to the ideal of the Warrant of Trade.
+To ensure a great enough flow of rarities and favoured pick of strange goods, the Rogue Trader must go before his peers for assistance. Some Rogue Traders are reluctant to enter into such compacts, either through suspicion or a misplaced sense of loyalty to the ideal of the Warrant of Trade.
 
 #### Objective 2: Establish a Hive World Market
 
@@ -245,4 +248,4 @@ The Rogue Trader and his factors must descend upon a hive world of the Drusus Ma
 
 __Themes:__ Creed, Trade
 
-Bold action must be taken in Port Wander to ensure that the Rogue Trader does not become an outcast amongst Imperial nobility and the high functionaries of the Port. The Rogue Trader’s name is threatened by undertaking common trade between worlds. Other Rogue Traders, like Jonquin Saul, have overcome a Free Trader’s origins and gained respect—so it can be done. Largess, obtaining noble allies through means fair and foul, and many other strategies are possible.
+Bold action must be taken in Port Wander to ensure that the Rogue Trader does not become an outcast amongst Imperial nobility and the high functionaries of the Port. The Rogue Trader's name is threatened by undertaking common trade between worlds. Other Rogue Traders, like Jonquin Saul, have overcome a Free Trader's origins and gained respect—so it can be done. Largess, obtaining noble allies through means fair and foul, and many other strategies are possible.

@@ -1,3 +1,6 @@
+---
+title: Services
+---
 # Services
 
 ## Common Services
@@ -49,12 +52,12 @@ The following services are available only to a select few in the Imperium. An Ac
 | Rites of Sanctity | Description | Availability |
 |---|---|---|
 | Sanctification | Requires an Influence of 40. This service takes at least a day for completion, and grants the weapon the Sanctified quality or removes the Tainted quality from the weapon. | Very Rare |
-| Purified Construction | Requires an Influence of 60 and reduces the character’s Influence by 1d10. This service takes several days or even weeks to complete, and grants the weapon the Daemonbane quality. | Near Unique |
+| Purified Construction | Requires an Influence of 60 and reduces the character's Influence by 1d10. This service takes several days or even weeks to complete, and grants the weapon the Daemonbane quality. | Near Unique |
 
 ### Jokaero Modifications 
 | Jokaero Modifications | Description | Availability |
 |---|---|---|
-| Jokaero Modifications | Requires an Influence of 50 or higher. An Acolyte can give a weapon to a Jokaero for modification, rolling up to four times on Jokaero Modifications Table and applying all the results. The weapon’s owner can ignore or re-roll results inapplicable to that weapon (such as Fluid Action on a melee weapon). If one or more results come up as Aesthetic Alteration, however, discard the other results and reduce the warband’s Subtlety by 1d5 to represent the unearthly new appearance. Each weapon takes twenty-four hours to modify and the results are permanent (even if they are of no use). The Jokaero, for unknown reasons, refuse to modify the same weapon twice. | Extremely Rare |
+| Jokaero Modifications | Requires an Influence of 50 or higher. An Acolyte can give a weapon to a Jokaero for modification, rolling up to four times on Jokaero Modifications Table and applying all the results. The weapon's owner can ignore or re-roll results inapplicable to that weapon (such as Fluid Action on a melee weapon). If one or more results come up as Aesthetic Alteration, however, discard the other results and reduce the warband's Subtlety by 1d5 to represent the unearthly new appearance. Each weapon takes twenty-four hours to modify and the results are permanent (even if they are of no use). The Jokaero, for unknown reasons, refuse to modify the same weapon twice. | Extremely Rare |
 
 #### Jokaero Modifications Table
 | D100 Roll  | Minor Power |

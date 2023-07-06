@@ -1,3 +1,6 @@
+---
+title: The Turn
+---
 # The Turn 
 
 When the Initiative order reaches a character, it is time for him to take his turn and perform actions and other activities\. Each turn is broken into three distinct parts: the start of the turn, performing actions, and the end of the turn\. A Player spends most of his turn performing actions, and these actions usually have the greatest impact on combats and adventures\. 
@@ -8,11 +11,11 @@ During each normal round, every character gets a turn to act\. On his turn, a ch
 
 ### Full Actions 
 
-A Full Action requires a character’s complete attention to accomplish\. A character can take one Full Action on his turn and cannot take any Half Actions\. Running towards an opponent is an example of a Full Action\. 
+A Full Action requires a character's complete attention to accomplish\. A character can take one Full Action on his turn and cannot take any Half Actions\. Running towards an opponent is an example of a Full Action\. 
 
 ### Half Actions 
 
-A Half Action is fairly simple; it requires some effort or concentration, but not so much that it consumes a character’s entire turn\. A character can take two different Half Actions on his turn instead of taking one Full Action\. Readying a weapon or making a Standard Attack are both examples of Half Actions\. 
+A Half Action is fairly simple; it requires some effort or concentration, but not so much that it consumes a character's entire turn\. A character can take two different Half Actions on his turn instead of taking one Full Action\. Readying a weapon or making a Standard Attack are both examples of Half Actions\. 
 
 ### Reactions 
 
@@ -24,7 +27,7 @@ Free Actions take only a moment to complete and usually require no real effort\.
 
 ### Extended Actions 
 
-Some actions require longer than a single round to complete\. These could include repairing a damaged cogitator, reloading a bulky weapon, or translating a dead race’s language\. Extended Actions are initiated on the character’s turn, and are the only type of action that can be undertaken across multiple rounds\. Once a character commits to completing an Extended Action, he is considered to be working towards completing it as long as necessary\. If the character abandons the Extended Action, or is interrupted, all progress towards completing the action is lost\. 
+Some actions require longer than a single round to complete\. These could include repairing a damaged cogitator, reloading a bulky weapon, or translating a dead race's language\. Extended Actions are initiated on the character's turn, and are the only type of action that can be undertaken across multiple rounds\. Once a character commits to completing an Extended Action, he is considered to be working towards completing it as long as necessary\. If the character abandons the Extended Action, or is interrupted, all progress towards completing the action is lost\. 
 
 ### Action Subtypes 
 
@@ -32,11 +35,11 @@ In addition to its type, every action is also categorized into one or more subty
 
 ## Using Actions 
 
-During his turn, a character may perform one Full Action or two different Half Actions\. A character could, for example, make a Charge action \(Full Action\) or make an Aim action and a Standard Attack action, such as shooting \(two Half Actions\)\. It is important to remember that a round is only a few seconds long, so the character’s turn within that round is but a few moments\. 
+During his turn, a character may perform one Full Action or two different Half Actions\. A character could, for example, make a Charge action \(Full Action\) or make an Aim action and a Standard Attack action, such as shooting \(two Half Actions\)\. It is important to remember that a round is only a few seconds long, so the character's turn within that round is but a few moments\. 
 
-Any action can be combined with talking, banter, battle cries, and other short verbal expressions—these are considered Free Actions—but it is left to the GM to decide what a player might be able to say in that amount of time\. A wry aside to a companion or a terse insult of an enemy is always reasonable, but recounting the intimate details of one’s legendary seven duels to the death between swings of a power sword should probably count as something more than just a Free Action\. 
+Any action can be combined with talking, banter, battle cries, and other short verbal expressions—these are considered Free Actions—but it is left to the GM to decide what a player might be able to say in that amount of time\. A wry aside to a companion or a terse insult of an enemy is always reasonable, but recounting the intimate details of one's legendary seven duels to the death between swings of a power sword should probably count as something more than just a Free Action\. 
 
-Most actions are started and completed within the active character’s same turn\. For example, a character does not begin a Charge on one turn and finish it on a later turn in a later round; he performs the entire Charge \(which is a Full Action\) at once during his turn\. However, there are two broad exceptions: Reactions can only be performed when it is not the reacting character’s turn, and Extended Actions always take more than one round to complete\. 
+Most actions are started and completed within the active character's same turn\. For example, a character does not begin a Charge on one turn and finish it on a later turn in a later round; he performs the entire Charge \(which is a Full Action\) at once during his turn\. However, there are two broad exceptions: Reactions can only be performed when it is not the reacting character's turn, and Extended Actions always take more than one round to complete\. 
 
 Characters can only take one action with the Attack subtype and one action with the Concentration subtype during their turn\. They can still take Reactions with the Concentration or Attack subtype during the same round, since this does not happen during their turn\. Note that sustaining psychic powers \(most of which have the Concentration subtype\) does not count as taking actions\.
 

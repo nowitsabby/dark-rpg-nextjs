@@ -1,6 +1,7 @@
 {
+  "title": "Minion Traits",
   "info": "# Minion Traits",
-  "type": "Traits",
+  "component": "Traits",
   "data": [
     {
       "trait": "Fanatic",

@@ -1,6 +1,7 @@
 {
+  "title": "Telekinesis - Psychic Discipline",
   "info": "# Telekinesis - Psychic Discipline",
-  "type": "PsychicDiscipline",
+  "component": "PsychicDiscipline",
   "data": {
     "discipline": "Telekinesis",
     "information": "Through the power of the Warp, telekines translate mental impulses into physical force. Powers from the telekinesis discipline can defy gravity, blast opponents with invisible bolts of force, and even tear holes in the very fabric of reality. Such powers offer great utility in a variety of situations, for they allow a psyker to affect the world around him without the constraints of his physical body.",

@@ -1,6 +1,7 @@
 {
+  "title": "Cybernetics",
   "info": "# Cybernetics\n\nImplants and bionics are only available if the character has access to both the resources and the skilled labour to have them installed; commonly this is only available in substantial medicae facilities and worlds with a high technological base. If a character can find a chirurgeon willing to install a bionic or implant, then the process takes no less than 2d10 days, minus one day for each point of his Toughness bonus—to a minimum of one day. How difficult it is to attach a bionic or implant is up to the GM. He might decide that given enough time, and in an advanced enough facility, it is automatic, or he can call on the chirurgeon to make a series of Medicae or even Tech-Use tests that could lead to such damage conditions as permanent crippling or Blood Loss.\n\n† Cybernetic requires the Mechanicus Implants trait",
-  "type": "Equipment",
+  "component": "Equipment",
   "data": [
     {
       "item": "Bionic Arm",

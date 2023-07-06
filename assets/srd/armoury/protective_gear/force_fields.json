@@ -1,6 +1,7 @@
 {
+  "title": "Force Fields",
   "info": "# Force Fields",
-  "type": "ForceFields",
+  "component": "ForceFields",
   "data": [
     {
       "field": "Conversion Field",

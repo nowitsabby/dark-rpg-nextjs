@@ -1,6 +1,7 @@
 {
+  "title": "Clothing & Personal Gear",
   "info": "# Clothing & Personal Gear",
-  "type": "Equipment",
+  "component": "Equipment",
   "data": [
     {
       "item": "Backpack",

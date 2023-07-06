@@ -1,8 +1,7 @@
 [
   {
     "name": "Adepta Sororitas",
-    "mementos":
-    [
+    "mementos": [
       "Burnt Leather Strap",
       "Broken Piece of Slate",
       "Tooth from a Chainsword",
@@ -27,8 +26,7 @@
   },
   {
     "name": "Adeptus Administratum",
-    "mementos":
-    [
+    "mementos": [
       "Brass Quill Tip",
       "Ribbon Bookmark",
       "Cracked Lens",
@@ -53,8 +51,7 @@
   },
   {
     "name": "Adeptus Arbites",
-    "mementos":
-    [
+    "mementos": [
       "Short Length of Chain",
       "Expired Wanted Poster",
       "Bag of Shot Pellets",
@@ -79,8 +76,7 @@
   },
   {
     "name": "Adeptus Astra Telepathica",
-    "mementos":
-    [
+    "mementos": [
       "Myrrhine Musk Stick",
       "Bent Spoon",
       "Torn Tarot Card",
@@ -105,8 +101,7 @@
   },
   {
     "name": "Adeptus Mechanicus",
-    "mementos":
-    [
+    "mementos": [
       "Brass Cog Wheel",
       "Sulphur Crystal",
       "Length of Coiled Wire",
@@ -131,8 +126,7 @@
   },
   {
     "name": "Adeptus Ministorum",
-    "mementos":
-    [
+    "mementos": [
       "Broken Sextant",
       "Lamp Wick",
       "Leaking Hourglass",
@@ -158,8 +152,7 @@
   },
   {
     "name": "Exorcised",
-    "mementos":
-    [
+    "mementos": [
       "Bag of Dried Blood (not yours)",
       "Small Iron Disk",
       "Entire Fingernail (yours)",
@@ -184,8 +177,7 @@
   },
   {
     "name": "Heretek",
-    "mementos":
-    [
+    "mementos": [
       "Electromotive Force Probe (bent)",
       "Length of Frayed Wire (20cm)",
       "Magnifying Lens (scratched)",
@@ -210,8 +202,7 @@
   },
   {
     "name": "Imperial Guard",
-    "mementos":
-    [
+    "mementos": [
       "Burnt Las Power Pack",
       "Xenos Skin Fragment",
       "Braided Boot Lace",
@@ -236,16 +227,15 @@
   },
   {
     "name": "Imperial Navy",
-    "mementos":
-    [
+    "mementos": [
       "Wires from Torpedo Sensorium",
       "Shoeshine Kit",
-      "Former Ship’s Insignia Icon",
+      "Former Ship's Insignia Icon",
       "Pouch of Bridge Uniform Tassels",
       "Small Section of Deck Plating",
       "Rad-burned Purity Seal",
       "Fragment of Body Armour Cloth",
-      "Officer’s Baton",
+      "Officer's Baton",
       "Shard of Heirloom Sabre",
       "Large Metal Key",
       "Shotgun Strap",
@@ -254,7 +244,7 @@
       "White Gloves",
       "Monocle (cracked)",
       "Haft from Shock Whip",
-      "Boson’s Whistle",
+      "Boson's Whistle",
       "Impressive Award (not yours)",
       "Large Ale Stein",
       "Greasy Rag"
@@ -262,8 +252,7 @@
   },
   {
     "name": "Mutant",
-    "mementos":
-    [
+    "mementos": [
       "Rusted Manacle (twisted open)",
       "Broken Fang",
       "Desiccated Lump of Flesh",
@@ -288,8 +277,7 @@
   },
   {
     "name": "Outcast",
-    "mementos":
-    [
+    "mementos": [
       "Box of Used Matches",
       "Bottle of Shrapnel",
       "Eye Patch",
@@ -314,8 +302,7 @@
   },
   {
     "name": "Rogue Trader Fleet",
-    "mementos":
-    [
+    "mementos": [
       "Burnt Parchment",
       "Scarf Stained with Xenos Blood",
       "Bag of Metallic Soil",
@@ -340,8 +327,7 @@
   },
   {
     "name": "Schola Graduate",
-    "mementos":
-    [
+    "mementos": [
       "Empty Pack of Lho-sticks",
       "Expired Mercenary Contract",
       "Bloodstained bullet (your blood)",
@@ -366,8 +352,7 @@
   },
   {
     "name": "Forge Labourer",
-    "mementos":
-    [
+    "mementos": [
       "Dented Brass Cog",
       "Crystallized Industrial Waste",
       "Uneven Wire Mesh",
@@ -392,8 +377,7 @@
   },
   {
     "name": "Navis Nobilite",
-    "mementos":
-    [
+    "mementos": [
       "Empty Perfume Bottle",
       "Tarnished Walking Cane Head",
       "Bag of Skin Flakes (yours?)",

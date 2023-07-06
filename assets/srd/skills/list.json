@@ -1,6 +1,7 @@
 {
+  "title": "Skills",
   "info": "# Skills",
-  "type": "Skills",
+  "component": "Skills",
   "data": [
     {
       "skill": "Acrobatics",

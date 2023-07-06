@@ -1,6 +1,7 @@
 {
+  "title": "Tools",
   "info": "# Tools",
-  "type": "Equipment",
+  "component": "Equipment",
   "data": [
     {
       "item": "Axe-Rake",

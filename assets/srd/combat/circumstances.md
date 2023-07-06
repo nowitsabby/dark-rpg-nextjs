@@ -1,3 +1,6 @@
+---
+title: Combat Circumstances
+---
 # Combat Circumstances 
 
 No two combats ever unfold in the same way; each one is a unique experience with different terrain, environments, weather, and a variety of other factors\. Combat circumstances cover any situational effects that have an impact on combat outside of the actions the characters are performing\. 
@@ -23,7 +26,7 @@ If a Hit Location would benefit from multiple cover bonuses, the character choos
 
 ### Damaging Cover 
 
-As attacks strike cover, they can wear it down, reduce its effectiveness, and eventually even destroy it\. Whenever a hit strikes a piece of cover and deals damage that exceeds the cover’s Armour points, that piece of cover has its Armour points reduced by 1\. Cover that has its Armour points reduced to 0 is destroyed and offers no further protection\.
+As attacks strike cover, they can wear it down, reduce its effectiveness, and eventually even destroy it\. Whenever a hit strikes a piece of cover and deals damage that exceeds the cover's Armour points, that piece of cover has its Armour points reduced by 1\. Cover that has its Armour points reduced to 0 is destroyed and offers no further protection\.
 
 ### Example Cover
 __Cover Types__                                              |__Armour Points__
@@ -52,7 +55,7 @@ Combat Ballistic Skill tests made to hit a target engaged in melee combat suffer
 
 ## Extreme Range 
 
-Targets that are at a distance of more than three times the range of a character’s weapon are at Extreme Range\. Ballistic Skill tests made to hit targets at Extreme Range are suffer a –30 penalty\. fog, mist, shadow, or smoke Ballistic Skill tests made to attack targets concealed by fog, mist, shadow, or smoke suffer a –20 penalty\. While concealed by fog, mist, or shadow, a character gains a \+10 bonus on Stealth skill tests\. 
+Targets that are at a distance of more than three times the range of a character's weapon are at Extreme Range\. Ballistic Skill tests made to hit targets at Extreme Range are suffer a –30 penalty\. fog, mist, shadow, or smoke Ballistic Skill tests made to attack targets concealed by fog, mist, shadow, or smoke suffer a –20 penalty\. While concealed by fog, mist, or shadow, a character gains a \+10 bonus on Stealth skill tests\. 
 
 ## Fog, Mist, Shadow, or Smoke 
 
@@ -64,7 +67,7 @@ A character has an advantage when he and his allies engage the same foe in melee
 
 ## Helpless Targets 
 
-Weapon Skill tests made to hit unconscious or otherwise helpless targets automatically succeed with a number of degrees of success equal to the attacker’s Weapon Skill bonus\. When rolling damage against such a target, roll the dice for damage twice and add the results\. Prone and Stunned targets are not automatically considered Helpless Targets\.
+Weapon Skill tests made to hit unconscious or otherwise helpless targets automatically succeed with a number of degrees of success equal to the attacker's Weapon Skill bonus\. When rolling damage against such a target, roll the dice for damage twice and add the results\. Prone and Stunned targets are not automatically considered Helpless Targets\.
 
 ## Higher Ground 
 
@@ -72,7 +75,7 @@ Characters standing on higher ground, such as on a table, hill, or mound of dead
 
 ## Long Range 
 
-Targets that are at a distance of more than double the range of a character’s weapon are at Long range\. Ballistic Skill tests made to hit targets at Long range are suffer a –10 penalty\. 
+Targets that are at a distance of more than double the range of a character's weapon are at Long range\. Ballistic Skill tests made to hit targets at Long range are suffer a –10 penalty\. 
 
 ## Missing and Scattering 
 
@@ -89,7 +92,7 @@ The consequences of throwing dangerous objects in a zero gravity environment can
 
 ## Pinning 
 
-Being shot at is a terrifying experience at the best of times, and even the most inexperienced Acolytes know to keep their heads down when the bullets and bolt shells start flying\. Pinning represents a character’s survival instincts telling him to stay in cover\. Certain combat actions or other circumstances call on their targets to test for Pinning; this is a Challenging \(\+0\) Willpower test\. If the character succeeds, he can act normally\. If he fails, he instead becomes Pinned\. 
+Being shot at is a terrifying experience at the best of times, and even the most inexperienced Acolytes know to keep their heads down when the bullets and bolt shells start flying\. Pinning represents a character's survival instincts telling him to stay in cover\. Certain combat actions or other circumstances call on their targets to test for Pinning; this is a Challenging \(\+0\) Willpower test\. If the character succeeds, he can act normally\. If he fails, he instead becomes Pinned\. 
 
 ### Being Pinned 
 
@@ -97,7 +100,7 @@ A Pinned character is busy trying to avoid getting shot, so may only take a sing
 
 ## Point\-blank Range 
 
-When a character makes a ranged attack against a target that is two metres away or closer, that target is at Point\-Blank range\. Ballistic Skill tests made to attack a target at this range gain a \+30 bonus\. This bonus does not apply when the attacker and the target are engaged in melee combat with each other\. For weapons with a Short range of less than three metres, Point\-Blank range is one metre less than the weapon’s Short range\. 
+When a character makes a ranged attack against a target that is two metres away or closer, that target is at Point\-Blank range\. Ballistic Skill tests made to attack a target at this range gain a \+30 bonus\. This bonus does not apply when the attacker and the target are engaged in melee combat with each other\. For weapons with a Short range of less than three metres, Point\-Blank range is one metre less than the weapon's Short range\. 
 
 ## Prone 
 
@@ -105,11 +108,11 @@ A character is considered Prone any time he is lying on the ground\. Weapon Skil
 
 ## Short Range 
 
-Targets that are at a distance of less than half the range of a character’s weapon are at Short range\. Ballistic Skill tests made to attack targets at Short range gain a \+10 bonus\. 
+Targets that are at a distance of less than half the range of a character's weapon are at Short range\. Ballistic Skill tests made to attack targets at Short range gain a \+10 bonus\. 
 
 ## Size 
 
-Size is an important factor when attacking foes because it is usually easier to hit a larger target\. All characters and creatures have a defined Size trait, and it should be relatively easy as well for the GM to assign an appropriate Size trait to objects as needed\. Use Size Table for determining bonuses and penalties based on a target’s Size trait\. 
+Size is an important factor when attacking foes because it is usually easier to hit a larger target\. All characters and creatures have a defined Size trait, and it should be relatively easy as well for the GM to assign an appropriate Size trait to objects as needed\. Use Size Table for determining bonuses and penalties based on a target's Size trait\. 
 
 ## Stunned Targets 
 

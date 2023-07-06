@@ -1,3 +1,6 @@
+---
+title: Cyber-Constructs
+---
 # Cyber-Constructs 
 
 It is not unheard of for individuals who are not Cyber-Mastiff handlers, or who are not equipped with a Constructer Interface to make use of Cyber-Constructs. While a trained Adeptus Mechanicus agent, with the proper augmetics is vastly more capable of repairing, controlling, and training these creatures, they are not alone in their use. Anyone equipped with a Constructer Interface can program his Cyber-Construct to obey the vocal (or vox) commands of another agent. This is limited, and cogitation patterns that would normally process evasion and attack movements must instead decipher human speech and intent. To avoid confusion, many users give the beast a designation, commands may be easily addressed, so that it does not interpret random words in other discussion as an order.
@@ -20,7 +23,7 @@ Given pertinent data (such as a spoor sample or a pict image) the construct will
 
 ## Grapple-Hawk
 
-Rarely used outside the Arbites, these exotic cyber-familiars take the form of elegant shining steel hawks. Their glittering crania contain the transplanted instincts of avians trained to seize moving targets without damaging them. These instincts, transferred to mechanical constructs fitted with powerful suspensors and talons capable of tearing through cast-iron, enable Arbites handlers to arrest suspects quickly (if brutally) on the streets. Designed to be carried on the hip, or to perch elsewhere on the handler’s armour, the Subrique-pattern Grapple-hawk can be deployed quickly in pursuit of a criminal.
+Rarely used outside the Arbites, these exotic cyber-familiars take the form of elegant shining steel hawks. Their glittering crania contain the transplanted instincts of avians trained to seize moving targets without damaging them. These instincts, transferred to mechanical constructs fitted with powerful suspensors and talons capable of tearing through cast-iron, enable Arbites handlers to arrest suspects quickly (if brutally) on the streets. Designed to be carried on the hip, or to perch elsewhere on the handler's armour, the Subrique-pattern Grapple-hawk can be deployed quickly in pursuit of a criminal.
 
 **Availability:** Very Rare
 
@@ -104,7 +107,7 @@ Chain-bite: (1d10+2 R; Pen 2; Tearing)
 
 ## Bloodhound Cyber-Mastiff
 
-While many Cyber-mastiffs have some tracking ability, the programming and routines implanted within the Bloodhounds are trained by some of the finest handlers available in the sector. Once implanted in a light Cyber-mastiff chassis, the animal instinct and repetitive training is linked to some of the most sophisticated olfactory sensors available in the sector (and some claim the Imperium). This formidable equipment suite is combined with an insidiously effective training regimen, which electrically stimulates the cogitator’s cortical centres upon completion of a successful ‘find.’ This practice causes the Bloodhound to become obsessive and tireless in its duties; the creatures have been rumoured to track targets for hundreds of miles without sleep or rest, although this may be a tall tale used to intimidate criminals into submission.
+While many Cyber-mastiffs have some tracking ability, the programming and routines implanted within the Bloodhounds are trained by some of the finest handlers available in the sector. Once implanted in a light Cyber-mastiff chassis, the animal instinct and repetitive training is linked to some of the most sophisticated olfactory sensors available in the sector (and some claim the Imperium). This formidable equipment suite is combined with an insidiously effective training regimen, which electrically stimulates the cogitator's cortical centres upon completion of a successful ‘find.' This practice causes the Bloodhound to become obsessive and tireless in its duties; the creatures have been rumoured to track targets for hundreds of miles without sleep or rest, although this may be a tall tale used to intimidate criminals into submission.
 
 **Availability:** Rare
 

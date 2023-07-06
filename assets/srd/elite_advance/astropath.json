@@ -1,6 +1,7 @@
 {
+  "title": "Astropath - Elite Advance",
   "info": "# Astropath - Elite Advance",
-  "type": "EliteAdvance",
+  "component": "EliteAdvance",
   "data": {
     "eliteAdvance": "Astropath",
     "cost": 300,

@@ -1,6 +1,7 @@
 {
+  "title": "Starship Combat Actions",
   "info": "# Starship Combat Actions",
-  "type": "StarshipActions",
+  "component": "StarshipActions",
   "data": {
     "extended": [
       {
@@ -133,7 +134,7 @@
       {
         "action": "Disengage",
         "test": "Challenging (+0) Operate (Voidship)+ Manoeuvrability Opposed by Challenging (+0) Detection+Scrutiny",
-        "benefit": "This Manoeuvre may not be performed if the starship is within 8 VUs of any enemy. The helmsman makes the test against an opposed by all opponents within 20 VUs. Provided their number of successes is greater than the successes of each enemy ship, the ship leaves combat, and may not renter it. Whether it succeeds or fails, the ship may not fire any weapons this turn. Once a starship has successfully disengaged from combat, it may not reengage its opponents unless the GM specifically allows otherwise. Additionally, the Disengage Manoeuvre cannot be used to initiate a Stern Chase. This is because the disengaging ship is shutting down all non-essential systems, including its engines, scanners, and weapons, and doing its best to pretend it isn’t there. It will remain that way for several hours or even days, before restarting its systems (hoping that everyone else has already left the area)."
+        "benefit": "This Manoeuvre may not be performed if the starship is within 8 VUs of any enemy. The helmsman makes the test against an opposed by all opponents within 20 VUs. Provided their number of successes is greater than the successes of each enemy ship, the ship leaves combat, and may not renter it. Whether it succeeds or fails, the ship may not fire any weapons this turn. Once a starship has successfully disengaged from combat, it may not reengage its opponents unless the GM specifically allows otherwise. Additionally, the Disengage Manoeuvre cannot be used to initiate a Stern Chase. This is because the disengaging ship is shutting down all non-essential systems, including its engines, scanners, and weapons, and doing its best to pretend it isn't there. It will remain that way for several hours or even days, before restarting its systems (hoping that everyone else has already left the area)."
       },
       {
         "action": "Evasive Manoeuvres",

@@ -1,6 +1,7 @@
 {
+  "title": "Starship Hulls",
   "info": "# Starship Hulls\n\n† This Weapon Hardpoint comes pre-equipped with a specific Weapon Component",
-  "type": "StarshipHulls",
+  "component": "StarshipHulls",
   "data": [
     {
       "name": "Jericho-class pilgrim vessel",

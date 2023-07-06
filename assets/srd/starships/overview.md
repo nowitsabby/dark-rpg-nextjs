@@ -1,3 +1,6 @@
+---
+title: Starships
+---
 # Starships
 
 ## Anatomy of a Starship 

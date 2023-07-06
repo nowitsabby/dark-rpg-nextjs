@@ -1,3 +1,6 @@
+---
+title: Creating a Bestial Companion
+---
 # Creating a Bestial Companion
 
 There are many different types of creatures that fill the kennels, stables, and aeries of the Imperium. The rules presented below allows the players and GM to create all manner of beasts, for the Bestial Companion talent, as adversaries, or as mounts for the Rough Riders of the Imperial Guard.

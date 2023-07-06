@@ -1,11 +1,6 @@
-# Warhammer 40k Unified RPG Rule Set
+---
+title: Home
+---
+# Dark Sci-Fi Fantasy RPG SRD
 
-Welcome to the unified Warhammer 40k RPG rule set SRD. 
-
-Based on the following Fantasy Flight Games rule sets: 
-- Dark Heresy
-- Rogue Trader
-- Deathwatch
-- Black Crusade
-- Only War
-- Dark Heresy 2e
+Inspired by Warhammer Fantasy, Dark Heresy, and Others

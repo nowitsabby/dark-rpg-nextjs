@@ -1,16 +1,19 @@
+---
+title: Creating a Character
+---
 # Creating a Character
 
 ## Stage 1: Choose Origin
 
-A character’s origin is the planet or location where he was born and likely spent a great deal of his life\. It can determine his physical appearance, mannerisms, and perspective on the Imperium as a whole\. A character’s origin also determines his starting characteristics\.
+A character's origin is the planet or location where he was born and likely spent a great deal of his life\. It can determine his physical appearance, mannerisms, and perspective on the Imperium as a whole\. A character's origin also determines his starting characteristics\.
 
 Each origin includes the following special rules that are applied to a character from this origin:
 
 ### Characteristic Modifiers
 
-Modifiers that alter how the player generates the Acolyte’s starting characteristics\.
+Modifiers that alter how the player generates the Acolyte's starting characteristics\.
 
-To generate a characteristic, the player rolls 2d10, adds the results together, and then adds 20\. The result is the character’s characteristic, and the player does this for each of the 10 characteristics, filling in each result on the character’s character sheet\. The roll to generate a characteristic can be altered by the characteristic modifiers of the character’s home world\. Each modifier lists characteristics with either a “\+” or a “–” in front of it\. These affect the roll in the following ways:
+To generate a characteristic, the player rolls 2d10, adds the results together, and then adds 20\. The result is the character's characteristic, and the player does this for each of the 10 characteristics, filling in each result on the character's character sheet\. The roll to generate a characteristic can be altered by the characteristic modifiers of the character's home world\. Each modifier lists characteristics with either a “\+” or a “–” in front of it\. These affect the roll in the following ways:
 
 \+ Characteristic: When rolling to determine the specified characteristic, the character rolls 3d10, takes the two dice with highest results, and adds their results to 20 to determine the characteristic\.
 
@@ -22,9 +25,9 @@ If the GM and all players agree, players can alternatively perform character gen
 
 #### Allocating Points
 
-At the GM’s discretion, players can instead use point allocations to determine starting characteristics in place of generating the characteristics via dice rolls\. To do this, the character starts with a score of 25 in each characteristic and then receives 60 points which he can distribute to any of his characteristics as desired\. Each point distributed to a characteristic raises that characteristic by one\. No characteristic, however, can be raised to a value higher than 40 in this way\.
+At the GM's discretion, players can instead use point allocations to determine starting characteristics in place of generating the characteristics via dice rolls\. To do this, the character starts with a score of 25 in each characteristic and then receives 60 points which he can distribute to any of his characteristics as desired\. Each point distributed to a characteristic raises that characteristic by one\. No characteristic, however, can be raised to a value higher than 40 in this way\.
 
-When using point allocations, the characteristic modifiers applied from the PC’s origin change the starting score of the respective characteristics:
+When using point allocations, the characteristic modifiers applied from the PC's origin change the starting score of the respective characteristics:
 
 __\+ Characteristic:__ Starts with a score of 30\.
 
@@ -32,7 +35,7 @@ __– Characteristic:__ Starts with a score of 20\.
 
 ### Fate Threshold
 
-A value representing the starting Fate threshold of a character from this origin\. A character starts with a threshold equal to the listed value, but has a chance at gaining the “Emperor’s Blessing” and increasing the value by 1\. The player rolls 1d10, and compares the result to the Emperor’s Blessing value for his origin\. If the result is equal to or higher than the listed value, the player increases his character’s Fate threshold by 1\.
+A value representing the starting Fate threshold of a character from this origin\. A character starts with a threshold equal to the listed value, but has a chance at gaining the “Emperor's Blessing” and increasing the value by 1\. The player rolls 1d10, and compares the result to the Emperor's Blessing value for his origin\. If the result is equal to or higher than the listed value, the player increases his character's Fate threshold by 1\.
 
 ### Origin Bonus
 
@@ -48,9 +51,9 @@ The number of wounds a character possesses at the beginning of the game\. This i
 
 ## Stage 2: Choose Background
 
-A character’s background represents what the character has done with his life up until this point, including the previous organisations under which he served\. It determines what sort of training the character has received throughout his life, what kind of resources he has access to, and who he knows\.
+A character's background represents what the character has done with his life up until this point, including the previous organisations under which he served\. It determines what sort of training the character has received throughout his life, what kind of resources he has access to, and who he knows\.
 
-Each player chooses one background type for his character and creates his character’s history\. He can either draw on the example background for inspiration—creating a new, unique background history—or leave his character’s exact story a mystery for now\. After choosing a background, the character gains the appropriate starting skills and talents, acquires his starting equipment, and gains his background aptitude and special ability\.
+Each player chooses one background type for his character and creates his character's history\. He can either draw on the example background for inspiration—creating a new, unique background history—or leave his character's exact story a mystery for now\. After choosing a background, the character gains the appropriate starting skills and talents, acquires his starting equipment, and gains his background aptitude and special ability\.
 
 Each background includes the following special rules that are applied to a character with this background:
 
@@ -80,7 +83,7 @@ A trait, or list of trait choices, that this character begins play with.
 
 ## Stage 3: Choose role
 
-While origin and background determine a character’s past, his role determines what he is in the present\. Each character views the world around him and his place in it in a certain manner, which is reflected in his role\. This broadly defines how he faces dangers, interacts with others, and seeks to resolve problems\. His role also dictates what areas of expertise he excels at, and how he grows and learns with experience\.
+While origin and background determine a character's past, his role determines what he is in the present\. Each character views the world around him and his place in it in a certain manner, which is reflected in his role\. This broadly defines how he faces dangers, interacts with others, and seeks to resolve problems\. His role also dictates what areas of expertise he excels at, and how he grows and learns with experience\.
 
 Each role includes the following special rules that are applied to a character with this role:
 
@@ -96,11 +99,11 @@ The talents that a character with this role gains at character creation\. Note t
 
 A unique ability that a character with this role gains during character creation\.
 
-Each player chooses one role for his character, and decides his character’s function before and after joining the warband\. After the player chooses his character’s role, the character immediately gains the appropriate role special ability\.
+Each player chooses one role for his character, and decides his character's function before and after joining the warband\. After the player chooses his character's role, the character immediately gains the appropriate role special ability\.
 
 ## Stage 4: Spend Experience Points, Equip Character
 
-In this stage, each player customises his character’s abilities\. Player Characters start the game with a certain amount of experience points \(xp\), usually 1000xp for relatively new characters, to reflect their lives up until this point and can spend these points to increase their characters’ initial characteristics, skills, and talents\. Here, they can also purchase additional equipment such as weapons and gear from the Armoury\.
+In this stage, each player customises his character's abilities\. Player Characters start the game with a certain amount of experience points \(xp\), usually 1000xp for relatively new characters, to reflect their lives up until this point and can spend these points to increase their characters' initial characteristics, skills, and talents\. Here, they can also purchase additional equipment such as weapons and gear from the Armoury\.
 
 ### Spend Experience Points
 
@@ -112,21 +115,21 @@ Each character starts with certain items based on his background, but can also s
 
 ## Stage 5: Give the Character Life
 
-Lastly, it is time for each player to give his character the unique personality that sets him apart from his fellow Acolytes\. This stage helps the players define their characters’ names, appearances, past, histories with other PCs or important NPCs, and more\.
+Lastly, it is time for each player to give his character the unique personality that sets him apart from his fellow Acolytes\. This stage helps the players define their characters' names, appearances, past, histories with other PCs or important NPCs, and more\.
 
 ### Gender, Appearance, and Personal Details
 
-The war\-torn worlds of the 41st Millennium are home to an unfathomable number of different types of people\. A character can have any desired gender, unless the GM or a specific origin or background would preclude such an option otherwise\. The same goes for appearance, which should follow any details made as part of the character’s creation, but otherwise be open to free construction\. As a player is creating the appearance of his character, he should keep in mind the descriptions given in the character creation options he has chosen, as those can often give ideas as to how those from that life might appear\. For example, feral worlders are often large and muscular while the servants of the Adeptus Mechanics are usually covered in cybernetics and the red robes of their order\. Many hive worlders are pale, having never seen their sun\. A character from the Adeptus Astra Telepathica could be uncomfortable in crowds, but an Outcast might welcome them as new sources of income\. These are only suggestions, however, as there is no such thing as a typical character\. There are commonalities within origins, backgrounds, and roles, and players should look to them to guide character creation, but fashioning characters with their own unique details can be very rewarding and make for warbands that stand apart\.
+The war\-torn worlds of the 41st Millennium are home to an unfathomable number of different types of people\. A character can have any desired gender, unless the GM or a specific origin or background would preclude such an option otherwise\. The same goes for appearance, which should follow any details made as part of the character's creation, but otherwise be open to free construction\. As a player is creating the appearance of his character, he should keep in mind the descriptions given in the character creation options he has chosen, as those can often give ideas as to how those from that life might appear\. For example, feral worlders are often large and muscular while the servants of the Adeptus Mechanics are usually covered in cybernetics and the red robes of their order\. Many hive worlders are pale, having never seen their sun\. A character from the Adeptus Astra Telepathica could be uncomfortable in crowds, but an Outcast might welcome them as new sources of income\. These are only suggestions, however, as there is no such thing as a typical character\. There are commonalities within origins, backgrounds, and roles, and players should look to them to guide character creation, but fashioning characters with their own unique details can be very rewarding and make for warbands that stand apart\.
 
 ### Twist of Destiny
 
-Beyond the choices that have led a character into service for his Inquisitor, that character’s strange and twisted destiny has played a large part in his life\. To represent the effects of this winding fate on the character’s life, each character must roll 1d100 during character creation and compare the result to the Divinations Table, immediately applying the listed affects\.
+Beyond the choices that have led a character into service for his Inquisitor, that character's strange and twisted destiny has played a large part in his life\. To represent the effects of this winding fate on the character's life, each character must roll 1d100 during character creation and compare the result to the Divinations Table, immediately applying the listed affects\.
 
 #### Divinations Table
 D100 ROLL|PROPHECY                                                |EFFECT
 ---------|--------------------------------------------------------|------------------------------------------
 01       |Mutation without, corruption within.                    |Roll one Malignancy and apply the result.
-02–05    |Trust in your fear.                                     |Increase this character’s Perception by 5, He also gains the Phobia Mental Disorder.
+02–05    |Trust in your fear.                                     |Increase this character's Perception by 5, He also gains the Phobia Mental Disorder.
 06–09    |Humans must die so that humanity can endure.            |This character gains the Jaded talent. If he already possesses this talent, increase his Willpower characteristic by 2 instead.
 10–13    |The pain of the bullet is ecstasy compared to damnation.|Reduce this character's Agility characteristic by 3. The first time this character suffers Critical damage each session, roll 1d10. On a result of 10, he does not suffer any Critical Effects, though the damage still counts as Critical damage.
 14–17    |Be a boon to your allies and the bane of your enemies.  |This character gains the Hatred (choose any one) talent. If he already possessed this talent, increase his Strength characteristic by 2 instead.
@@ -141,7 +144,7 @@ D100 ROLL|PROPHECY                                                |EFFECT
 55–59    |Violence solves everything.                             |Increase this character's Weapon Skill or Ballistic Skill characteristic by 3. Reduce his Agility or Intelligence characteristic by 3.
 60–63    |Ignorance is a wisdom of its own.                       |Reduce this character's Perception characteristic by 3. The first time he would gain 1 or more Insanity points each session, he reduces that amount by 1 (to a minimum of 0) instead.
 64–67    |Only the insane have strength enough to prosper.        |Increase this character's Willpower characteristic by 3. The first time he would gain 1 or more Insanity points each session, he gains that amount plus 1 instead.
-68–71    |A suspicious mind is a healthy mind.                    |Increase this character’s Perception characteristic by 2. Additionally, he may re-roll Awareness tests to avoid being Surprised.
+68–71    |A suspicious mind is a healthy mind.                    |Increase this character's Perception characteristic by 2. Additionally, he may re-roll Awareness tests to avoid being Surprised.
 72–75    |Suffering is an unrelenting instructor.                 |Reduce this character's Toughness characteristic by 3. The first time that this character suffers any damage each session, he gains a +20 bonus to the next test he makes before the end of his next turn.
 76–79    |The only true fear is dying without your duty done.     |This character gains the Resistance (Cold, Heat, or Fear) talent. If he already possesses this talent, increase his Toughness characteristic by 2 instead.
 80–83    |Only in death does duty end.                            |The first time this character would suffer Fatigue each session, he suffers that amount of Fatigue minus 1 (to a minimum of 0) instead.
@@ -153,15 +156,15 @@ D100 ROLL|PROPHECY                                                |EFFECT
 
 ### Nature
 
-Once a character’s appearance has been determined, and the details of his life worked out, the player should have a good idea of the personality he would like the character to have\. To help in generating a personality for the character, the player can consider the following questions:
+Once a character's appearance has been determined, and the details of his life worked out, the player should have a good idea of the personality he would like the character to have\. To help in generating a personality for the character, the player can consider the following questions:
 
 #### What Does the Character Desire?
 
-The eternal fight never ends, but each character takes up the cause for his own reasons\. Some characters want only to stay alive, or fight to ensure their loved ones are saved\. Others might be obsessed with power and riches, or the desire to see the sector cleansed of heresy or crime\. Some might be devoted to Mankind’s survival, caring little for individual lives so long as the species continues\. A desire could be to gain the favour of a loved one, or even simply to relish a moment of quiet peace with a lho stick and a glass of fine amasec\.
+The eternal fight never ends, but each character takes up the cause for his own reasons\. Some characters want only to stay alive, or fight to ensure their loved ones are saved\. Others might be obsessed with power and riches, or the desire to see the sector cleansed of heresy or crime\. Some might be devoted to Mankind's survival, caring little for individual lives so long as the species continues\. A desire could be to gain the favour of a loved one, or even simply to relish a moment of quiet peace with a lho stick and a glass of fine amasec\.
 
 #### What Does the Character Hate?
 
-Hatred can motivate many a character in powerful ways, burning his passions and keeping him fighting when all else is gone\. A character who lost his world to a xenos invasion might be consumed with hate, and eagerly seek out aliens to kill no matter the species or their actual threat\. Another might reserve his wrath for those who do not worship the Emperor in the correct manner, or for foul mutants who defy the holy form of Man\. A character’s hatred could also be within himself, for a moment of weakness on an otherwise\-forgotten battlefield that only the Emperor witnessed\.
+Hatred can motivate many a character in powerful ways, burning his passions and keeping him fighting when all else is gone\. A character who lost his world to a xenos invasion might be consumed with hate, and eagerly seek out aliens to kill no matter the species or their actual threat\. Another might reserve his wrath for those who do not worship the Emperor in the correct manner, or for foul mutants who defy the holy form of Man\. A character's hatred could also be within himself, for a moment of weakness on an otherwise\-forgotten battlefield that only the Emperor witnessed\.
 
 #### What is the Character Willing to Sacrifice?
 

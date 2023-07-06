@@ -1,6 +1,7 @@
 {
+  "title": "Supplemental Components",
   "info": "# Supplemental Components\n\n† This component may not be selected more than once per vessel",
-  "type": "StarshipSupplemental",
+  "component": "StarshipSupplemental",
   "data": {
     "cargoHolds": [
       {

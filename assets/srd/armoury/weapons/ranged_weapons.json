@@ -1,6 +1,7 @@
 {
+  "title": "Ranged Weapons",
   "info": "# Ranged Weapons\n\n† The damage, penetration, and special qualities of these weapons are dependent upon the ammunition used.\n\n†† Only against targets with the Daemonic trait",
-  "type": "RangedWeapons",
+  "component": "RangedWeapons",
   "data": [
     {
       "weapon": "Bolt Carbine, Angelus",

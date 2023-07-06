@@ -1,6 +1,7 @@
 {
+  "title": "Archeotech Components",
   "info": "# Archeotech Components\n\nArcheotech is technology long-lost from the Imperium as a whole. Extremely valuable and efficient, these Components should only be available if the ship has the Reliquary of Mars Complication, the players earn them through their Warrant of Trade, or if the GM makes them available through the course of the game.\n\n† This component may not be selected more than once per vessel",
-  "type": "StarshipComponents",
+  "component": "StarshipComponents",
   "data": [
     {
       "component": "Ancient Life Sustainer",

@@ -1,16 +1,19 @@
+---
+title: The Attack
+---
 # The Attack 
 
 The most common action in combat is the attack—the characters are fighting, after all\. Whether armed with a melee or ranged weapon, the process is the same\. Before an attack is made, the GM should verify that the attack is even possible by checking the basic requirements for the attack\. Melee attacks require the attacker to be engaged in melee combat with his target\. Ranged attacks cannot be made if the attacker is engaged in melee, unless he is firing a Pistol\-class weapon\. In either case, the attacker must be aware of his target; see the Spray and Pray for additional information\. Assuming the attack is possible, follow these steps: 
 
-- __Step One:__ Apply Modifiers to Attacker’s Characteristic 
+- __Step One:__ Apply Modifiers to Attacker's Characteristic 
 - __Step Two:__ Attacker Makes a Test 
 - __Step Three:__ Attacker Determines Hit Location 
 - __Step Four:__ Attacker Determines Damage 
 - __Step Five:__ Target Applies Damage
 
-## Step One: Apply Modifiers to Attacker’s Characteristic 
+## Step One: Apply Modifiers to Attacker's Characteristic 
 
-A melee attack requires the attacker to make a Weapon Skill test\. A ranged attack requires the attacker to make a Ballistic Skill test\. There are many instances where one or more factors make performing an attack easier or more difficult than normal\. For example, using the Full Auto Burst attack action imposes a –10 penalty on the attacker’s Ballistic Skill test, whereas a Standard Attack grants a \+10 bonus whether the attack is melee or ranged\. The GM can also impose additional penalties or bonuses to the test if the situation warrants it\. If a situation calls for two or more bonuses or penalties, simply combine all modifiers together and apply the total to the appropriate characteristic\. The maximum total bonus that can be applied to a test is \+60\. Conversely, the maximum total penalty that can be applied to a test is –60\. When adjudicating difficulty, common sense should prevail\. Regardless of the usual limits on test penalties, some actions are simply impossible, and no test is permissible\.
+A melee attack requires the attacker to make a Weapon Skill test\. A ranged attack requires the attacker to make a Ballistic Skill test\. There are many instances where one or more factors make performing an attack easier or more difficult than normal\. For example, using the Full Auto Burst attack action imposes a –10 penalty on the attacker's Ballistic Skill test, whereas a Standard Attack grants a \+10 bonus whether the attack is melee or ranged\. The GM can also impose additional penalties or bonuses to the test if the situation warrants it\. If a situation calls for two or more bonuses or penalties, simply combine all modifiers together and apply the total to the appropriate characteristic\. The maximum total bonus that can be applied to a test is \+60\. Conversely, the maximum total penalty that can be applied to a test is –60\. When adjudicating difficulty, common sense should prevail\. Regardless of the usual limits on test penalties, some actions are simply impossible, and no test is permissible\.
 
 ## Step Two: Attacker Makes a Test 
 
@@ -26,7 +29,7 @@ GMs keen on reinforcing the merciless nature of the 41st Millennium can rule tha
 
 ### Spray and Pray 
 
-Situations might arise where a character is aware of a danger stalking him, but is unable to see it\. In these cases, a character can use his attack for the turn to wildly fire or strike out in hopes of hitting his hidden antagonist\. In these cases, it is up to the Game Master to determine a number between 1 and 100 that represents the character’s percentage chance of hitting his target, or if the character is even firing in the correct direction at all\. Then, during Step Two of the attack, the Game Master rolls 1d100 and compares the result to the percentage chance\. If he rolls equal to or under the number, the attack proceeds as normal\. If he rolls over the number, the attack misses the hidden opponent, and has no effect other than perhaps drawing even more unwanted attention to the unfortunate character and his actions\.
+Situations might arise where a character is aware of a danger stalking him, but is unable to see it\. In these cases, a character can use his attack for the turn to wildly fire or strike out in hopes of hitting his hidden antagonist\. In these cases, it is up to the Game Master to determine a number between 1 and 100 that represents the character's percentage chance of hitting his target, or if the character is even firing in the correct direction at all\. Then, during Step Two of the attack, the Game Master rolls 1d100 and compares the result to the percentage chance\. If he rolls equal to or under the number, the attack proceeds as normal\. If he rolls over the number, the attack misses the hidden opponent, and has no effect other than perhaps drawing even more unwanted attention to the unfortunate character and his actions\.
 
 ### Weapon Jams 
 
@@ -34,7 +37,7 @@ Weapons can jam through extreme age, maltreatment of their machine spirit, or ju
 
 ## Step Three: Attacker Determines Hit Location 
 
-On a successful hit, the attacker needs to determine where the hit landed\. Using the percentile dice result from the attacker’s Weapon Skill or Ballistic Skill test \(or the Focus Power test, in the case of psychic attacks\), reverse the order of the digits \(e\.g\., a roll of 32 becomes 23, a roll of 20 becomes 02, and so on\) and compare this number to Hit Locations 
+On a successful hit, the attacker needs to determine where the hit landed\. Using the percentile dice result from the attacker's Weapon Skill or Ballistic Skill test \(or the Focus Power test, in the case of psychic attacks\), reverse the order of the digits \(e\.g\., a roll of 32 becomes 23, a roll of 20 becomes 02, and so on\) and compare this number to Hit Locations 
 
 ### Hit Locations
 __Roll__ | __Location__
@@ -56,7 +59,7 @@ Leg | Leg | Body | Arm | Head | Body
 
 ## Step Four: Attacker Determines Damage 
 
-After the Hit Location has been determined, the attacker determines the damage dealt by each hit the attack inflicted\. Each weapon has a damage listing, which is usually a die roll, plus or minus a number\. Roll the appropriate die and apply any indicated modifiers for each hit\. Finally, if the attack involved a melee weapon, add the attacker’s Strength bonus\. The result is the damage total\. 
+After the Hit Location has been determined, the attacker determines the damage dealt by each hit the attack inflicted\. Each weapon has a damage listing, which is usually a die roll, plus or minus a number\. Roll the appropriate die and apply any indicated modifiers for each hit\. Finally, if the attack involved a melee weapon, add the attacker's Strength bonus\. The result is the damage total\. 
 
 For all attack rolls, count the degrees of success\. *The attacker can replace the result on a single damage die with the number of degrees of success from his attack roll*\. If the attack inflicts more than one hit or more than one die of damage, the attacker can replace the result on one die of his choice with the degrees of success from the attack roll\. If a natural 10 is rolled any damage die for a given hit, the hit inflicts Righteous Fury\.
 
@@ -80,11 +83,11 @@ Some sources reference Zealous Hatred instead of Righteous Fury\. These terms ar
 
 ## Step Five: Target Applies Damage 
 
-From the damage total, the target subtracts his Toughness bonus and any Armour points that protect the location that the attack struck\. If this reduces the damage to zero or less, the target shrugs off the hit\. The target records any remaining damage, adding it to any previously suffered, and then compares this total to his total amount of wounds\. If the target’s damage equals or exceeds his wounds, he notes any excess damage as Critical damage, and the GM consults the appropriate table based on the type of damage, the location hit, and the amount of Critical damage accumulated\. See Critical Damage\.
+From the damage total, the target subtracts his Toughness bonus and any Armour points that protect the location that the attack struck\. If this reduces the damage to zero or less, the target shrugs off the hit\. The target records any remaining damage, adding it to any previously suffered, and then compares this total to his total amount of wounds\. If the target's damage equals or exceeds his wounds, he notes any excess damage as Critical damage, and the GM consults the appropriate table based on the type of damage, the location hit, and the amount of Critical damage accumulated\. See Critical Damage\.
 
 # Unarmed Combat 
 
-Not every fight requires lasguns and chainswords\. Some conflicts can be settled the old\-fashioned way, with fists or even teeth\. Unarmed attacks are treated just like those from any other melee weapon, and successful hits inflict 1d5–3\+SB Impact damage with no penetration\. If this inflicts damage equal to or greater than the target’s Toughness bonus, it also inflicts one level of Fatigue\. Whenever an unarmed character attempts to strike an armed foe \(one currently wielding a Melee or Pistol weapon\), or Parry an armed foe’s attacks, he suffers a –20 penalty on his Weapon Skill tests\.
+Not every fight requires lasguns and chainswords\. Some conflicts can be settled the old\-fashioned way, with fists or even teeth\. Unarmed attacks are treated just like those from any other melee weapon, and successful hits inflict 1d5–3\+SB Impact damage with no penetration\. If this inflicts damage equal to or greater than the target's Toughness bonus, it also inflicts one level of Fatigue\. Whenever an unarmed character attempts to strike an armed foe \(one currently wielding a Melee or Pistol weapon\), or Parry an armed foe's attacks, he suffers a –20 penalty on his Weapon Skill tests\.
 
 ### Grappling 
 
@@ -101,9 +104,9 @@ Instead of inflicting damage with an unarmed attack, a character can attempt to 
 
 This action is only used when a character is already engaged in a Grapple\. If the active character is controlling the Grapple, the first thing he must do on his turn is declare Grapple as a Full Action in order to maintain the Grapple; if he does not declare Grapple as his Full Action, the Grapple immediately ends\. After that, he can choose one of the following Controller Grapple Options: 
 
-- __Damage Opponent:__ The controller of the Grapple can attempt to damage his opponent with brute force by making an Opposed Strength test with the Grappled opponent\. If the active character wins, he inflicts unarmed damage \(1d5–3\+SB\) to his opponent’s Body location and one level of Fatigue\. If the grappled opponent wins the Opposed Strength test, no damage is dealt, but he remains Grappled\. This test can benefit from Assistance\. 
+- __Damage Opponent:__ The controller of the Grapple can attempt to damage his opponent with brute force by making an Opposed Strength test with the Grappled opponent\. If the active character wins, he inflicts unarmed damage \(1d5–3\+SB\) to his opponent's Body location and one level of Fatigue\. If the grappled opponent wins the Opposed Strength test, no damage is dealt, but he remains Grappled\. This test can benefit from Assistance\. 
 - __Throw Down Opponent:__ The controller of the Grapple can attempt to wrestle his Grappled opponent to the ground by making an Opposed Strength test\. This test can benefit from Assistance\. If the active character wins, the Grappled opponent becomes Prone\. The controller can choose to end the Grapple at this point as a Free Action, or may continue to Grapple the Prone opponent, gaining a \+10 to all further Opposed tests made during this Grapple until the Prone opponent manages to stand \(assuming he is able to\)\. This bonus is in addition to the standard \+10 gained when attacking Prone opponents\. 
-- __Push Opponent:__ The controller can attempt to force his Grappled opponent to move\. This is resolved with an Opposed Strength test, which can benefit from Assistance\. If the active character succeeds, he pushes his opponent one metre in a direction of his choice, plus one additional metre for each degree of success\. This pushed distance cannot exceed the active character’s Half Move distance\. The active character must move with his Grappled opponent in order to maintain the Grapple, or he can choose to let go of his opponent as a Free Action, which ends the Grapple, but allows the active character to keep his ground\.
+- __Push Opponent:__ The controller can attempt to force his Grappled opponent to move\. This is resolved with an Opposed Strength test, which can benefit from Assistance\. If the active character succeeds, he pushes his opponent one metre in a direction of his choice, plus one additional metre for each degree of success\. This pushed distance cannot exceed the active character's Half Move distance\. The active character must move with his Grappled opponent in order to maintain the Grapple, or he can choose to let go of his opponent as a Free Action, which ends the Grapple, but allows the active character to keep his ground\.
 - __Ready:__ The controller of the Grapple can ready one of his own items\. Or if the GM allows, he can use the Ready action to grab an item belonging to his Grappled opponent\. 
 - __Stand:__ If both participants are on the ground, the controller of the Grapple can regain his feet with this action\. He can also attempt to drag his opponent up with him by making an Opposed Strength test\. This test can benefit from Assistance\. If the controller of the Grapple wins, both participants stand\. 
 - __Use Item:__ The controller can use a readied item if desired\.
@@ -116,7 +119,7 @@ If the active character is the target of the Grapple, the first thing he must do
 
 #### Grappling Size Differences
 
-If one character is larger than the other, the larger scores one extra degree of success on successful Opposed tests performed as part of the Grapple for every point by which the value of his Size trait exceeds his opponent’s Size trait\.
+If one character is larger than the other, the larger scores one extra degree of success on successful Opposed tests performed as part of the Grapple for every point by which the value of his Size trait exceeds his opponent's Size trait\.
 
 # Two\-Weapon Fighting 
 

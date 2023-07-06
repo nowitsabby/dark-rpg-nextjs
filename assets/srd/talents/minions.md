@@ -1,3 +1,6 @@
+---
+title: Minions
+---
 # Minions
 
 The greatest champions seldom stand alone, nor do they do all their own dirty work. Instead they can call upon legions of fanatical servants and followers, each one enamoured of the champion and willing to spend their life for his cause. Characters are no different, and as they grow in power they can gather a following of creatures and warriors to their side to aid them in their rise to glory, using the strong backs and sharp blades of their underlings to advance their own interests, and even compel them to die in their stead should the need arise—as it so often does upon the path to glory.

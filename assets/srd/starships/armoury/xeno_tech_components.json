@@ -1,6 +1,7 @@
 {
+  "title": "Xeno-tech Components",
   "info": "# Xeno-tech Components\n\nAlien technology is considered forbidden in the Imperium, but some Rogue Traders choose to flaunt their special status by acquiring and using xeno-tech. These Components should only be available if the ship has the Xenophilous Complication, or if the GM makes them available through the course of the game.\n\n† This component may not be selected more than once per vessel",
-  "type": "StarshipComponents",
+  "component": "StarshipComponents",
   "data": [
     {
       "component": "Ghost Field",

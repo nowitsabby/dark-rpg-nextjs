@@ -1,3 +1,6 @@
+---
+title: Investigation
+---
 # Investigation
 
 The blessings of the Dark Gods do not simply come to those that ask for them, and not every conflict between the servants of Chaos can be resolved through death and destruction. Often a subtler approach is necessary, and any would-be Chaos Lord will need to spend time examining and learning these ways. Although Black crusade is centrally a game about the deeds and actions of Heretics as they advance along the fine path between endless infamy and total corruption, times will arise when those that serve the Chaos Gods must take a step back and search for answers hidden from lesser beings if they are to fully divine their fate. These following Investigation rules are designed to guide GMs in the creation of Investigations for their Black crusade games, adding additional depth to the endless intrigues and plots that surround all those who would Ascend.

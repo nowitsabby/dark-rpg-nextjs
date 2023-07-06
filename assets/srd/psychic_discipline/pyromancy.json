@@ -1,6 +1,7 @@
 {
+  "title": "Pyromancy - Psychic Discipline",
   "info": "# Pyromancy - Psychic Discipline",
-  "type": "PsychicDiscipline",
+  "component": "PsychicDiscipline",
   "data": {
     "discipline": "Pyromancy",
     "information": "A most destructive discipline, pyromancy allows a psyker to control and create flame using his mind. These powers focus on combat, from incinerating foes from within to summoning walls of flame to shield allies. Pyromancers are greatly feared, for their powers are often difficult to control once released, and can inflict great collateral damage.",

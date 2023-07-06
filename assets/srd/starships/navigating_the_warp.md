@@ -1,3 +1,6 @@
+---
+title: Navigating the Warp
+---
 # Navigating the Warp 
 
 The primary role of all Navigators is guiding ships into, through, and out of the warp. Whilst the rest of the ship's crew and the ship's captain maintain the systems of the ship, keeping the vessel's plasma and warp drives functioning and its Gellar Field strong, the Navigator carefully studies the currents and fluctuations of the warp as well as the distance and strength of the Astronomican. Using this information, he tells the captain to make course corrections and when it is wise to leave or enter the warp. The actual Translation-as entering and exiting the warp is known-from real space to warp space or vice versa is relatively simple and does not require the skill of a Navigator, though his input can be invaluable lest the vessel find itself immediately assailed by an empyreal storm, warp rift, or worse. Once the vessel is in the warp, however, not having a Navigator would leave a captain with no idea as to the vessel's position relative to real space, the distance they have travelled, or where they will end up when the ship exits the warp except crude guesswork based on existing warp charts. The Fundamentals of Warp Navigation Navigating the warp in game terms consists of a number of stages at which the Navigator must test to perceive the nature of the warp and then steer a course through it. These stages are:
@@ -79,13 +82,13 @@ Warp travel is seldom a routine and dull affair, and the Navigator must maintain
 | **04-09** | *Plague of Madness* | A general madness infects the crew, and without swift action bedlam can ensure. It will target the weakest of will first, but can be spread by contact.  |
 | **10-18** | *Incursion* | A daemonic entity slips aboard the vessel and sets out to wreak havoc. Particularly insidious warp creatures can hide on a ship for years masking their actions as bad luck and careless accidents.  |
 | **19-26** | *Lost Time* | Time contracts and expands during the voyage, and though it may take but a few days, the crew will feel as if months or more has passed, fraying their sanity.  |
-| **27-33** | *Ghost Ships* | The ship’s sensors detect phantom ships that appear and vanish randomly. Wise captains ignore such things, though if they are real, a vessel lost in the warp can still hold valuable cargo.  |
+| **27-33** | *Ghost Ships* | The ship's sensors detect phantom ships that appear and vanish randomly. Wise captains ignore such things, though if they are real, a vessel lost in the warp can still hold valuable cargo.  |
 | **34-39** | *Shoals and Reefs* | The vessel runs afoul of a warp shoal or reef that threatens to break it open on a jagged fragment of false reality. A good helmsman and skilled Navigator are required to pass unscathed.  |
 | **40-48** | *Visitations* | One or more of the crew find themselves visited by warp shades of lost friends or family. These lost souls might offer helpful advice and comfort or have darker motives.  |
 | **49-53** | *Gellar Field Fluctuations* | Alarmingly, the Gellar Field that keeps back the baleful energies of the warp begins to fluctuate. Hasty prayers to the Machine God or a return to realspace may be required.  |
-| **54-67** | *Warp Storm* | A terrible warp storm strikes the vessel and may cause damage or throw it off course. Only the skills of the ship’s Navigator will decide the outcome.  |
+| **54-67** | *Warp Storm* | A terrible warp storm strikes the vessel and may cause damage or throw it off course. Only the skills of the ship's Navigator will decide the outcome.  |
 | **68-75** | *Whispers and Dreams* | Everyone on board suffers from strange dreams and even hears hushed whispers when awake. These might hold hidden truths or portents should the GM wish, or merely be mad ramblings form beyond.  |
-| **76-100** | *All’s Well* | A safe journey that wise captains will savour. |
+| **76-100** | *All's Well* | A safe journey that wise captains will savour. |
 
 ### Gellar Field Failures in Game 
 

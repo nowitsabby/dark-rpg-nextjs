@@ -1,6 +1,7 @@
 {
+  "title": "Starship Weapons",
   "info": "# Starship Weapons",
-  "type": "StarshipWeapons",
+  "component": "StarshipWeapons",
   "data": {
     "macrobatteries": [
       {
