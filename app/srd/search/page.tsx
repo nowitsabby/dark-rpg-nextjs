@@ -42,6 +42,12 @@ export default function SrdSearch() {
 
   return (
     <>
+    {results && totalPages && <Pagination 
+        count={totalPages} 
+        showFirstButton 
+        showLastButton 
+        size="large"
+        onChange={(_, value) => setPage(value)} />}
       <Stack gap={1}>
         {results && 
           results.map((result) => 
@@ -50,11 +56,6 @@ export default function SrdSearch() {
               <Container>{result.excerpt}</Container>
             </Stack>)}
       </Stack>
-      {results && totalPages && <Pagination 
-        count={totalPages} 
-        showFirstButton 
-        showLastButton 
-        onChange={(_, value) => setPage(value)} />}
     </>
   )
 }
