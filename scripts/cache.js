@@ -18,11 +18,18 @@ const getAllFiles = (dirPath, arrayOfFiles) => {
 }
 
 function getMarkdownData(fileContents) {
-  const matterContents = matter(fileContents)
+  const matterContents = matter(
+    fileContents, 
+    {
+      excerpt: (file, _) => {
+        file.excerpt = file.content.split('\n').slice(0, 3).join(' '); // skip header
+      }
+    })
   
   return {
     title: matterContents.data.title,
-    content: matterContents.content
+    content: matterContents.content,
+    excerpt: matterContents.excerpt
   }
 }
 
@@ -31,7 +38,8 @@ function getJsonData(fileContents) {
 
   return {
     title: jsonContents.title,
-    content: JSON.stringify(jsonContents.data)
+    content: JSON.stringify(jsonContents.data),
+    excerpt: jsonContents.info.split('\n').slice(0, 3).join(' ') // skip header
   }
 }
 
@@ -64,7 +72,8 @@ function getSrdPages() {
       return {
         srdPath,
         title: contents.title,
-        content: contents.content
+        content: contents.content,
+        excerpt: contents.excerpt
       }
     });
 

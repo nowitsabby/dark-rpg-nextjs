@@ -5,31 +5,41 @@ import pages from '@/cache/pages.json'
 export interface SrdSearchResult {
   srdPath: string;
   title: string;
+  excerpt: string;
+}
+
+export interface PagedSearchResponse {
+  totalResults: number;
+  totalPages: number;
+  results: SrdSearchResult[];
+}
+
+const addToResults = (results: SrdSearchResult[], item: SrdSearchResult) => {
+  if (!results.some((value) => value.srdPath === item.srdPath)) {
+    results.push(item)
+  }
 }
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url)
-  const query = searchParams.get('q')
-
-  const maxResults = 10;
+  const query = searchParams.get('q');
+  const page = parseInt(searchParams.get('page') || '1');
+  const size = Math.min(parseInt(searchParams.get('size') || '10'), 100);
 
   if (query) {
-    const results: Set<SrdSearchResult> = new Set();
+    const results: SrdSearchResult[] = [];
 
     const inTitle = pages
     .filter((page) => page.title.toLowerCase().includes(query.toLowerCase()));
 
-    inTitle.forEach((page) => results.add({ srdPath: page.srdPath, title: page.title }));
+    inTitle.forEach((page) => addToResults(results, page));
+    
+    const inPath = pages
+    .filter((page) => page.srdPath.toLowerCase().replaceAll('/', ' ').includes(query.toLowerCase()));
+    
+    inPath.forEach((page) => addToResults(results, page));
 
-    if (results.size < maxResults) {
-      const inPath = pages
-      .filter((page) => page.srdPath.toLowerCase().replaceAll('/', ' ').includes(query.toLowerCase()));
-      
-      inPath.forEach((page) => results.add({ srdPath: page.srdPath, title: page.title }));
-    }
-
-    if (results.size < maxResults) {
-      const inContents = pages
+    const inContents = pages
       .filter((page) => page.content.toLowerCase().includes(query.toLowerCase()))
       .sort((a, b) => {
         const aOccurences = a.content.toLowerCase().split(query.toLowerCase()).length - 1;
@@ -42,10 +52,15 @@ export async function GET(request: Request) {
         return 0;
       });
       
-      inContents.forEach((page) => results.add({ srdPath: page.srdPath, title: page.title }));
-    }
+      inContents.forEach((page) => addToResults(results, page));
     
-    return NextResponse.json([...results].slice(0, maxResults));
+    return NextResponse.json({
+      totalPages: Math.ceil(results.length / size),
+      totalResults: results.length,
+      results: results.slice((page - 1) * size, page * size).map((result) => {
+        return { srdPath: result.srdPath, title: result.title, excerpt: result.excerpt }
+      })
+    });
   } else {
     return NextResponse.json([]);
   }

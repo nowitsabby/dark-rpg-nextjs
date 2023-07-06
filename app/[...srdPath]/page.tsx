@@ -98,9 +98,6 @@ export default function SrdPage({ params }: { params: { srdPath: string[] } }) {
   if (type === 'md') {
     return (
       <>
-        <Head>
-          <title>{title}</title>
-        </Head>
         <Document doc={content as string} includeToc />
       </>
       
@@ -108,9 +105,6 @@ export default function SrdPage({ params }: { params: { srdPath: string[] } }) {
   } else if (type === 'json') {
     return (
       <>
-        <Head>
-          <title>{title}</title>
-        </Head>
         <Document doc={(content as SrdData)?.info} />
         <DataComponent 
           component={(content as SrdData)?.component}
