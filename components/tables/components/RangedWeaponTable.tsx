@@ -1,10 +1,13 @@
 import availability from '../../util/Availability';
+import TableLink from './TableLink';
 import { RangedWeaponRecord, WeaponGroupTable } from './WeaponGroupTable';
 
 export default function RangedWeaponTable({
+  rootPath,
   tableData,
   group,
 }: {
+  rootPath: string;
   tableData: RangedWeaponRecord[];
   group: string;
 }) {
@@ -14,8 +17,8 @@ export default function RangedWeaponTable({
       grow: 10,
       sortable: true,
       wrap: true,
-      selector: (row: RangedWeaponRecord) => row.weapon,
-      format: (row: RangedWeaponRecord) => <strong>{row.weapon}</strong>,
+      selector: (row: RangedWeaponRecord) => row.name,
+      format: (row: RangedWeaponRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Class',

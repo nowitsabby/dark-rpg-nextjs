@@ -6,7 +6,7 @@ import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 
 import 'react-tabs/style/react-tabs.css';
 
-export default function Armour({ data }: { data: ArmourRecord[] }) {
+export default function Armour({ rootPath, data }: { rootPath: string, data: ArmourRecord[] }) {
   const [armourGroups, setArmourGroups] = useState([] as string[]);
 
   useEffect(() => {
@@ -24,6 +24,7 @@ export default function Armour({ data }: { data: ArmourRecord[] }) {
       {armourGroups?.map((group: string) => (
           <TabPanel key={`${group}-tabpanel`}>
             <ArmourGroupTable
+              rootPath={rootPath}
               group={group}
               tableData={data.filter((item) => item.type === group)}
             />

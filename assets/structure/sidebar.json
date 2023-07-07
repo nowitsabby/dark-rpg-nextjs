@@ -26,7 +26,8 @@
         "mental_trauma": {
             "insanity": "/character/insanity",
             "mental_disorders": "/character/mental_disorders",
-            "corruption": "/character/corruption"
+            "corruption": "/character/corruption",
+            "malignancy_&_mutation": "/character/malignancy_mutation"
         },
         "influence": "/character/influence",
         "fate": "/character/fate"

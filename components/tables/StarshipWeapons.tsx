@@ -16,7 +16,7 @@ export interface WeaponComponents {
   landingBays: StarshipWeaponRecord[];
 }
 
-export default function StarshipWeapons({ data }: { data: WeaponComponents }) {
+export default function StarshipWeapons({ rootPath, data }: { rootPath: string, data: WeaponComponents }) {
   return (
     <Tabs>
       <TabList>
@@ -28,19 +28,29 @@ export default function StarshipWeapons({ data }: { data: WeaponComponents }) {
       </TabList>
 
       <TabPanel>
-        <StarshipWeaponTable data={data.macrobatteries} />
+        <StarshipWeaponTable
+          rootPath={rootPath}
+          data={data.macrobatteries} />
       </TabPanel>
       <TabPanel>
-        <StarshipWeaponTable data={data.lances} />
+        <StarshipWeaponTable
+          rootPath={rootPath}
+          data={data.lances} />
       </TabPanel>
       <TabPanel>
-        <StarshipWeaponTable data={data.novaCannons} />
+        <StarshipWeaponTable
+          rootPath={rootPath}
+          data={data.novaCannons} />
       </TabPanel>
       <TabPanel>
-        <StarshipWeaponTable data={data.torpedoes} />
+        <StarshipWeaponTable
+          rootPath={rootPath}
+          data={data.torpedoes} />
       </TabPanel>
       <TabPanel>
-        <StarshipWeaponTable data={data.landingBays} />
+        <StarshipWeaponTable
+          rootPath={rootPath} 
+          data={data.landingBays} />
       </TabPanel>
     </Tabs>
   );

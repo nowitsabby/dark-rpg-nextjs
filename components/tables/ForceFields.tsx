@@ -5,9 +5,11 @@ import DataTable from 'react-data-table-component';
 import availability from '../util/Availability';
 import SrdMarkdown from '../util/SrdMarkdown';
 import FilterComponent from './components/FilterComponent';
+import TableLink from './components/TableLink';
 
 export interface FieldRecord {
-  field: string;
+  name: string;
+  id: string;
   protectionRating: number;
   weight: string;
   availability: string;
@@ -15,7 +17,7 @@ export interface FieldRecord {
   source: string;
 }
 
-export default function ForceFields({ data }: { data: FieldRecord[] }) {
+export default function ForceFields({ rootPath, data }: { rootPath: string, data: FieldRecord[] }) {
   const [filterText, setFilterText] = useState('');
   const subHeaderComponentMemo = useMemo(() => {
     return (
@@ -31,8 +33,8 @@ export default function ForceFields({ data }: { data: FieldRecord[] }) {
       name: 'Field',
       sortable: true,
       wrap: true,
-      selector: (row: FieldRecord) => row.field,
-      format: (row: FieldRecord) => <strong>{row.field}</strong>,
+      selector: (row: FieldRecord) => row.name,
+      format: (row: FieldRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Protection Rating',
@@ -64,7 +66,7 @@ export default function ForceFields({ data }: { data: FieldRecord[] }) {
           ? data.filter((item) => {
               if (filterText) {
                 return (
-                  item.field
+                  item.name
                     ?.toLowerCase()
                     .includes(filterText.toLowerCase()) ||
                   item.description

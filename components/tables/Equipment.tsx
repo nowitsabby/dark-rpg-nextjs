@@ -5,16 +5,19 @@ import DataTable from 'react-data-table-component';
 import availability from '../util/Availability';
 import SrdMarkdown from '../util/SrdMarkdown';
 import FilterComponent from './components/FilterComponent';
+import Link from 'next/link';
+import TableLink from './components/TableLink';
 
 export interface EquipmentRecord {
-  item: string;
+  name: string;
+  id: string;
   weight: string;
   availability: string;
   description: string;
   source: string;
 }
 
-export default function Equipment({ data }: { data: EquipmentRecord[] }) {
+export default function Equipment({ rootPath, data }: { rootPath: string, data: EquipmentRecord[] }) {
 
   const [filterText, setFilterText] = useState('');
   const subHeaderComponentMemo = useMemo(() => {
@@ -31,8 +34,8 @@ export default function Equipment({ data }: { data: EquipmentRecord[] }) {
       name: 'Item',
       sortable: true,
       wrap: true,
-      selector: (row: EquipmentRecord) => row.item,
-      format: (row: EquipmentRecord) => <strong>{row.item}</strong>,
+      selector: (row: EquipmentRecord) => row.name,
+      format: (row: EquipmentRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Availability',
@@ -60,7 +63,7 @@ export default function Equipment({ data }: { data: EquipmentRecord[] }) {
               ? data.filter((item) => {
                   if (filterText) {
                     return (
-                      item.item
+                      item.name
                         ?.toLowerCase()
                         .includes(filterText.toLowerCase()) ||
                       item.description

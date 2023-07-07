@@ -4,8 +4,8 @@
   "component": "Origins",
   "data": [
     {
-      "origin": "Feral World",
-      "id": "feral-world",
+      "name": "Feral World",
+      "id": "feral_world",
       "characteristicModifiers": {
         "plus": [
           "Strength",
@@ -23,8 +23,8 @@
       "wounds": 9
     },
     {
-      "origin": "Forge World",
-      "id": "forge-world",
+      "name": "Forge World",
+      "id": "forge_world",
       "characteristicModifiers": {
         "plus": [
           "Intelligence",
@@ -42,7 +42,7 @@
       "wounds": 8
     },
     {
-      "origin": "Highborn",
+      "name": "Highborn",
       "id": "highborn",
       "characteristicModifiers": {
         "plus": [
@@ -61,8 +61,8 @@
       "wounds": 9
     },
     {
-      "origin": "Hive World",
-      "id": "hive-world",
+      "name": "Hive World",
+      "id": "hive_world",
       "characteristicModifiers": {
         "plus": [
           "Agility",
@@ -80,8 +80,8 @@
       "wounds": 8
     },
     {
-      "origin": "Shrine World",
-      "id": "shrine-world",
+      "name": "Shrine World",
+      "id": "shrine_world",
       "characteristicModifiers": {
         "plus": [
           "Fellowship",
@@ -99,7 +99,7 @@
       "wounds": 7
     },
     {
-      "origin": "Voidborn",
+      "name": "Voidborn",
       "id": "voidborn",
       "characteristicModifiers": {
         "plus": [
@@ -118,8 +118,8 @@
       "wounds": 7
     },
     {
-      "origin": "Agri-World",
-      "id": "agri-world",
+      "name": "Agri-World",
+      "id": "agri_world",
       "characteristicModifiers": {
         "plus": [
           "Fellowship",
@@ -137,8 +137,8 @@
       "wounds": 8
     },
     {
-      "origin": "Daemon World",
-      "id": "daemon-world",
+      "name": "Daemon World",
+      "id": "daemon_world",
       "characteristicModifiers": {
         "plus": [
           "Willpower",
@@ -156,8 +156,8 @@
       "wounds": 7
     },
     {
-      "origin": "Death World",
-      "id": "death-world",
+      "name": "Death World",
+      "id": "death_world",
       "characteristicModifiers": {
         "plus": [
           "Agility",
@@ -175,8 +175,8 @@
       "wounds": 9
     },
     {
-      "origin": "Feudal World",
-      "id": "feudal-world",
+      "name": "Feudal World",
+      "id": "feudal_world",
       "characteristicModifiers": {
         "plus": [
           "Weapon Skill",
@@ -194,8 +194,8 @@
       "wounds": 9
     },
     {
-      "origin": "Frontier World",
-      "id": "frontier-world",
+      "name": "Frontier World",
+      "id": "frontier_world",
       "characteristicModifiers": {
         "plus": [
           "Ballistic Skill",
@@ -213,8 +213,8 @@
       "wounds": 7
     },
     {
-      "origin": "Garden World",
-      "id": "garden-world",
+      "name": "Garden World",
+      "id": "garden_world",
       "characteristicModifiers": {
         "plus": [
           "Fellowship",
@@ -232,8 +232,8 @@
       "wounds": 7
     },
     {
-      "origin": "Penal Colony",
-      "id": "penal-colony",
+      "name": "Penal Colony",
+      "id": "penal_colony",
       "characteristicModifiers": {
         "plus": [
           "Toughness",
@@ -251,8 +251,8 @@
       "wounds": 10
     },
     {
-      "origin": "Quarantine World",
-      "id": "quarantine-world",
+      "name": "Quarantine World",
+      "id": "quarantine_world",
       "characteristicModifiers": {
         "plus": [
           "Ballistic Skill",
@@ -270,8 +270,8 @@
       "wounds": 8
     },
     {
-      "origin": "Research Station",
-      "id": "research-station",
+      "name": "Research Station",
+      "id": "research_station",
       "characteristicModifiers": {
         "plus": [
           "Perception",

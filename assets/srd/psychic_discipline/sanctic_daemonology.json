@@ -7,7 +7,7 @@
     "information": "The practice of Sanctic Daemonology is amongst the most difficult arts a psyker can study, and amongst the most potent. Few have the necessary will to excel in this discipline, which is the purview of the legendary Grey Knights. Many who have attempted to master the discipline have lost their sanity or succumbed to the temptation offered by the darker branch of Daemonology.",
     "powers": [
       {
-        "power": "Banishment",
+        "name": "Banishment",
         "cost": 300,
         "prerequisites": [
           "Psy Rating 3"
@@ -24,7 +24,7 @@
         "source": "Enemies Beyond"
       },
       {
-        "power": "Cleansing Flame",
+        "name": "Cleansing Flame",
         "cost": 300,
         "prerequisites": [
           "Psy Rating 4"
@@ -41,7 +41,7 @@
         "source": "Enemies Beyond"
       },
       {
-        "power": "Exorcism",
+        "name": "Exorcism",
         "cost": 200,
         "prerequisites": [
           "Willpower 40"
@@ -58,7 +58,7 @@
         "source": "Enemies Beyond"
       },
       {
-        "power": "Hammerhand",
+        "name": "Hammerhand",
         "cost": 300,
         "prerequisites": [
           "Psy Rating 3"
@@ -74,7 +74,7 @@
         "source": "Enemies Beyond"
       },
       {
-        "power": "Holocaust",
+        "name": "Holocaust",
         "cost": 500,
         "prerequisites": [
           "Psy Rating 5"
@@ -91,7 +91,7 @@
         "source": "Enemies Beyond"
       },
       {
-        "power": "Psychic Communion",
+        "name": "Psychic Communion",
         "cost": 100,
         "prerequisites": [
           "Perception 35"
@@ -107,7 +107,7 @@
         "source": "Enemies Beyond"
       },
       {
-        "power": "Purge Soul",
+        "name": "Purge Soul",
         "cost": 200,
         "prerequisites": [
           "Willpower 35"
@@ -124,7 +124,7 @@
         "source": "Enemies Beyond"
       },
       {
-        "power": "Sanctuary",
+        "name": "Sanctuary",
         "cost": 400,
         "prerequisites": [
           "Willpower 45"
@@ -140,7 +140,7 @@
         "source": "Enemies Beyond"
       },
       {
-        "power": "Word of the Emperor",
+        "name": "Word of the Emperor",
         "cost": 200,
         "prerequisites": [
           "Fellowship 30"

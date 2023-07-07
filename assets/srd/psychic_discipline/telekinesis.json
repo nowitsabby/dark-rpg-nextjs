@@ -7,7 +7,7 @@
     "information": "Through the power of the Warp, telekines translate mental impulses into physical force. Powers from the telekinesis discipline can defy gravity, blast opponents with invisible bolts of force, and even tear holes in the very fabric of reality. Such powers offer great utility in a variety of situations, for they allow a psyker to affect the world around him without the constraints of his physical body.",
     "powers": [
       {
-        "power": "Telekinetic Control",
+        "name": "Telekinetic Control",
         "cost": 100,
         "prerequisites": [
           "Willpower 35"
@@ -23,7 +23,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Assail",
+        "name": "Assail",
         "cost": 200,
         "prerequisites": [
           "Willpower 40"
@@ -40,7 +40,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Telekine Shield",
+        "name": "Telekine Shield",
         "cost": 200,
         "prerequisites": [
           "Intelligence 40"
@@ -56,7 +56,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Crush",
+        "name": "Crush",
         "cost": 300,
         "prerequisites": [
           "Willpower 45"
@@ -73,7 +73,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Objuration Mechanicum",
+        "name": "Objuration Mechanicum",
         "cost": 300,
         "prerequisites": [
           "Intelligence 40"
@@ -89,7 +89,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Shockwave",
+        "name": "Shockwave",
         "cost": 300,
         "prerequisites": [
           "Willpower 50"
@@ -106,7 +106,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Telekine Dome",
+        "name": "Telekine Dome",
         "cost": 300,
         "prerequisites": [
           "Psy Rating 4"
@@ -122,7 +122,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Gate of Infinity",
+        "name": "Gate of Infinity",
         "cost": 400,
         "prerequisites": [
           "Psy Rating 5"
@@ -138,7 +138,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Vortex of Doom",
+        "name": "Vortex of Doom",
         "cost": 400,
         "prerequisites": [
           "Psy Rating 5"

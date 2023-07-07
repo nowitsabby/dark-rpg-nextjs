@@ -58,8 +58,8 @@
     "talents": [
       {
         "tier": 3,
-        "talent": "Master Sorcerer",
-        "id": "master-sorcerer",
+        "name": "Master Sorcerer",
+        "id": "master_sorcerer",
         "prerequisites": [
           "Intelligence 45",
           "Rank 2 Forbidden Lore (Warp or Daemonology)"
@@ -73,8 +73,8 @@
       },
       {
         "tier": 2,
-        "talent": "Sublime Arts",
-        "id": "sublime-arts",
+        "name": "Sublime Arts",
+        "id": "sublime_arts",
         "prerequisites": [
           "Perception 40",
           "Intelligence 40",
@@ -89,8 +89,8 @@
       },
       {
         "tier": 2,
-        "talent": "Fuelled by Flesh",
-        "id": "fuelled-by-flesh",
+        "name": "Fuelled by Flesh",
+        "id": "fuelled_by_flesh",
         "prerequisites": null,
         "aptitudes": [
           "Toughness",

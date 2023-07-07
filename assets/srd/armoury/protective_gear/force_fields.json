@@ -4,7 +4,8 @@
   "component": "ForceFields",
   "data": [
     {
-      "field": "Conversion Field",
+      "name": "Conversion Field",
+      "id": "conversion_field",
       "protectionRating": 50,
       "weight": "1 kg",
       "availability": "Extremely Rare",
@@ -12,7 +13,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "field": "Displacer Field",
+      "name": "Displacer Field",
+      "id": "displacer_field",
       "protectionRating": 55,
       "weight": "2 kg",
       "availability": "Near Unique",
@@ -20,7 +22,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "field": "Field Wall Generator",
+      "name": "Field Wall Generator",
+      "id": "field_wall_generator",
       "protectionRating": 65,
       "weight": "18 kg",
       "availability": "Very Rare",
@@ -28,7 +31,8 @@
       "source": "Enemies Within"
     },
     {
-      "field": "Flare Shield",
+      "name": "Flare Shield",
+      "id": "flare_shield",
       "protectionRating": 25,
       "weight": "3kg",
       "availability": "Extremely Rare",
@@ -36,7 +40,8 @@
       "source": "Enemies Without"
     },
     {
-      "field": "Icon of the Just",
+      "name": "Icon of the Just",
+      "id": "icon_of_the_just",
       "protectionRating": 55,
       "weight": "0.5kg",
       "availability": "Extremely Rare",
@@ -44,7 +49,8 @@
       "source": "Enemies Beyond"
     },
     {
-      "field": "Null-Blocker",
+      "name": "Null-Blocker",
+      "id": "null_blocker",
       "protectionRating": 70,
       "weight": "0.5kg",
       "availability": "Extremely Rare",
@@ -52,7 +58,8 @@
       "source": "Ascension"
     },
     {
-      "field": "Power Field (Personal)",
+      "name": "Power Field (Personal)",
+      "id": "power_field_personal",
       "protectionRating": 80,
       "weight": "50 kg",
       "availability": "Near Unique",
@@ -60,7 +67,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "field": "Power Field (Vehicle / Emplacement)",
+      "name": "Power Field (Vehicle / Emplacement)",
+      "id": "power_field_vehicle_emplacement",
       "protectionRating": 80,
       "weight": "500 kg",
       "availability": "Very Rare",
@@ -68,7 +76,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "field": "Refractor Field",
+      "name": "Refractor Field",
+      "id": "refractor_field",
       "protectionRating": 30,
       "weight": "2 kg",
       "availability": "Very Rare",
@@ -76,7 +85,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "field": "Rosarius",
+      "name": "Rosarius",
+      "id": "rosarius",
       "protectionRating": 50,
       "weight": "0.6 kg",
       "availability": "Extremely Rare",

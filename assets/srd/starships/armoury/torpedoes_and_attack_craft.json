@@ -5,7 +5,8 @@
   "data": {
     "attackCraft": [
       {
-        "craft": "Fury Interceptor",
+        "name": "Fury Interceptor",
+        "id": "fury_interceptor",
         "type": "Imperial",
         "rating": 10,
         "speed": 10,
@@ -18,7 +19,8 @@
         ]
       },
       {
-        "craft": "Starhawk Bomber",
+        "name": "Starhawk Bomber",
+        "id": "starhawk_bomber",
         "type": "Imperial",
         "rating": 0,
         "speed": 6,
@@ -31,7 +33,8 @@
         ]
       },
       {
-        "craft": "Shark Assault Boat",
+        "name": "Shark Assault Boat",
+        "id": "shark_assault_boat",
         "type": "Imperial",
         "rating": 5,
         "speed": 10,
@@ -39,7 +42,8 @@
         "special": []
       },
       {
-        "craft": "Swiftdeath Fighter",
+        "name": "Swiftdeath Fighter",
+        "id": "swiftdeath_fighter",
         "type": "Chaos",
         "rating": 10,
         "speed": 11,
@@ -52,7 +56,8 @@
         ]
       },
       {
-        "craft": "Doomfire Bomber",
+        "name": "Doomfire Bomber",
+        "id": "doomfire_bomber",
         "type": "Chaos",
         "rating": 0,
         "speed": 7,
@@ -65,7 +70,8 @@
         ]
       },
       {
-        "craft": "Dreadclaw Assault Boat",
+        "name": "Dreadclaw Assault Boat",
+        "id": "dreadclaw_assault_boat",
         "type": "Chaos",
         "rating": 5,
         "speed": 11,
@@ -73,7 +79,8 @@
         "special": []
       },
       {
-        "craft": "Darkstar Fighter",
+        "name": "Darkstar Fighter",
+        "id": "darkstar_fighter",
         "type": "Eldar",
         "rating": 15,
         "speed": 12,
@@ -86,7 +93,8 @@
         ]
       },
       {
-        "craft": "Eagle Bomber",
+        "name": "Eagle Bomber",
+        "id": "eagle_bomber",
         "type": "Eldar",
         "rating": 6,
         "speed": 9,
@@ -99,7 +107,8 @@
         ]
       },
       {
-        "craft": "Fighta-bommerz",
+        "name": "Fighta-bommerz",
+        "id": "fighta_bommerz",
         "type": "Ork",
         "rating": "+8(+5)",
         "speed": 8,
@@ -112,7 +121,8 @@
         ]
       },
       {
-        "craft": "Assault Boats",
+        "name": "Assault Boats",
+        "id": "assault_boats",
         "type": "Ork",
         "rating": "+8(+5)",
         "speed": 10,
@@ -211,7 +221,7 @@
       ],
       "guidanceSystems": [
         {
-          "guidanceSystem": "Standard ",
+          "guidanceSystem": "Standard",
           "availability": "",
           "rating": "+20",
           "description": ""

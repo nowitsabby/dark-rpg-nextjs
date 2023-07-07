@@ -2,9 +2,10 @@
 
 import DataTable from 'react-data-table-component';
 import SrdMarkdown from '../util/SrdMarkdown';
+import TableLink from './components/TableLink';
 
 export interface RolesTable {
-  role: string;
+  name: string;
   id: string;
   bonus: {
     title: string;
@@ -14,7 +15,7 @@ export interface RolesTable {
   talent: string[];
 }
 
-export default function Roles({ data }: { data: RolesTable[] }) {
+export default function Roles({ rootPath, data }: { rootPath: string, data: RolesTable[] }) {
   const choiceArrayToString = (choices: Array<string | string[]>) => {
     let retVal = '';
     choices.forEach((i) => {
@@ -38,12 +39,8 @@ export default function Roles({ data }: { data: RolesTable[] }) {
       grow: 2,
       wrap: true,
       allowOverflow: true,
-      selector: (row: RolesTable) => row.role,
-      format: (row: RolesTable) => (
-        <strong id={row.id} className="table-anchor">
-          {row.role}
-        </strong>
-      ),
+      selector: (row: RolesTable) => row.name,
+      format: (row: RolesTable) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Bonus',

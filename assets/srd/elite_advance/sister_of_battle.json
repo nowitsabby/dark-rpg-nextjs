@@ -30,8 +30,8 @@
     "talents": [
       {
         "tier": 2,
-        "talent": "Blessed Martyrdom",
-        "id": "blessed-martyrdom",
+        "name": "Blessed Martyrdom",
+        "id": "blessed_martyrdom",
         "prerequisites": [
           "Ceaseless Crusader",
           "Shielding Faith"
@@ -45,8 +45,8 @@
       },
       {
         "tier": 1,
-        "talent": "Ceaseless Crusader",
-        "id": "ceaseless-crusader",
+        "name": "Ceaseless Crusader",
+        "id": "ceaseless_crusader",
         "prerequisites": [
           "Willpower 45"
         ],
@@ -59,8 +59,8 @@
       },
       {
         "tier": 2,
-        "talent": "Cleanse with Fire",
-        "id": "cleanse-with-fire",
+        "name": "Cleanse with Fire",
+        "id": "cleanse_with_fire",
         "prerequisites": [
           "Ballistic Skill 40"
         ],
@@ -73,8 +73,8 @@
       },
       {
         "tier": 2,
-        "talent": "Divine Vengeance",
-        "id": "divine-vengeance",
+        "name": "Divine Vengeance",
+        "id": "divine_vengeance",
         "prerequisites": [
           "Cleanse with Fire",
           "Ballistic Skill 45"
@@ -88,8 +88,8 @@
       },
       {
         "tier": 2,
-        "talent": "Emperor's Guidance",
-        "id": "emperor-s-guidance",
+        "name": "Emperor's Guidance",
+        "id": "emperor_s_guidance",
         "prerequisites": [
           "Insanity 25",
           "Furious Zeal"
@@ -103,8 +103,8 @@
       },
       {
         "tier": 1,
-        "talent": "Furious Zeal",
-        "id": "furious-zeal",
+        "name": "Furious Zeal",
+        "id": "furious_zeal",
         "prerequisites": [
           "Insanity 10",
           "Hatred (Any One)"
@@ -118,8 +118,8 @@
       },
       {
         "tier": 2,
-        "talent": "Spirit of the Martyr",
-        "id": "spirit-of-the-martyr",
+        "name": "Spirit of the Martyr",
+        "id": "spirit_of_the_martyr",
         "prerequisites": [
           "Insanity 20",
           "Furious Zeal"
@@ -133,8 +133,8 @@
       },
       {
         "tier": 1,
-        "talent": "Shielding Faith",
-        "id": "shielding-faith",
+        "name": "Shielding Faith",
+        "id": "shielding_faith",
         "prerequisites": [
           "Deny the Witch"
         ],
@@ -147,8 +147,8 @@
       },
       {
         "tier": 3,
-        "talent": "Zealot's Passion",
-        "id": "zealot-s-passion",
+        "name": "Zealot's Passion",
+        "id": "zealot_s_passion",
         "prerequisites": [
           "Spirit of the Martyr",
           "Fel 35"

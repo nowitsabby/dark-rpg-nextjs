@@ -7,7 +7,7 @@
     "information": "Artists of living flesh, Biomancers can push their own bodies beyond human limits, and even control the biological processes of others. These powers allow a psyker to enhance his own abilities and aid his allies, but can also be used stop a foe's heart with but a thought.",
     "powers": [
       {
-        "power": "Enfeeble",
+        "name": "Enfeeble",
         "cost": 100,
         "prerequisites": [
           "Toughness 35"
@@ -24,7 +24,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Invigourate",
+        "name": "Invigourate",
         "cost": 100,
         "prerequisites": [
           "Toughness 30"
@@ -40,7 +40,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Shape Flesh",
+        "name": "Shape Flesh",
         "cost": 200,
         "prerequisites": [
           "Toughness 30",
@@ -57,7 +57,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Smite",
+        "name": "Smite",
         "cost": 200,
         "prerequisites": [
           "Willpower 40"
@@ -74,7 +74,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Endurance",
+        "name": "Endurance",
         "cost": 300,
         "prerequisites": [
           "Toughness 30"
@@ -90,7 +90,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Haemorrhage",
+        "name": "Haemorrhage",
         "cost": 400,
         "prerequisites": [
           "Psy Rating 4"
@@ -107,7 +107,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Iron Arm",
+        "name": "Iron Arm",
         "cost": 400,
         "prerequisites": [
           "Strength 35",
@@ -124,7 +124,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Life Leech",
+        "name": "Life Leech",
         "cost": 400,
         "prerequisites": [
           "Toughness 40"
@@ -141,7 +141,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Warp Speed",
+        "name": "Warp Speed",
         "cost": 500,
         "prerequisites": [
           "Psy Rating 5"

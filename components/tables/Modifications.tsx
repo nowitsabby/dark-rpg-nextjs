@@ -5,9 +5,11 @@ import DataTable from 'react-data-table-component';
 import availability from '../util/Availability';
 import SrdMarkdown from '../util/SrdMarkdown';
 import FilterComponent from './components/FilterComponent';
+import TableLink from './components/TableLink';
 
 export interface ModRecord {
-  mod: string;
+  name: string;
+  id: string;
   weight: string;
   availability: string;
   upgrades: string;
@@ -15,7 +17,7 @@ export interface ModRecord {
   source: string;
 }
 
-export default function Modifications({ data }: { data: ModRecord[] }) {
+export default function Modifications({ rootPath, data }: { rootPath: string, data: ModRecord[] }) {
   const [filterText, setFilterText] = useState('');
   const subHeaderComponentMemo = useMemo(() => {
     return (
@@ -32,8 +34,8 @@ export default function Modifications({ data }: { data: ModRecord[] }) {
       grow: 5,
       sortable: true,
       wrap: true,
-      selector: (row: ModRecord) => row.mod,
-      format: (row: ModRecord) => <strong>{row.mod}</strong>,
+      selector: (row: ModRecord) => row.name,
+      format: (row: ModRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Weight',
@@ -67,7 +69,7 @@ export default function Modifications({ data }: { data: ModRecord[] }) {
           ? data.filter((item) => {
               if (filterText) {
                 return (
-                  item.mod
+                  item.name
                     ?.toLowerCase()
                     .includes(filterText.toLowerCase()) ||
                   item.upgrades

@@ -4,48 +4,48 @@
   "component": "Traits",
   "data": [
     {
-      "trait": "Bred for War",
-      "id": "bred-for-war",
+      "name": "Bred for War",
+      "id": "bred_for_war",
       "description": "The Imperium has been in a state of constant war for thousands of years. Over such a vast span of time the methods of breeding and training riding beasts have improved significantly, allowing Beastmasters to turn instinctual creatures into living weapons of war. This Bestial Companion is used to the rigours of combat and the din of battle, and thus automatically passes all Willpower Tests to avoid fleeing due to the Bestial Trait."
     },
     {
-      "trait": "Enduring",
+      "name": "Enduring",
       "id": "enduring",
       "description": "Some beasts of burden can tolerate extreme amounts of punishment, and can subsist for long periods of time without food or water, all whilst carrying any rider and his equipment. This Bestial Companion gains a +30 bonus to any Toughness Tests it makes due to dehydration or starvation and can carry one additional passenger or comparably heavy item without the associated penalties. A Bestial Companion with this Trait cannot be given the Wiry Trait."
     },
     {
-      "trait": "Irritable",
+      "name": "Irritable",
       "id": "irritable",
       "description": "This creature is not terribly friendly at the best of times, and once its ire is ignited, it is all that a rider can do to stay on and survive. Of course, the rider will likely fare much better than anyone unfortunate enough to be caught in its path. This Bestial Companion grants its rider a +20 bonus to Survival Tests to use the Crushing Charge and Rearing Strike Mounted Special Actions. However, whenever the master of a Bestial Companion with this Trait fails a Survival Test to control it, he adds 1 additional Degree of Failure to his failed Test. A Bestial Companion with this Trait cannot be given the Placid or Skittish Traits."
     },
     {
-      "trait": "Loyal",
+      "name": "Loyal",
       "id": "loyal",
       "description": "Over time, some creatures develop a sense of loyalty to their riders, expressing this in both a willingness to perform dangerous actions and in the way they will stay with their masters to the bitter end, often waiting with the body of a fallen rider, unaware that their companion is seriously injured or even dead. Loyal Bestial Companions do not leave their riders when they are Thrown from the saddle. Further, the Beastmaster gains a +10 bonus to Survival Tests when attempting to control a Bestial Companion with this Trait."
     },
     {
-      "trait": "Paralytic Venom",
-      "id": "paralytic-venom",
+      "name": "Paralytic Venom",
+      "id": "paralytic_venom",
       "description": "There are many poisonous creatures within the Imperium, and whilst many of them tend to make poor riding beasts on account of their toxicity or general temperament, there are the occasional few such beasts that are docile enough to be coaxed into combat where they might bring their low-level poisons to bear. This Bestial Companion's attacks gain the Toxic (2) Quality. However, rather than suffering additional Damage, for every two Degrees of Failure on the Test to resist the Toxic Quality, the victim gains one Level of Fatigue."
     },
     {
-      "trait": "Placid",
+      "name": "Placid",
       "id": "placid",
       "description": "Not every beast is a natural fighter — not even after years of selective breeding, expert training or genetic manipulation — and some even lack the basic drive to fight, seemingly oblivious to threats unless directly under attack. Bestial Companions with this Trait grant their rider a +10 bonus to Survival Tests to control them outside of combat, but impose a -10 penalty on Survival Tests to control them during combat encounters. A Bestial Companion with this Trait cannot be given the Irritable Trait."
     },
     {
-      "trait": "Skittish",
+      "name": "Skittish",
       "id": "skittish",
       "description": "The Bestial Companion is nervous and takes flight easily when faced with unfamiliar or high-stress situations. A Bestial Companion with the Skittish Trait grants its rider a +20 bonus to Survival Tests to use the Evasive Riding and Sidestep Mounted Special Actions. However, it inflicts a -20 penalty to its rider's Survival Tests to use the Crushing Charge and Soaring Leap Mounted Special Actions. A Bestial Companion with this Trait cannot be given the Irritable Trait."
     },
     {
-      "trait": "Terrain Master ",
-      "id": "Terrain Master ",
+      "name": "Terrain Master ",
+      "id": "terrain_master",
       "description": "This Creature has large padded feet, widely splayed toes, double-jointed legs or even a preternatural ability to sense uneven ground. It suffers no penalties for moving over difficult terrain."
     },
     {
-      "trait": "Wiry",
-      "id": "Wiry",
+      "name": "Wiry",
+      "id": "wiry",
       "description": "Thin-limbed and nimble, the steed is mostly made up of tightly bound muscle groups and cartilage. This usually makes such creatures strong combatants and fast runners, but limits their endurance and ability to carry large amounts of equipment. This Bestial Companion can only carry the equivalent of a single rider plus the rider's basic equipment and weapons. It cannot more than one person or any additional or heavier equipment, but it counts its Agility Bonus as being two higher for the purposes of movement. A Bestial Companion with this Trait cannot be given the Enduring Trait."
     }
   ]

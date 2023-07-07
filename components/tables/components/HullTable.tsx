@@ -2,9 +2,11 @@ import { useMemo, useState } from 'react';
 import DataTable from 'react-data-table-component';
 import FilterComponent from './FilterComponent';
 import SrdMarkdown from '../../util/SrdMarkdown';
+import TableLink from './TableLink';
 
 export interface StarshipHullRecord {
   name: string;
+  id: string;
   class: string;
   speed: number;
   manoeuvrability: number;
@@ -19,9 +21,11 @@ export interface StarshipHullRecord {
 }
 
 export function HullTable({
+  rootPath,
   tableData,
   group,
 }: {
+  rootPath: string;
   tableData: StarshipHullRecord[];
   group: string;
 }) {
@@ -40,7 +44,7 @@ export function HullTable({
       name: 'Name',
       wrap: true,
       selector: (row: StarshipHullRecord) => row.name,
-      format: (row: StarshipHullRecord) => <strong>{row.name}</strong>,
+      format: (row: StarshipHullRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Speed',

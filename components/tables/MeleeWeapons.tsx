@@ -7,7 +7,7 @@ import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 
 import 'react-tabs/style/react-tabs.css';
 
-export default function MeleeWeapons({ data }: { data: MeleeWeaponRecord[] }) { 
+export default function MeleeWeapons({ rootPath, data }: { rootPath: string, data: MeleeWeaponRecord[] }) { 
   const [weaponGroups, setWeaponGroups] = useState([] as string[]);
 
   useEffect(() => {
@@ -27,6 +27,7 @@ export default function MeleeWeapons({ data }: { data: MeleeWeaponRecord[] }) {
       {weaponGroups?.map((group: string) => (
           <TabPanel key={`${group}-tabpanel`}>
             <MeleeWeaponTable
+              rootPath={rootPath}
               group={group}
               tableData={data.filter((item) => item.type === group)}
             />

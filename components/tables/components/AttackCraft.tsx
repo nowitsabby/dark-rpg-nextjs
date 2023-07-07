@@ -4,7 +4,7 @@ import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 
 import 'react-tabs/style/react-tabs.css';
 
-export default function AttackCraft({ data }: { data: AttackCraftRecord[] }) {
+export default function AttackCraft({ rootPath, data }: { rootPath: string, data: AttackCraftRecord[] }) {
   const [groups, setGroups] = useState([] as string[]);
 
   useEffect(() => {
@@ -24,6 +24,7 @@ export default function AttackCraft({ data }: { data: AttackCraftRecord[] }) {
       {groups?.map((group: string) => (
           <TabPanel key={`${group}-tabpanel`}>
             <AttackCraftTable
+                rootPath={rootPath}
                 group={group}
                 tableData={data.filter((item) => item.type === group)}
               />

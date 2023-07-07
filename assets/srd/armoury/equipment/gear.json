@@ -4,203 +4,232 @@
   "component": "Equipment",
   "data": [
     {
-      "item": "Backpack",
+      "name": "Backpack",
+      "id": "backpack",
       "weight": "2 kg",
       "availability": "Abundant",
       "description": "These personal carrying items can range from containers of heavy cloth to elaborate, body-conforming devices with internal bracing for comfort. They all allow the wearer to transport roughly 30 kg of extra weight, but removing an object from the pack requires a Full Action. Only one backpack or combat vest can be worn at a time.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Clothing",
+      "name": "Clothing",
+      "id": "clothing",
       "weight": "2 kg",
       "availability": "Abundant",
       "description": "Clothing styles vary greatly across the Imperium, some as basic protection with no thought to aesthetics, some purely ornamental with no concern for environmental or other lesser worries. For some, clothing styles are set at birth or through factory dictates. Others adopt the styles of their gang, sect, house, or other affiliation. While basic clothing common to a setting should be simple to acquire, more elaborate garb of either higher status or specialised function should be more difficult, with the GM acting as final arbiter on Availability or creation.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Chrono",
+      "name": "Chrono",
+      "id": "chrono",
       "weight": "0 kg",
       "availability": "Plentiful",
       "description": "Chronos are small timepieces, and are essential for Acolytes to properly time their actions. Basic versions simply indicate local time and require manual setting, but finer models can synch to external datastreams for the greatest possible accuracy.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Filtration Plugs",
+      "name": "Filtration Plugs",
+      "id": "filtration_plugs",
       "weight": "-",
       "availability": "Common",
       "description": "Worn in each nostril, filtration plugs screen out most pollutants and hazardous gases. A character wearing filtration plugs gains a +20 bonus to any Toughness test made to resist the effects of damaging gases. Good craftsmanship models add another +10 bonus, while Poor models must be replaced after five hours of usage as the filter becomes clogged and unusable.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Concealed Holster",
+      "name": "Concealed Holster",
+      "id": "concealed_holster",
       "weight": "1 kg",
       "availability": "Average",
       "description": "These conformal pouches can hold a small pistol such as an autopistol or stub automatic, and are worn under obscuring clothing to disguise the weapon from observers. Attempts to detect such a weapon suffer a -20 penalty, but Ready actions for this weapon become a Full Action rather than a Half Action (or a Half Action instead of a Free Action where applicable).",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Magboots",
+      "name": "Magboots",
+      "id": "magboots",
       "weight": "2 kg",
       "availability": "Average",
       "description": "Magboots reduce the wearer's Movement and AB by half (round up) but allow him to move about normally in areas of low or no gravity as long as there is a suitable surface to walk on.",
       "source": "Inquisitor's Handbook"
     },
     {
-      "item": "Respirator / Gas Mask",
+      "name": "Respirator / Gas Mask",
+      "id": "respirator_gas_mask",
       "weight": "0.5 kg",
       "availability": "Average",
       "description": "A simple breathing mask that covers the nose and mouth or entire face, these offer much better protection than filtration plugs. A character wearing a respirator gains a +30 bonus to a Toughness test made to resist the effects of gas and can re-roll the test if failed. Good craftsmanship models add another +10 bonus, while Poor models must be replaced after 10 hours of usage as the filter becomes clogged and unusable.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Survival Suit",
+      "name": "Survival Suit",
+      "id": "survival_suit",
       "weight": "-",
       "availability": "Average",
       "description": "When working in harsh and extreme conditions (especially when it is not known in advance what they will be), survival suits are a must. No matter if it is too hot or too cold, the suit can maintain proper body temperature and hydration via excellent insulation capabilities. Using the differential between body temperature and outside temperature to drive thermoelectric power cells, it also has reclamation systems for turning sweat into drinking water. Most suits come complete with a hood, as well as goggles to protect the head and face. While it does not protect forever, for medium duration emergencies it can help sustain life until a rescue. The suit grants a +20 bonus to any tests to withstand the effects of extreme environments. Good and Best craftsmanship suits grant a +25 and +30 bonus, respectively, while Poor outfits only last three days before their internal mechanisms falter and need removal from the extreme temperatures to recharge.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Vid-Relay",
+      "name": "Vid-Relay",
+      "id": "vid_relay",
       "weight": "1 kg",
       "availability": "Average",
       "description": "On rare occasions, some Imperial Guard squads are issued helmet- or shoulder-mounted vid-casters, allowing a dispersed squad to coordinate their activities much more accurately than verbal communication alone would allow. In many cases, however, the truth is that vid-casters allow a commanding officer to lead a dangerous mission, perhaps a suicide mission, from the safety of his command bunker. The other half of the vid-relay system consists of a receiver, which can take the form of a helmet-mounted visor or “flip-out” eyepiece. Common-Craftsmanship vid-relays have a maximum range of about 10 km, while Good-Craftsmanship units can often reach 50 km or more. Best-craftsmanship units can maintain a connection between a planetary surface and a ship in orbit, with only minor delay. The effective range of a vid-relay, and the quality of the signal, can be greatly impacted by dense, intervening material or environmental conditions (such as operating underground or in the midst of a gravitic storm.) Vid-relays are usually accompanied by a vox-system. If a Player Character and his Comrade are equipped with a vid-relay, the Player Character gains a +10 bonus to Awareness Tests. Additionally, the Player Character might be able to issue certain instructions or Orders to his Comrade while outside of Cohesion, at the GM's discretion.",
       "source": "Hammer of the Emperor"
     },
     {
-      "item": "Combat Vest",
+      "name": "Combat Vest",
+      "id": "combat_vest",
       "weight": "2 kg",
       "availability": "Scarce",
       "description": "While this outerwear vest offers no additional protection, it does include numerous pouches and straps to keep extra weapon clips, sidearms, and grenades within easy reach. Common styles include hip packs, holsters, bandoliers, and vests and can hold 15 kg comfortably. Items held in the combat vest can be drawn as a Free Action during the character's turn. Only one backpack or combat vest can be worn at a time.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Explosive Collar",
+      "name": "Explosive Collar",
+      "id": "explosive_collar",
       "weight": "3 kg",
       "availability": "Scarce",
       "description": "These give penal legionnaires extra incentive to fight and expunge their sins to the Emperor, as well as to keep captured prisoners in line. Each of these heavy collars comes with a remote, usually with a range of 1 km. The remote can either release or explode the collar, which automatically explodes if out of range of the remote for longer than 5 minutes. When triggered, the explosive on the collar detonates. The resulting decapitation instantly kills the wearer, and counts as having a frag grenade detonated at the location. Removing an explosive collar without the remote requires a Hard (-20) Tech-Use test. If the character trying to remove the collar fails by two or more degrees of failure, the collar explodes.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Photo-Visors / Photo-Contacts",
+      "name": "Photo-Visors / Photo-Contacts",
+      "id": "photo_visors_photo_contacts",
       "weight": "0.5 kg",
       "availability": "Scarce",
       "description": "These can be worn as corneal lenses or as outer eyewear, and amplify any low-level light to allow the wearer to see as if normal lighting was present. Characters wearing these gain the Dark-sight trait. Good craftsmanship visors also dampen the effects of photon flash grenades, making the wearer immune to their effects.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Rebreather",
+      "name": "Rebreather",
+      "id": "rebreather",
       "weight": "1 kg",
       "availability": "Scarce",
       "description": "These devices store and recycle breathable air via a mask and external supply tank, making the user to immune to toxic atmospheres, even allowing him to survive underwater. The air canister lasts only for about one hour and then must be replaced, which takes a Full Action. Good craftsmanship models last two hours, while Poor ones take two Full Actions to replace the canister. Replacement canisters are Scarce.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Void Suit",
+      "name": "Void Suit",
+      "id": "void_suit",
       "weight": "8 kg",
       "availability": "Scarce",
       "description": "These fully-sealed suits are essential for operating in the vacuum of space, but can also be useful in toxic or hostile environments. A Common craftsmanship void suit has 12 hours of air and imposes a -10 penalty to Agility tests. Poor craftsmanship versions have six hours of air, while Good and Best craftsmanship versions eliminate the Agility penalty.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Void Suit, Heavy Duty",
+      "name": "Void Suit, Heavy Duty",
+      "id": "void_suit_heavy_duty",
       "weight": "20 kg",
       "availability": "Scarce",
       "description": "A Heavy Duty Void Suit can sustain life in hard vacuum for up to 12 hours before the dual re-breather cells of its life support system must be replaced (which may even be done without removing the suit). A fully functioning suit in good order also contains an internal vox-link, a seal patching kit, a compact grapnel/clasp plus ten metres of line, and a photo-visor. The suit's reinforced structure provides 3 Armour Points to the Body, Arms and Legs and 4 Armour Points from the helmet to the Head. The suit however is quite bulky and imposes a -10 penalty on all Agility Tests whilst worn. Heavy Duty Void Suit suits appear in several local variants and are subject to the rules for Armour Quality. Poor craftsmanship versions have 6 hours of air. Good and Best suits are fitted with impellor units, allowing the wearer to propel themselves through open space in zero or reduced gravity conditions with a Movement of 6 (they are not powerful enough to use in a normal gravity environment, however).",
       "source": "Inquisitor's Handbook"
     },
     {
-      "item": "Chameleoline Cloak",
+      "name": "Chameleoline Cloak",
+      "id": "chameleoline_cloak",
       "weight": "0.5 kg",
       "availability": "Rare",
       "description": "Chameleoline material is made up of mimic fibres that blend the coloration of the wearer into their surroundings, and is the garb of choice for snipers. The wearer gains a +20 bonus to Stealth tests. If he remains stationary during his turn, Ballistic Skill tests targeting him suffer a -30 penalty until the beginning of his next turn.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Mag-lock Holster / Scabbard",
+      "name": "Mag-lock Holster / Scabbard",
+      "id": "mag_lock_holster_scabbard",
       "weight": "1 kg",
       "availability": "Rare",
       "description": "A magnetic plate attached to the character's body allows him to holster a specific melee or ranged weapon, selected when this gear is Requisitioned, simply by sticking it to the outside of his armour. The weapon seems to hover over his body and is much faster to ready than normal. The character may ready a weapon with this upgrade as a Free Action. Additional requisitions allow additional weapons to be used with this, but do not add any extra weight",
       "source": "Black Crusade"
     },
     {
-      "item": "Recoil Glove",
+      "name": "Recoil Glove",
+      "id": "recoil_glove",
       "weight": "0.5 kg",
       "availability": "Rare",
       "description": "This heavy gauntlet uses interlocking plates laced with memory wire to stiffen in a protective grip, absorbing the shock from powerful hand weapons. A character using a recoil glove can fire a Basic weapon with one hand without the normal -20 penalty, and can wield pistol weapons that normally require two hands in one hand without penalty. Note that specialised weapon training is still required to use the weapon properly, without which the Untrained penalty of -20 still applies.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Adeptus Astartes Bolt Casing",
+      "name": "Adeptus Astartes Bolt Casing",
+      "id": "adeptus_astartes_bolt_casing",
       "weight": "0.1 kg",
       "availability": "Very Rare",
       "description": "The near-mythical warriors of the Adeptus Astartes are the Emperor's Angels of Death, the ultimate champions of humanity and the greatest fear of the enemies of Mankind. Most Imperial Guardsmen go their entire lives without ever witnessing a Space Marine in action, but those who do are likely to be deeply moved by the experience. In the wake of an assault by these legendary figures, Guardsmen sometimes collect the bolt casings left behind as sacred relics that mark the passing of the Emperor's chosen warriors. Though most meaningful to those Guardsmen who witnessed the event, even a second-hand bolt casing left by the warriors of the Adeptus Astartes is a powerful reminder of the might of the Imperium, and all that the Emperor has done for Mankind. A character carrying one or more Adeptus Astartes bolt casings gains a +5 bonus to Willpower Tests to resist Fear and Pinning",
       "source": "Hammer of the Emperor"
     },
     {
-      "item": "Deadspace Earpiece",
+      "name": "Deadspace Earpiece",
+      "id": "deadspace_earpiece",
       "weight": "-",
       "availability": "Very Rare",
       "description": "Each of these tiny devices can limit high-volume sonic disturbances (such as explosions) by automatically detecting and dampening the excessive noise down to a tolerable level. Users wearing this earpiece make any Toughness tests against sonic effects or against the auditory effects of a Concussive weapon with a +20 bonus.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Preysense Goggles",
+      "name": "Preysense Goggles",
+      "id": "preysense_goggles",
       "weight": "0.5 kg",
       "availability": "Very Rare",
       "description": "This eyewear device reveals thermal images so that the wearer can detect things that would be otherwise hidden in obscuring mists and shadow. Poor craftsmanship models cannot belie their true nature and are bulky goggles with glowing lenses; Good and Best craftsmanship models are disguised as normal (if elaborate) eyeglasses. A character wearing these goggles suffers no penalties due to darkness, and gains a +20 bonus to vision-based Perception tests at night.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Synskin",
+      "name": "Synskin",
+      "id": "synskin",
       "weight": "2 kg",
       "availability": "Very Rare",
       "description": "Synskin is a bio-reactive body glove with an inert non-reflective surface that moulds itself to the wearer's form. It grants 2 Armour points to all locations not already armoured and the wearer gains a +10 bonus to Stealth tests. It also renders the wearer invisible to the use of preysense goggles and those with the Dark-sight trait.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Trophy Rack",
+      "name": "Trophy Rack",
+      "id": "trophy_rack",
       "weight": "2kg",
       "availability": "Very Rare",
       "description": "Opponents making melee attacks against the wearer suffer a -5 to Weapon Skill Tests due to terror upon seeing the trophies (at a GM's discretion, certain opponents, primarily those immune to Fear, beasts, or mechanical constructs, are immune to the effects of the trophies). The user also gains +10 to Intimidation Tests but suffers a -10 to any Stealth Tests.",
       "source": "Black Crusade"
     },
     {
-      "item": "Barbed Ring / Venom Nail",
+      "name": "Barbed Ring / Venom Nail",
+      "id": "barbed_ring_venom_nail",
       "weight": "-",
       "availability": "Extremely Rare",
       "description": "Targets must pass a Very Hard (-30) Toughness Test or take 2d10 wounds ignoring Armour or Toughness Bonus. Good Craftsmanship models will delay the illness for 1 hour, while Poor models only cause 1d10 wounds. Best Craftsmanship models deal 1d10+10 wounds, as well as the bonus for Good Craftsmanship.",
       "source": "Black Crusade"
     },
     {
-      "item": "Psychic Hood",
+      "name": "Psychic Hood",
+      "id": "psychic_hood",
       "weight": "2 kg",
       "availability": "Extremely Rare",
       "description": "Psychic hoods are arcane devices that augment the powers of a psyker. Constructed of rare psy-conductive materials, the psy-lattice frame of a psychic hood must connect to the wearer's cranium at numerous points, and is often subdermally anchored for greatest effect. A character wearing a psychic hood may spend his Reaction to attempt to nullify another psyker's use of a power, as long as the opposing psyker is within a number of metres equal to the character's Willpower Characteristic. Before the other psyker makes his Focus Power Roll, the character may spend his Reaction to make a Focus Power (Willpower) Test. Each Degree of Success he scores imposes a -10 penalty on the opposing psyker's own Focus Power Test. The psyker may choose the psychic strength at which he makes this Test, which can result in Psychic Phenomena, as usual. Additionally, a psychic hood grants the wearer a +5 bonus to all Focus Power Tests, including nullification attempts. A psychic hood cannot be used by, and provides no benefits to, a character who is not a psyker.",
       "source": "Hammer of the Emperor"
     },
     {
-      "item": "Badge of Office",
+      "name": "Badge of Office",
+      "id": "badge_of_office",
       "weight": "-",
       "availability": "Near Unique",
       "description": "Though only Inquisitors can carry the Inquisitorial Rosette, Some conclaves make a habit of issuing trusted Inquisitorial Agents with a badge of office to identify them as working under the authority of the Holy Ordos. Depending on the need for secrecy and subtlety, this may take the form of an actual gene-coded badge with credentials, a concealable electoo on an arm or the torso, or even a message inscribed psychically in the Throne Agent's mind. In any case, these symbols of authority are difficult to forge and even more difficult to refute. Whatever form a badge of office may take, it proves the bearer is an agent of the Holy Inquisition, with all the rights and responsibilities that entails. It is not, however, the Rosette of a full Inquisitor. When a Throne Agent procures his Badge of Office, he must choose which form it takes.",
       "source": "Ascension"
     },
     {
-      "item": "Sentinel Array",
+      "name": "Sentinel Array",
+      "id": "sentinel_array",
       "weight": "12 kg",
       "availability": "Near Unique",
       "description": "The Sentinel Array must be worn on the back, and may only be used by individuals with a MIU interface, or similar device that allows the Array to connect directly with the brain. When activated, the user must immediately make an Ordinary (+10) Willpower Test. Whether or not he succeeds, he may still use the Array, but failure means he suffers 1d5 levels of fatigue as well.\n\nThe Sentinel Array's power supply lasts for 10 hours. While connected to it, the user gains +30 to Awareness Tests, Unnatural Senses with a range of 50 metres, can 'see' in all directions, and may detect targets through walls, undergrowth, trees, or other obstructions. Solid walls at least one metre thick (and without openings) block the Array. The user may also use the array to 'lock on' to a specific target as a Half Action (or he may load a specific bio-metric readout into the Array beforehand, in which case the Array locks on automatically). The Array may track that target up to 100 metres away, and always distinguishes between it and other targets.",
       "source": "Ascension"
     },
     {
-      "item": "Vindicare Spy Mask",
+      "name": "Vindicare Spy Mask",
+      "id": "vindicare_spy_mask",
       "weight": "2 kg",
       "availability": "Near Unique",
       "description": "The spy mask contains cartridges of concentrated food and water for extended operations, and a multi-channel comm sensor (both vox and pict) for monitoring enemy communications. Its main feature is a wide-spectrum visor which can pick out heat and energy sources at tremendous distances.\n\nThe mask includes a built-in auspex, advanced high-quality magnoculars, good-quality photo-visor (granting the wearer the Dark Sight Trait and making him immune to the effects of photon flash grenades), pict-recorder, re-breather, and vox-caster. In addition, the wearer may re-roll any failed Perception-based Test, and does not suffer a change to the range bracket when firing a ranged weapon at a target protected by Cameleoline.\n\nIt should be noted that the equipment of a Vindicare Assassin is often gene-coded to that individual and no other, and that it would take a great deal of effort—and a Very Hard (-30) Tech-Use and Medicae Test—to adjust the gene-coding for another user.",
       "source": "Ascension"
     },
     {
-      "item": "Vindicare Stealth Suit",
+      "name": "Vindicare Stealth Suit",
+      "id": "vindicare_stealth_suit",
       "weight": "5 kg",
       "availability": "Near Unique",
       "description": "The Stealth Suit may not be worn under any form of armour. It provides 3 points of Armour to all locations and incorporates all the benefits of synskin. The Stealth Suit grants a +10 bonus to Dodge Tests and to Toughness tests to resist any form of toxin, and a +20 bonus to Concealment and Silent Move Tests. The wearer may attempt a Concealment Test as a Half Action instead of a Full Action, and may make the attempt even whilst being observed. If the wearer remains stationary, he counts as being one range bracket further away for all ranged attacks against him. The Stealth Suit makes the wearer invisible to the Dark Sight Trait, preysense, and infrared sensors of all kinds. This item is manufactured at the Best craftsmanship level.\n\nIt should be noted that the equipment of a Vindicare Assassin is often gene-coded to that individual and no other, and that it would take a great deal of effort—and a Very Hard (-30) Tech-Use and Medicae Test—to adjust the gene-coding for another user.",

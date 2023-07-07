@@ -15,7 +15,7 @@ export interface EliteAdvanceRecord {
   talents: TalentType[] | null | undefined;
 }
 
-export default function EliteAdvance({ data }: { data: EliteAdvanceRecord }) {
+export default function EliteAdvance({ rootPath, data }: { rootPath: string, data: EliteAdvanceRecord }) {
   return (
     <Stack gap={1}>
       <h4>Cost</h4>
@@ -39,7 +39,7 @@ export default function EliteAdvance({ data }: { data: EliteAdvanceRecord }) {
         ))}
       <h4>Unlocked Advances</h4>
       {data?.advances && <AdvanceTable tableData={data?.advances} />}
-      {data?.talents && <Talents data={data?.talents} />}
+      {data?.talents && <Talents rootPath={rootPath} data={data?.talents} />}
     </Stack>
   );
 }

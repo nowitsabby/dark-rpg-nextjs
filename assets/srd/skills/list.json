@@ -4,7 +4,7 @@
   "component": "Skills",
   "data": [
     {
-      "skill": "Acrobatics",
+      "name": "Acrobatics",
       "id": "acrobatics",
       "specialist": false,
       "specialisations": null,
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "skill": "Athletics",
+      "name": "Athletics",
       "id": "athletics",
       "specialist": false,
       "specialisations": null,
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "skill": "Awareness",
+      "name": "Awareness",
       "id": "awareness",
       "specialist": false,
       "specialisations": null,
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "skill": "Charm",
+      "name": "Charm",
       "id": "charm",
       "specialist": false,
       "specialisations": null,
@@ -98,7 +98,7 @@
       "specialUses": null
     },
     {
-      "skill": "Command",
+      "name": "Command",
       "id": "command",
       "specialist": false,
       "specialisations": null,
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "skill": "Commerce",
+      "name": "Commerce",
       "id": "commerce",
       "specialist": false,
       "specialisations": null,
@@ -148,8 +148,8 @@
       ]
     },
     {
-      "skill": "Common Lore",
-      "id": "common-lore",
+      "name": "Common Lore",
+      "id": "common_lore",
       "specialist": true,
       "specialisations": [
         "Adepta Sororitas",
@@ -191,7 +191,7 @@
       "specialUses": null
     },
     {
-      "skill": "Deceive",
+      "name": "Deceive",
       "id": "deceive",
       "specialist": false,
       "specialisations": null,
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "skill": "Dodge",
+      "name": "Dodge",
       "id": "dodge",
       "specialist": false,
       "specialisations": null,
@@ -239,8 +239,8 @@
       ]
     },
     {
-      "skill": "Forbidden Lore",
-      "id": "forbidden-lore",
+      "name": "Forbidden Lore",
+      "id": "forbidden_lore",
       "specialist": true,
       "specialisations": [
         "Archaeotech",
@@ -308,7 +308,7 @@
       "specialUses": null
     },
     {
-      "skill": "Inquiry",
+      "name": "Inquiry",
       "id": "inquiry",
       "specialist": false,
       "specialisations": null,
@@ -331,7 +331,7 @@
       "specialUses": null
     },
     {
-      "skill": "Interrogation",
+      "name": "Interrogation",
       "id": "interrogation",
       "specialist": false,
       "specialisations": null,
@@ -353,7 +353,7 @@
       "specialUses": null
     },
     {
-      "skill": "Intimidate",
+      "name": "Intimidate",
       "id": "intimidate",
       "specialist": false,
       "specialisations": null,
@@ -375,7 +375,7 @@
       "specialUses": null
     },
     {
-      "skill": "Linguistics",
+      "name": "Linguistics",
       "id": "linguistics",
       "specialist": true,
       "specialisations": [
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "skill": "Logic",
+      "name": "Logic",
       "id": "logic",
       "specialist": false,
       "specialisations": null,
@@ -435,7 +435,7 @@
       ]
     },
     {
-      "skill": "Medicae",
+      "name": "Medicae",
       "id": "medicae",
       "specialist": false,
       "specialisations": null,
@@ -465,7 +465,7 @@
       ]
     },
     {
-      "skill": "Navigate",
+      "name": "Navigate",
       "id": "navigate",
       "specialist": true,
       "specialisations": [
@@ -488,7 +488,7 @@
       "specialUses": null
     },
     {
-      "skill": "Operate",
+      "name": "Operate",
       "id": "operate",
       "specialist": true,
       "specialisations": [
@@ -511,7 +511,7 @@
       "specialUses": null
     },
     {
-      "skill": "Parry",
+      "name": "Parry",
       "id": "parry",
       "specialist": false,
       "specialisations": null,
@@ -530,7 +530,7 @@
       "specialUses": null
     },
     {
-      "skill": "Psyniscience",
+      "name": "Psyniscience",
       "id": "psyniscience",
       "specialist": false,
       "specialisations": null,
@@ -549,8 +549,8 @@
       "specialUses": null
     },
     {
-      "skill": "Scholastic Lore",
-      "id": "scholastic-lore",
+      "name": "Scholastic Lore",
+      "id": "scholastic_lore",
       "specialist": true,
       "specialisations": [
         "Astromancy",
@@ -605,7 +605,7 @@
       "specialUses": null
     },
     {
-      "skill": "Scrutiny",
+      "name": "Scrutiny",
       "id": "scrutiny",
       "specialist": false,
       "specialisations": null,
@@ -629,7 +629,7 @@
       ]
     },
     {
-      "skill": "Security",
+      "name": "Security",
       "id": "security",
       "specialist": false,
       "specialisations": null,
@@ -650,8 +650,8 @@
       ]
     },
     {
-      "skill": "Sleight Of Hand",
-      "id": "sleight-of-hand",
+      "name": "Sleight Of Hand",
+      "id": "sleight_of_hand",
       "specialist": false,
       "specialisations": null,
       "primaryCharacteristic": "Agility",
@@ -671,7 +671,7 @@
       ]
     },
     {
-      "skill": "Stealth",
+      "name": "Stealth",
       "id": "stealth",
       "specialist": false,
       "specialisations": null,
@@ -694,7 +694,7 @@
       ]
     },
     {
-      "skill": "Survival",
+      "name": "Survival",
       "id": "survival",
       "specialist": false,
       "specialisations": null,
@@ -721,8 +721,8 @@
       ]
     },
     {
-      "skill": "Tech Use",
-      "id": "tech-use",
+      "name": "Tech Use",
+      "id": "tech_use",
       "specialist": false,
       "specialisations": null,
       "primaryCharacteristic": "Intelligence",
@@ -746,7 +746,7 @@
       ]
     },
     {
-      "skill": "Trade",
+      "name": "Trade",
       "id": "trade",
       "specialist": true,
       "specialisations": [

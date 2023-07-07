@@ -4,7 +4,8 @@
   "component": "Armour",
   "data": [
     {
-      "armour": "Heavy Leathers",
+      "name": "Heavy Leathers",
+      "id": "heavy_leathers",
       "type": "Basic",
       "locations": [
         "Arms",
@@ -18,7 +19,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Quilted Vest",
+      "name": "Quilted Vest",
+      "id": "quilted_vest",
       "type": "Basic",
       "locations": [
         "Body"
@@ -31,7 +33,8 @@
       "source": "Black Crusade"
     },
     {
-      "armour": "Chainmail Suit",
+      "name": "Chainmail Suit",
+      "id": "chainmail_suit",
       "type": "Basic",
       "locations": [
         "Arms",
@@ -46,7 +49,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Imperial Robes",
+      "name": "Imperial Robes",
+      "id": "imperial_robes",
       "type": "Basic",
       "locations": [
         "Arms",
@@ -61,7 +65,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Beast Furs",
+      "name": "Beast Furs",
+      "id": "beast_furs",
       "type": "Basic",
       "locations": [
         "Body"
@@ -74,7 +79,8 @@
       "source": "Black Crusade"
     },
     {
-      "armour": "Feudal World Plate",
+      "name": "Feudal World Plate",
+      "id": "feudal_world_plate",
       "type": "Basic",
       "locations": [
         "Arms",
@@ -90,7 +96,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Heavy Plate",
+      "name": "Heavy Plate",
+      "id": "heavy_plate",
       "type": "Basic",
       "locations": [
         "Arms",
@@ -106,7 +113,8 @@
       "source": "Inquisitor's Handbook"
     },
     {
-      "armour": "Monrass Hide Armour",
+      "name": "Monrass Hide Armour",
+      "id": "monrass_hide_armour",
       "type": "Basic",
       "locations": [
         "Arms",
@@ -121,7 +129,8 @@
       "source": "Inquisitor's Handbook"
     },
     {
-      "armour": "Armoured Bodyglove",
+      "name": "Armoured Bodyglove",
+      "id": "armoured_bodyglove",
       "type": "Basic",
       "locations": [
         "Arms",
@@ -136,7 +145,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Enviro-suit",
+      "name": "Enviro-suit",
+      "id": "enviro_suit",
       "type": "Basic",
       "locations": [
         "Arms",
@@ -152,7 +162,8 @@
       "source": "Enemies Within"
     },
     {
-      "armour": "Sanctified Vestments",
+      "name": "Sanctified Vestments",
+      "id": "sanctified_vestments",
       "type": "Basic",
       "locations": [
         "Arms",
@@ -167,7 +178,8 @@
       "source": "Shield of Humanity"
     },
     {
-      "armour": "Xenos Hide Vest",
+      "name": "Xenos Hide Vest",
+      "id": "xenos_hide_vest",
       "type": "Basic",
       "locations": [
         "Body"
@@ -180,7 +192,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Obsidian Plate",
+      "name": "Obsidian Plate",
+      "id": "obsidian_plate",
       "type": "Basic",
       "locations": [
         "Body"
@@ -193,7 +206,8 @@
       "source": "Enemies Beyond"
     },
     {
-      "armour": "Praetor Armour",
+      "name": "Praetor Armour",
+      "id": "praetor_armour",
       "type": "Basic",
       "locations": [
         "Arms",
@@ -209,7 +223,8 @@
       "source": "Enemies Within"
     },
     {
-      "armour": "Carapace Chestplate",
+      "name": "Carapace Chestplate",
+      "id": "carapace_chestplate",
       "type": "Carapace",
       "locations": [
         "Body"
@@ -222,7 +237,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Carapace Helm",
+      "name": "Carapace Helm",
+      "id": "carapace_helm",
       "type": "Carapace",
       "locations": [
         "Head"
@@ -235,7 +251,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Carapace Gauntlets",
+      "name": "Carapace Gauntlets",
+      "id": "carapace_gauntlets",
       "type": "Carapace",
       "locations": [
         "Arms"
@@ -248,7 +265,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Carapace Greaves",
+      "name": "Carapace Greaves",
+      "id": "carapace_greaves",
       "type": "Carapace",
       "locations": [
         "Legs"
@@ -261,7 +279,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Magistratum Combat Carapace",
+      "name": "Magistratum Combat Carapace",
+      "id": "magistratum_combat_carapace",
       "type": "Carapace",
       "locations": [
         "Arms",
@@ -277,7 +296,8 @@
       "source": "Inquisitor's Handbook"
     },
     {
-      "armour": "Enforcer Light Carapace",
+      "name": "Enforcer Light Carapace",
+      "id": "enforcer_light_carapace",
       "type": "Carapace",
       "locations": [
         "Arms",
@@ -293,7 +313,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Judge's Carapace",
+      "name": "Judge's Carapace",
+      "id": "judges_carapace",
       "type": "Carapace",
       "locations": [
         "Arms",
@@ -309,7 +330,8 @@
       "source": "Ascension"
     },
     {
-      "armour": "Militarum Tempestus Carapace",
+      "name": "Militarum Tempestus Carapace",
+      "id": "militarum_tempestus_carapace",
       "type": "Carapace",
       "locations": [
         "Arms",
@@ -325,7 +347,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Crimson Armour",
+      "name": "Crimson Armour",
+      "id": "crimson_armour",
       "type": "Carapace",
       "locations": [
         "Arms",
@@ -341,7 +364,8 @@
       "source": "Shield of Humanity"
     },
     {
-      "armour": "Flak Helmet",
+      "name": "Flak Helmet",
+      "id": "flak_helmet",
       "type": "Flak",
       "locations": [
         "Head"
@@ -354,7 +378,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Flak Gauntlets",
+      "name": "Flak Gauntlets",
+      "id": "flak_gauntlets",
       "type": "Flak",
       "locations": [
         "Arms"
@@ -367,7 +392,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Flak Vest",
+      "name": "Flak Vest",
+      "id": "flak_vest",
       "type": "Flak",
       "locations": [
         "Body"
@@ -380,7 +406,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Flak Pants",
+      "name": "Flak Pants",
+      "id": "flak_pants",
       "type": "Flak",
       "locations": [
         "Legs"
@@ -393,7 +420,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Flak Coat",
+      "name": "Flak Coat",
+      "id": "flak_coat",
       "type": "Flak",
       "locations": [
         "Arms",
@@ -407,7 +435,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Light Flak Cloak",
+      "name": "Light Flak Cloak",
+      "id": "light_flak_cloak",
       "type": "Flak",
       "locations": [
         "Arms",
@@ -422,7 +451,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Flak Cloak",
+      "name": "Flak Cloak",
+      "id": "flak_cloak",
       "type": "Flak",
       "locations": [
         "Arms",
@@ -437,7 +467,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Imperial Guard Flak Armour",
+      "name": "Imperial Guard Flak Armour",
+      "id": "imperial_guard_flak_armour",
       "type": "Flak",
       "locations": [
         "Arms",
@@ -453,7 +484,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Mesh Cowl",
+      "name": "Mesh Cowl",
+      "id": "mesh_cowl",
       "type": "Mesh",
       "locations": [
         "Head"
@@ -466,7 +498,8 @@
       "source": "Black Crusade"
     },
     {
-      "armour": "Mesh Gloves",
+      "name": "Mesh Gloves",
+      "id": "mesh_gloves",
       "type": "Mesh",
       "locations": [
         "Arms"
@@ -479,7 +512,8 @@
       "source": "Black Crusade"
     },
     {
-      "armour": "Mesh Vest",
+      "name": "Mesh Vest",
+      "id": "mesh_vest",
       "type": "Mesh",
       "locations": [
         "Body"
@@ -492,7 +526,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Mesh Leggings",
+      "name": "Mesh Leggings",
+      "id": "mesh_leggings",
       "type": "Mesh",
       "locations": [
         "Legs"
@@ -505,7 +540,8 @@
       "source": "Homebrew"
     },
     {
-      "armour": "Mesh Cloak",
+      "name": "Mesh Cloak",
+      "id": "mesh_cloak",
       "type": "Mesh",
       "locations": [
         "Arms",
@@ -520,7 +556,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Dragon Scale Armour",
+      "name": "Dragon Scale Armour",
+      "id": "dragon_scale_armour",
       "type": "Power",
       "locations": [
         "Arms",
@@ -536,7 +573,8 @@
       "source": "Inquisitor's Handbook"
     },
     {
-      "armour": "Light Power Armour",
+      "name": "Light Power Armour",
+      "id": "light_power_armour",
       "type": "Power",
       "locations": [
         "Arms",
@@ -552,7 +590,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "armour": "Adepta Sororitas Power Armour",
+      "name": "Adepta Sororitas Power Armour",
+      "id": "adepta_sororitas_power_armour",
       "type": "Power",
       "locations": [
         "Arms",
@@ -568,7 +607,8 @@
       "source": "Enemies Within"
     },
     {
-      "armour": "Heavy Power Armour",
+      "name": "Heavy Power Armour",
+      "id": "heavy_power_armour",
       "type": "Power",
       "locations": [
         "Arms",
@@ -584,7 +624,8 @@
       "source": "Enemies Beyond"
     },
     {
-      "armour": "Magma Armour",
+      "name": "Magma Armour",
+      "id": "magma_armour",
       "type": "Power",
       "locations": [
         "Arms",
@@ -600,7 +641,8 @@
       "source": "Tome of Fate"
     },
     {
-      "armour": "Terminator Armour",
+      "name": "Terminator Armour",
+      "id": "terminator_armour",
       "type": "Power",
       "locations": [
         "Arms",

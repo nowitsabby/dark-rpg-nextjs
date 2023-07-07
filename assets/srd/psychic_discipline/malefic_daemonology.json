@@ -7,7 +7,7 @@
     "information": "Malefic Daemonology is not viewed as a psychic discipline by the Adeptus Astra Telepathica, but as the gravest of sorcery and Warpcraft. To practice this discipline is to invite corruption and, should it be discovered, the branding of Excommunicate Traitoris.\n\n__To Invite Corruption__\n\nPracticing Malefic Daemonology and invoking the daemonic leaves an indelible stain on a psyker. A character who uses his full power or pushes consequently opens himself even further to the Warp, while one that holds back minimises the taint on his soul. Each time a psyker successfully manifests a power from the Malefic Daemonology discipline, he gains Corruption points equal to the psy rating used to manifest the power. This is gained after the power's effects are resolved.",
     "powers": [
       {
-        "power": "Cursed Earth",
+        "name": "Cursed Earth",
         "cost": 100,
         "prerequisites": [
           "Willpower 40"
@@ -23,7 +23,7 @@
         "source": "Enemies Beyond"
       },
       {
-        "power": "Dark Flame",
+        "name": "Dark Flame",
         "cost": 100,
         "prerequisites": [
           "10 Corruption Points"
@@ -40,7 +40,7 @@
         "source": "Enemies Beyond"
       },
       {
-        "power": "Infernal Gaze",
+        "name": "Infernal Gaze",
         "cost": 200,
         "prerequisites": [
           "15 Corruption Points",
@@ -58,7 +58,7 @@
         "source": "Enemies Beyond"
       },
       {
-        "power": "Incursion",
+        "name": "Incursion",
         "cost": 100,
         "prerequisites": [
           "Willpower 45"
@@ -74,7 +74,7 @@
         "source": "Enemies Beyond"
       },
       {
-        "power": "Possession",
+        "name": "Possession",
         "cost": 200,
         "prerequisites": [
           "20 Corruption Points"
@@ -90,7 +90,7 @@
         "source": "Enemies Beyond"
       },
       {
-        "power": "Sacrifice",
+        "name": "Sacrifice",
         "cost": 100,
         "prerequisites": [
           "Willpower 45"
@@ -106,7 +106,7 @@
         "source": "Enemies Beyond"
       },
       {
-        "power": "Summoning",
+        "name": "Summoning",
         "cost": 50,
         "prerequisites": [
           "Willpower 35"

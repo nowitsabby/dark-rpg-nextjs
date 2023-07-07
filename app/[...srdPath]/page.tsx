@@ -29,6 +29,7 @@ import { MeleeWeaponRecord, RangedWeaponRecord } from '@/components/tables/compo
 import Document from '@/components/util/Document'
 import { loadDocument } from '@/lib/srd'
 import Head from 'next/head';
+import path from 'path';
 import { titleCase } from 'title-case';
 
 interface SrdData {
@@ -37,58 +38,58 @@ interface SrdData {
   data: object[] | object;
 }
 
-function DataComponent({ component, data }: { component: string, data: object[] | object }) {
+function DataComponent({ rootPath, component, data }: { rootPath: string, component: string, data: object[] | object }) {
   switch(component) {
     case 'Equipment':
-      return <Equipment data={ data as EquipmentRecord[] } />
+      return <Equipment rootPath={rootPath} data={ data as EquipmentRecord[] } />
     case 'Armour':
-      return <Armour data={ data as ArmourRecord[] } />
+      return <Armour rootPath={rootPath} data={ data as ArmourRecord[] } />
     case 'ForceFields':
-      return <ForceFields data={ data as FieldRecord[] } />
+      return <ForceFields rootPath={rootPath} data={ data as FieldRecord[] } />
     case 'Modifications': 
-      return <Modifications data={ data as ModRecord[] }/>
+      return <Modifications rootPath={rootPath} data={ data as ModRecord[] }/>
     case 'Ammunition': 
-      return <Ammunition data={ data as AmmunitionRecord[] }/>
+      return <Ammunition rootPath={rootPath} data={ data as AmmunitionRecord[] }/>
     case 'MeleeWeapons': 
-      return <MeleeWeapons data={ data as MeleeWeaponRecord[] }/>
+      return <MeleeWeapons rootPath={rootPath} data={ data as MeleeWeaponRecord[] }/>
     case 'RangedWeapons': 
-      return <RangedWeapons data={ data as RangedWeaponRecord[] }/>
+      return <RangedWeapons rootPath={rootPath} data={ data as RangedWeaponRecord[] }/>
     case 'Backgrounds':
-      return <Backgrounds data={ data as BackgroundsTable[] }/>
+      return <Backgrounds rootPath={rootPath} data={ data as BackgroundsTable[] }/>
     case 'Actions':
       return <Actions data={ data as ActionsTable[] } />
     case 'CriticalDamage':
       return <CriticalDamage data={ data as CriticalDamageTable } />
     case 'EliteAdvance':
-      return <EliteAdvance data={ data as EliteAdvanceRecord } />
+      return <EliteAdvance rootPath={rootPath} data={ data as EliteAdvanceRecord } />
     case 'NavigatorPowers':
       return <NavigatorPowers data={ data as NavigatorPowerType[] } />
     case 'Origins':
-      return <Origins data={ data as OriginsTable[] } />
+      return <Origins rootPath={rootPath} data={ data as OriginsTable[] } />
     case 'PsychicDiscipline':
-      return <PsychicDiscipline data={ data as PsychicDisciplineRecord } />
+      return <PsychicDiscipline rootPath={rootPath} data={ data as PsychicDisciplineRecord } />
     case 'Roles':
-      return <Roles data={ data as RolesTable[] } />
+      return <Roles rootPath={rootPath} data={ data as RolesTable[] } />
     case 'Skills':
-      return <Skills data={ data as SkillsTable[] } />
+      return <Skills rootPath={rootPath} data={ data as SkillsTable[] } />
     case 'StarshipActions':
       return <StarshipActions data={ data as StarshipActionGroups } />
     case 'StarshipComponents':
-      return <StarshipComponents data={ data as StarshipComponentRecord[] } />
+      return <StarshipComponents rootPath={rootPath} data={ data as StarshipComponentRecord[] } />
     case 'StarshipEssential':
-      return <StarshipEssential data={ data as EssentialComponents } />
+      return <StarshipEssential rootPath={rootPath} data={ data as EssentialComponents } />
     case 'StarshipHulls':
-      return <StarshipHulls data={ data as StarshipHullRecord[] } />
+      return <StarshipHulls rootPath={rootPath} data={ data as StarshipHullRecord[] } />
     case 'StarshipSupplemental':
-      return <StarshipSupplemental data={ data as SupplementalComponents } />
+      return <StarshipSupplemental rootPath={rootPath} data={ data as SupplementalComponents } />
     case 'StarshipWeapons':
-      return <StarshipWeapons data={ data as WeaponComponents } />
+      return <StarshipWeapons rootPath={rootPath} data={ data as WeaponComponents } />
     case 'Talents':
-      return <Talents data={ data as TalentType[] } />
+      return <Talents rootPath={rootPath} data={ data as TalentType[] } />
     case 'TorpedoesAttackCraft':
-      return <TorpedoesAttackCraft data={ data as TorpedoAttackCraft } />
+      return <TorpedoesAttackCraft rootPath={rootPath} data={ data as TorpedoAttackCraft } />
     case 'Traits':
-      return <Traits data={ data as TraitTable[] } />
+      return <Traits rootPath={rootPath} data={ data as TraitTable[] } />
   }
 }
 
@@ -103,10 +104,12 @@ export default function SrdPage({ params }: { params: { srdPath: string[] } }) {
       
     )
   } else if (type === 'json') {
+    const rootPath = path.join(...params.srdPath);
     return (
       <>
         <Document doc={(content as SrdData)?.info} />
         <DataComponent 
+          rootPath={rootPath}
           component={(content as SrdData)?.component}
           data={(content as SrdData)?.data} />
       </>

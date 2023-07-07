@@ -19,8 +19,8 @@
     "talents": [
       {
         "tier": 3,
-        "talent": "Bound to the Highest Power",
-        "id": "bound-to-the-highest-power",
+        "name": "Bound to the Highest Power",
+        "id": "bound_to_the_highest_power",
         "prerequisites": [
           "Warp Lock"
         ],
@@ -33,8 +33,8 @@
       },
       {
         "tier": 3,
-        "talent": "Supreme Telepath",
-        "id": "supreme-telepath",
+        "name": "Supreme Telepath",
+        "id": "supreme_telepath",
         "prerequisites": [
           "Fellowship 40",
           "Willpower 50"
@@ -47,8 +47,8 @@
       },
       {
         "tier": 2,
-        "talent": "Second Sight",
-        "id": "second-sight",
+        "name": "Second Sight",
+        "id": "second_sight",
         "prerequisites": [
           "Perception 35"
         ],
@@ -61,8 +61,8 @@
       },
       {
         "tier": 3,
-        "talent": "Soul Ward",
-        "id": "soul-ward",
+        "name": "Soul Ward",
+        "id": "soul_ward",
         "prerequisites": [
           "Strong Minded",
           "Willpower 50"
@@ -76,8 +76,8 @@
       },
       {
         "tier": 2,
-        "talent": "Warp Awareness",
-        "id": "warp-awareness",
+        "name": "Warp Awareness",
+        "id": "warp_awareness",
         "prerequisites": [
           "Warp Sense"
         ],

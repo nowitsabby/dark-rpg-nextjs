@@ -7,7 +7,7 @@
     "information": "A most destructive discipline, pyromancy allows a psyker to control and create flame using his mind. These powers focus on combat, from incinerating foes from within to summoning walls of flame to shield allies. Pyromancers are greatly feared, for their powers are often difficult to control once released, and can inflict great collateral damage.",
     "powers": [
       {
-        "power": "Manipulate Flame",
+        "name": "Manipulate Flame",
         "cost": 100,
         "prerequisites": [
           "Willpower 35"
@@ -23,7 +23,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Spontaneous Combustion",
+        "name": "Spontaneous Combustion",
         "cost": 200,
         "prerequisites": [
           "Willpower 40"
@@ -39,7 +39,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Cauterise",
+        "name": "Cauterise",
         "cost": 300,
         "prerequisites": [
           "Willpower 45"
@@ -55,7 +55,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Fire Shield",
+        "name": "Fire Shield",
         "cost": 300,
         "prerequisites": [
           "Agility 40"
@@ -71,7 +71,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Flame Breath",
+        "name": "Flame Breath",
         "cost": 300,
         "prerequisites": [
           "Psy Rating 3"
@@ -87,7 +87,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Fiery Form",
+        "name": "Fiery Form",
         "cost": 400,
         "prerequisites": [
           "Psy Rating 4"
@@ -103,7 +103,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Molten Beam",
+        "name": "Molten Beam",
         "cost": 400,
         "prerequisites": [
           "Psy Rating 4"
@@ -119,7 +119,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Sunburst",
+        "name": "Sunburst",
         "cost": 400,
         "prerequisites": [
           "Psy Rating 4"
@@ -135,7 +135,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Inferno",
+        "name": "Inferno",
         "cost": 500,
         "prerequisites": [
           "Psy Rating 5"

@@ -4,7 +4,8 @@
   "component": "StarshipComponents",
   "data": [
     {
-      "component": "Ghost Field",
+      "name": "Ghost Field",
+      "id": "ghost_field",
       "hulls": [
         "Transports",
         "Raiders",
@@ -28,7 +29,8 @@
       ]
     },
     {
-      "component": "Shard Cannon Battery",
+      "name": "Shard Cannon Battery",
+      "id": "shard_cannon_battery",
       "hulls": [
         "Transports",
         "Raiders",
@@ -52,7 +54,8 @@
       ]
     },
     {
-      "component": "Runecaster",
+      "name": "Runecaster",
+      "id": "runecaster",
       "hulls": [
         "Transports",
         "Raiders",
@@ -76,7 +79,8 @@
       ]
     },
     {
-      "component": "Micro Laser Defence Grid",
+      "name": "Micro Laser Defence Grid",
+      "id": "micro_laser_defence_grid",
       "hulls": [
         "Transports",
         "Raiders",
@@ -100,7 +104,8 @@
       ]
     },
     {
-      "component": "Gravity Sails",
+      "name": "Gravity Sails",
+      "id": "gravity_sails",
       "hulls": [
         "Transports",
         "Raiders",
@@ -121,7 +126,8 @@
       ]
     },
     {
-      "component": "Gravity Sails",
+      "name": "Gravity Sails",
+      "id": "gravity_sails",
       "hulls": [
         "Light Cruisers",
         "Cruisers"
@@ -141,7 +147,8 @@
       ]
     },
     {
-      "component": "Chameleon Hull†",
+      "name": "Chameleon Hull†",
+      "id": "chameleon_hull__l",
       "hulls": [
         "Transports",
         "Raiders",
@@ -165,7 +172,8 @@
       ]
     },
     {
-      "component": "Dark Cannon",
+      "name": "Dark Cannon",
+      "id": "dark_cannon",
       "hulls": [
         "Transports",
         "Raiders",
@@ -189,7 +197,8 @@
       ]
     },
     {
-      "component": "Energy Drain Matrix",
+      "name": "Energy Drain Matrix",
+      "id": "energy_drain_matrix",
       "hulls": [
         "Transports",
         "Raiders",
@@ -217,7 +226,8 @@
       ]
     },
     {
-      "component": "Grav Repulsors",
+      "name": "Grav Repulsors",
+      "id": "grav_repulsors",
       "hulls": [
         "Transports",
         "Raiders",
@@ -245,7 +255,8 @@
       ]
     },
     {
-      "component": "Mimic Engine",
+      "name": "Mimic Engine",
+      "id": "mimic_engine",
       "hulls": [
         "Transports"
       ],
@@ -260,7 +271,8 @@
       ]
     },
     {
-      "component": "Mimic Engine",
+      "name": "Mimic Engine",
+      "id": "mimic_engine",
       "hulls": [
         "Raiders",
         "Frigates"
@@ -276,7 +288,8 @@
       ]
     },
     {
-      "component": "Mimic Engine",
+      "name": "Mimic Engine",
+      "id": "mimic_engine",
       "hulls": [
         "Light Cruisers"
       ],
@@ -291,7 +304,8 @@
       ]
     },
     {
-      "component": "Mimic Engine",
+      "name": "Mimic Engine",
+      "id": "mimic_engine",
       "hulls": [
         "Cruisers"
       ],
@@ -306,7 +320,8 @@
       ]
     },
     {
-      "component": "Recovery Chambers",
+      "name": "Recovery Chambers",
+      "id": "recovery_chambers",
       "hulls": [
         "Transports",
         "Raiders",
@@ -330,7 +345,8 @@
       ]
     },
     {
-      "component": "Shadowfield",
+      "name": "Shadowfield",
+      "id": "shadowfield",
       "hulls": [
         "Transports",
         "Raiders",
@@ -358,7 +374,8 @@
       ]
     },
     {
-      "component": "Warp Disruptor",
+      "name": "Warp Disruptor",
+      "id": "warp_disruptor",
       "hulls": [
         "Transports",
         "Raiders",
@@ -378,7 +395,8 @@
       ]
     },
     {
-      "component": "Warp Gate Map",
+      "name": "Warp Gate Map",
+      "id": "warp_gate_map",
       "hulls": [
         "Transports",
         "Raiders",
@@ -398,7 +416,8 @@
       ]
     },
     {
-      "component": "Xenos Librarium",
+      "name": "Xenos Librarium",
+      "id": "xenos_librarium",
       "hulls": [
         "Transports",
         "Raiders",

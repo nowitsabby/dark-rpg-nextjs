@@ -4,7 +4,8 @@
   "component": "Modifications",
   "data": [
     {
-      "mod": "Brazier of Saint Roberto",
+      "name": "Brazier of Saint Roberto",
+      "id": "brazier_of_saint_roberto",
       "weight": "+10 kg",
       "availability": "Common",
       "upgrades": "Any armour, helmet, or backpack.",
@@ -12,7 +13,8 @@
       "source": "Enemies Within"
     },
     {
-      "mod": "Devotional Iconography",
+      "name": "Devotional Iconography",
+      "id": "devotional_iconography",
       "weight": "+1 kg",
       "availability": "Common",
       "upgrades": "Any armour",
@@ -20,7 +22,8 @@
       "source": "Enemies Within"
     },
     {
-      "mod": "Insulated",
+      "name": "Insulated",
+      "id": "insulated",
       "weight": "+1 kg",
       "availability": "Common",
       "upgrades": "Any armour",
@@ -28,7 +31,8 @@
       "source": "Black Crusade"
     },
     {
-      "mod": "Spikes",
+      "name": "Spikes",
+      "id": "spikes",
       "weight": "+3 kg",
       "availability": "Common",
       "upgrades": "Flak, Carapace, Power",
@@ -36,7 +40,8 @@
       "source": "Black Crusade"
     },
     {
-      "mod": "Thermal",
+      "name": "Thermal",
+      "id": "thermal",
       "weight": "+1 kg",
       "availability": "Common",
       "upgrades": "Any armour",
@@ -44,7 +49,8 @@
       "source": "Black Crusade"
     },
     {
-      "mod": "Unguents of Warding",
+      "name": "Unguents of Warding",
+      "id": "unguents_of_warding",
       "weight": "-",
       "availability": "Common",
       "upgrades": "Any armour",
@@ -52,7 +58,8 @@
       "source": "Enemies Beyond"
     },
     {
-      "mod": "Ablative Materials",
+      "name": "Ablative Materials",
+      "id": "ablative_materials",
       "weight": "+2 kg",
       "availability": "Scarce",
       "upgrades": "Flak, Mesh, Carapace, and Power armour",
@@ -60,7 +67,8 @@
       "source": "Black Crusade"
     },
     {
-      "mod": "Vac-Sealed",
+      "name": "Vac-Sealed",
+      "id": "vac_sealed",
       "weight": "+2 kg",
       "availability": "Scarce",
       "upgrades": "Mesh, Carapace, or Power Armour that covers all locations",
@@ -68,7 +76,8 @@
       "source": "Black Crusade"
     },
     {
-      "mod": "Ceramite Plating",
+      "name": "Ceramite Plating",
+      "id": "ceramite_plating",
       "weight": "+2 kg",
       "availability": "Rare",
       "upgrades": "Carapace and power armour.",
@@ -76,7 +85,8 @@
       "source": "Enemies Within"
     },
     {
-      "mod": "Helmet Modifications",
+      "name": "Helmet Modifications",
+      "id": "helmet_modifications",
       "weight": "+1 kg",
       "availability": "Rare",
       "upgrades": "Any helmet",
@@ -84,7 +94,8 @@
       "source": "Black Crusade"
     },
     {
-      "mod": "Sacred Incense Burner",
+      "name": "Sacred Incense Burner",
+      "id": "sacred_incense_burner",
       "weight": "+3 kg",
       "availability": "Rare",
       "upgrades": "Any armour",
@@ -92,7 +103,8 @@
       "source": "Enemies Beyond"
     },
     {
-      "mod": "Magnetised Boot Soles",
+      "name": "Magnetised Boot Soles",
+      "id": "magnetised_boot_soles",
       "weight": "+2 kg",
       "availability": "Rare",
       "upgrades": "Power Armour",
@@ -100,7 +112,8 @@
       "source": "Black Crusade"
     },
     {
-      "mod": "Diagnostor Sensors",
+      "name": "Diagnostor Sensors",
+      "id": "diagnostor_sensors",
       "weight": "-",
       "availability": "Rare",
       "upgrades": "Power Armour Helmet",
@@ -108,7 +121,8 @@
       "source": "Deathwatch"
     },
     {
-      "mod": "Adamantine Chainguard",
+      "name": "Adamantine Chainguard",
+      "id": "adamantine_chainguard",
       "weight": "+4 kg",
       "availability": "Very Rare",
       "upgrades": "Any armour",
@@ -116,7 +130,8 @@
       "source": "Enemies Within"
     },
     {
-      "mod": "Auto-Senses",
+      "name": "Auto-Senses",
+      "id": "auto_senses",
       "weight": "+2 kg",
       "availability": "Very Rare",
       "upgrades": "Power Armour",
@@ -124,7 +139,8 @@
       "source": "Enemies Within"
     },
     {
-      "mod": "Truesilver Filigree",
+      "name": "Truesilver Filigree",
+      "id": "truesilver_filigree",
       "weight": "-",
       "availability": "Very Rare",
       "upgrades": "Any armour",
@@ -132,7 +148,8 @@
       "source": "Enemies Beyond"
     },
     {
-      "mod": "Potentia Coil Connectors",
+      "name": "Potentia Coil Connectors",
+      "id": "potentia_coil_connectors",
       "weight": "-15%",
       "availability": "Very Rare",
       "upgrades": "Power Armour",
@@ -140,7 +157,8 @@
       "source": "Homebrew"
     },
     {
-      "mod": "Hexagrammatic Wards",
+      "name": "Hexagrammatic Wards",
+      "id": "hexagrammatic_wards",
       "weight": "-",
       "availability": "Extremely Rare",
       "upgrades": "Carapace and power armour.",
@@ -148,7 +166,8 @@
       "source": "Enemies Within"
     },
     {
-      "mod": "Pentagramatic Wards",
+      "name": "Pentagramatic Wards",
+      "id": "pentagramatic_wards",
       "weight": "-",
       "availability": "Extremely Rare",
       "upgrades": "Any armour",
@@ -156,7 +175,8 @@
       "source": "Enemies Beyond"
     },
     {
-      "mod": "Refractory",
+      "name": "Refractory",
+      "id": "refractory",
       "weight": "+1 kg",
       "availability": "Extremely Rare",
       "upgrades": "Mesh armour",
@@ -164,7 +184,8 @@
       "source": "Black Crusade"
     },
     {
-      "mod": "Sustainable Power Source",
+      "name": "Sustainable Power Source",
+      "id": "sustainable_power_source",
       "weight": "-",
       "availability": "Near Unique",
       "upgrades": "Power Armour",

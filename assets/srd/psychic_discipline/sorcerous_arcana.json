@@ -7,7 +7,7 @@
     "information": "The arduous study and strength of will required to become a psyker of ability drives many who lack the diligence, opportunity or the innate talent, to look for what some foolishly see as an easier path to power and even those with very limited or no latent psychic ability can become powerful Sorcerers If they have the will, intelligence and stomach to wield and pay the price for their dark lore. Despised and feared for their unnatural practices and the taint of the warp that lingers near them, sorcerers are often recluses. Like all who gaze too long at things which man was never meant to see, most sorcerers eventually succumb either to insanity, mutation or the daemon's hunger for there are no more treacherous paths to power known to mankind.\n\n__Dark Power__\n\nEvery time a Sorcerer successfully manifests a Sorcerous Power or Arcana Power, they gain a number of Corruption points equal to 1d10 minus their Willpower bonus.\n\nThe following arcana are available only to a Sorcerer character, and are purchased with experience in the same manner as regular psychic powers.",
     "powers": [
       {
-        "power": "Flail of Skulls",
+        "name": "Flail of Skulls",
         "cost": 200,
         "prerequisites": [
           "Intelligence 35"
@@ -23,7 +23,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Open",
+        "name": "Open",
         "cost": 200,
         "prerequisites": [
           "Intelligence 35"
@@ -39,7 +39,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Warp Vigour",
+        "name": "Warp Vigour",
         "cost": 200,
         "prerequisites": [
           "Intelligence 35"
@@ -55,7 +55,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Warp Tongue",
+        "name": "Warp Tongue",
         "cost": 200,
         "prerequisites": [
           "Intelligence 35"
@@ -71,7 +71,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Exsanguine",
+        "name": "Exsanguine",
         "cost": 300,
         "prerequisites": [
           "Intelligence 40"
@@ -88,7 +88,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Psy Barrier",
+        "name": "Psy Barrier",
         "cost": 300,
         "prerequisites": [
           "Intelligence 40"
@@ -104,7 +104,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Transfix",
+        "name": "Transfix",
         "cost": 300,
         "prerequisites": [
           "Intelligence 40"
@@ -121,7 +121,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Disease",
+        "name": "Disease",
         "cost": 400,
         "prerequisites": [
           "Intelligence 40"
@@ -137,7 +137,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Leach Life",
+        "name": "Leach Life",
         "cost": 400,
         "prerequisites": [
           "Intelligence 40"
@@ -154,7 +154,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Warp Lightning",
+        "name": "Warp Lightning",
         "cost": 400,
         "prerequisites": [
           "Intelligence 40"
@@ -170,7 +170,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Immunity",
+        "name": "Immunity",
         "cost": "400p",
         "prerequisites": [
           "Intelligence 45"
@@ -186,7 +186,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Living Weapon",
+        "name": "Living Weapon",
         "cost": 400,
         "prerequisites": [
           "Intelligence 45"
@@ -202,7 +202,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Summon Object",
+        "name": "Summon Object",
         "cost": 400,
         "prerequisites": [
           "Intelligence 45"
@@ -218,7 +218,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Wall of Souls",
+        "name": "Wall of Souls",
         "cost": 400,
         "prerequisites": [
           "Intelligence 45"
@@ -234,7 +234,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Warp Corruption",
+        "name": "Warp Corruption",
         "cost": 400,
         "prerequisites": [
           "Intelligence 45"
@@ -251,7 +251,7 @@
         "source": "Radical's Handbook"
       },
       {
-        "power": "Create Door",
+        "name": "Create Door",
         "cost": 400,
         "prerequisites": [
           "Intelligence 45"

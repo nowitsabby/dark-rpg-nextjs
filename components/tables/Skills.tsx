@@ -6,9 +6,10 @@ import abbreviation from '../util/Abbreviation';
 import FilterComponent from './components/FilterComponent';
 import SrdMarkdown from '../util/SrdMarkdown';
 import Stack from '@mui/material/Stack';
+import TableLink from './components/TableLink';
 
 export interface SkillsTable {
-  skill: string;
+  name: string;
   id: string;
   specialist: boolean;
   specialisations: string[] | null;
@@ -22,7 +23,7 @@ export interface SkillsTable {
   specialUses: string[] | null;
 }
 
-export default function Skills({ data }: { data: SkillsTable[] }) {
+export default function Skills({ rootPath, data }: { rootPath: string, data: SkillsTable[] }) {
   const [filterText, setFilterText] = useState('');
 
   const subHeaderComponentMemo = useMemo(() => {
@@ -40,14 +41,10 @@ export default function Skills({ data }: { data: SkillsTable[] }) {
       grow: 1,
       wrap: true,
       selector: (row: SkillsTable) =>
-        `${row.skill} ${row.primaryCharacteristic} ${abbreviation(
+        `${row.name} ${row.primaryCharacteristic} ${abbreviation(
           row.primaryCharacteristic
         )}`,
-      format: (row: SkillsTable) => (
-        <strong id={row.id} className="table-anchor">
-          {row.skill} ({abbreviation(row.primaryCharacteristic)})
-        </strong>
-      ),
+        format: (row: SkillsTable) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Specialist',
@@ -124,7 +121,7 @@ export default function Skills({ data }: { data: SkillsTable[] }) {
       data={data.filter((item) => {
           if (filterText) {
             return (
-              item.skill
+              item.name
                 .toLowerCase()
                 .includes(filterText.toLowerCase()) ||
               item.primaryCharacteristic

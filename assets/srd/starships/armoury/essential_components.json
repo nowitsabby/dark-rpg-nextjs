@@ -5,7 +5,8 @@
   "data": {
     "plasmaDrives": [
       {
-        "component": "Jovian Pattern Class 1 Drive",
+        "name": "Jovian Pattern Class 1 Drive",
+        "id": "jovian_pattern_class_1_drive",
         "hulls": [
           "Transports"
         ],
@@ -15,7 +16,8 @@
         "special": []
       },
       {
-        "component": "Lathe Pattern Class 1 Drive",
+        "name": "Lathe Pattern Class 1 Drive",
+        "id": "lathe_pattern_class_1_drive",
         "hulls": [
           "Transports"
         ],
@@ -25,7 +27,8 @@
         "special": []
       },
       {
-        "component": "Jovian Pattern Class 2 Drive",
+        "name": "Jovian Pattern Class 2 Drive",
+        "id": "jovian_pattern_class_2_drive",
         "hulls": [
           "Raiders",
           "Frigates"
@@ -36,7 +39,8 @@
         "special": []
       },
       {
-        "component": "Jovian Pattern Class 3 Drive",
+        "name": "Jovian Pattern Class 3 Drive",
+        "id": "jovian_pattern_class_3_drive",
         "hulls": [
           "Light Cruisers"
         ],
@@ -46,7 +50,8 @@
         "special": []
       },
       {
-        "component": "Jovian Pattern Class 4 Drive",
+        "name": "Jovian Pattern Class 4 Drive",
+        "id": "jovian_pattern_class_4_drive",
         "hulls": [
           "Cruisers"
         ],
@@ -56,7 +61,8 @@
         "special": []
       },
       {
-        "component": "Jovian-pattern Class 8.1 Drive",
+        "name": "Jovian-pattern Class 8.1 Drive",
+        "id": "jovian_pattern_class_8_1_drive",
         "hulls": [
           "Frigates"
         ],
@@ -71,7 +77,8 @@
         ]
       },
       {
-        "component": "Jovian-pattern Class 8.2 Drive",
+        "name": "Jovian-pattern Class 8.2 Drive",
+        "id": "jovian_pattern_class_8_2_drive",
         "hulls": [
           "Light Cruisers"
         ],
@@ -86,7 +93,8 @@
         ]
       },
       {
-        "component": "Jovian-pattern Class 8.3 Drive",
+        "name": "Jovian-pattern Class 8.3 Drive",
+        "id": "jovian_pattern_class_8_3_drive",
         "hulls": [
           "Cruisers"
         ],
@@ -101,7 +109,8 @@
         ]
       },
       {
-        "component": "Jovian-pattern Class 8.4 Drive",
+        "name": "Jovian-pattern Class 8.4 Drive",
+        "id": "jovian_pattern_class_8_4_drive",
         "hulls": [
           "Grand Cruisers"
         ],
@@ -126,7 +135,8 @@
         "special": []
       },
       {
-        "component": "Saturine-pattern Class 5 Drive",
+        "name": "Saturine-pattern Class 5 Drive",
+        "id": "saturine_pattern_class_5_drive",
         "hulls": [
           "Grand Cruisers"
         ],
@@ -136,7 +146,8 @@
         "special": []
       },
       {
-        "component": "Mezoa-pattern Theta-7 drive",
+        "name": "Mezoa-pattern Theta-7 drive",
+        "id": "mezoa_pattern_theta_7_drive",
         "hulls": [
           "Transports"
         ],
@@ -195,7 +206,8 @@
         ]
       },
       {
-        "component": "Lathe-pattern 2a Drive",
+        "name": "Lathe-pattern 2a Drive",
+        "id": "lathe_pattern_2a_drive",
         "hulls": [
           "Transports"
         ],
@@ -210,7 +222,8 @@
         ]
       },
       {
-        "component": "Lathe-pattern 2a Drive",
+        "name": "Lathe-pattern 2a Drive",
+        "id": "lathe_pattern_2a_drive",
         "hulls": [
           "Raiders",
           "Frigates"
@@ -226,7 +239,8 @@
         ]
       },
       {
-        "component": "Station Genatorium",
+        "name": "Station Genatorium",
+        "id": "station_genatorium",
         "hulls": [
           "Space Stations"
         ],
@@ -238,7 +252,8 @@
     ],
     "warpEngines": [
       {
-        "component": "Strelov 1 Warp Engine",
+        "name": "Strelov 1 Warp Engine",
+        "id": "strelov_1_warp_engine",
         "hulls": [
           "Transports",
           "Raiders",
@@ -250,7 +265,8 @@
         "special": []
       },
       {
-        "component": "Strelov 2 Warp Engine",
+        "name": "Strelov 2 Warp Engine",
+        "id": "strelov_2_warp_engine",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -261,7 +277,8 @@
         "special": []
       },
       {
-        "component": "Miloslav G-616.b Warp Engine",
+        "name": "Miloslav G-616.b Warp Engine",
+        "id": "miloslav_g_616_b_warp_engine",
         "hulls": [
           "Transports",
           "Raiders",
@@ -278,7 +295,8 @@
         ]
       },
       {
-        "component": "Miloslav H-616.b Warp Engine",
+        "name": "Miloslav H-616.b Warp Engine",
+        "id": "miloslav_h_616_b_warp_engine",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -294,7 +312,8 @@
         ]
       },
       {
-        "component": "Markov 1 Warp Engine",
+        "name": "Markov 1 Warp Engine",
+        "id": "markov_1_warp_engine",
         "hulls": [
           "Transports",
           "Raiders",
@@ -311,7 +330,8 @@
         ]
       },
       {
-        "component": "Markov 2 Warp Engine",
+        "name": "Markov 2 Warp Engine",
+        "id": "markov_2_warp_engine",
         "hulls": [
           "Light Cruisers"
         ],
@@ -326,7 +346,8 @@
         ]
       },
       {
-        "component": "Albanov 1 Warp Engine",
+        "name": "Albanov 1 Warp Engine",
+        "id": "albanov_1_warp_engine",
         "hulls": [
           "Transports",
           "Raiders",
@@ -351,7 +372,8 @@
         ]
       },
       {
-        "component": "Klenova class M Warp Engine",
+        "name": "Klenova class M Warp Engine",
+        "id": "klenova_class_m_warp_engine",
         "hulls": [
           "Transports",
           "Raiders",
@@ -374,7 +396,8 @@
     ],
     "gellerFields": [
       {
-        "component": "Geller Field",
+        "name": "Geller Field",
+        "id": "geller_field",
         "hulls": [
           "Transports",
           "Raiders",
@@ -389,7 +412,8 @@
         "special": []
       },
       {
-        "component": "Warpsbane Hull",
+        "name": "Warpsbane Hull",
+        "id": "warpsbane_hull",
         "hulls": [
           "Transports",
           "Raiders",
@@ -409,7 +433,8 @@
         ]
       },
       {
-        "component": "Belecane-pattern 90.r Gellar Field",
+        "name": "Belecane-pattern 90.r Gellar Field",
+        "id": "belecane_pattern_90_r_gellar_field",
         "hulls": [
           "Transports",
           "Raiders",
@@ -429,7 +454,8 @@
         ]
       },
       {
-        "component": "Emergency Field",
+        "name": "Emergency Field",
+        "id": "emergency_field",
         "hulls": [
           "Transports",
           "Raiders",
@@ -449,7 +475,8 @@
         ]
       },
       {
-        "component": "Mezoa Geller Void Integrant",
+        "name": "Mezoa Geller Void Integrant",
+        "id": "mezoa_geller_void_integrant",
         "hulls": [
           "Transports",
           "Raiders"
@@ -471,7 +498,8 @@
     ],
     "voidShields": [
       {
-        "component": "Single Void Shield Array",
+        "name": "Single Void Shield Array",
+        "id": "single_void_shield_array",
         "hulls": [
           "Transports",
           "Raiders",
@@ -491,7 +519,8 @@
         ]
       },
       {
-        "component": "Multiple Void Shield Array",
+        "name": "Multiple Void Shield Array",
+        "id": "multiple_void_shield_array",
         "hulls": [
           "Cruisers",
           "Space Stations"
@@ -507,7 +536,8 @@
         ]
       },
       {
-        "component": "Triple Void Shield Array",
+        "name": "Triple Void Shield Array",
+        "id": "triple_void_shield_array",
         "hulls": [
           "Grand Cruisers",
           "Space Stations"
@@ -567,7 +597,8 @@
         ]
       },
       {
-        "component": "Repulsor Shield",
+        "name": "Repulsor Shield",
+        "id": "repulsor_shield",
         "hulls": [
           "Transports",
           "Raiders",
@@ -591,7 +622,8 @@
         ]
       },
       {
-        "component": "Repulsor Shield Array",
+        "name": "Repulsor Shield Array",
+        "id": "repulsor_shield_array",
         "hulls": [
           "Cruisers"
         ],
@@ -612,7 +644,8 @@
     ],
     "bridges": [
       {
-        "component": "Combat Bridge",
+        "name": "Combat Bridge",
+        "id": "combat_bridge",
         "hulls": [
           "Transports",
           "Raiders",
@@ -629,7 +662,8 @@
         ]
       },
       {
-        "component": "Combat Bridge",
+        "name": "Combat Bridge",
+        "id": "combat_bridge",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -645,7 +679,8 @@
         ]
       },
       {
-        "component": "Stationmaster's Bridge",
+        "name": "Stationmaster's Bridge",
+        "id": "stationmaster_s_bridge",
         "hulls": [
           "Space Stations"
         ],
@@ -660,7 +695,8 @@
         ]
       },
       {
-        "component": "Smuggler's Bridge",
+        "name": "Smuggler's Bridge",
+        "id": "smuggler_s_bridge",
         "hulls": [
           "Transports"
         ],
@@ -675,7 +711,8 @@
         ]
       },
       {
-        "component": "Command Bridge",
+        "name": "Command Bridge",
+        "id": "command_bridge",
         "hulls": [
           "Raiders",
           "Frigates"
@@ -691,7 +728,8 @@
         ]
       },
       {
-        "component": "Command Bridge",
+        "name": "Command Bridge",
+        "id": "command_bridge",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -707,7 +745,8 @@
         ]
       },
       {
-        "component": "Commerce Bridge",
+        "name": "Commerce Bridge",
+        "id": "commerce_bridge",
         "hulls": [
           "Transports"
         ],
@@ -722,7 +761,8 @@
         ]
       },
       {
-        "component": "Armoured Command Bridge",
+        "name": "Armoured Command Bridge",
+        "id": "armoured_command_bridge",
         "hulls": [
           "Raiders",
           "Frigates"
@@ -742,7 +782,8 @@
         ]
       },
       {
-        "component": "Armoured Command Bridge",
+        "name": "Armoured Command Bridge",
+        "id": "armoured_command_bridge",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -762,7 +803,8 @@
         ]
       },
       {
-        "component": "Ship Master's Bridge",
+        "name": "Ship Master's Bridge",
+        "id": "ship_master_s_bridge",
         "hulls": [
           "Cruisers"
         ],
@@ -781,7 +823,8 @@
         ]
       },
       {
-        "component": "Fleet Flag Bridge",
+        "name": "Fleet Flag Bridge",
+        "id": "fleet_flag_bridge",
         "hulls": [
           "Battlecruisers",
           "Grand Cruisers"
@@ -797,7 +840,8 @@
         ]
       },
       {
-        "component": "Flight Command Bridge",
+        "name": "Flight Command Bridge",
+        "id": "flight_command_bridge",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -817,7 +861,8 @@
         ]
       },
       {
-        "component": "Invasion Bridge",
+        "name": "Invasion Bridge",
+        "id": "invasion_bridge",
         "hulls": [
           "Cruisers"
         ],
@@ -832,7 +877,8 @@
         ]
       },
       {
-        "component": "Exploration Bridge",
+        "name": "Exploration Bridge",
+        "id": "exploration_bridge",
         "hulls": [
           "Transports",
           "Raiders",
@@ -853,7 +899,8 @@
         ]
       },
       {
-        "component": "Exploration Bridge",
+        "name": "Exploration Bridge",
+        "id": "exploration_bridge",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -875,7 +922,8 @@
     ],
     "lifeSustainers": [
       {
-        "component": "M-1.r Life Sustainer",
+        "name": "M-1.r Life Sustainer",
+        "id": "m_1_r_life_sustainer",
         "hulls": [
           "Transports",
           "Raiders",
@@ -892,7 +940,8 @@
         ]
       },
       {
-        "component": "M-1.r Life Sustainer",
+        "name": "M-1.r Life Sustainer",
+        "id": "m_1_r_life_sustainer",
         "hulls": [
           "Light Cruisers",
           "Cruisers",
@@ -909,7 +958,8 @@
         ]
       },
       {
-        "component": "Vitae Pattern Life Sustainer",
+        "name": "Vitae Pattern Life Sustainer",
+        "id": "vitae_pattern_life_sustainer",
         "hulls": [
           "Transports",
           "Raiders",
@@ -921,7 +971,8 @@
         "special": []
       },
       {
-        "component": "Vitae Pattern Life Sustainer",
+        "name": "Vitae Pattern Life Sustainer",
+        "id": "vitae_pattern_life_sustainer",
         "hulls": [
           "Light Cruisers",
           "Cruisers",
@@ -933,7 +984,8 @@
         "special": []
       },
       {
-        "component": "Clemency-pattern Life sustainer",
+        "name": "Clemency-pattern Life sustainer",
+        "id": "clemency_pattern_life_sustainer",
         "hulls": [
           "Transports",
           "Raiders",
@@ -950,7 +1002,8 @@
         ]
       },
       {
-        "component": "Clemency-pattern Life sustainer",
+        "name": "Clemency-pattern Life sustainer",
+        "id": "clemency_pattern_life_sustainer",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -966,7 +1019,8 @@
         ]
       },
       {
-        "component": "Euphoric Life Sustainer",
+        "name": "Euphoric Life Sustainer",
+        "id": "euphoric_life_sustainer",
         "hulls": [
           "Transports",
           "Raiders",
@@ -991,7 +1045,8 @@
         ]
       },
       {
-        "component": "Euphoric Life Sustainer",
+        "name": "Euphoric Life Sustainer",
+        "id": "euphoric_life_sustainer",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -1017,7 +1072,8 @@
     ],
     "crewQuarter": [
       {
-        "component": "Pressed-crew Quarters",
+        "name": "Pressed-crew Quarters",
+        "id": "pressed_crew_quarters",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1034,7 +1090,8 @@
         ]
       },
       {
-        "component": "Pressed-crew Quarters",
+        "name": "Pressed-crew Quarters",
+        "id": "pressed_crew_quarters",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -1050,7 +1107,8 @@
         ]
       },
       {
-        "component": "Voidsmen Quarters",
+        "name": "Voidsmen Quarters",
+        "id": "voidsmen_quarters",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1062,7 +1120,8 @@
         "special": []
       },
       {
-        "component": "Voidsmen Quarters",
+        "name": "Voidsmen Quarters",
+        "id": "voidsmen_quarters",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -1073,7 +1132,8 @@
         "special": []
       },
       {
-        "component": "Bilge-Rat Quarters",
+        "name": "Bilge-Rat Quarters",
+        "id": "bilge_rat_quarters",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1090,7 +1150,8 @@
         ]
       },
       {
-        "component": "Bilge-Rat Quarters",
+        "name": "Bilge-Rat Quarters",
+        "id": "bilge_rat_quarters",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -1106,7 +1167,8 @@
         ]
       },
       {
-        "component": "Clan-kin Quarters",
+        "name": "Clan-kin Quarters",
+        "id": "clan_kin_quarters",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1123,7 +1185,8 @@
         ]
       },
       {
-        "component": "Clan-kin Quarters",
+        "name": "Clan-kin Quarters",
+        "id": "clan_kin_quarters",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -1139,7 +1202,8 @@
         ]
       },
       {
-        "component": "Cold Quarters",
+        "name": "Cold Quarters",
+        "id": "cold_quarters",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1156,7 +1220,8 @@
         ]
       },
       {
-        "component": "Cold Quarters",
+        "name": "Cold Quarters",
+        "id": "cold_quarters",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -1172,7 +1237,8 @@
         ]
       },
       {
-        "component": "Slave Quarters",
+        "name": "Slave Quarters",
+        "id": "slave_quarters",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1189,7 +1255,8 @@
         ]
       },
       {
-        "component": "Slave Quarters",
+        "name": "Slave Quarters",
+        "id": "slave_quarters",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -1207,7 +1274,8 @@
     ],
     "augurArrays": [
       {
-        "component": "M-100 Auger Array",
+        "name": "M-100 Auger Array",
+        "id": "m_100_auger_array",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1227,7 +1295,8 @@
         ]
       },
       {
-        "component": "M-201.b Auger Array",
+        "name": "M-201.b Auger Array",
+        "id": "m_201_b_auger_array",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1251,7 +1320,8 @@
         ]
       },
       {
-        "component": "R-50 Auspex Multi-band",
+        "name": "R-50 Auspex Multi-band",
+        "id": "r_50_auspex_multi_band",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1279,7 +1349,8 @@
         ]
       },
       {
-        "component": "Deep Void Auger Array",
+        "name": "Deep Void Auger Array",
+        "id": "deep_void_auger_array",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1303,7 +1374,8 @@
         ]
       },
       {
-        "component": "BG-15 Assault Scanners",
+        "name": "BG-15 Assault Scanners",
+        "id": "bg_15_assault_scanners",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1331,7 +1403,8 @@
         ]
       },
       {
-        "component": "X-470 Ultimo Array",
+        "name": "X-470 Ultimo Array",
+        "id": "x_470_ultimo_array",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1359,7 +1432,8 @@
         ]
       },
       {
-        "component": "W-240 Passive Detection Arrays",
+        "name": "W-240 Passive Detection Arrays",
+        "id": "w_240_passive_detection_arrays",
         "hulls": [
           "Transports",
           "Raiders",

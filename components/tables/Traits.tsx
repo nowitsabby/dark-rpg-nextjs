@@ -2,24 +2,21 @@
 
 import DataTable from 'react-data-table-component';
 import SrdMarkdown from '../util/SrdMarkdown';
+import TableLink from './components/TableLink';
 
 export interface TraitTable {
-  trait: string;
+  name: string;
   id: string;
   description: string;
 }
 
-export default function Traits({ data }: { data: TraitTable[] }) {
+export default function Traits({ rootPath, data }: { rootPath: string, data: TraitTable[] }) {
   const columns = [
     {
       name: 'Trait',
       allowOverflow: true,
-      selector: (row: TraitTable) => row.trait,
-      format: (row: TraitTable) => (
-        <h5 id={row.id} className="table-anchor">
-          {row.trait}
-        </h5>
-      ),
+      selector: (row: TraitTable) => row.name,
+      format: (row: TraitTable) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
   ];
   return (

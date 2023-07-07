@@ -4,7 +4,8 @@
   "component": "StarshipComponents",
   "data": [
     {
-      "component": "Ancient Life Sustainer",
+      "name": "Ancient Life Sustainer",
+      "id": "ancient_life_sustainer",
       "hulls": [
         "Transports",
         "Raiders",
@@ -21,7 +22,8 @@
       ]
     },
     {
-      "component": "Ancient Life Sustainer",
+      "name": "Ancient Life Sustainer",
+      "id": "ancient_life_sustainer",
       "hulls": [
         "Light Cruisers",
         "Cruisers"
@@ -37,7 +39,8 @@
       ]
     },
     {
-      "component": "Modified Drive",
+      "name": "Modified Drive",
+      "id": "modified_drive",
       "hulls": [
         "Transports",
         "Raiders",
@@ -57,7 +60,8 @@
       ]
     },
     {
-      "component": "Bridge of Antiquity",
+      "name": "Bridge of Antiquity",
+      "id": "bridge_of_antiquity",
       "hulls": [
         "Transports",
         "Raiders",
@@ -78,7 +82,8 @@
       ]
     },
     {
-      "component": "Bridge of Antiquity",
+      "name": "Bridge of Antiquity",
+      "id": "bridge_of_antiquity",
       "hulls": [
         "Light Cruisers",
         "Cruisers"
@@ -98,7 +103,8 @@
       ]
     },
     {
-      "component": "Auto-stabilised Logis-targeter",
+      "name": "Auto-stabilised Logis-targeter",
+      "id": "auto_stabilised_logis_targeter",
       "hulls": [
         "Transports",
         "Raiders",
@@ -126,7 +132,8 @@
       ]
     },
     {
-      "component": "Teleportarium",
+      "name": "Teleportarium",
+      "id": "teleportarium",
       "hulls": [
         "Transports",
         "Raiders",
@@ -146,7 +153,8 @@
       ]
     },
     {
-      "component": "Cypra-pattern Class 1 Drive",
+      "name": "Cypra-pattern Class 1 Drive",
+      "id": "cypra_pattern_class_1_drive",
       "hulls": [
         "Transports"
       ],
@@ -161,7 +169,8 @@
       ]
     },
     {
-      "component": "Cypra-pattern Class 2 Drive",
+      "name": "Cypra-pattern Class 2 Drive",
+      "id": "cypra_pattern_class_2_drive",
       "hulls": [
         "Raiders",
         "Frigates"
@@ -177,7 +186,8 @@
       ]
     },
     {
-      "component": "Jovian-pattern Nova Cannon",
+      "name": "Jovian-pattern Nova Cannon",
+      "id": "jovian_pattern_nova_cannon",
       "hulls": [
         "Cruisers"
       ],
@@ -204,7 +214,8 @@
       ]
     },
     {
-      "component": "Plasma Accelerated Torpedo Tubes",
+      "name": "Plasma Accelerated Torpedo Tubes",
+      "id": "plasma_accelerated_torpedo_tubes",
       "hulls": [
         "Transports",
         "Raiders",
@@ -236,7 +247,8 @@
       ]
     },
     {
-      "component": "Warp Antenna",
+      "name": "Warp Antenna",
+      "id": "warp_antenna",
       "hulls": [
         "Transports",
         "Raiders",
@@ -264,7 +276,8 @@
       ]
     },
     {
-      "component": "Warp Sextant",
+      "name": "Warp Sextant",
+      "id": "warp_sextant",
       "hulls": [
         "Transports",
         "Raiders",
@@ -284,7 +297,8 @@
       ]
     },
     {
-      "component": "Castellan Shield",
+      "name": "Castellan Shield",
+      "id": "castellan_shield",
       "hulls": [
         "Transports",
         "Raiders",
@@ -308,7 +322,8 @@
       ]
     },
     {
-      "component": "Castellan Shield Array",
+      "name": "Castellan Shield Array",
+      "id": "castellan_shield_array",
       "hulls": [
         "Cruisers"
       ],
@@ -327,7 +342,8 @@
       ]
     },
     {
-      "component": "Cogitator Interlink",
+      "name": "Cogitator Interlink",
+      "id": "cogitator_interlink",
       "hulls": [
         "Transports",
         "Raiders",
@@ -347,7 +363,8 @@
       ]
     },
     {
-      "component": "Energistic Conversion Matrix",
+      "name": "Energistic Conversion Matrix",
+      "id": "energistic_conversion_matrix",
       "hulls": [
         "Transports",
         "Raiders",
@@ -367,7 +384,8 @@
       ]
     },
     {
-      "component": "Gyro-stabilisation Matrix",
+      "name": "Gyro-stabilisation Matrix",
+      "id": "gyro_stabilisation_matrix",
       "hulls": [
         "Transports",
         "Raiders",
@@ -387,7 +405,8 @@
       ]
     },
     {
-      "component": "Staravar Laser Macrobattery",
+      "name": "Staravar Laser Macrobattery",
+      "id": "staravar_laser_macrobattery",
       "hulls": [
         "Transports",
         "Raiders",
@@ -407,7 +426,8 @@
       ]
     },
     {
-      "component": "Star-flare Lance",
+      "name": "Star-flare Lance",
+      "id": "star_flare_lance",
       "hulls": [
         "Light Cruisers",
         "Cruisers"
@@ -427,7 +447,8 @@
       ]
     },
     {
-      "component": "Emergency Energy Reserves†",
+      "name": "Emergency Energy Reserves†",
+      "id": "emergency_energy_reserves__l",
       "hulls": [
         "Transports",
         "Raiders",
@@ -448,7 +469,8 @@
       ]
     },
     {
-      "component": "Emergency Energy Reserves†",
+      "name": "Emergency Energy Reserves†",
+      "id": "emergency_energy_reserves__l",
       "hulls": [
         "Light Cruisers",
         "Cruisers"
@@ -468,7 +490,8 @@
       ]
     },
     {
-      "component": "Graviton Flare",
+      "name": "Graviton Flare",
+      "id": "graviton_flare",
       "hulls": [
         "Raiders",
         "Frigates"
@@ -492,7 +515,8 @@
       ]
     },
     {
-      "component": "Null Bay",
+      "name": "Null Bay",
+      "id": "null_bay",
       "hulls": [
         "Transports",
         "Raiders",
@@ -516,7 +540,8 @@
       ]
     },
     {
-      "component": "Suspension Chambers",
+      "name": "Suspension Chambers",
+      "id": "suspension_chambers",
       "hulls": [
         "Transports",
         "Raiders",
@@ -537,7 +562,8 @@
       ]
     },
     {
-      "component": "Suspension Chambers",
+      "name": "Suspension Chambers",
+      "id": "suspension_chambers",
       "hulls": [
         "Light Cruisers",
         "Cruisers"
@@ -557,7 +583,8 @@
       ]
     },
     {
-      "component": "Witch Augur†",
+      "name": "Witch Augur†",
+      "id": "witch_augur__l",
       "hulls": [
         "Transports",
         "Raiders",

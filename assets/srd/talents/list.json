@@ -5,8 +5,8 @@
   "data": [
     {
       "tier": 3,
-      "talent": "A Machine of Flesh",
-      "id": "a-machine-of-flesh",
+      "name": "A Machine of Flesh",
+      "id": "a_machine_of_flesh",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -26,8 +26,8 @@
     },
     {
       "tier": 3,
-      "talent": "Abhor the Witch",
-      "id": "abhor-the-witch",
+      "name": "Abhor the Witch",
+      "id": "abhor_the_witch",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -43,8 +43,8 @@
     },
     {
       "tier": 3,
-      "talent": "Abiding Resilience",
-      "id": "abiding-resilience",
+      "name": "Abiding Resilience",
+      "id": "abiding_resilience",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -60,8 +60,8 @@
     },
     {
       "tier": 2,
-      "talent": "Accelerated Repairs",
-      "id": "accelerated-repairs",
+      "name": "Accelerated Repairs",
+      "id": "accelerated_repairs",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -78,8 +78,8 @@
     },
     {
       "tier": 2,
-      "talent": "Ace Operator",
-      "id": "ace-operator",
+      "name": "Ace Operator",
+      "id": "ace_operator",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -95,8 +95,8 @@
     },
     {
       "tier": 3,
-      "talent": "Adamantium Faith",
-      "id": "adamantium-faith",
+      "name": "Adamantium Faith",
+      "id": "adamantium_faith",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -114,7 +114,7 @@
     },
     {
       "tier": 3,
-      "talent": "Addictrix",
+      "name": "Addictrix",
       "id": "addictrix",
       "specialist": false,
       "specialisations": null,
@@ -132,8 +132,8 @@
     },
     {
       "tier": 1,
-      "talent": "Air of Authority",
-      "id": "air-of-authority",
+      "name": "Air of Authority",
+      "id": "air_of_authority",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -149,8 +149,8 @@
     },
     {
       "tier": 3,
-      "talent": "All-Seeing Eye",
-      "id": "all-seeing-eye",
+      "name": "All-Seeing Eye",
+      "id": "all_seeing_eye",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -167,8 +167,8 @@
     },
     {
       "tier": 2,
-      "talent": "Ambassador Imperialis",
-      "id": "ambassador-imperialis",
+      "name": "Ambassador Imperialis",
+      "id": "ambassador_imperialis",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -185,7 +185,7 @@
     },
     {
       "tier": 1,
-      "talent": "Ambidextrous",
+      "name": "Ambidextrous",
       "id": "ambidextrous",
       "specialist": false,
       "specialisations": null,
@@ -202,7 +202,7 @@
     },
     {
       "tier": 1,
-      "talent": "Ambush",
+      "name": "Ambush",
       "id": "ambush",
       "specialist": false,
       "specialisations": null,
@@ -219,8 +219,8 @@
     },
     {
       "tier": 1,
-      "talent": "Ancient Warrior",
-      "id": "ancient-warrior",
+      "name": "Ancient Warrior",
+      "id": "ancient_warrior",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -237,7 +237,7 @@
     },
     {
       "tier": 2,
-      "talent": "Archivator",
+      "name": "Archivator",
       "id": "archivator",
       "specialist": false,
       "specialisations": null,
@@ -254,8 +254,8 @@
     },
     {
       "tier": 2,
-      "talent": "Armour of Contempt",
-      "id": "armour-of-contempt",
+      "name": "Armour of Contempt",
+      "id": "armour_of_contempt",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -271,8 +271,8 @@
     },
     {
       "tier": 2,
-      "talent": "Armour-Monger",
-      "id": "armour-monger",
+      "name": "Armour-Monger",
+      "id": "armour_monger",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -290,8 +290,8 @@
     },
     {
       "tier": 3,
-      "talent": "Arms Master",
-      "id": "arms-master",
+      "name": "Arms Master",
+      "id": "arms_master",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -309,8 +309,8 @@
     },
     {
       "tier": 3,
-      "talent": "Aspect of the Emperor",
-      "id": "aspect-of-the-emperor",
+      "name": "Aspect of the Emperor",
+      "id": "aspect_of_the_emperor",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -327,8 +327,8 @@
     },
     {
       "tier": 2,
-      "talent": "Aspire to Vengeance",
-      "id": "aspire-to-vengeance",
+      "name": "Aspire to Vengeance",
+      "id": "aspire_to_vengeance",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -345,8 +345,8 @@
     },
     {
       "tier": 3,
-      "talent": "Assassin Strike",
-      "id": "assassin-strike",
+      "name": "Assassin Strike",
+      "id": "assassin_strike",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -363,8 +363,8 @@
     },
     {
       "tier": 3,
-      "talent": "Astartes / Legion Weapon Specialization",
-      "id": "astartes-legion-weapon-specialization",
+      "name": "Astartes / Legion Weapon Specialization",
+      "id": "astartes_legion_weapon_specialization",
       "specialist": true,
       "specialisations": [
         "Any Weapon Group"
@@ -383,8 +383,8 @@
     },
     {
       "tier": 1,
-      "talent": "Astartes / Legion Weapon Training",
-      "id": "astartes-legion-weapon-training",
+      "name": "Astartes / Legion Weapon Training",
+      "id": "astartes_legion_weapon_training",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -400,8 +400,8 @@
     },
     {
       "tier": 3,
-      "talent": "Baleful Dirge",
-      "id": "baleful-dirge",
+      "name": "Baleful Dirge",
+      "id": "baleful_dirge",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -418,8 +418,8 @@
     },
     {
       "tier": 3,
-      "talent": "Bastion of Iron Will",
-      "id": "bastion-of-iron-will",
+      "name": "Bastion of Iron Will",
+      "id": "bastion_of_iron_will",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -437,8 +437,8 @@
     },
     {
       "tier": 2,
-      "talent": "Battle Rage",
-      "id": "battle-rage",
+      "name": "Battle Rage",
+      "id": "battle_rage",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -454,8 +454,8 @@
     },
     {
       "tier": 2,
-      "talent": "Battlefield Tech Wright",
-      "id": "battlefield-tech-wright",
+      "name": "Battlefield Tech Wright",
+      "id": "battlefield_tech_wright",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -472,8 +472,8 @@
     },
     {
       "tier": 1,
-      "talent": "Beloved Leader",
-      "id": "beloved-leader",
+      "name": "Beloved Leader",
+      "id": "beloved_leader",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -490,8 +490,8 @@
     },
     {
       "tier": 1,
-      "talent": "Berserk Charge",
-      "id": "berserk-charge",
+      "name": "Berserk Charge",
+      "id": "berserk_charge",
       "specialist": false,
       "specialisations": null,
       "prerequisites": null,
@@ -505,8 +505,8 @@
     },
     {
       "tier": 1,
-      "talent": "Best of the Best",
-      "id": "best-of-the-best",
+      "name": "Best of the Best",
+      "id": "best_of_the_best",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -522,8 +522,8 @@
     },
     {
       "tier": 2,
-      "talent": "Bestial Companion",
-      "id": "bestial-companion",
+      "name": "Bestial Companion",
+      "id": "bestial_companion",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -539,7 +539,7 @@
     },
     {
       "tier": 2,
-      "talent": "Betrayer",
+      "name": "Betrayer",
       "id": "betrayer",
       "specialist": false,
       "specialisations": null,
@@ -557,8 +557,8 @@
     },
     {
       "tier": 1,
-      "talent": "Binary Chatter",
-      "id": "binary-chatter",
+      "name": "Binary Chatter",
+      "id": "binary_chatter",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -574,7 +574,7 @@
     },
     {
       "tier": 3,
-      "talent": "Blademaster",
+      "name": "Blademaster",
       "id": "blademaster",
       "specialist": false,
       "specialisations": null,
@@ -592,8 +592,8 @@
     },
     {
       "tier": 3,
-      "talent": "Blasphemous Incantation",
-      "id": "blasphemous-incantation",
+      "name": "Blasphemous Incantation",
+      "id": "blasphemous_incantation",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -609,8 +609,8 @@
     },
     {
       "tier": 3,
-      "talent": "Blessed Radiance",
-      "id": "blessed-radiance",
+      "name": "Blessed Radiance",
+      "id": "blessed_radiance",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -627,8 +627,8 @@
     },
     {
       "tier": 3,
-      "talent": "Blessing of Flame",
-      "id": "blessing-of-flame",
+      "name": "Blessing of Flame",
+      "id": "blessing_of_flame",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -645,8 +645,8 @@
     },
     {
       "tier": 1,
-      "talent": "Blind Fighting",
-      "id": "blind-fighting",
+      "name": "Blind Fighting",
+      "id": "blind_fighting",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -662,7 +662,7 @@
     },
     {
       "tier": 1,
-      "talent": "Bodyguard",
+      "name": "Bodyguard",
       "id": "bodyguard",
       "specialist": false,
       "specialisations": null,
@@ -679,8 +679,8 @@
     },
     {
       "tier": 3,
-      "talent": "Bolter Drill",
-      "id": "bolter-drill",
+      "name": "Bolter Drill",
+      "id": "bolter_drill",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -697,7 +697,7 @@
     },
     {
       "tier": 3,
-      "talent": "Bombardier",
+      "name": "Bombardier",
       "id": "bombardier",
       "specialist": false,
       "specialisations": null,
@@ -716,8 +716,8 @@
     },
     {
       "tier": 1,
-      "talent": "Brute of Burden",
-      "id": "brute-of-burden",
+      "name": "Brute of Burden",
+      "id": "brute_of_burden",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -733,8 +733,8 @@
     },
     {
       "tier": 2,
-      "talent": "Bulging Biceps",
-      "id": "bulging-biceps",
+      "name": "Bulging Biceps",
+      "id": "bulging_biceps",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -750,8 +750,8 @@
     },
     {
       "tier": 2,
-      "talent": "Bulwark of Faith",
-      "id": "bulwark-of-faith",
+      "name": "Bulwark of Faith",
+      "id": "bulwark_of_faith",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -768,8 +768,8 @@
     },
     {
       "tier": 1,
-      "talent": "Calculated Barrage",
-      "id": "calculated-barrage",
+      "name": "Calculated Barrage",
+      "id": "calculated_barrage",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -785,8 +785,8 @@
     },
     {
       "tier": 3,
-      "talent": "Call to Vengeance",
-      "id": "call-to-vengeance",
+      "name": "Call to Vengeance",
+      "id": "call_to_vengeance",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -803,7 +803,7 @@
     },
     {
       "tier": 1,
-      "talent": "Catfall",
+      "name": "Catfall",
       "id": "catfall",
       "specialist": false,
       "specialisations": null,
@@ -820,8 +820,8 @@
     },
     {
       "tier": 2,
-      "talent": "Chain Weapon Expertise",
-      "id": "chain-weapon-expertise",
+      "name": "Chain Weapon Expertise",
+      "id": "chain_weapon_expertise",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -838,8 +838,8 @@
     },
     {
       "tier": 2,
-      "talent": "Child of the Warp",
-      "id": "child-of-the-warp",
+      "name": "Child of the Warp",
+      "id": "child_of_the_warp",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -855,8 +855,8 @@
     },
     {
       "tier": 3,
-      "talent": "Chosen Representative",
-      "id": "chosen-representative",
+      "name": "Chosen Representative",
+      "id": "chosen_representative",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -872,8 +872,8 @@
     },
     {
       "tier": 2,
-      "talent": "Cleanse and Purify",
-      "id": "cleanse-and-purify",
+      "name": "Cleanse and Purify",
+      "id": "cleanse_and_purify",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -890,8 +890,8 @@
     },
     {
       "tier": 1,
-      "talent": "Clues from the Crowds",
-      "id": "clues-from-the-crowds",
+      "name": "Clues from the Crowds",
+      "id": "clues_from_the_crowds",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -907,8 +907,8 @@
     },
     {
       "tier": 1,
-      "talent": "Cogs Within Cogs",
-      "id": "cogs-within-cogs",
+      "name": "Cogs Within Cogs",
+      "id": "cogs_within_cogs",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -925,8 +925,8 @@
     },
     {
       "tier": 1,
-      "talent": "Cold Hearted / Chem Geld",
-      "id": "cold-hearted-chem-geld",
+      "name": "Cold Hearted / Chem Geld",
+      "id": "cold_hearted_chem_geld",
       "specialist": false,
       "specialisations": null,
       "prerequisites": null,
@@ -940,8 +940,8 @@
     },
     {
       "tier": 1,
-      "talent": "Cold Reading",
-      "id": "cold-reading",
+      "name": "Cold Reading",
+      "id": "cold_reading",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -957,8 +957,8 @@
     },
     {
       "tier": 3,
-      "talent": "Cold Soul",
-      "id": "cold-soul",
+      "name": "Cold Soul",
+      "id": "cold_soul",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -974,8 +974,8 @@
     },
     {
       "tier": 2,
-      "talent": "Combat Flair",
-      "id": "combat-flair",
+      "name": "Combat Flair",
+      "id": "combat_flair",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -993,8 +993,8 @@
     },
     {
       "tier": 1,
-      "talent": "Combat Formation",
-      "id": "combat-formation",
+      "name": "Combat Formation",
+      "id": "combat_formation",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1010,8 +1010,8 @@
     },
     {
       "tier": 2,
-      "talent": "Combat Master",
-      "id": "combat-master",
+      "name": "Combat Master",
+      "id": "combat_master",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1027,8 +1027,8 @@
     },
     {
       "tier": 2,
-      "talent": "Commanding Presence",
-      "id": "commanding-presence",
+      "name": "Commanding Presence",
+      "id": "commanding_presence",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1044,8 +1044,8 @@
     },
     {
       "tier": 1,
-      "talent": "Concealed Cavity",
-      "id": "concealed-cavity",
+      "name": "Concealed Cavity",
+      "id": "concealed_cavity",
       "specialist": false,
       "specialisations": null,
       "prerequisites": null,
@@ -1059,7 +1059,7 @@
     },
     {
       "tier": 2,
-      "talent": "Confessor",
+      "name": "Confessor",
       "id": "confessor",
       "specialist": false,
       "specialisations": null,
@@ -1078,8 +1078,8 @@
     },
     {
       "tier": 2,
-      "talent": "Constant Vigilance",
-      "id": "constant-vigilance",
+      "name": "Constant Vigilance",
+      "id": "constant_vigilance",
       "specialist": true,
       "specialisations": [
         "Perception",
@@ -1099,8 +1099,8 @@
     },
     {
       "tier": 2,
-      "talent": "Contact Network",
-      "id": "contact-network",
+      "name": "Contact Network",
+      "id": "contact_network",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1117,8 +1117,8 @@
     },
     {
       "tier": 2,
-      "talent": "Coordinated Interrogation",
-      "id": "coordinated-interrogation",
+      "name": "Coordinated Interrogation",
+      "id": "coordinated_interrogation",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1135,8 +1135,8 @@
     },
     {
       "tier": 2,
-      "talent": "Coordinated Strike",
-      "id": "coordinated-strike",
+      "name": "Coordinated Strike",
+      "id": "coordinated_strike",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1153,8 +1153,8 @@
     },
     {
       "tier": 2,
-      "talent": "Corpus Conversion",
-      "id": "corpus-conversion",
+      "name": "Corpus Conversion",
+      "id": "corpus_conversion",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1171,8 +1171,8 @@
     },
     {
       "tier": 3,
-      "talent": "Corrupted Charge",
-      "id": "corrupted-charge",
+      "name": "Corrupted Charge",
+      "id": "corrupted_charge",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1189,8 +1189,8 @@
     },
     {
       "tier": 2,
-      "talent": "Counter Attack",
-      "id": "counter-attack",
+      "name": "Counter Attack",
+      "id": "counter_attack",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1206,8 +1206,8 @@
     },
     {
       "tier": 2,
-      "talent": "Cover-Up",
-      "id": "cover-up",
+      "name": "Cover-Up",
+      "id": "cover_up",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1223,8 +1223,8 @@
     },
     {
       "tier": 2,
-      "talent": "Crack Shot",
-      "id": "crack-shot",
+      "name": "Crack Shot",
+      "id": "crack_shot",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1240,8 +1240,8 @@
     },
     {
       "tier": 2,
-      "talent": "Creative Killer",
-      "id": "creative-killer",
+      "name": "Creative Killer",
+      "id": "creative_killer",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1257,8 +1257,8 @@
     },
     {
       "tier": 3,
-      "talent": "Criminal Mastermind",
-      "id": "criminal-mastermind",
+      "name": "Criminal Mastermind",
+      "id": "criminal_mastermind",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1275,8 +1275,8 @@
     },
     {
       "tier": 2,
-      "talent": "Crippling Strike",
-      "id": "crippling-strike",
+      "name": "Crippling Strike",
+      "id": "crippling_strike",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1292,8 +1292,8 @@
     },
     {
       "tier": 3,
-      "talent": "Crushing Blow",
-      "id": "crushing-blow",
+      "name": "Crushing Blow",
+      "id": "crushing_blow",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1309,8 +1309,8 @@
     },
     {
       "tier": 1,
-      "talent": "Cursed Heirloom",
-      "id": "cursed-heirloom",
+      "name": "Cursed Heirloom",
+      "id": "cursed_heirloom",
       "specialist": false,
       "specialisations": null,
       "prerequisites": null,
@@ -1324,8 +1324,8 @@
     },
     {
       "tier": 2,
-      "talent": "Cybernetic Boost",
-      "id": "cybernetic-boost",
+      "name": "Cybernetic Boost",
+      "id": "cybernetic_boost",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1342,8 +1342,8 @@
     },
     {
       "tier": 3,
-      "talent": "Cybernetic Calibrations",
-      "id": "cybernetic-calibrations",
+      "name": "Cybernetic Calibrations",
+      "id": "cybernetic_calibrations",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1361,8 +1361,8 @@
     },
     {
       "tier": 3,
-      "talent": "Cyclopaedic Learning",
-      "id": "cyclopaedic-learning",
+      "name": "Cyclopaedic Learning",
+      "id": "cyclopaedic_learning",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1378,7 +1378,7 @@
     },
     {
       "tier": 2,
-      "talent": "Daemonhunter",
+      "name": "Daemonhunter",
       "id": "daemonhunter",
       "specialist": false,
       "specialisations": null,
@@ -1396,7 +1396,7 @@
     },
     {
       "tier": 2,
-      "talent": "Daemonologist",
+      "name": "Daemonologist",
       "id": "daemonologist",
       "specialist": false,
       "specialisations": null,
@@ -1415,8 +1415,8 @@
     },
     {
       "tier": 3,
-      "talent": "Dark Soul",
-      "id": "dark-soul",
+      "name": "Dark Soul",
+      "id": "dark_soul",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1433,8 +1433,8 @@
     },
     {
       "tier": 2,
-      "talent": "Death Cult Assassin",
-      "id": "death-cult-assassin",
+      "name": "Death Cult Assassin",
+      "id": "death_cult_assassin",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1451,8 +1451,8 @@
     },
     {
       "tier": 3,
-      "talent": "Death Serves the Righteous",
-      "id": "death-serves-the-righteous",
+      "name": "Death Serves the Righteous",
+      "id": "death_serves_the_righteous",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1470,7 +1470,7 @@
     },
     {
       "tier": 3,
-      "talent": "Deathdealer",
+      "name": "Deathdealer",
       "id": "deathdealer",
       "specialist": true,
       "specialisations": [
@@ -1490,8 +1490,8 @@
     },
     {
       "tier": 1,
-      "talent": "Deathwatch Training",
-      "id": "deathwatch-training",
+      "name": "Deathwatch Training",
+      "id": "deathwatch_training",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1508,7 +1508,7 @@
     },
     {
       "tier": 1,
-      "talent": "Decadence",
+      "name": "Decadence",
       "id": "decadence",
       "specialist": false,
       "specialisations": null,
@@ -1525,8 +1525,8 @@
     },
     {
       "tier": 2,
-      "talent": "Deflect Shot",
-      "id": "deflect-shot",
+      "name": "Deflect Shot",
+      "id": "deflect_shot",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1542,8 +1542,8 @@
     },
     {
       "tier": 3,
-      "talent": "Delicate Interrogation",
-      "id": "delicate-interrogation",
+      "name": "Delicate Interrogation",
+      "id": "delicate_interrogation",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1560,8 +1560,8 @@
     },
     {
       "tier": 2,
-      "talent": "Deny the Witch",
-      "id": "deny-the-witch",
+      "name": "Deny the Witch",
+      "id": "deny_the_witch",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1577,8 +1577,8 @@
     },
     {
       "tier": 3,
-      "talent": "Desperate Strength",
-      "id": "desperate-strength",
+      "name": "Desperate Strength",
+      "id": "desperate_strength",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1595,7 +1595,7 @@
     },
     {
       "tier": 2,
-      "talent": "Detestation",
+      "name": "Detestation",
       "id": "detestation",
       "specialist": false,
       "specialisations": null,
@@ -1612,8 +1612,8 @@
     },
     {
       "tier": 2,
-      "talent": "Devastating Assault",
-      "id": "devastating-assault",
+      "name": "Devastating Assault",
+      "id": "devastating_assault",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1629,7 +1629,7 @@
     },
     {
       "tier": 3,
-      "talent": "Devotion",
+      "name": "Devotion",
       "id": "devotion",
       "specialist": false,
       "specialisations": null,
@@ -1646,8 +1646,8 @@
     },
     {
       "tier": 1,
-      "talent": "Die Hard",
-      "id": "die-hard",
+      "name": "Die Hard",
+      "id": "die_hard",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1663,7 +1663,7 @@
     },
     {
       "tier": 1,
-      "talent": "Disarm",
+      "name": "Disarm",
       "id": "disarm",
       "specialist": false,
       "specialisations": null,
@@ -1680,8 +1680,8 @@
     },
     {
       "tier": 2,
-      "talent": "Discerning Eye",
-      "id": "discerning-eye",
+      "name": "Discerning Eye",
+      "id": "discerning_eye",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1698,8 +1698,8 @@
     },
     {
       "tier": 1,
-      "talent": "Disturbing Voice",
-      "id": "disturbing-voice",
+      "name": "Disturbing Voice",
+      "id": "disturbing_voice",
       "specialist": false,
       "specialisations": null,
       "prerequisites": null,
@@ -1713,8 +1713,8 @@
     },
     {
       "tier": 2,
-      "talent": "Divine Ministration",
-      "id": "divine-ministration",
+      "name": "Divine Ministration",
+      "id": "divine_ministration",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1730,8 +1730,8 @@
     },
     {
       "tier": 3,
-      "talent": "Divine Protection",
-      "id": "divine-protection",
+      "name": "Divine Protection",
+      "id": "divine_protection",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1748,8 +1748,8 @@
     },
     {
       "tier": 3,
-      "talent": "Don't You Die on Me!",
-      "id": "don-t-you-die-on-me",
+      "name": "Don't You Die on Me!",
+      "id": "don_t_you_die_on_me",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1766,8 +1766,8 @@
     },
     {
       "tier": 2,
-      "talent": "Double Tap",
-      "id": "double-tap",
+      "name": "Double Tap",
+      "id": "double_tap",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1783,8 +1783,8 @@
     },
     {
       "tier": 1,
-      "talent": "Double Team",
-      "id": "double-team",
+      "name": "Double Team",
+      "id": "double_team",
       "specialist": false,
       "specialisations": null,
       "prerequisites": null,
@@ -1798,8 +1798,8 @@
     },
     {
       "tier": 1,
-      "talent": "Drop Trooper",
-      "id": "drop-trooper",
+      "name": "Drop Trooper",
+      "id": "drop_trooper",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1815,8 +1815,8 @@
     },
     {
       "tier": 2,
-      "talent": "Dual Shot",
-      "id": "dual-shot",
+      "name": "Dual Shot",
+      "id": "dual_shot",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1833,8 +1833,8 @@
     },
     {
       "tier": 2,
-      "talent": "Dual Strike",
-      "id": "dual-strike",
+      "name": "Dual Strike",
+      "id": "dual_strike",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1851,8 +1851,8 @@
     },
     {
       "tier": 3,
-      "talent": "Duty Unto Death",
-      "id": "duty-unto-death",
+      "name": "Duty Unto Death",
+      "id": "duty_unto_death",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1868,8 +1868,8 @@
     },
     {
       "tier": 1,
-      "talent": "Ears to the Ground",
-      "id": "ears-to-the-ground",
+      "name": "Ears to the Ground",
+      "id": "ears_to_the_ground",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1886,8 +1886,8 @@
     },
     {
       "tier": 2,
-      "talent": "Electrical Succour",
-      "id": "electrical-succour",
+      "name": "Electrical Succour",
+      "id": "electrical_succour",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1903,8 +1903,8 @@
     },
     {
       "tier": 1,
-      "talent": "Electro Graft Use",
-      "id": "electro-graft-use",
+      "name": "Electro Graft Use",
+      "id": "electro_graft_use",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1920,7 +1920,7 @@
     },
     {
       "tier": null,
-      "talent": "Enemy",
+      "name": "Enemy",
       "id": "enemy",
       "specialist": false,
       "specialisations": null,
@@ -1934,8 +1934,8 @@
     },
     {
       "tier": 3,
-      "talent": "Enhanced Bionic Frame",
-      "id": "enhanced-bionic-frame",
+      "name": "Enhanced Bionic Frame",
+      "id": "enhanced_bionic_frame",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1951,8 +1951,8 @@
     },
     {
       "tier": 2,
-      "talent": "Eternal Vigilance",
-      "id": "eternal-vigilance",
+      "name": "Eternal Vigilance",
+      "id": "eternal_vigilance",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1969,8 +1969,8 @@
     },
     {
       "tier": 1,
-      "talent": "Excellent Cook",
-      "id": "excellent-cook",
+      "name": "Excellent Cook",
+      "id": "excellent_cook",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -1986,8 +1986,8 @@
     },
     {
       "tier": 3,
-      "talent": "Exceptional Reputation",
-      "id": "exceptional-reputation",
+      "name": "Exceptional Reputation",
+      "id": "exceptional_reputation",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2003,8 +2003,8 @@
     },
     {
       "tier": 1,
-      "talent": "Excessive Wealth",
-      "id": "excessive-wealth",
+      "name": "Excessive Wealth",
+      "id": "excessive_wealth",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2020,8 +2020,8 @@
     },
     {
       "tier": 2,
-      "talent": "Exemplar of Honour",
-      "id": "exemplar-of-honour",
+      "name": "Exemplar of Honour",
+      "id": "exemplar_of_honour",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2037,8 +2037,8 @@
     },
     {
       "tier": 2,
-      "talent": "Exotic Weapon Training",
-      "id": "exotic-weapon-training",
+      "name": "Exotic Weapon Training",
+      "id": "exotic_weapon_training",
       "specialist": true,
       "specialisations": [
         "Any specific Exotic Weapon"
@@ -2054,8 +2054,8 @@
     },
     {
       "tier": 3,
-      "talent": "Eye of Vengeance",
-      "id": "eye-of-vengeance",
+      "name": "Eye of Vengeance",
+      "id": "eye_of_vengeance",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2071,8 +2071,8 @@
     },
     {
       "tier": 1,
-      "talent": "Fabricated Flesh",
-      "id": "fabricated-flesh",
+      "name": "Fabricated Flesh",
+      "id": "fabricated_flesh",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2088,8 +2088,8 @@
     },
     {
       "tier": 2,
-      "talent": "Face in a Crowd",
-      "id": "face-in-a-crowd",
+      "name": "Face in a Crowd",
+      "id": "face_in_a_crowd",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2106,8 +2106,8 @@
     },
     {
       "tier": 3,
-      "talent": "Faith Healing",
-      "id": "faith-healing",
+      "name": "Faith Healing",
+      "id": "faith_healing",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2124,8 +2124,8 @@
     },
     {
       "tier": 3,
-      "talent": "Favoured by the Warp",
-      "id": "favoured-by-the-warp",
+      "name": "Favoured by the Warp",
+      "id": "favoured_by_the_warp",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2141,8 +2141,8 @@
     },
     {
       "tier": 3,
-      "talent": "Favoured of the Emperor",
-      "id": "favoured-of-the-emperor",
+      "name": "Favoured of the Emperor",
+      "id": "favoured_of_the_emperor",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2158,8 +2158,8 @@
     },
     {
       "tier": 3,
-      "talent": "Fearful Reputation",
-      "id": "fearful-reputation",
+      "name": "Fearful Reputation",
+      "id": "fearful_reputation",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2176,7 +2176,7 @@
     },
     {
       "tier": 3,
-      "talent": "Fearless",
+      "name": "Fearless",
       "id": "fearless",
       "specialist": false,
       "specialisations": null,
@@ -2193,8 +2193,8 @@
     },
     {
       "tier": 3,
-      "talent": "Feat of Strength",
-      "id": "feat-of-strength",
+      "name": "Feat of Strength",
+      "id": "feat_of_strength",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2211,8 +2211,8 @@
     },
     {
       "tier": 1,
-      "talent": "Feedback Screech",
-      "id": "feedback-screech",
+      "name": "Feedback Screech",
+      "id": "feedback_screech",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2228,8 +2228,8 @@
     },
     {
       "tier": 1,
-      "talent": "Ferric Summons",
-      "id": "ferric-summons",
+      "name": "Ferric Summons",
+      "id": "ferric_summons",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2246,8 +2246,8 @@
     },
     {
       "tier": 2,
-      "talent": "Field Vivisection",
-      "id": "field-vivisection",
+      "name": "Field Vivisection",
+      "id": "field_vivisection",
       "specialist": true,
       "specialisations": [
         "Ballistic Skill",
@@ -2268,8 +2268,8 @@
     },
     {
       "tier": 3,
-      "talent": "Final Judgement",
-      "id": "final-judgement",
+      "name": "Final Judgement",
+      "id": "final_judgement",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2287,8 +2287,8 @@
     },
     {
       "tier": 2,
-      "talent": "Firebrand's Call",
-      "id": "firebrand-s-call",
+      "name": "Firebrand's Call",
+      "id": "firebrand_s_call",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2305,7 +2305,7 @@
     },
     {
       "tier": 1,
-      "talent": "Flagellant",
+      "name": "Flagellant",
       "id": "flagellant",
       "specialist": false,
       "specialisations": null,
@@ -2322,8 +2322,8 @@
     },
     {
       "tier": 3,
-      "talent": "Flash of Insight",
-      "id": "flash-of-insight",
+      "name": "Flash of Insight",
+      "id": "flash_of_insight",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2341,7 +2341,7 @@
     },
     {
       "tier": 2,
-      "talent": "Foresight",
+      "name": "Foresight",
       "id": "foresight",
       "specialist": false,
       "specialisations": null,
@@ -2358,8 +2358,8 @@
     },
     {
       "tier": 1,
-      "talent": "Forging the Bond",
-      "id": "forging-the-bond",
+      "name": "Forging the Bond",
+      "id": "forging_the_bond",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2376,7 +2376,7 @@
     },
     {
       "tier": 1,
-      "talent": "Frenzy",
+      "name": "Frenzy",
       "id": "frenzy",
       "specialist": false,
       "specialisations": null,
@@ -2391,7 +2391,7 @@
     },
     {
       "tier": 3,
-      "talent": "Giantkiller",
+      "name": "Giantkiller",
       "id": "giantkiller",
       "specialist": false,
       "specialisations": null,
@@ -2409,8 +2409,8 @@
     },
     {
       "tier": 3,
-      "talent": "Good Reputation",
-      "id": "good-reputation",
+      "name": "Good Reputation",
+      "id": "good_reputation",
       "specialist": true,
       "specialisations": [
         "Any Organisation"
@@ -2430,8 +2430,8 @@
     },
     {
       "tier": 3,
-      "talent": "Greater Minion",
-      "id": "greater-minion",
+      "name": "Greater Minion",
+      "id": "greater_minion",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2448,7 +2448,7 @@
     },
     {
       "tier": 1,
-      "talent": "Grenadier",
+      "name": "Grenadier",
       "id": "grenadier",
       "specialist": false,
       "specialisations": null,
@@ -2465,8 +2465,8 @@
     },
     {
       "tier": 2,
-      "talent": "Gun Blessing",
-      "id": "gun-blessing",
+      "name": "Gun Blessing",
+      "id": "gun_blessing",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2483,8 +2483,8 @@
     },
     {
       "tier": 1,
-      "talent": "Gun It",
-      "id": "gun-it",
+      "name": "Gun It",
+      "id": "gun_it",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2501,8 +2501,8 @@
     },
     {
       "tier": 3,
-      "talent": "Halo of Command",
-      "id": "halo-of-command",
+      "name": "Halo of Command",
+      "id": "halo_of_command",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2519,8 +2519,8 @@
     },
     {
       "tier": 3,
-      "talent": "Hammer Blow",
-      "id": "hammer-blow",
+      "name": "Hammer Blow",
+      "id": "hammer_blow",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2536,8 +2536,8 @@
     },
     {
       "tier": 1,
-      "talent": "Hard Bargain",
-      "id": "hard-bargain",
+      "name": "Hard Bargain",
+      "id": "hard_bargain",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2553,8 +2553,8 @@
     },
     {
       "tier": 2,
-      "talent": "Hard Target",
-      "id": "hard-target",
+      "name": "Hard Target",
+      "id": "hard_target",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2570,8 +2570,8 @@
     },
     {
       "tier": 2,
-      "talent": "Hardened Soul",
-      "id": "hardened-soul",
+      "name": "Hardened Soul",
+      "id": "hardened_soul",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2588,7 +2588,7 @@
     },
     {
       "tier": 2,
-      "talent": "Hardy",
+      "name": "Hardy",
       "id": "hardy",
       "specialist": false,
       "specialisations": null,
@@ -2605,7 +2605,7 @@
     },
     {
       "tier": 2,
-      "talent": "Hatred",
+      "name": "Hatred",
       "id": "hatred",
       "specialist": true,
       "specialisations": [
@@ -2627,8 +2627,8 @@
     },
     {
       "tier": 1,
-      "talent": "Heightened Senses",
-      "id": "heightened-senses",
+      "name": "Heightened Senses",
+      "id": "heightened_senses",
       "specialist": true,
       "specialisations": [
         "Sight",
@@ -2648,8 +2648,8 @@
     },
     {
       "tier": 1,
-      "talent": "Heroic Inspiration",
-      "id": "heroic-inspiration",
+      "name": "Heroic Inspiration",
+      "id": "heroic_inspiration",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2666,8 +2666,8 @@
     },
     {
       "tier": 2,
-      "talent": "Hip Shooting",
-      "id": "hip-shooting",
+      "name": "Hip Shooting",
+      "id": "hip_shooting",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2684,8 +2684,8 @@
     },
     {
       "tier": 3,
-      "talent": "Horde Minion",
-      "id": "horde-minion",
+      "name": "Horde Minion",
+      "id": "horde_minion",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2702,8 +2702,8 @@
     },
     {
       "tier": 2,
-      "talent": "Hotshot Pilot",
-      "id": "hotshot-pilot",
+      "name": "Hotshot Pilot",
+      "id": "hotshot_pilot",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2720,8 +2720,8 @@
     },
     {
       "tier": 3,
-      "talent": "Hull Down",
-      "id": "hull-down",
+      "name": "Hull Down",
+      "id": "hull_down",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2737,8 +2737,8 @@
     },
     {
       "tier": 2,
-      "talent": "Hunter of Aliens",
-      "id": "hunter-of-aliens",
+      "name": "Hunter of Aliens",
+      "id": "hunter_of_aliens",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2754,8 +2754,8 @@
     },
     {
       "tier": 3,
-      "talent": "Icon of Duty",
-      "id": "icon-of-duty",
+      "name": "Icon of Duty",
+      "id": "icon_of_duty",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2771,8 +2771,8 @@
     },
     {
       "tier": 3,
-      "talent": "Imperial Authority",
-      "id": "imperial-authority",
+      "name": "Imperial Authority",
+      "id": "imperial_authority",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2789,8 +2789,8 @@
     },
     {
       "tier": 3,
-      "talent": "Imperial Commander",
-      "id": "imperial-commander",
+      "name": "Imperial Commander",
+      "id": "imperial_commander",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2807,8 +2807,8 @@
     },
     {
       "tier": 2,
-      "talent": "Independent Targeting",
-      "id": "independent-targeting",
+      "name": "Independent Targeting",
+      "id": "independent_targeting",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2824,8 +2824,8 @@
     },
     {
       "tier": 2,
-      "talent": "Inescapable Attack",
-      "id": "inescapable-attack",
+      "name": "Inescapable Attack",
+      "id": "inescapable_attack",
       "specialist": true,
       "specialisations": [
         "Melee",
@@ -2845,8 +2845,8 @@
     },
     {
       "tier": 3,
-      "talent": "Infused Knowledge",
-      "id": "infused-knowledge",
+      "name": "Infused Knowledge",
+      "id": "infused_knowledge",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2863,8 +2863,8 @@
     },
     {
       "tier": 1,
-      "talent": "Initiated Maintenance",
-      "id": "initiated-maintenance",
+      "name": "Initiated Maintenance",
+      "id": "initiated_maintenance",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2880,8 +2880,8 @@
     },
     {
       "tier": 2,
-      "talent": "Inspire Wrath",
-      "id": "inspire-wrath",
+      "name": "Inspire Wrath",
+      "id": "inspire_wrath",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2897,8 +2897,8 @@
     },
     {
       "tier": 2,
-      "talent": "Inspired Intuition",
-      "id": "inspired-intuition",
+      "name": "Inspired Intuition",
+      "id": "inspired_intuition",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2914,8 +2914,8 @@
     },
     {
       "tier": 2,
-      "talent": "Inspiring Aura",
-      "id": "inspiring-aura",
+      "name": "Inspiring Aura",
+      "id": "inspiring_aura",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2931,8 +2931,8 @@
     },
     {
       "tier": 3,
-      "talent": "Instrument of His Will",
-      "id": "instrument-of-his-will",
+      "name": "Instrument of His Will",
+      "id": "instrument_of_his_will",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2948,8 +2948,8 @@
     },
     {
       "tier": 2,
-      "talent": "Integrated Weapon Expertise",
-      "id": "integrated-weapon-expertise",
+      "name": "Integrated Weapon Expertise",
+      "id": "integrated_weapon_expertise",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2966,8 +2966,8 @@
     },
     {
       "tier": 3,
-      "talent": "Integrated Weapon Mastery",
-      "id": "integrated-weapon-mastery",
+      "name": "Integrated Weapon Mastery",
+      "id": "integrated_weapon_mastery",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -2986,8 +2986,8 @@
     },
     {
       "tier": 3,
-      "talent": "Into the Breach",
-      "id": "into-the-breach",
+      "name": "Into the Breach",
+      "id": "into_the_breach",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3004,8 +3004,8 @@
     },
     {
       "tier": 2,
-      "talent": "Iron Discipline",
-      "id": "iron-discipline",
+      "name": "Iron Discipline",
+      "id": "iron_discipline",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3021,8 +3021,8 @@
     },
     {
       "tier": 3,
-      "talent": "Iron Faith",
-      "id": "iron-faith",
+      "name": "Iron Faith",
+      "id": "iron_faith",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3038,8 +3038,8 @@
     },
     {
       "tier": 1,
-      "talent": "Iron Jaw",
-      "id": "iron-jaw",
+      "name": "Iron Jaw",
+      "id": "iron_jaw",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3055,8 +3055,8 @@
     },
     {
       "tier": 2,
-      "talent": "Iron Resolve",
-      "id": "iron-resolve",
+      "name": "Iron Resolve",
+      "id": "iron_resolve",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3073,8 +3073,8 @@
     },
     {
       "tier": 1,
-      "talent": "It Not So Dark",
-      "id": "it-not-so-dark",
+      "name": "It Not So Dark",
+      "id": "it_not_so_dark",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3091,7 +3091,7 @@
     },
     {
       "tier": 1,
-      "talent": "Jaded",
+      "name": "Jaded",
       "id": "jaded",
       "specialist": false,
       "specialisations": null,
@@ -3108,8 +3108,8 @@
     },
     {
       "tier": 2,
-      "talent": "Judge's Quarry",
-      "id": "judge-s-quarry",
+      "name": "Judge's Quarry",
+      "id": "judge_s_quarry",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3126,8 +3126,8 @@
     },
     {
       "tier": 1,
-      "talent": "Keen Intuition",
-      "id": "keen-intuition",
+      "name": "Keen Intuition",
+      "id": "keen_intuition",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3143,8 +3143,8 @@
     },
     {
       "tier": 3,
-      "talent": "Killer's Eye",
-      "id": "killer-s-eye",
+      "name": "Killer's Eye",
+      "id": "killer_s_eye",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3161,8 +3161,8 @@
     },
     {
       "tier": 2,
-      "talent": "Killing Strike",
-      "id": "killing-strike",
+      "name": "Killing Strike",
+      "id": "killing_strike",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3178,8 +3178,8 @@
     },
     {
       "tier": 3,
-      "talent": "Knowledge Is Power",
-      "id": "knowledge-is-power",
+      "name": "Knowledge Is Power",
+      "id": "knowledge_is_power",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3195,8 +3195,8 @@
     },
     {
       "tier": 2,
-      "talent": "Las Weapon Expertise",
-      "id": "las-weapon-expertise",
+      "name": "Las Weapon Expertise",
+      "id": "las_weapon_expertise",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3213,8 +3213,8 @@
     },
     {
       "tier": 3,
-      "talent": "Las Weapon Mastery",
-      "id": "las-weapon-mastery",
+      "name": "Las Weapon Mastery",
+      "id": "las_weapon_mastery",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3231,8 +3231,8 @@
     },
     {
       "tier": 3,
-      "talent": "Lasgun Barrage",
-      "id": "lasgun-barrage",
+      "name": "Lasgun Barrage",
+      "id": "lasgun_barrage",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3249,8 +3249,8 @@
     },
     {
       "tier": 1,
-      "talent": "Lasgun Volley",
-      "id": "lasgun-volley",
+      "name": "Lasgun Volley",
+      "id": "lasgun_volley",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3268,8 +3268,8 @@
     },
     {
       "tier": 2,
-      "talent": "Last Man Standing",
-      "id": "last-man-standing",
+      "name": "Last Man Standing",
+      "id": "last_man_standing",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3285,8 +3285,8 @@
     },
     {
       "tier": 1,
-      "talent": "Leap Up",
-      "id": "leap-up",
+      "name": "Leap Up",
+      "id": "leap_up",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3302,8 +3302,8 @@
     },
     {
       "tier": 1,
-      "talent": "Leaping Dodge",
-      "id": "leaping-dodge",
+      "name": "Leaping Dodge",
+      "id": "leaping_dodge",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3320,7 +3320,7 @@
     },
     {
       "tier": 3,
-      "talent": "Legendary",
+      "name": "Legendary",
       "id": "legendary",
       "specialist": false,
       "specialisations": null,
@@ -3338,8 +3338,8 @@
     },
     {
       "tier": 1,
-      "talent": "Lesser Minion",
-      "id": "lesser-minion",
+      "name": "Lesser Minion",
+      "id": "lesser_minion",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3355,7 +3355,7 @@
     },
     {
       "tier": 2,
-      "talent": "Lexographer",
+      "name": "Lexographer",
       "id": "lexographer",
       "specialist": false,
       "specialisations": null,
@@ -3372,8 +3372,8 @@
     },
     {
       "tier": 1,
-      "talent": "Light Sleeper",
-      "id": "light-sleeper",
+      "name": "Light Sleeper",
+      "id": "light_sleeper",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3389,8 +3389,8 @@
     },
     {
       "tier": 3,
-      "talent": "Lightning Attack",
-      "id": "lightning-attack",
+      "name": "Lightning Attack",
+      "id": "lightning_attack",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3406,8 +3406,8 @@
     },
     {
       "tier": 3,
-      "talent": "Lightning Charge",
-      "id": "lightning-charge",
+      "name": "Lightning Charge",
+      "id": "lightning_charge",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3424,8 +3424,8 @@
     },
     {
       "tier": 1,
-      "talent": "Lightning Reflexes",
-      "id": "lightning-reflexes",
+      "name": "Lightning Reflexes",
+      "id": "lightning_reflexes",
       "specialist": false,
       "specialisations": null,
       "prerequisites": null,
@@ -3439,8 +3439,8 @@
     },
     {
       "tier": 1,
-      "talent": "Litany of Condemnation",
-      "id": "litany-of-condemnation",
+      "name": "Litany of Condemnation",
+      "id": "litany_of_condemnation",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3457,8 +3457,8 @@
     },
     {
       "tier": 1,
-      "talent": "Little 'Un",
-      "id": "little-un",
+      "name": "Little 'Un",
+      "id": "little_un",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3475,8 +3475,8 @@
     },
     {
       "tier": 3,
-      "talent": "Lock On",
-      "id": "lock-on",
+      "name": "Lock On",
+      "id": "lock_on",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3493,8 +3493,8 @@
     },
     {
       "tier": 1,
-      "talent": "Logis Implant",
-      "id": "logis-implant",
+      "name": "Logis Implant",
+      "id": "logis_implant",
       "specialist": false,
       "specialisations": null,
       "prerequisites": null,
@@ -3508,8 +3508,8 @@
     },
     {
       "tier": 1,
-      "talent": "Loyal Demeanour",
-      "id": "loyal-demeanour",
+      "name": "Loyal Demeanour",
+      "id": "loyal_demeanour",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3525,8 +3525,8 @@
     },
     {
       "tier": 3,
-      "talent": "Luminen Blast",
-      "id": "luminen-blast",
+      "name": "Luminen Blast",
+      "id": "luminen_blast",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3544,8 +3544,8 @@
     },
     {
       "tier": 3,
-      "talent": "Luminen Desecration",
-      "id": "luminen-desecration",
+      "name": "Luminen Desecration",
+      "id": "luminen_desecration",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3562,8 +3562,8 @@
     },
     {
       "tier": 2,
-      "talent": "Luminen Shock",
-      "id": "luminen-shock",
+      "name": "Luminen Shock",
+      "id": "luminen_shock",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3580,8 +3580,8 @@
     },
     {
       "tier": 3,
-      "talent": "Machinator Array",
-      "id": "machinator-array",
+      "name": "Machinator Array",
+      "id": "machinator_array",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3597,8 +3597,8 @@
     },
     {
       "tier": 2,
-      "talent": "Maglev Transcendence",
-      "id": "maglev-transcendence",
+      "name": "Maglev Transcendence",
+      "id": "maglev_transcendence",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3615,7 +3615,7 @@
     },
     {
       "tier": 2,
-      "talent": "Marksman",
+      "name": "Marksman",
       "id": "marksman",
       "specialist": false,
       "specialisations": null,
@@ -3632,8 +3632,8 @@
     },
     {
       "tier": 2,
-      "talent": "Master & Commander",
-      "id": "master-commander",
+      "name": "Master & Commander",
+      "id": "master_commander",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3650,8 +3650,8 @@
     },
     {
       "tier": 3,
-      "talent": "Master Chirurgeon",
-      "id": "master-chirurgeon",
+      "name": "Master Chirurgeon",
+      "id": "master_chirurgeon",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3667,8 +3667,8 @@
     },
     {
       "tier": 3,
-      "talent": "Master Enginseer",
-      "id": "master-enginseer",
+      "name": "Master Enginseer",
+      "id": "master_enginseer",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3685,8 +3685,8 @@
     },
     {
       "tier": 3,
-      "talent": "Master Orator",
-      "id": "master-orator",
+      "name": "Master Orator",
+      "id": "master_orator",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3702,8 +3702,8 @@
     },
     {
       "tier": 3,
-      "talent": "Master Questioner",
-      "id": "master-questioner",
+      "name": "Master Questioner",
+      "id": "master_questioner",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3719,7 +3719,7 @@
     },
     {
       "tier": 3,
-      "talent": "Mastermind",
+      "name": "Mastermind",
       "id": "mastermind",
       "specialist": false,
       "specialisations": null,
@@ -3738,7 +3738,7 @@
     },
     {
       "tier": 3,
-      "talent": "Mastery",
+      "name": "Mastery",
       "id": "mastery",
       "specialist": true,
       "specialisations": [
@@ -3757,8 +3757,8 @@
     },
     {
       "tier": 2,
-      "talent": "Mechadendrite Use",
-      "id": "mechadendrite-use",
+      "name": "Mechadendrite Use",
+      "id": "mechadendrite_use",
       "specialist": true,
       "specialisations": [
         "Weapon",
@@ -3777,7 +3777,7 @@
     },
     {
       "tier": 1,
-      "talent": "Meditation",
+      "name": "Meditation",
       "id": "meditation",
       "specialist": false,
       "specialisations": null,
@@ -3792,8 +3792,8 @@
     },
     {
       "tier": 2,
-      "talent": "Melta Weapon Expertise",
-      "id": "melta-weapon-expertise",
+      "name": "Melta Weapon Expertise",
+      "id": "melta_weapon_expertise",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3810,8 +3810,8 @@
     },
     {
       "tier": 3,
-      "talent": "Melta Weapon Mastery",
-      "id": "melta-weapon-mastery",
+      "name": "Melta Weapon Mastery",
+      "id": "melta_weapon_mastery",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3828,8 +3828,8 @@
     },
     {
       "tier": 3,
-      "talent": "Mental Maze",
-      "id": "mental-maze",
+      "name": "Mental Maze",
+      "id": "mental_maze",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3846,8 +3846,8 @@
     },
     {
       "tier": 3,
-      "talent": "Mental Rage",
-      "id": "mental-rage",
+      "name": "Mental Rage",
+      "id": "mental_rage",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3864,8 +3864,8 @@
     },
     {
       "tier": 2,
-      "talent": "Metal Fatigue",
-      "id": "metal-fatigue",
+      "name": "Metal Fatigue",
+      "id": "metal_fatigue",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3881,8 +3881,8 @@
     },
     {
       "tier": 2,
-      "talent": "Methodical Care",
-      "id": "methodical-care",
+      "name": "Methodical Care",
+      "id": "methodical_care",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3899,8 +3899,8 @@
     },
     {
       "tier": 3,
-      "talent": "Mighty Shot",
-      "id": "mighty-shot",
+      "name": "Mighty Shot",
+      "id": "mighty_shot",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3916,7 +3916,7 @@
     },
     {
       "tier": 1,
-      "talent": "Mimic",
+      "name": "Mimic",
       "id": "mimic",
       "specialist": false,
       "specialisations": null,
@@ -3931,8 +3931,8 @@
     },
     {
       "tier": 2,
-      "talent": "Mind Sight",
-      "id": "mind-sight",
+      "name": "Mind Sight",
+      "id": "mind_sight",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3948,8 +3948,8 @@
     },
     {
       "tier": 2,
-      "talent": "Mindtrap Maze",
-      "id": "mindtrap-maze",
+      "name": "Mindtrap Maze",
+      "id": "mindtrap_maze",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -3966,7 +3966,7 @@
     },
     {
       "tier": 2,
-      "talent": "Minion",
+      "name": "Minion",
       "id": "minion",
       "specialist": false,
       "specialisations": null,
@@ -3984,8 +3984,8 @@
     },
     {
       "tier": 2,
-      "talent": "Minion Improvement",
-      "id": "minion-improvement",
+      "name": "Minion Improvement",
+      "id": "minion_improvement",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4001,8 +4001,8 @@
     },
     {
       "tier": 3,
-      "talent": "Minion Master",
-      "id": "minion-master",
+      "name": "Minion Master",
+      "id": "minion_master",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4020,8 +4020,8 @@
     },
     {
       "tier": 3,
-      "talent": "Mnemonic Purging",
-      "id": "mnemonic-purging",
+      "name": "Mnemonic Purging",
+      "id": "mnemonic_purging",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4038,8 +4038,8 @@
     },
     {
       "tier": 1,
-      "talent": "Modify Payload",
-      "id": "modify-payload",
+      "name": "Modify Payload",
+      "id": "modify_payload",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4055,8 +4055,8 @@
     },
     {
       "tier": 1,
-      "talent": "Mounted Warrior",
-      "id": "mounted-warrior",
+      "name": "Mounted Warrior",
+      "id": "mounted_warrior",
       "specialist": true,
       "specialisations": [
         "Melee",
@@ -4076,8 +4076,8 @@
     },
     {
       "tier": 2,
-      "talent": "Munitorum Influence",
-      "id": "munitorum-influence",
+      "name": "Munitorum Influence",
+      "id": "munitorum_influence",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4093,8 +4093,8 @@
     },
     {
       "tier": 2,
-      "talent": "Nerves of Steel",
-      "id": "nerves-of-steel",
+      "name": "Nerves of Steel",
+      "id": "nerves_of_steel",
       "specialist": false,
       "specialisations": null,
       "prerequisites": null,
@@ -4108,8 +4108,8 @@
     },
     {
       "tier": 3,
-      "talent": "Never Die",
-      "id": "never-die",
+      "name": "Never Die",
+      "id": "never_die",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4126,8 +4126,8 @@
     },
     {
       "tier": 1,
-      "talent": "Nowhere to Hide",
-      "id": "nowhere-to-hide",
+      "name": "Nowhere to Hide",
+      "id": "nowhere_to_hide",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4143,8 +4143,8 @@
     },
     {
       "tier": 2,
-      "talent": "One-on-One",
-      "id": "one-on-one",
+      "name": "One-on-One",
+      "id": "one_on_one",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4160,8 +4160,8 @@
     },
     {
       "tier": 2,
-      "talent": "Operative Conditioning",
-      "id": "operative-conditioning",
+      "name": "Operative Conditioning",
+      "id": "operative_conditioning",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4178,7 +4178,7 @@
     },
     {
       "tier": 1,
-      "talent": "Orthoproxy",
+      "name": "Orthoproxy",
       "id": "orthoproxy",
       "specialist": false,
       "specialisations": null,
@@ -4193,7 +4193,7 @@
     },
     {
       "tier": 3,
-      "talent": "Overkill",
+      "name": "Overkill",
       "id": "overkill",
       "specialist": false,
       "specialisations": null,
@@ -4211,7 +4211,7 @@
     },
     {
       "tier": 1,
-      "talent": "Overlooked",
+      "name": "Overlooked",
       "id": "overlooked",
       "specialist": false,
       "specialisations": null,
@@ -4229,7 +4229,7 @@
     },
     {
       "tier": 2,
-      "talent": "Paranoia",
+      "name": "Paranoia",
       "id": "paranoia",
       "specialist": false,
       "specialisations": null,
@@ -4244,7 +4244,7 @@
     },
     {
       "tier": 1,
-      "talent": "Peer",
+      "name": "Peer",
       "id": "peer",
       "specialist": true,
       "specialisations": [
@@ -4264,8 +4264,8 @@
     },
     {
       "tier": 2,
-      "talent": "Penitent Psyker",
-      "id": "penitent-psyker",
+      "name": "Penitent Psyker",
+      "id": "penitent_psyker",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4283,8 +4283,8 @@
     },
     {
       "tier": 2,
-      "talent": "Perfected Maintenance",
-      "id": "perfected-maintenance",
+      "name": "Perfected Maintenance",
+      "id": "perfected_maintenance",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4301,8 +4301,8 @@
     },
     {
       "tier": 2,
-      "talent": "Persuasive Charm",
-      "id": "persuasive-charm",
+      "name": "Persuasive Charm",
+      "id": "persuasive_charm",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4319,8 +4319,8 @@
     },
     {
       "tier": 1,
-      "talent": "Pity the Weak",
-      "id": "pity-the-weak",
+      "name": "Pity the Weak",
+      "id": "pity_the_weak",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4337,8 +4337,8 @@
     },
     {
       "tier": 2,
-      "talent": "Plasma Weapon Expertise",
-      "id": "plasma-weapon-expertise",
+      "name": "Plasma Weapon Expertise",
+      "id": "plasma_weapon_expertise",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4355,8 +4355,8 @@
     },
     {
       "tier": 3,
-      "talent": "Plasma Weapon Mastery",
-      "id": "plasma-weapon-mastery",
+      "name": "Plasma Weapon Mastery",
+      "id": "plasma_weapon_mastery",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4373,8 +4373,8 @@
     },
     {
       "tier": 1,
-      "talent": "Potentia Coil Induction",
-      "id": "potentia-coil-induction",
+      "name": "Potentia Coil Induction",
+      "id": "potentia_coil_induction",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4391,8 +4391,8 @@
     },
     {
       "tier": 2,
-      "talent": "Precision Killer",
-      "id": "precision-killer",
+      "name": "Precision Killer",
+      "id": "precision_killer",
       "specialist": true,
       "specialisations": [
         "Ballistic SKill",
@@ -4411,8 +4411,8 @@
     },
     {
       "tier": 3,
-      "talent": "Preternatural Grace",
-      "id": "preternatural-grace",
+      "name": "Preternatural Grace",
+      "id": "preternatural_grace",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4430,8 +4430,8 @@
     },
     {
       "tier": 3,
-      "talent": "Preternatural Speed",
-      "id": "preternatural-speed",
+      "name": "Preternatural Speed",
+      "id": "preternatural_speed",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4448,8 +4448,8 @@
     },
     {
       "tier": 3,
-      "talent": "Profane Symbols",
-      "id": "profane-symbols",
+      "name": "Profane Symbols",
+      "id": "profane_symbols",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4465,8 +4465,8 @@
     },
     {
       "tier": 1,
-      "talent": "Profit by the Witch",
-      "id": "profit-by-the-witch",
+      "name": "Profit by the Witch",
+      "id": "profit_by_the_witch",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4483,7 +4483,7 @@
     },
     {
       "tier": 2,
-      "talent": "Prosanguine",
+      "name": "Prosanguine",
       "id": "prosanguine",
       "specialist": false,
       "specialisations": null,
@@ -4501,7 +4501,7 @@
     },
     {
       "tier": 1,
-      "talent": "Pugilist",
+      "name": "Pugilist",
       "id": "pugilist",
       "specialist": false,
       "specialisations": null,
@@ -4518,8 +4518,8 @@
     },
     {
       "tier": 2,
-      "talent": "Pure Faith",
-      "id": "pure-faith",
+      "name": "Pure Faith",
+      "id": "pure_faith",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4535,8 +4535,8 @@
     },
     {
       "tier": 3,
-      "talent": "Purge the Unclean",
-      "id": "purge-the-unclean",
+      "name": "Purge the Unclean",
+      "id": "purge_the_unclean",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4552,8 +4552,8 @@
     },
     {
       "tier": 2,
-      "talent": "Purity of Hatred",
-      "id": "purity-of-hatred",
+      "name": "Purity of Hatred",
+      "id": "purity_of_hatred",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4569,8 +4569,8 @@
     },
     {
       "tier": 3,
-      "talent": "Push the Limit",
-      "id": "push-the-limit",
+      "name": "Push the Limit",
+      "id": "push_the_limit",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4587,8 +4587,8 @@
     },
     {
       "tier": 3,
-      "talent": "Putrescence Within, Putrescence Without",
-      "id": "putrescence-within-putrescence-without",
+      "name": "Putrescence Within, Putrescence Without",
+      "id": "putrescence_within_putrescence_without",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4606,8 +4606,8 @@
     },
     {
       "tier": 1,
-      "talent": "Quick Draw",
-      "id": "quick-draw",
+      "name": "Quick Draw",
+      "id": "quick_draw",
       "specialist": false,
       "specialisations": null,
       "prerequisites": null,
@@ -4621,8 +4621,8 @@
     },
     {
       "tier": 1,
-      "talent": "Rabbit Punch",
-      "id": "rabbit-punch",
+      "name": "Rabbit Punch",
+      "id": "rabbit_punch",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4639,8 +4639,8 @@
     },
     {
       "tier": 1,
-      "talent": "Radiant Presence",
-      "id": "radiant-presence",
+      "name": "Radiant Presence",
+      "id": "radiant_presence",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4656,8 +4656,8 @@
     },
     {
       "tier": 3,
-      "talent": "Ranged Weapon Expert",
-      "id": "ranged-weapon-expert",
+      "name": "Ranged Weapon Expert",
+      "id": "ranged_weapon_expert",
       "specialist": true,
       "specialisations": [
         "Any Weapon Group"
@@ -4676,8 +4676,8 @@
     },
     {
       "tier": 2,
-      "talent": "Rapid Reaction",
-      "id": "rapid-reaction",
+      "name": "Rapid Reaction",
+      "id": "rapid_reaction",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4693,8 +4693,8 @@
     },
     {
       "tier": 1,
-      "talent": "Rapid Reload",
-      "id": "rapid-reload",
+      "name": "Rapid Reload",
+      "id": "rapid_reload",
       "specialist": false,
       "specialisations": null,
       "prerequisites": null,
@@ -4708,7 +4708,7 @@
     },
     {
       "tier": 1,
-      "talent": "Raptor",
+      "name": "Raptor",
       "id": "raptor",
       "specialist": false,
       "specialisations": null,
@@ -4725,8 +4725,8 @@
     },
     {
       "tier": 2,
-      "talent": "Ratling Requisitions",
-      "id": "ratling-requisitions",
+      "name": "Ratling Requisitions",
+      "id": "ratling_requisitions",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4743,8 +4743,8 @@
     },
     {
       "tier": 3,
-      "talent": "Relic Bearer",
-      "id": "relic-bearer",
+      "name": "Relic Bearer",
+      "id": "relic_bearer",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4761,7 +4761,7 @@
     },
     {
       "tier": 1,
-      "talent": "Resistance",
+      "name": "Resistance",
       "id": "resistance",
       "specialist": true,
       "specialisations": [
@@ -4784,8 +4784,8 @@
     },
     {
       "tier": 3,
-      "talent": "Righteous Blow",
-      "id": "righteous-blow",
+      "name": "Righteous Blow",
+      "id": "righteous_blow",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4801,8 +4801,8 @@
     },
     {
       "tier": 2,
-      "talent": "Rigor Mentis",
-      "id": "rigor-mentis",
+      "name": "Rigor Mentis",
+      "id": "rigor_mentis",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4818,8 +4818,8 @@
     },
     {
       "tier": 2,
-      "talent": "Ripper Charge",
-      "id": "ripper-charge",
+      "name": "Ripper Charge",
+      "id": "ripper_charge",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4836,8 +4836,8 @@
     },
     {
       "tier": 3,
-      "talent": "Rite of Awe",
-      "id": "rite-of-awe",
+      "name": "Rite of Awe",
+      "id": "rite_of_awe",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4853,8 +4853,8 @@
     },
     {
       "tier": 3,
-      "talent": "Rite of Fear",
-      "id": "rite-of-fear",
+      "name": "Rite of Fear",
+      "id": "rite_of_fear",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4870,8 +4870,8 @@
     },
     {
       "tier": 1,
-      "talent": "Rite of Ignition",
-      "id": "rite-of-ignition",
+      "name": "Rite of Ignition",
+      "id": "rite_of_ignition",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4888,8 +4888,8 @@
     },
     {
       "tier": 3,
-      "talent": "Rite of Pure Thought",
-      "id": "rite-of-pure-thought",
+      "name": "Rite of Pure Thought",
+      "id": "rite_of_pure_thought",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4905,8 +4905,8 @@
     },
     {
       "tier": 2,
-      "talent": "Rite of Static Overload",
-      "id": "rite-of-static-overload",
+      "name": "Rite of Static Overload",
+      "id": "rite_of_static_overload",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4923,8 +4923,8 @@
     },
     {
       "tier": 2,
-      "talent": "Rites of Banishment",
-      "id": "rites-of-banishment",
+      "name": "Rites of Banishment",
+      "id": "rites_of_banishment",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4940,7 +4940,7 @@
     },
     {
       "tier": null,
-      "talent": "Rival",
+      "name": "Rival",
       "id": "rival",
       "specialist": false,
       "specialisations": null,
@@ -4954,8 +4954,8 @@
     },
     {
       "tier": 3,
-      "talent": "Sacred Flame",
-      "id": "sacred-flame",
+      "name": "Sacred Flame",
+      "id": "sacred_flame",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -4972,7 +4972,7 @@
     },
     {
       "tier": 2,
-      "talent": "Sacrifice",
+      "name": "Sacrifice",
       "id": "sacrifice",
       "specialist": false,
       "specialisations": null,
@@ -4989,8 +4989,8 @@
     },
     {
       "tier": 3,
-      "talent": "Sanctic Purity",
-      "id": "sanctic-purity",
+      "name": "Sanctic Purity",
+      "id": "sanctic_purity",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5008,8 +5008,8 @@
     },
     {
       "tier": 2,
-      "talent": "Scholastica Psykana Failsafes",
-      "id": "scholastica-psykana-failsafes",
+      "name": "Scholastica Psykana Failsafes",
+      "id": "scholastica_psykana_failsafes",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5026,8 +5026,8 @@
     },
     {
       "tier": 2,
-      "talent": "Scourge of Heretics",
-      "id": "scourge-of-heretics",
+      "name": "Scourge of Heretics",
+      "id": "scourge_of_heretics",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5043,8 +5043,8 @@
     },
     {
       "tier": 2,
-      "talent": "Servo-Harness Integration",
-      "id": "servo-harness-integration",
+      "name": "Servo-Harness Integration",
+      "id": "servo_harness_integration",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5061,8 +5061,8 @@
     },
     {
       "tier": 3,
-      "talent": "Shield Wall",
-      "id": "shield-wall",
+      "name": "Shield Wall",
+      "id": "shield_wall",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5079,7 +5079,7 @@
     },
     {
       "tier": 1,
-      "talent": "Siegecraft",
+      "name": "Siegecraft",
       "id": "siegecraft",
       "specialist": false,
       "specialisations": null,
@@ -5094,8 +5094,8 @@
     },
     {
       "tier": 1,
-      "talent": "Skilled Rider",
-      "id": "skilled-rider",
+      "name": "Skilled Rider",
+      "id": "skilled_rider",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5111,8 +5111,8 @@
     },
     {
       "tier": 2,
-      "talent": "Slayer of Daemons",
-      "id": "slayer-of-daemons",
+      "name": "Slayer of Daemons",
+      "id": "slayer_of_daemons",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5128,8 +5128,8 @@
     },
     {
       "tier": 2,
-      "talent": "Solid Projectile Weapon Expertise",
-      "id": "solid-projectile-weapon-expertise",
+      "name": "Solid Projectile Weapon Expertise",
+      "id": "solid_projectile_weapon_expertise",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5146,8 +5146,8 @@
     },
     {
       "tier": 3,
-      "talent": "Solid Projectile Weapon Mastery",
-      "id": "solid-projectile-weapon-mastery",
+      "name": "Solid Projectile Weapon Mastery",
+      "id": "solid_projectile_weapon_mastery",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5164,8 +5164,8 @@
     },
     {
       "tier": 1,
-      "talent": "Sound Constitution",
-      "id": "sound-constitution",
+      "name": "Sound Constitution",
+      "id": "sound_constitution",
       "specialist": false,
       "specialisations": null,
       "prerequisites": null,
@@ -5179,8 +5179,8 @@
     },
     {
       "tier": 3,
-      "talent": "Special Operations Training",
-      "id": "special-operations-training",
+      "name": "Special Operations Training",
+      "id": "special_operations_training",
       "specialist": false,
       "specialisations": null,
       "prerequisites": null,
@@ -5194,7 +5194,7 @@
     },
     {
       "tier": 3,
-      "talent": "Sprint",
+      "name": "Sprint",
       "id": "sprint",
       "specialist": false,
       "specialisations": null,
@@ -5209,8 +5209,8 @@
     },
     {
       "tier": 2,
-      "talent": "Stalwart Defence",
-      "id": "stalwart-defence",
+      "name": "Stalwart Defence",
+      "id": "stalwart_defence",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5226,8 +5226,8 @@
     },
     {
       "tier": 2,
-      "talent": "Stealth Sniper",
-      "id": "stealth-sniper",
+      "name": "Stealth Sniper",
+      "id": "stealth_sniper",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5243,8 +5243,8 @@
     },
     {
       "tier": 3,
-      "talent": "Step Aside",
-      "id": "step-aside",
+      "name": "Step Aside",
+      "id": "step_aside",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5261,8 +5261,8 @@
     },
     {
       "tier": 3,
-      "talent": "Stirring Rhetoric",
-      "id": "stirring-rhetoric",
+      "name": "Stirring Rhetoric",
+      "id": "stirring_rhetoric",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5279,8 +5279,8 @@
     },
     {
       "tier": 2,
-      "talent": "Storm of Iron",
-      "id": "storm-of-iron",
+      "name": "Storm of Iron",
+      "id": "storm_of_iron",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5297,8 +5297,8 @@
     },
     {
       "tier": 3,
-      "talent": "Storm Trooper Training",
-      "id": "storm-trooper-training",
+      "name": "Storm Trooper Training",
+      "id": "storm_trooper_training",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5315,8 +5315,8 @@
     },
     {
       "tier": 1,
-      "talent": "Street Fighting",
-      "id": "street-fighting",
+      "name": "Street Fighting",
+      "id": "street_fighting",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5332,8 +5332,8 @@
     },
     {
       "tier": 1,
-      "talent": "Strength in the Creed",
-      "id": "strength-in-the-creed",
+      "name": "Strength in the Creed",
+      "id": "strength_in_the_creed",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5349,8 +5349,8 @@
     },
     {
       "tier": 2,
-      "talent": "Strength of the Forge",
-      "id": "strength-of-the-forge",
+      "name": "Strength of the Forge",
+      "id": "strength_of_the_forge",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5367,8 +5367,8 @@
     },
     {
       "tier": 2,
-      "talent": "Strong Minded",
-      "id": "strong-minded",
+      "name": "Strong Minded",
+      "id": "strong_minded",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5385,8 +5385,8 @@
     },
     {
       "tier": 2,
-      "talent": "Subversive Programming",
-      "id": "subversive-programming",
+      "name": "Subversive Programming",
+      "id": "subversive_programming",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5402,8 +5402,8 @@
     },
     {
       "tier": 3,
-      "talent": "Suffer Not the Work of Heretics",
-      "id": "suffer-not-the-work-of-heretics",
+      "name": "Suffer Not the Work of Heretics",
+      "id": "suffer_not_the_work_of_heretics",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5420,8 +5420,8 @@
     },
     {
       "tier": 3,
-      "talent": "Superior Chirurgeon",
-      "id": "superior-chirurgeon",
+      "name": "Superior Chirurgeon",
+      "id": "superior_chirurgeon",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5437,8 +5437,8 @@
     },
     {
       "tier": 2,
-      "talent": "Superior Minion",
-      "id": "superior-minion",
+      "name": "Superior Minion",
+      "id": "superior_minion",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5455,8 +5455,8 @@
     },
     {
       "tier": 2,
-      "talent": "Surefoot Wayfinder",
-      "id": "surefoot-wayfinder",
+      "name": "Surefoot Wayfinder",
+      "id": "surefoot_wayfinder",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5472,8 +5472,8 @@
     },
     {
       "tier": 2,
-      "talent": "Survival Master",
-      "id": "survival-master",
+      "name": "Survival Master",
+      "id": "survival_master",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5489,7 +5489,7 @@
     },
     {
       "tier": 3,
-      "talent": "Survivor",
+      "name": "Survivor",
       "id": "survivor",
       "specialist": false,
       "specialisations": null,
@@ -5504,8 +5504,8 @@
     },
     {
       "tier": 2,
-      "talent": "Swift Attack",
-      "id": "swift-attack",
+      "name": "Swift Attack",
+      "id": "swift_attack",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5521,8 +5521,8 @@
     },
     {
       "tier": 1,
-      "talent": "Swift Suture",
-      "id": "swift-suture",
+      "name": "Swift Suture",
+      "id": "swift_suture",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5538,8 +5538,8 @@
     },
     {
       "tier": 2,
-      "talent": "Tainted Psyker",
-      "id": "tainted-psyker",
+      "name": "Tainted Psyker",
+      "id": "tainted_psyker",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5557,8 +5557,8 @@
     },
     {
       "tier": 2,
-      "talent": "Take Them Alive",
-      "id": "take-them-alive",
+      "name": "Take Them Alive",
+      "id": "take_them_alive",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5575,7 +5575,7 @@
     },
     {
       "tier": 1,
-      "talent": "Takedown",
+      "name": "Takedown",
       "id": "takedown",
       "specialist": false,
       "specialisations": null,
@@ -5590,7 +5590,7 @@
     },
     {
       "tier": 1,
-      "talent": "Talented",
+      "name": "Talented",
       "id": "talented",
       "specialist": true,
       "specialisations": [
@@ -5609,8 +5609,8 @@
     },
     {
       "tier": 2,
-      "talent": "Tank Hunter",
-      "id": "tank-hunter",
+      "name": "Tank Hunter",
+      "id": "tank_hunter",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5626,8 +5626,8 @@
     },
     {
       "tier": 3,
-      "talent": "Target Selection",
-      "id": "target-selection",
+      "name": "Target Selection",
+      "id": "target_selection",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5643,8 +5643,8 @@
     },
     {
       "tier": 3,
-      "talent": "Tear 'em Ter Bits!",
-      "id": "tear-em-ter-bits",
+      "name": "Tear 'em Ter Bits!",
+      "id": "tear_em_ter_bits",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5661,8 +5661,8 @@
     },
     {
       "tier": 2,
-      "talent": "Tech-Tinker",
-      "id": "tech-tinker",
+      "name": "Tech-Tinker",
+      "id": "tech_tinker",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5679,8 +5679,8 @@
     },
     {
       "tier": 1,
-      "talent": "Technical Knock",
-      "id": "technical-knock",
+      "name": "Technical Knock",
+      "id": "technical_knock",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5696,8 +5696,8 @@
     },
     {
       "tier": 3,
-      "talent": "Telepathica Conditioning",
-      "id": "telepathica-conditioning",
+      "name": "Telepathica Conditioning",
+      "id": "telepathica_conditioning",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5714,8 +5714,8 @@
     },
     {
       "tier": 3,
-      "talent": "Temple Assassin",
-      "id": "temple-assassin",
+      "name": "Temple Assassin",
+      "id": "temple_assassin",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5732,8 +5732,8 @@
     },
     {
       "tier": 2,
-      "talent": "The Bigger They Are",
-      "id": "the-bigger-they-are",
+      "name": "The Bigger They Are",
+      "id": "the_bigger_they_are",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5749,8 +5749,8 @@
     },
     {
       "tier": 3,
-      "talent": "The Emperor Protects",
-      "id": "the-emperor-protects",
+      "name": "The Emperor Protects",
+      "id": "the_emperor_protects",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5766,8 +5766,8 @@
     },
     {
       "tier": 3,
-      "talent": "The Flesh is Weak",
-      "id": "the-flesh-is-weak",
+      "name": "The Flesh is Weak",
+      "id": "the_flesh_is_weak",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5784,8 +5784,8 @@
     },
     {
       "tier": 3,
-      "talent": "Thunder Charge",
-      "id": "thunder-charge",
+      "name": "Thunder Charge",
+      "id": "thunder_charge",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5801,8 +5801,8 @@
     },
     {
       "tier": 3,
-      "talent": "Thunderous Castigation",
-      "id": "thunderous-castigation",
+      "name": "Thunderous Castigation",
+      "id": "thunderous_castigation",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5819,7 +5819,7 @@
     },
     {
       "tier": 2,
-      "talent": "Tireless",
+      "name": "Tireless",
       "id": "tireless",
       "specialist": false,
       "specialisations": null,
@@ -5837,8 +5837,8 @@
     },
     {
       "tier": 1,
-      "talent": "Total Recall",
-      "id": "total-recall",
+      "name": "Total Recall",
+      "id": "total_recall",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5854,8 +5854,8 @@
     },
     {
       "tier": 3,
-      "talent": "Trademark Item",
-      "id": "trademark-item",
+      "name": "Trademark Item",
+      "id": "trademark_item",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5872,8 +5872,8 @@
     },
     {
       "tier": 3,
-      "talent": "True Grit",
-      "id": "true-grit",
+      "name": "True Grit",
+      "id": "true_grit",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5889,8 +5889,8 @@
     },
     {
       "tier": 2,
-      "talent": "Two-Handed Weapon Expertise",
-      "id": "two-handed-weapon-expertise",
+      "name": "Two-Handed Weapon Expertise",
+      "id": "two_handed_weapon_expertise",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5907,8 +5907,8 @@
     },
     {
       "tier": 3,
-      "talent": "Two-Weapon Master",
-      "id": "two-weapon-master",
+      "name": "Two-Weapon Master",
+      "id": "two_weapon_master",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5927,8 +5927,8 @@
     },
     {
       "tier": 2,
-      "talent": "Two-Weapon Wielder",
-      "id": "two-weapon-wielder",
+      "name": "Two-Weapon Wielder",
+      "id": "two_weapon_wielder",
       "specialist": true,
       "specialisations": [
         "Melee",
@@ -5945,8 +5945,8 @@
     },
     {
       "tier": 2,
-      "talent": "Tyranid Hunter",
-      "id": "tyranid-hunter",
+      "name": "Tyranid Hunter",
+      "id": "tyranid_hunter",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -5963,7 +5963,7 @@
     },
     {
       "tier": 2,
-      "talent": "Tyrant",
+      "name": "Tyrant",
       "id": "tyrant",
       "specialist": false,
       "specialisations": null,
@@ -5981,8 +5981,8 @@
     },
     {
       "tier": 2,
-      "talent": "Unarmed Specialist",
-      "id": "Unarmed Specialist",
+      "name": "Unarmed Specialist",
+      "id": "unarmed_specialist",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6000,8 +6000,8 @@
     },
     {
       "tier": 2,
-      "talent": "Unbowed and Unbroken",
-      "id": "unbowed-and-unbroken",
+      "name": "Unbowed and Unbroken",
+      "id": "unbowed_and_unbroken",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6017,8 +6017,8 @@
     },
     {
       "tier": 3,
-      "talent": "Underfoot Assault",
-      "id": "underfoot-assault",
+      "name": "Underfoot Assault",
+      "id": "underfoot_assault",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6035,8 +6035,8 @@
     },
     {
       "tier": 1,
-      "talent": "Unfaltering Redemption",
-      "id": "unfaltering-redemption",
+      "name": "Unfaltering Redemption",
+      "id": "unfaltering_redemption",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6052,7 +6052,7 @@
     },
     {
       "tier": 2,
-      "talent": "Unfazeable",
+      "name": "Unfazeable",
       "id": "unfazeable",
       "specialist": false,
       "specialisations": null,
@@ -6070,8 +6070,8 @@
     },
     {
       "tier": 3,
-      "talent": "Unhallowed Discovery",
-      "id": "unhallowed-discovery",
+      "name": "Unhallowed Discovery",
+      "id": "unhallowed_discovery",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6088,8 +6088,8 @@
     },
     {
       "tier": 3,
-      "talent": "Unknown and Unnamed",
-      "id": "unknown-and-unnamed",
+      "name": "Unknown and Unnamed",
+      "id": "unknown_and_unnamed",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6107,7 +6107,7 @@
     },
     {
       "tier": 1,
-      "talent": "Unremarkable",
+      "name": "Unremarkable",
       "id": "unremarkable",
       "specialist": false,
       "specialisations": null,
@@ -6122,8 +6122,8 @@
     },
     {
       "tier": 2,
-      "talent": "Unstoppable Charge",
-      "id": "unstoppable-charge",
+      "name": "Unstoppable Charge",
+      "id": "unstoppable_charge",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6140,8 +6140,8 @@
     },
     {
       "tier": 1,
-      "talent": "Unusual Companion",
-      "id": "unusual-companion",
+      "name": "Unusual Companion",
+      "id": "unusual_companion",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6157,8 +6157,8 @@
     },
     {
       "tier": 1,
-      "talent": "Urge the Penitent",
-      "id": "urge-the-penitent",
+      "name": "Urge the Penitent",
+      "id": "urge_the_penitent",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6175,8 +6175,8 @@
     },
     {
       "tier": 2,
-      "talent": "Vengeful Protector",
-      "id": "vengeful-protector",
+      "name": "Vengeful Protector",
+      "id": "vengeful_protector",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6193,8 +6193,8 @@
     },
     {
       "tier": 2,
-      "talent": "Versatile Pilot",
-      "id": "versatile-pilot",
+      "name": "Versatile Pilot",
+      "id": "versatile_pilot",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6211,8 +6211,8 @@
     },
     {
       "tier": 3,
-      "talent": "Versatile Shooter",
-      "id": "versatile-shooter",
+      "name": "Versatile Shooter",
+      "id": "versatile_shooter",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6229,8 +6229,8 @@
     },
     {
       "tier": 3,
-      "talent": "Veteran Comrade",
-      "id": "veteran-comrade",
+      "name": "Veteran Comrade",
+      "id": "veteran_comrade",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6246,7 +6246,7 @@
     },
     {
       "tier": 1,
-      "talent": "Vigilant",
+      "name": "Vigilant",
       "id": "vigilant",
       "specialist": false,
       "specialisations": null,
@@ -6263,8 +6263,8 @@
     },
     {
       "tier": 2,
-      "talent": "Vile Intrusion",
-      "id": "vile-intrusion",
+      "name": "Vile Intrusion",
+      "id": "vile_intrusion",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6281,8 +6281,8 @@
     },
     {
       "tier": 3,
-      "talent": "Vitality Coils",
-      "id": "vitality-coils",
+      "name": "Vitality Coils",
+      "id": "vitality_coils",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6300,8 +6300,8 @@
     },
     {
       "tier": 1,
-      "talent": "Void Tactician",
-      "id": "void-tactician",
+      "name": "Void Tactician",
+      "id": "void_tactician",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6317,8 +6317,8 @@
     },
     {
       "tier": 3,
-      "talent": "War Cry",
-      "id": "war-cry",
+      "name": "War Cry",
+      "id": "war_cry",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6336,8 +6336,8 @@
     },
     {
       "tier": 1,
-      "talent": "Warp Affinity",
-      "id": "warp-affinity",
+      "name": "Warp Affinity",
+      "id": "warp_affinity",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6354,8 +6354,8 @@
     },
     {
       "tier": 2,
-      "talent": "Warp Conduit",
-      "id": "warp-conduit",
+      "name": "Warp Conduit",
+      "id": "warp_conduit",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6373,8 +6373,8 @@
     },
     {
       "tier": 3,
-      "talent": "Warp Lock",
-      "id": "warp-lock",
+      "name": "Warp Lock",
+      "id": "warp_lock",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6392,8 +6392,8 @@
     },
     {
       "tier": 1,
-      "talent": "Warp Sense",
-      "id": "warp-sense",
+      "name": "Warp Sense",
+      "id": "warp_sense",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6411,8 +6411,8 @@
     },
     {
       "tier": 2,
-      "talent": "Watchful for Betrayal",
-      "id": "watchful-for-betrayal",
+      "name": "Watchful for Betrayal",
+      "id": "watchful_for_betrayal",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6431,8 +6431,8 @@
     },
     {
       "tier": 3,
-      "talent": "Weapon Intuition",
-      "id": "weapon-intuition",
+      "name": "Weapon Intuition",
+      "id": "weapon_intuition",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6448,8 +6448,8 @@
     },
     {
       "tier": 1,
-      "talent": "Weapon Training",
-      "id": "weapon-training",
+      "name": "Weapon Training",
+      "id": "weapon_training",
       "specialist": true,
       "specialisations": [
         "Any Weapon Group",
@@ -6466,8 +6466,8 @@
     },
     {
       "tier": 1,
-      "talent": "Weapon-Tech",
-      "id": "weapon-tech",
+      "name": "Weapon-Tech",
+      "id": "weapon_tech",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6484,8 +6484,8 @@
     },
     {
       "tier": 2,
-      "talent": "Web of Peers",
-      "id": "web-of-peers",
+      "name": "Web of Peers",
+      "id": "web_of_peers",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6501,8 +6501,8 @@
     },
     {
       "tier": 2,
-      "talent": "Whirlwind of Death",
-      "id": "whirlwind-of-death",
+      "name": "Whirlwind of Death",
+      "id": "whirlwind_of_death",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6518,7 +6518,7 @@
     },
     {
       "tier": 2,
-      "talent": "Whispers",
+      "name": "Whispers",
       "id": "whispers",
       "specialist": false,
       "specialisations": null,
@@ -6536,8 +6536,8 @@
     },
     {
       "tier": 2,
-      "talent": "Wild Charge",
-      "id": "wild-charge",
+      "name": "Wild Charge",
+      "id": "wild_charge",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6554,8 +6554,8 @@
     },
     {
       "tier": 2,
-      "talent": "Witch Finder",
-      "id": "witch-finder",
+      "name": "Witch Finder",
+      "id": "witch_finder",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6572,8 +6572,8 @@
     },
     {
       "tier": 3,
-      "talent": "Wrath of the Righteous",
-      "id": "wrath-of-the-righteous",
+      "name": "Wrath of the Righteous",
+      "id": "wrath_of_the_righteous",
       "specialist": false,
       "specialisations": null,
       "prerequisites": [
@@ -6589,7 +6589,7 @@
     },
     {
       "tier": 1,
-      "talent": "Wrestler",
+      "name": "Wrestler",
       "id": "wrestler",
       "specialist": false,
       "specialisations": null,
@@ -6607,7 +6607,7 @@
     },
     {
       "tier": 2,
-      "talent": "Xenosavant",
+      "name": "Xenosavant",
       "id": "xenosavant",
       "specialist": false,
       "specialisations": null,

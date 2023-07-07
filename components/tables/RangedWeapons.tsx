@@ -7,7 +7,7 @@ import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 
 import 'react-tabs/style/react-tabs.css';
 
-export default function RangedWeapons({ data }: { data: RangedWeaponRecord[] }) {
+export default function RangedWeapons({ rootPath, data }: { rootPath: string, data: RangedWeaponRecord[] }) {
   const [weaponGroups, setWeaponGroups] = useState([] as string[]);
 
   useEffect(() => {
@@ -27,6 +27,7 @@ export default function RangedWeapons({ data }: { data: RangedWeaponRecord[] }) 
       {weaponGroups?.map((group: string) => (
           <TabPanel key={`${group}-tabpanel`}>
             <RangedWeaponTable
+              rootPath={rootPath}
               group={group}
               tableData={data.filter((item) => item.type === group)}
             />

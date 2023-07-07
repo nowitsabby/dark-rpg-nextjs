@@ -1,10 +1,13 @@
 import availability from '../../util/Availability';
+import TableLink from './TableLink';
 import { MeleeWeaponRecord, WeaponGroupTable } from './WeaponGroupTable';
 
 export default function MeleeWeaponTable({
+  rootPath,
   tableData,
   group,
 }: {
+  rootPath: string,
   tableData: MeleeWeaponRecord[];
   group: string;
 }) {
@@ -14,8 +17,8 @@ export default function MeleeWeaponTable({
       grow: 10,
       sortable: true,
       wrap: true,
-      selector: (row: MeleeWeaponRecord) => row.weapon,
-      format: (row: MeleeWeaponRecord) => <strong>{row.weapon}</strong>,
+      selector: (row: MeleeWeaponRecord) => row.name,
+      format: (row: MeleeWeaponRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Class',

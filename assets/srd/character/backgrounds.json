@@ -4,8 +4,8 @@
   "component": "Backgrounds",
   "data": [
     {
-      "background": "Adepta Sororitas",
-      "id": "adepta-sororitas",
+      "name": "Adepta Sororitas",
+      "id": "adepta_sororitas",
       "skills": [
         "Athletics",
         [
@@ -51,8 +51,8 @@
       "traits": null
     },
     {
-      "background": "Adeptus Administratum",
-      "id": "adeptus-administratum",
+      "name": "Adeptus Administratum",
+      "id": "adeptus_administratum",
       "skills": [
         [
           "Commerce",
@@ -93,8 +93,8 @@
       "traits": null
     },
     {
-      "background": "Adeptus Arbites",
-      "id": "adeptus-arbites",
+      "name": "Adeptus Arbites",
+      "id": "adeptus_arbites",
       "skills": [
         "Awareness",
         "Common Lore (Adeptus Arbites)",
@@ -138,8 +138,8 @@
       "traits": null
     },
     {
-      "background": "Adeptus Astra Telepathica",
-      "id": "adeptus-astra-telepathica",
+      "name": "Adeptus Astra Telepathica",
+      "id": "adeptus_astra_telepathica",
       "skills": [
         "Awareness",
         "Common Lore (Adeptus Astra Telepathica)",
@@ -189,8 +189,8 @@
       "traits": null
     },
     {
-      "background": "Adeptus Mechanicus",
-      "id": "adeptus-mechanicus",
+      "name": "Adeptus Mechanicus",
+      "id": "adeptus_mechanicus",
       "skills": [
         [
           "Awareness",
@@ -234,8 +234,8 @@
       "traits": "Mechanicus Implants"
     },
     {
-      "background": "Adeptus Ministorum",
-      "id": "adeptus-ministorum",
+      "name": "Adeptus Ministorum",
+      "id": "adeptus_ministorum",
       "skills": [
         "Charm",
         "Command",
@@ -284,8 +284,8 @@
       "traits": null
     },
     {
-      "background": "Schola Graduate",
-      "id": "schola-graduate",
+      "name": "Schola Graduate",
+      "id": "schola_graduate",
       "skills": [
         "Command",
         "Scholastic Lore ({X})",
@@ -325,7 +325,7 @@
       "traits": null
     },
     {
-      "background": "Exorcised",
+      "name": "Exorcised",
       "id": "exorcised",
       "skills": [
         "Awareness",
@@ -384,8 +384,8 @@
       "traits": null
     },
     {
-      "background": "Forge Labourer",
-      "id": "forge-labourer",
+      "name": "Forge Labourer",
+      "id": "forge_labourer",
       "skills": [
         "Athletics",
         [
@@ -427,7 +427,7 @@
       "traits": null
     },
     {
-      "background": "Heretek",
+      "name": "Heretek",
       "id": "heretek",
       "skills": [
         [
@@ -476,8 +476,8 @@
       "traits": "Mechanicus Implants"
     },
     {
-      "background": "Imperial Guard",
-      "id": "imperial-guard",
+      "name": "Imperial Guard",
+      "id": "imperial_guard",
       "skills": [
         "Athletics",
         "Command",
@@ -519,8 +519,8 @@
       "traits": null
     },
     {
-      "background": "Imperial Navy",
-      "id": "imperial-navy",
+      "name": "Imperial Navy",
+      "id": "imperial_navy",
       "skills": [
         "Athletics",
         [
@@ -567,7 +567,7 @@
       "traits": null
     },
     {
-      "background": "Mutant",
+      "name": "Mutant",
       "id": "mutant",
       "skills": [
         [
@@ -626,8 +626,8 @@
       ]
     },
     {
-      "background": "Navis Nobilite",
-      "id": "navis-nobilite",
+      "name": "Navis Nobilite",
+      "id": "navis_nobilite",
       "skills": [
         "Common Lore (Navis Nobilite)",
         "Forbidden Lore (Navigators)",
@@ -674,7 +674,7 @@
       "traits": null
     },
     {
-      "background": "Outcast",
+      "name": "Outcast",
       "id": "outcast",
       "skills": [
         [
@@ -722,8 +722,8 @@
       "traits": null
     },
     {
-      "background": "Rogue Trader Fleet",
-      "id": "rogue-trader-fleet",
+      "name": "Rogue Trader Fleet",
+      "id": "rogue_trader_fleet",
       "skills": [
         [
           "Charm",

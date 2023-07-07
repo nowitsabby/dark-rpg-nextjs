@@ -5,6 +5,7 @@
   "data": [
     {
       "name": "Jericho-class pilgrim vessel",
+      "id": "jericho_class_pilgrim_vessel",
       "class": "Transport",
       "speed": 3,
       "manoeuvrability": -10,
@@ -28,6 +29,7 @@
     },
     {
       "name": "Vagabond-class merchant trader",
+      "id": "vagabond_class_merchant_trader",
       "class": "Transport",
       "speed": 4,
       "manoeuvrability": -5,
@@ -50,6 +52,7 @@
     },
     {
       "name": "Carrack-Class Transport",
+      "id": "carrack_class_transport",
       "class": "Transport",
       "speed": 4,
       "manoeuvrability": -5,
@@ -72,6 +75,7 @@
     },
     {
       "name": "Goliath-Class Factory Ship",
+      "id": "goliath_class_factory_ship",
       "class": "Transport",
       "speed": 3,
       "manoeuvrability": -10,
@@ -103,6 +107,7 @@
     },
     {
       "name": "Universe-Class Mass Conveyor",
+      "id": "universe_class_mass_conveyor",
       "class": "Transport",
       "speed": 2,
       "manoeuvrability": -20,
@@ -134,6 +139,7 @@
     },
     {
       "name": "Loki-class Q-ship",
+      "id": "loki_class_q_ship",
       "class": "Transport",
       "speed": 4,
       "manoeuvrability": -5,
@@ -160,6 +166,7 @@
     },
     {
       "name": "Orion-Class Star Clipper",
+      "id": "orion_class_star_clipper",
       "class": "Transport",
       "speed": 10,
       "manoeuvrability": 25,
@@ -186,6 +193,7 @@
     },
     {
       "name": "Hazeroth-class privateer",
+      "id": "hazeroth_class_privateer",
       "class": "Raider",
       "speed": 10,
       "manoeuvrability": 23,
@@ -203,6 +211,7 @@
     },
     {
       "name": "Havoc-class merchant raider",
+      "id": "havoc_class_merchant_raider",
       "class": "Raider",
       "speed": 9,
       "manoeuvrability": 25,
@@ -220,6 +229,7 @@
     },
     {
       "name": "Meritech Shrike-Class Raider",
+      "id": "meritech_shrike_class_raider",
       "class": "Raider",
       "speed": 10,
       "manoeuvrability": 25,
@@ -242,6 +252,7 @@
     },
     {
       "name": "Iconoclast-Class Destroyer",
+      "id": "iconoclast_class_destroyer",
       "class": "Raider",
       "speed": 10,
       "manoeuvrability": 25,
@@ -264,6 +275,7 @@
     },
     {
       "name": "Viper-Class Scout Sloop",
+      "id": "viper_class_scout_sloop",
       "class": "Raider",
       "speed": 11,
       "manoeuvrability": 30,
@@ -280,6 +292,7 @@
     },
     {
       "name": "Cobra-class Destroyer",
+      "id": "cobra_class_destroyer",
       "class": "Raider",
       "speed": 10,
       "manoeuvrability": 30,
@@ -297,6 +310,7 @@
     },
     {
       "name": "Sword-class frigate",
+      "id": "sword_class_frigate",
       "class": "Frigate",
       "speed": 8,
       "manoeuvrability": 20,
@@ -314,6 +328,7 @@
     },
     {
       "name": "Tempest-class strike frigate",
+      "id": "tempest_class_strike_frigate",
       "class": "Frigate",
       "speed": 8,
       "manoeuvrability": 18,
@@ -331,6 +346,7 @@
     },
     {
       "name": "Firestorm-class Frigate",
+      "id": "firestorm_class_frigate",
       "class": "Frigate",
       "speed": 7,
       "manoeuvrability": 20,
@@ -348,6 +364,7 @@
     },
     {
       "name": "Falchion-Class Frigate",
+      "id": "falchion_class_frigate",
       "class": "Frigate",
       "speed": 8,
       "manoeuvrability": 17,
@@ -371,6 +388,7 @@
     },
     {
       "name": "Claymore-Class Corvette",
+      "id": "claymore_class_corvette",
       "class": "Frigate",
       "speed": 8,
       "manoeuvrability": 18,
@@ -388,6 +406,7 @@
     },
     {
       "name": "Turbulent-Class Heavy Frigate",
+      "id": "turbulent_class_heavy_frigate",
       "class": "Frigate",
       "speed": 7,
       "manoeuvrability": 18,
@@ -414,6 +433,7 @@
     },
     {
       "name": "Dauntless-class light cruiser",
+      "id": "dauntless_class_light_cruiser",
       "class": "Light Cruiser",
       "speed": 7,
       "manoeuvrability": 15,
@@ -432,6 +452,7 @@
     },
     {
       "name": "Endeavour-Class Light Cruiser",
+      "id": "endeavour_class_light_cruiser",
       "class": "Light Cruiser",
       "speed": 6,
       "manoeuvrability": 12,
@@ -454,6 +475,7 @@
     },
     {
       "name": "Defiant-Class Light Cruiser",
+      "id": "defiant_class_light_cruiser",
       "class": "Light Cruiser",
       "speed": 6,
       "manoeuvrability": 12,
@@ -477,6 +499,7 @@
     },
     {
       "name": "Secutor-class monitor-cruiser",
+      "id": "secutor_class_monitor_cruiser",
       "class": "Light Cruiser",
       "speed": 5,
       "manoeuvrability": 12,
@@ -496,6 +519,7 @@
     },
     {
       "name": "Lathe-class monitor-cruiser",
+      "id": "lathe_class_monitor_cruiser",
       "class": "Light Cruiser",
       "speed": 5,
       "manoeuvrability": 12,
@@ -515,6 +539,7 @@
     },
     {
       "name": "Lunar-class cruiser",
+      "id": "lunar_class_cruiser",
       "class": "Cruiser",
       "speed": 5,
       "manoeuvrability": 10,
@@ -535,6 +560,7 @@
     },
     {
       "name": "Conquest-Class Star Galleon",
+      "id": "conquest_class_star_galleon",
       "class": "Cruiser",
       "speed": 4,
       "manoeuvrability": 5,
@@ -563,6 +589,7 @@
     },
     {
       "name": "Ambition-Class Cruiser",
+      "id": "ambition_class_cruiser",
       "class": "Cruiser",
       "speed": 5,
       "manoeuvrability": 12,
@@ -583,6 +610,7 @@
     },
     {
       "name": "Dictator-Class Cruiser",
+      "id": "dictator_class_cruiser",
       "class": "Cruiser",
       "speed": 5,
       "manoeuvrability": 8,
@@ -608,6 +636,7 @@
     },
     {
       "name": "Tyrant-class cruiser",
+      "id": "tyrant_class_cruiser",
       "class": "Cruiser",
       "speed": 5,
       "manoeuvrability": 10,
@@ -628,6 +657,7 @@
     },
     {
       "name": "Overlord-Class Battlecruiser",
+      "id": "overlord_class_battlecruiser",
       "class": "Battlecruiser",
       "speed": 5,
       "manoeuvrability": 10,
@@ -654,6 +684,7 @@
     },
     {
       "name": "Mars-Class Battlecruiser",
+      "id": "mars_class_battlecruiser",
       "class": "Battlecruiser",
       "speed": 5,
       "manoeuvrability": 10,
@@ -688,6 +719,7 @@
     },
     {
       "name": "Chalice-Class Battlecruiser",
+      "id": "chalice_class_battlecruiser",
       "class": "Battlecruiser",
       "speed": 6,
       "manoeuvrability": 10,
@@ -718,6 +750,7 @@
     },
     {
       "name": "Armageddon-Class Battlecruiser",
+      "id": "armageddon_class_battlecruiser",
       "class": "Battlecruiser",
       "speed": 5,
       "manoeuvrability": 10,
@@ -748,6 +781,7 @@
     },
     {
       "name": "Avenger-Class Grand Cruiser",
+      "id": "avenger_class_grand_cruiser",
       "class": "Grand Cruiser",
       "speed": 5,
       "manoeuvrability": 5,
@@ -774,6 +808,7 @@
     },
     {
       "name": "Repulsive-Class Grand Cruiser",
+      "id": "repulsive_class_grand_cruiser",
       "class": "Grand Cruiser",
       "speed": 5,
       "manoeuvrability": 8,
@@ -808,6 +843,7 @@
     },
     {
       "name": "Exorcist-Class Grand Cruiser",
+      "id": "exorcist_class_grand_cruiser",
       "class": "Grand Cruiser",
       "speed": 4,
       "manoeuvrability": 4,
@@ -838,6 +874,7 @@
     },
     {
       "name": "Wayfarer-class station",
+      "id": "wayfarer_class_station",
       "class": "Space Station",
       "speed": "-",
       "manoeuvrability": "-",

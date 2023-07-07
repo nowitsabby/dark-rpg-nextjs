@@ -23,8 +23,8 @@
     "talents": [
       {
         "tier": 2,
-        "talent": "Bane of the Daemon",
-        "id": "bane-of-the-daemon",
+        "name": "Bane of the Daemon",
+        "id": "bane_of_the_daemon",
         "prerequisites": [
           "Willpower 40"
         ],
@@ -37,8 +37,8 @@
       },
       {
         "tier": 3,
-        "talent": "Daemonic Anathema",
-        "id": "daemonic-anathema",
+        "name": "Daemonic Anathema",
+        "id": "daemonic_anathema",
         "prerequisites": [
           "Warp Anathema",
           "Willpower 55"
@@ -51,8 +51,8 @@
       },
       {
         "tier": 3,
-        "talent": "Null Field",
-        "id": "null-field",
+        "name": "Null Field",
+        "id": "null_field",
         "prerequisites": [
           "Psychic Null",
           "Willpower 50"
@@ -65,8 +65,8 @@
       },
       {
         "tier": 2,
-        "talent": "Psychic Null",
-        "id": "psychic-null",
+        "name": "Psychic Null",
+        "id": "psychic_null",
         "prerequisites": [
           "Willpower 40"
         ],
@@ -79,8 +79,8 @@
       },
       {
         "tier": 1,
-        "talent": "Soulless Aura",
-        "id": "soulless-aura",
+        "name": "Soulless Aura",
+        "id": "soulless_aura",
         "prerequisites": [
           "Willpower 30"
         ],
@@ -93,8 +93,8 @@
       },
       {
         "tier": 3,
-        "talent": "Warp Anathema",
-        "id": "warp-anathema",
+        "name": "Warp Anathema",
+        "id": "warp_anathema",
         "prerequisites": [
           "Warp Disruption",
           "Willpower 55"
@@ -108,8 +108,8 @@
       },
       {
         "tier": 3,
-        "talent": "Warp Bane",
-        "id": "warp-bane",
+        "name": "Warp Bane",
+        "id": "warp_bane",
         "prerequisites": [
           "Warp Disruption",
           "Willpower 55"
@@ -122,8 +122,8 @@
       },
       {
         "tier": 2,
-        "talent": "Warp Disruption",
-        "id": "warp-disruption",
+        "name": "Warp Disruption",
+        "id": "warp_disruption",
         "prerequisites": [
           "Willpower 45"
         ],
@@ -136,8 +136,8 @@
       },
       {
         "tier": 3,
-        "talent": "Daemonic Disruption",
-        "id": "daemonic-disruption",
+        "name": "Daemonic Disruption",
+        "id": "daemonic_disruption",
         "prerequisites": [
           "Bane of the Daemon",
           "Willpower 50"

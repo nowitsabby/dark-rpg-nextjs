@@ -13,7 +13,7 @@ export interface TorpedoAttackCraft {
     torpedoes: TorpedoesRecord;
   };
 
-export default function TorpedoesAttackCraft({ data }: { data: TorpedoAttackCraft }) {
+export default function TorpedoesAttackCraft({ rootPath, data }: { rootPath: string, data: TorpedoAttackCraft }) {
 
   return (
     <Tabs>
@@ -26,7 +26,7 @@ export default function TorpedoesAttackCraft({ data }: { data: TorpedoAttackCraf
         <Torpedoes data={data?.torpedoes} />
       </TabPanel>
       <TabPanel>
-        <AttackCraft data={data?.attackCraft} />
+        <AttackCraft rootPath={`${rootPath}`} data={data?.attackCraft} />
       </TabPanel>
     </Tabs>
   );

@@ -4,7 +4,7 @@
   "component": "Roles",
   "data": [
     {
-      "role": "Ace",
+      "name": "Ace",
       "id": "ace",
       "bonus": {
         "title": "Right Stuff",
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "role": "Assassin",
+      "name": "Assassin",
       "id": "assassin",
       "bonus": {
         "title": "Sure Kill",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "role": "Chirurgeon",
+      "name": "Chirurgeon",
       "id": "chirurgeon",
       "bonus": {
         "title": "Dedicated Healer",
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "role": "Crusader",
+      "name": "Crusader",
       "id": "crusader",
       "bonus": {
         "title": "Smite the Unholy",
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "role": "Desperado",
+      "name": "Desperado",
       "id": "desperado",
       "bonus": {
         "title": "Move and Shoot",
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "role": "Fanatic",
+      "name": "Fanatic",
       "id": "fanatic",
       "bonus": {
         "title": "Death to All Who Oppose Me!",
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "role": "Hierophant",
+      "name": "Hierophant",
       "id": "hierophant",
       "bonus": {
         "title": "Sway the Masses",
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "role": "Killer",
+      "name": "Killer",
       "id": "killer",
       "bonus": {
         "title": "Cold Killer",
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "role": "Mystic",
+      "name": "Mystic",
       "id": "mystic",
       "bonus": {
         "title": "Stare into the Warp",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "role": "Navigator",
+      "name": "Navigator",
       "id": "navigator",
       "bonus": {
         "title": "Warp Eye",
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "role": "Pentient",
+      "name": "Pentient",
       "id": "pentient",
       "bonus": {
         "title": "Cleansing Pain",
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "role": "Sage",
+      "name": "Sage",
       "id": "sage",
       "bonus": {
         "title": "Quest for Knowledge",
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "role": "Seeker",
+      "name": "Seeker",
       "id": "seeker",
       "bonus": {
         "title": "Nothing Escapes My Sight",
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "role": "Warrior",
+      "name": "Warrior",
       "id": "warrior",
       "bonus": {
         "title": "Expert at Violence",

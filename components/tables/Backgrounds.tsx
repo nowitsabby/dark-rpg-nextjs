@@ -2,9 +2,10 @@
 
 import DataTable from 'react-data-table-component';
 import SrdMarkdown from '../util/SrdMarkdown';
+import TableLink from './components/TableLink';
 
 export interface BackgroundsTable {
-  background: string;
+  name: string;
   id: string;
   skills: Array<string | Array<string | string[]>>;
   talents: Array<string | Array<string | string[]>>;
@@ -17,7 +18,7 @@ export interface BackgroundsTable {
   traits: string[] | string | null;
 }
 
-export default function Backgrounds({ data }: { data: BackgroundsTable[] }) {
+export default function Backgrounds({ rootPath, data }: { rootPath: string, data: BackgroundsTable[] }) {
   const choiceArrayToString = (
     choices: Array<string | Array<string | string[]>>
   ) => {
@@ -52,12 +53,8 @@ export default function Backgrounds({ data }: { data: BackgroundsTable[] }) {
       grow: 2,
       wrap: true,
       allowOverflow: true,
-      selector: (row: BackgroundsTable) => row.background,
-      format: (row: BackgroundsTable) => (
-        <strong id={row.id} className="table-anchor">
-          {row.background}
-        </strong>
-      ),
+      selector: (row: BackgroundsTable) => row.name,
+      format: (row: BackgroundsTable) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Skills',

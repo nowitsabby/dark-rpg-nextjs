@@ -4,9 +4,10 @@ import { useMemo, useState } from 'react';
 import DataTable from 'react-data-table-component';
 import FilterComponent from './components/FilterComponent';
 import SrdMarkdown from '../util/SrdMarkdown';
+import TableLink from './components/TableLink';
 
 export interface TalentType {
-  talent: string;
+  name: string;
   id: string;
   specialist: boolean;
   specialisations: string[] | null;
@@ -18,7 +19,7 @@ export interface TalentType {
   source: string;
 }
 
-export default function Talents({ data }: { data: TalentType[] }) {
+export default function Talents({ rootPath, data }: { rootPath: string, data: TalentType[] }) {
   const [filterText, setFilterText] = useState('');
   const subHeaderComponentMemo = useMemo(() => {
     return (
@@ -42,12 +43,8 @@ export default function Talents({ data }: { data: TalentType[] }) {
       grow: 2,
       sortable: true,
       wrap: true,
-      selector: (row: TalentType) => row.talent,
-      format: (row: TalentType) => (
-        <strong id={row.id} className="table-anchor">
-          {row.talent}
-        </strong>
-      ),
+      selector: (row: TalentType) => row.name,
+      format: (row: TalentType) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Specialist',
@@ -85,7 +82,7 @@ export default function Talents({ data }: { data: TalentType[] }) {
         data.filter((item) => {
           if (filterText) {
             return (
-              item.talent
+              item.name
                 .toLowerCase()
                 .includes(filterText.toLowerCase()) ||
               item.aptitudes

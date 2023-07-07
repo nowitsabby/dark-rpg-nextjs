@@ -4,420 +4,480 @@
   "component": "Equipment",
   "data": [
     {
-      "item": "Axe-Rake",
+      "name": "Axe-Rake",
+      "id": "axe_rake",
       "weight": "4 kg",
       "availability": "Abundant",
       "description": "The axe-rake grants a +10 bonus to Climb Tests, as well as on Tests made to force doors or locks open. It can also be used as a melee weapon, dealing 1d10+2 I or R Damage with the Primitive and Unbalanced qualities.",
       "source": "Inquisitor's Handbook"
     },
     {
-      "item": "Glow-globe / Stablight",
+      "name": "Glow-globe / Stablight",
+      "id": "glow_globe_stablight",
       "weight": "0.5 kg",
       "availability": "Abundant",
       "description": "Just as the Inquisition acts as a light against soul-devouring darkness, so these small portable lamps act against the physical darkness of night. Glow-globes are roughly the size of a clenched fist, and can illuminate an area a dozen or so metres in radius, while cylindrical stablights can project a narrower, conical beam but at twice that distance. Both last roughly five hours before their power packs need recharging or replacing.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Entrenching Tool",
+      "name": "Entrenching Tool",
+      "id": "entrenching_tool",
       "weight": "2 kg",
       "availability": "Plentiful",
       "description": "A key component of the standard kit of the Imperial Guard, the entrenching tool is intended primarily for filling sandbags. This small, folding spade is invaluable for digging trenches, shoring up earthen mounds, and preparing other basic defensive structures. The heavy blade also makes for an excellent improvised weapon, and many Guardsmen believe that a well-sharpened entrenching tool makes for a better melee weapon than their standard-issue knife. A properly sharpened entrenching tool can be used in melee combat with the profile of a warknife, with the Primitive (8) and Unwieldy Qualities.",
       "source": "Hammer of the Emperor"
     },
     {
-      "item": "Manacles",
+      "name": "Manacles",
+      "id": "manacles",
       "weight": "1 kg",
       "availability": "Plentiful",
       "description": "No bounty hunter or Enforcer would be without several sets of these solid restraints, though they are often used to ensure sacrificial offerings do not stray from a cult's altar or for other, darker purposes.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Mantrap",
+      "name": "Mantrap",
+      "id": "mantrap",
       "weight": "2kg",
       "availability": "Plentiful",
       "description": "If a character steps on the clutch inside the trap, it snaps shut on their leg dealing 1d10 Rending Damage, and rendering him Immobilized. The individual must pass a Difficult (-10) Strength Test to free themselves from the clutches of the trap.",
       "source": "Only War"
     },
     {
-      "item": "Regicide Set",
+      "name": "Regicide Set",
+      "id": "regicide_set",
       "weight": "1 kg",
       "availability": "Plentiful",
       "description": "A two-player game played across all classes from lowly refresher-scrubbers to spire nobility, regicide is simple to learn but difficult to master. Many Imperial Guard officers hone their tactical senses in games with small sets that can fold into their combat kit. A typical regicide game takes 1d5 hours, and while it usually has no in-game effects, the GM can offer benefits to well-roleplayed games such as a +10 bonus to Fellowship-based tests with the opponent for the following day.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Writing Kit",
+      "name": "Writing Kit",
+      "id": "writing_kit",
       "weight": "2 kg",
       "availability": "Plentiful",
       "description": "Simple and basic, standard writing kits contain parchment, inks, and quills for Acolytes to transcribe confessions, diagram important finds, and leave messages for fellow Acolytes.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Accordion Wire",
+      "name": "Accordion Wire",
+      "id": "accordion_wire",
       "weight": "0.5 kg",
       "availability": "Common",
       "description": "Any character attempting to cross deployed accordion wire must make a Hard (-20) Acrobatics Test or suffer 1d5 Rending Damage plus 1 extra Damage for each Degree of Failure on the Test.",
       "source": "Only War"
     },
     {
-      "item": "Clip / Drop Harness",
+      "name": "Clip / Drop Harness",
+      "id": "clip_drop_harness",
       "weight": "2 kg",
       "availability": "Common",
       "description": "A simple (but robust) spooled safety line with a magnetic or hooked clasp at the end, these tools attach to the user's belt or shoulder straps. When deployed, they allow for relative safety in rappelling down vertical surfaces or preventing falls from unsteady rooftops. A character using a clip harness to descend a vertical surface gains a +30 bonus on tests to Climb and cannot fall if he fails. Common quality harnesses can hold 150kg, while Good quality harnesses can support 200 kg.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Dataslate",
+      "name": "Dataslate",
+      "id": "dataslate",
       "weight": "0.5 kg",
       "availability": "Common",
       "description": "These devices are common across the Imperium, and are the primary means of storing and reading printed text and other forms of data such as pict or audio recordings. Well-crafted dataslates can also rerecord new information, or transmit and receive data from other devices.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Grapnel & Line",
+      "name": "Grapnel & Line",
+      "id": "grapnel_line",
       "weight": "2 kg",
       "availability": "Common",
       "description": "A combination of clip-harness and gas-powered pistol, this can fire a hook or magnetic clasp attached to a thin, strong wire at an overhead target up to 100m away. Once the grapnel attaches to the desired spot such as a rooftop, a user can manually climb the line or activate a powered winch that can lift the user roughly 5m per round. Common sets can hold 150kg, while Good or Best can support 200 kg.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Inhaler / Injector",
+      "name": "Inhaler / Injector",
+      "id": "inhaler_injector",
       "weight": "0.5 kg",
       "availability": "Common",
       "description": "Many drugs require a device to administer a dose such as a syringe, spray-injector, or gas flask. Each can hold one dose of any drug, which a character may administer as a Half Action.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Medi-kit",
+      "name": "Medi-kit",
+      "id": "medi_kit",
       "weight": "2kg",
       "availability": "Common",
       "description": "Medi-kits contain synth-skin patches, antiseptics, self-sealing bandages, pressure tourniquets, and other medical aids. A standard kit grants a +10 bonus to Medicae tests so long as the user possesses the Medicae skill. Advanced versions also contain tox wands, synth-skin spray, diagnostic cogitators, and additional high-quality supplies. These grant a +20 bonus to Medicae tests (whether or not the user possesses the Medicae skill) but weight an extra 3kg and are of Rare Availability instead of Common.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Salvation Auger",
+      "name": "Salvation Auger",
+      "id": "salvation_auger",
       "weight": "-",
       "availability": "Common",
       "description": "About the size of a pocket chrono, the salvation auger is designed to detect the presence of harmful radiation, airborne toxins and pollutants. These devices are common on most hive worlds, particularly for up-hivers venturing into the depths. Augers alert the wearer when danger is encountered, coming in a variety of patterns and makes, varying from ornate hololithic dials to utilitarian lapel-boxes that shriek alarms when triggered. Basic models do nothing more than signal danger, while the better models can be read with a Ordinary (+10) Tech-Use Test to determine the exact nature of the hazard.",
       "source": "Inquisitor's Handbook"
     },
     {
-      "item": "Arms Coffer",
+      "name": "Arms Coffer",
+      "id": "arms_coffer",
       "weight": "6kg",
       "availability": "Average",
       "description": "A long protective case of many quick-release compartments and sockets for power packs designed to be slung over the back. It is intended to protect the diverse wargear of a professional militant from the environment and pilfering hands. The Arms Coffer has enough room for two Basic weapons or four Pistol weapons (or one Basic weapon and up to two Pistol weapons). In addition, there is enough room for up to four clips of Basic weapon ammunition, or eight clips of Pistol weapon ammunition (or any combination thereof, where one clip of Basic weapon ammunition takes up the space of two clips of Pistol weapon ammunition).",
       "source": "Rogue Trader"
     },
     {
-      "item": "Cogitator System, Emplaced",
+      "name": "Cogitator System, Emplaced",
+      "id": "cogitator_system_emplaced",
       "weight": "100+ kg",
       "availability": "Average",
       "description": "Using a suitable cogitator grants a bonus on Linguistics, Logic and Lore Tests when having to compare or sift through large volumes of data.\n\nThese cogitator systems analyse and process vast quantities of data (planetary tithe records, genotype reconstructions, and so on). Most also feature auto-quills to print data-scrolls, machine-spirit shrines and symbiotic operations-savants or holo-projectors incorporated into their structure. They grant a +20 bonus on relevant Tests. Proper rites and rituals must be observed during cogitator operations on this scale or they will become subject to severe inaccuracies and glitches, perhaps even possession by malign spirits",
       "source": "Inquisitor's Handbook"
     },
     {
-      "item": "Cogitator System, Personal",
+      "name": "Cogitator System, Personal",
+      "id": "cogitator_system_personal",
       "weight": "1.5kg",
       "availability": "Average",
       "description": "Using a suitable cogitator grants a bonus on Linguistics, Logic and Lore Tests when having to compare or sift through large volumes of data.\n\nThese portable units are capable of analysing the information from data-slates and similar sources, and provide a +10 bonus on relevant Tests.",
       "source": "Inquisitor's Handbook"
     },
     {
-      "item": "Field Suture",
+      "name": "Field Suture",
+      "id": "field_suture",
       "weight": "0.5 kg",
       "availability": "Average",
       "description": "Common implements found on battlefields across the Imperium, field sutures are used to quickly sew shut wounds to prevent blood loss. They can vary in form, from a simple needle and thread to archaic devices which staple shut the injury. Field sutures provide a +30 bonus for Medicae tests used to staunch Blood Loss.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Lascutter",
+      "name": "Lascutter",
+      "id": "lascutter",
       "weight": "4 kg",
       "availability": "Average",
       "description": "Ideal for slicing open doors and bulkheads, lascutters were originally designed for mining, where their short-range, intense cutting beam could chop apart even the toughest rock. Most can cut or weld around 10cm of metal depending on the thickness involved. They are large and cumbersome, and so can only be used as a Heavy weapon (acting as a Meltagun without any special weapon qualities) on stationary targets within 2 metres",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Magnoculars",
+      "name": "Magnoculars",
+      "id": "magnoculars",
       "weight": "0.5 kg",
       "availability": "Average",
       "description": "These powerful vision aids can magnify distant items into clear focus, helping ensure no heresy goes unspotted. More advanced, high-quality magnoculars can also do such things as give range read-outs, detect heat sources, calculate target location positioning, and take pict-captures of a view for later analysis.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Micro-bead",
+      "name": "Micro-bead",
+      "id": "micro_bead",
       "weight": "-",
       "availability": "Average",
       "description": "Also known as a bead-comm, these small devices are worn in the ear and allow for short-range communications out to roughly 1 kilometre (depending on weather conditions and intervening terrain). Each fits discreetly in the ear, with higher Craftsmanship models nearly undetectable in casual inspection.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Pict Recorder",
+      "name": "Pict Recorder",
+      "id": "pict_recorder",
       "weight": "1 kg",
       "availability": "Average",
       "description": "A relatively simple recording device, pict recorders — or picters — can capture audiovisual media. Most models can also display recorded data on integrated screens, with advanced models using holographic imagery. Specialised pict-servitors are essentially ambulatory recorders, brought on hazardous events or missions to autonomously capture occurrences for later codifying.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Promethium",
+      "name": "Promethium",
+      "id": "promethium",
       "weight": "1kg",
       "availability": "Average",
       "description": "Promethium is the common name for Imperial petrochemical based liquid fuel refined from a variety of raw minerals and ores. It is also the catchall brand for most the chemicals that make flamer weapons so deadly, as it will burn without oxygen and adheres to targets to excruciating burning effect. It can also be used to create improvised anti-personnel explosives and bombs, detonating with 1d10 E per kilogram used and a blast radius of four times the kilogram amount. Those caught in the blast must take an Agility Test or catch on fi re.",
       "source": "Black Crusade"
     },
     {
-      "item": "Psy Focus",
+      "name": "Psy Focus",
+      "id": "psy_focus",
       "weight": "-",
       "availability": "Average",
       "description": "Many psykers use these small, personalised items to steady themselves before accessing the terrible powers of the Warp. Each is different; some might be no more than a carved finger bone or pressed flower, while others could be a softly glowing crystal or void-iron glyph. All, however, are specially attuned to their bearers through long meditation or ritual, allowing them greater control over their abilities. When a psyker with a psy focus makes a Focus Power test, he gains a +10 bonus.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Snare Mine",
+      "name": "Snare Mine",
+      "id": "snare_mine",
       "weight": "1 kg",
       "availability": "Average",
       "description": "Placing a snare mine requires a Routine (+20) Tech- Use Test and requires one grenade (or other explosive). When a creature of Size (3) or larger approaches within a predetermined distance metres of a snare mine, the grenade detonates with its usual effect. The proximity detonator can be adjusted to trigger at a distance of 1, 2, or 3 metres and can be set with a delay from 0 to 5 Rounds. Detecting a planted snare mine (before triggering it) requires a Challenging (+0) Awareness Test with a -10 penalty for every Degree of Success the user scored on his Tech-Use Test to plant it.",
       "source": "Hammer of the Emperor"
     },
     {
-      "item": "Stummer",
+      "name": "Stummer",
+      "id": "stummer",
       "weight": "2 kg",
       "availability": "Average",
       "description": "The reverse of a screamer, a stummer blankets sound within 5m through sonic detection and dampening projectors. A character carrying an active stummer gains a +30 bonus to Stealth tests. A stummer typically has enough power for 20 minutes of continuous use before needing to be recharged, a process that takes about one hour.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Auspex/Scanner",
+      "name": "Auspex/Scanner",
+      "id": "auspex_scanner",
       "weight": "0.5 kg",
       "availability": "Scarce",
       "description": "These standard Imperial detection devices are used to reveal energy emissions, motion, life-signs, and other information. A character using an auspex gains a +20 bonus to Awareness tests. Once per round, as a Free Action, a character with one may make a Tech-Use test to spot things not normally visible to human senses, such as invisible gases, nearby signs of life, non-visible radiation, or other things as appropriate. The standard range is 50m, though walls more than 50cm thick and certain shielding materials can block a scanner. Good craftsmanship models increase the bonus to +30, but Poor models an only penetrate 20cm of material.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Auto Quill",
+      "name": "Auto Quill",
+      "id": "auto_quill",
       "weight": "-",
       "availability": "Scarce",
       "description": "Often elaborate devices of ink-stained brass and vat-grown or artificial quills, these devices allow a user to copy text or transcribe speech with impressive speed and accuracy. Many scribes carry portable units, suitable for recording interrogation sessions or xenos translations. A character with a relevant Trade skill can use it to gain a +10 to his tests involving this skill when recording data.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Consecrated Scrolls",
+      "name": "Consecrated Scrolls",
+      "id": "consecrated_scrolls",
       "weight": "1kg",
       "availability": "Scarce",
       "description": "Soaked in sacred oils and covered in illuminated texts of devotion, consecrated scrolls offer a small measure of protection against the machinations of the Warp. Before making a Focus Power test, a character possessing one of these scrolls may choose to burn a single one as a Free Action; this destroys that scroll. Should the user have to roll on Psychic Phenomena as a result of the subsequent Focus Power test, he may re-roll the result.",
       "source": "Enemies Beyond"
     },
     {
-      "item": "Hand-Held Targeter",
+      "name": "Hand-Held Targeter",
+      "id": "hand_held_targeter",
       "weight": "0.5 kg",
       "availability": "Scarce",
       "description": "A hand-held targeter is a small device used in most forces of the Imperium. It is capable of detecting ranges to targets using optical sights for zooming, prediction systems for firing, and so on. It is commonly used by spotters assisting with artillery fire. An Acolyte with a hand-held targeter may spend a Half Action to grant another character +20 bonus to his next Ballistic Skill test when firing a weapon with the Indirect quality.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Laud Hailer",
+      "name": "Laud Hailer",
+      "id": "laud_hailer",
       "weight": "4 kg",
       "availability": "Scarce",
       "description": "Whether belting orders over the ferocious roar of combat or addressing a crowd of thousands of the faithful, Imperial officials often require great volume, and a laud hailer is the perfect tool. Each can amplify normal speech levels such that an entire crowd can hear the speaker's words clearly.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Multikey",
+      "name": "Multikey",
+      "id": "multikey",
       "weight": "-",
       "availability": "Scarce",
       "description": "In the right hands, a multikey can open most standard Imperial locks and is thus is highly suspect for honest citizens to possess. This also makes it very desirable for criminals or those operating outside normal channels. A character with a multikey gains a +30 bonus to any Security test when trying to open locks.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Ocular Catechizer",
+      "name": "Ocular Catechizer",
+      "id": "ocular_catechizer",
       "weight": "-",
       "availability": "Scarce",
       "description": "Using these devices gains a character a +10 bonus on Literacy, Lore and Search Tests where the close examination of objects, symbols and deciphering written text is involved. Other Actions cannot be attempted while using an ocular, and if a failure by four or more degrees is rolled on a Test involving the device, feedback through the eyepiece inflicts 1 level of Fatigue on the user. The eyepiece can also record its impressions to an attached data-slate for later study.",
       "source": "Inquisitor's Handbook"
     },
     {
-      "item": "Screamer",
+      "name": "Screamer",
+      "id": "screamer",
       "weight": "2 kg",
       "availability": "Scarce",
       "description": "These proximity alarms set off a piercing wail when they detect intruders. Screamers can detect sound, movement, and even odours. To activate, the player must succeed on a Challenging (+0) Tech-Use test, but the GM rolls this test in secret; players will not know how well the device is working until later on. Once set, a screamer has a Perception of 75 for the purposes of detecting sounds or motions. If it detects an intruder, it sounds its alarm, which can be heard anywhere out to one kilometre. Doors, walls, and other barriers reduce the alarm's range. Poor craftsmanship models only detect loud noises or fast movements nearby. Good versions can detect specific sounds, movement, or even odour ranges, and can also have more subtle warning methods (such as screaming only into vox channels).",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Vox-caster",
+      "name": "Vox-caster",
+      "id": "vox_caster",
       "weight": "4 kg",
       "availability": "Scarce",
       "description": "A standard Imperial long-distance communications device, voxcasters can transmit and receive to other units within 100km, and can reach most orbiting vessels overhead. Higher craftsmanship models have increased ranges, and can include encryption and other security settings.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Cartograph",
+      "name": "Cartograph",
+      "id": "cartograph",
       "weight": "1 kg",
       "availability": "Rare",
       "description": "Characters often operate far from their normal locals, and cartographs are essential in allowing them to know exactly where they are so that their operations can unfold smoothly. Poor Craftsmanship models are no more than maps loaded onto a graphical data-slate, while advanced models can store entire worlds in multi-level modes and even link with orbital satellites to provide exact current location and heading. A standard Cartograph grants +5 to Navigation (Surface) Tests, while Good Craftsmanship versions grant +10.",
       "source": "Black Crusade"
     },
     {
-      "item": "Combi-tool",
+      "name": "Combi-tool",
+      "id": "combi_tool",
       "weight": "1 kg",
       "availability": "Rare",
       "description": "Most combi-tools are small, compact devices filled with foldout and extending probes, blades, hooks, and socket-plugs. They are ideal for coaxing operation from recalcitrant machinery, repairing damaged devices, and in general bending errant machine spirits to the will of the user. A character using a combi-tool gains a +10 bonus to Tech-Use tests.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Diagnostor",
+      "name": "Diagnostor",
+      "id": "diagnostor",
       "weight": "4 kg",
       "availability": "Rare",
       "description": "The diagnostor is a sophisticated medical device used across the galaxy. It can detect and diagnose almost every ailment known to the Imperium, and can be incorporated into medical kits, servo-skulls, and other dedicated servitors. Any individual trained in medical knowledge in the Imperial Guard understands its use. A diagnostor provides +20 to Medicae or Perception tests to determine an ailment; success indicates the proper treatment to be used.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Drop Canister",
+      "name": "Drop Canister",
+      "id": "drop_canister",
       "weight": "25 kg",
       "availability": "Rare",
       "description": "A drop canister can be used to deliver arms and equipment to a unit already in position, or alongside troops deploying by grav chute. Deploying a drop canister from an aircraft requires an Ordinary (+10) Operate (Aeronautica) or Challenging (+0) Intelligence Test. If the character deploying the canister fails the Test, the drop canister lands a number of metres away from the intended location equal to ten times the Degrees of Failure, in a random direction.",
       "source": "Hammer of the Emperor"
     },
     {
-      "item": "Grav Chute",
+      "name": "Grav Chute",
+      "id": "grav_chute",
       "weight": "15 kg",
       "availability": "Rare",
       "description": "Used by the Imperial Guard to drop onto the battlefield from the air, grav chutes use anti-grav fields to slow a rapid fall into a controlled (and safe) descent, with small attitude jets allowing for extra braking and directional finesse. Unlike jump packs, grav chutes are only useful for safe landings and cannot be used for bounding or aerial leaps. If the character passes a Challenging (+0) Agility test or Routine (+20) Operate (Aeronautica) test, the grav chute allows for a safe, guided fall from any height; otherwise the character counts as having fallen two metres for each degree of failure.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Jump Pack",
+      "name": "Jump Pack",
+      "id": "jump_pack",
       "weight": "25 kg",
       "availability": "Rare",
       "description": "A user must have the Operate (Aeronautica) Skill to use a jump pack. The standard model allows a safe descent from any height along with an unlimited series of short jumps of up to double his Base Movement, avoiding any ground obstacles and landing at the end of each Round's movement. Alternatively, the pack can be used to duplicate the Flyer (12) trait for up to a minute at a time. On-board fuel supplies will be exhausted after an hour of continual use.",
       "source": "Black Crusade"
     },
     {
-      "item": "Magboots",
+      "name": "Magboots",
+      "id": "magboots",
       "weight": "2 kg",
       "availability": "Rare",
       "description": "Heavy and bulky, these oversized boots contain electromagnets. They allow the wearer to adhere to metallic surfaces such as exterior hull plating, and are often found in voidship emergency lockers. Magboots reduce the character's Agility bonus by 2, but allows him to move normally when in low- or zero-gravity areas, provided there is a suitable metallic surface to walk upon.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Melta Gel",
+      "name": "Melta Gel",
+      "id": "melta_gel",
       "weight": "-",
       "availability": "Rare",
       "description": "A tube of melta gel can cover five metres in a thin line, or a surface area of one metre square. Along this line or area it deals Damage as a melta bomb over the course of about a minute as it burns through whatever it is applied to before becoming inert",
       "source": ""
     },
     {
-      "item": "Monotask Servo-Skull",
+      "name": "Monotask Servo-Skull",
+      "id": "monotask_servo_skull",
       "weight": "2 kg",
       "availability": "Rare",
       "description": "Servo-skulls represent the honoured remains of valued Imperial servants and Tech-Priests who continue their service even after death. The skull is carefully cleansed and engraved, then fitted with a machine spirit to guide its actions, and tiny grav platings to sustain it in flight. Monotask models are dedicated to a single, basic function and are a common sight on many worlds. Each responds to basic verbal commands, and unless otherwise commanded, always hovers near its master. The types below represent only a fraction of the countless patterns found across the sector.\n* Augur: The skull carries a scanner and vox-data systems to relay its findings. The character gains the benefits of an auspex as long as the servo-skull is within 10 metres and active.\n* Illumination: The skull is fitted with a glow-globe or burning brazier to light an area 20 metres in radius.\n* Laud Hailer: The servo-skull incorporates a laud-hailer, which can play recorded speech or amplify its master's speech as directed.\n* Medicae: The skull is fitted with a medicae scanner and tools. The character gains the benefits of a standard medi-kit as long as the servo-skull is within 2 metres and active.\n* Utility: The skull is equipped with probes, plugs, and tools to aid in technical tasks. The character gains the benefits of a combi-tool as long as the servo-skull is nearby and active.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Nathecium",
+      "name": "Nathecium",
+      "id": "nathecium",
       "weight": "3 kg",
       "availability": "Rare",
       "description": "A sophisticated wrist-mounted medi-pack, a narthecium includes three auto-injectors and a powerful, diamantine-tipped saw for cutting through armour to provide emergency treatment to a wounded Guardsman. Consequently, narthecium are typically reserved for very well-supplied regiments, or medics attendant to an officer and his command squad. As well as providing all the benefits of a Good-Craftsmanship medi-pack, the user of a narthecium may administer a dose of a drug from one of the auto-injectors as a Free Action, when done in conjunction with a Medicae Test. Each auto-injector can be used to store a different type of drug. Though not authorised for such use, a narthecium may be used in melee with the profile of a chain blade with the Unwieldy Quality.",
       "source": "Hammer of the Emperor"
     },
     {
-      "item": "Psyocculum",
+      "name": "Psyocculum",
+      "id": "psyocculum",
       "weight": "1.5kg",
       "availability": "Rare",
       "description": "An arcane assemblage of strange lenses and scarcely-understood ætheric scryers, a psyocculum tracks the Warp signatures of psykers and Daemons alike. Although cumbersome to wear and draining to use, the device leaves those infused with Warp power no place to hide as they become highlighted in a corona of white light. As a Half Action, the wearer may make a Challenging (+10) Awareness test to detect psykers and characters with the Daemonic trait without the need for normal lighting until the end of the encounter. While these targets are illuminated in this way, the wearer gains a +10 bonus to his Ballistic Skill tests against them. The psyocculum distorts standard vision, however, imposing a -20 penalty to all other sight-based tests made while it is used. It also cannot be used at the same time as another piece of headgear, such as a helmet, and requires a Half Action to both put on or take off. Using a psyocculum causes the wearer to gain one level of Fatigue for every 5 minutes of operation beyond the first minute.",
       "source": "Enemies Beyond"
     },
     {
-      "item": "Signal Jammer",
+      "name": "Signal Jammer",
+      "id": "signal_jammer",
       "weight": "2 kg",
       "availability": "Rare",
       "description": "As the name suggests, this device acts to overpower local vox, data, or other transmissions within a range of roughly 1km. Basic models are overt and obvious, such that the transmitting agencies know they are being jammed. Sophisticated versions emit precisely-tuned frequencies that dampen out transmissions without anyone detecting the action.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Banishing Rod",
+      "name": "Banishing Rod",
+      "id": "banishing_rod",
       "weight": "8kg",
       "availability": "Very Rare",
       "description": "Made of darkened iron slabs enscrolled with hallowed parchment and curled purity seals, banishing rods do not subdue the Warp so much as calm it. When held aloft or even jammed into the ground, they create an area where psychic energy flows sluggishly. In groups, such devices can ward large areas, aiding in exorcisms and impeding the advance of malefic entities. Psykers within 5 metres of one or more banishing rods cannot push psychic powers, and reduce the result of any rolls they make on Psychic Phenomena by -20 (to a minimum of 1). Characters with the Daemonic trait treat this area as a treacherous environment. When used in an exorcism, each rod placed around the target of the exorcism grants a +5 bonus to the Daemonic Mastery test.",
       "source": "Enemies Beyond"
     },
     {
-      "item": "Comm Leech",
+      "name": "Comm Leech",
+      "id": "comm_leech",
       "weight": "1 kg",
       "availability": "Very Rare",
       "description": "A somewhat heretical item in the eyes of the Mechanicum, these tap into vox signals or data transmissions. After making a successful Tech-Use test (with the GM setting the difficulty based on the situation and signal), the user can use it to receive a signal or transmission within 1km for a number of minutes equal to his degrees of success. If the character fails by a number of degrees of failure greater than his Intelligence bonus, the sender and receiver of the signal become aware that someone is attempting to tap in.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Demolition Kit",
+      "name": "Demolition Kit",
+      "id": "demolition_kit",
       "weight": "4 kg",
       "availability": "Very Rare",
       "description": "Some investigations end with explosive results, and these kits are essential for such a conclusion. They contain the tools for a character to more easily set up sophisticated detonation devices and explosives. Each kit includes the following: \n* Five demolition charges: These detonate with the same profile as krak grenades.\n* 100 metres of det-cord: This thin rope can be lit with any fire source or detonator, and burns at a rate of 10 seconds per metre, useful for setting a delay on an explosive or activating it at a distance.\n* Five pressure-release detonators: These can be used to light a det-cord line or trigger explosives directly.\n\nAll of the materials in this kit can be refilled to these quantities without the use of a Requisition test as long as the character is in a location they would be available.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Disguise Kit",
+      "name": "Disguise Kit",
+      "id": "disguise_kit",
       "weight": "2 kg",
       "availability": "Very Rare",
       "description": "Acolytes often conceal their true identity as part of their investigation, either to create new personas or impersonate others. These kits contain the following: \n* Basic makeup: Grants a +10 bonus to Deceive tests made to visually disguise the character. \n* Prosthetic appliances: Allow the character to impersonate individuals with different facial structures. \n* Skin dyes: Allow the character to impersonate individuals with different skin colours.\n* Vocal augmenter: Grants a +10 bonus to Deceive tests made to impersonate another voice. \n* Retina lenses: Allow the character to impersonate individuals with different eye colours.\n\nAll of the materials in this kit can be refilled to these quantities without the use of a Requisition test as long as the character is in a location they would be available.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Empyrean Brain Mine",
+      "name": "Empyrean Brain Mine",
+      "id": "empyrean_brain_mine",
       "weight": "1kg",
       "availability": "Very Rare",
       "description": "Thought to be created using forbidden technologies found on a ghost world, these objects latch onto a victim's body and send disruptive energies directly into the brain, rendering the target temporarily catatonic. A brain mine must be attached to an enemy through a successful Grapple action in melee combat. At the start of his turn for the following 3 rounds, the target must make a Hard (-20) Agility test. If successful, he can perform a Half Action; otherwise he is unable to perform any actions, including Reactions, that round. The mine deals 1d10+5 Rending damage that is not reduced by armour if forcibly removed, but after 3 rounds, it burns out and dislodges from the target.",
       "source": "Enemies Beyond"
     },
     {
-      "item": "Excruciator Kit",
+      "name": "Excruciator Kit",
+      "id": "excruciator_kit",
       "weight": "2 kg",
       "availability": "Very Rare",
       "description": "While all such kits are used in the gathering of information from the unwilling and unrepentant, each is as unique as its user. Most contain a wide range of blades, needles, chemicals, drugs, barbed hooks, neural probes, thermal prods, and other essential tools needed to extract the truth. Employing an excruciator kit grants the user a +20 bonus to Interrogation tests.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Holo-Spectus",
+      "name": "Holo-Spectus",
+      "id": "holo_spectus",
       "weight": "6kg",
       "availability": "Very Rare",
       "description": "Consisting of a powerful launching tube, a long-range pict-recorder, and a holographic display, the holo-spectus allows its user to survey a large area to plan movements, seek out targets, or even find his bearings. Aimed skyward, the compact launcher blasts the fist-sized recorder several hundred metres vertically into the air, where it floats on tiny grav plating, feeding what it sees to a three-dimensional holographic display on the base-unit. As the user turns on the spot, so does the floating recorder, allowing the user to see kilometres in every direction. With a simple flick of a switch, the recorder zeroes in on the base unit and returns to the launcher in a matter of seconds. Successfully firing a holo-spectus into the air requires a Challenging (+0) Tech-Use test, after which the user gains a visual representation of the area below the hovering pict-recorder out for several kilometres. The control interface allows the Acolyte to zoom and highlight parts of the holographic display, and turning on the spot causes the recorder above to turn, allowing the Acolyte to survey the area around him in great detail, which grants a +20 bonus to Navigate (Surface), Survival (Tracking), and Scrutiny tests. The recorder can stay airborne for 5 hours before its power cell is exhausted.",
       "source": "Enemies Without"
     },
     {
-      "item": "Static Generator",
+      "name": "Static Generator",
+      "id": "static_generator",
       "weight": "3 kg",
       "availability": "Very Rare",
       "description": "Simple but obvious, this emits a powerful sphere of white noise across commonly used transmission frequencies within 30 metres. Comm devices do not function, but it is also clear to all users that they are being disrupted, and the device can be easily located. Still, when set on a timer and placed next to a transmission tower, they are effective for short-duration sabotage.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Adaptive Logis-Engine",
+      "name": "Adaptive Logis-Engine",
+      "id": "adaptive_logis_engine",
       "weight": "4kg",
       "availability": "Extremely Rare",
       "description": "To operate an Adaptive Logis-Engine, an Acolyte must place it onto the alien computer, lock, or other interface device that he wishes to crack, and make a Hard (-20) Security (Int) test. If successful, the engine accesses the alien device, and the character treats it like any other cogitator or electronic lock for the purposes of additional tests. An Adaptive Logis-Engine takes 5 minutes to access a basic alien system, less 30 seconds for each degree of success on the user's Security test (to a minimum of 30 seconds).",
       "source": "Enemies Without"
     },
     {
-      "item": "Almanac Astrae Divinitus",
+      "name": "Almanac Astrae Divinitus",
+      "id": "almanac_astrae_divinitus",
       "weight": "4 kg",
       "availability": "Extremely Rare",
       "description": "A tech-device of the Divine Astrometricum, a faction of tech-priests concerned with cataloguing stars, nebulae, and distant events in the voids. Its clicking arrangement of spheres and hololithic projections form a catalogue of sorts, which is of use to those who make their way between stars. It can provide a +10 bonus to Navigation, Pilot, Scholastic Lore (Astromancy), or Trade (Astrographer) Tests where its information is directly relevant to the circumstances.",
       "source": "Rogue Trader"
     },
     {
-      "item": "Stasis Cage",
+      "name": "Stasis Cage",
+      "id": "stasis_cage",
       "weight": "6kg",
       "availability": "Extremely Rare",
       "description": "The Stasis Cage is a fast and portable method of holding xenos creatures for further study. Consecrated for use during one of the many Askellian Purgation Wars against a now-forgotten alien race, many still exist for use by Inquisitors of the Ordo Xenos, elite bounty hunters, and Faceless Trade hunters. A Stasis Cage generates a field large enough to hold anything with a Size trait of 7 or lower that does not possess the Incorporeal trait for five hours (if using the battery pack), or indefinitely if connected to a power source. A creature inside cannot take any actions, and characters outside cannot attack or interact with anything inside. The cage itself is compact and unfurls into a flat circular plate three metres across. It activates via a small remote mechanism; once active, it can hover with its captive two metres above ground and can be pushed or towed as desired.",
       "source": "Enemies Without"
     },
     {
-      "item": "Multicompass",
+      "name": "Multicompass",
+      "id": "multicompass",
       "weight": "4 kg",
       "availability": "Near Unique",
       "description": "When exploring new worlds, a device of this ancient tech-pattern is indispensable—but few have the means or influence to acquire one. After a few seconds of analysing planetary data, a multicompass can display directions, show topographical maps, point out compass bearings, indicate altitude, and much more. Possessing a multicompass grants a +20 bonus to all Survival and Navigation (Surface) tests.",
       "source": "Dark Heresy 2e"
     },
     {
-      "item": "Null Rod",
+      "name": "Null Rod",
+      "id": "null_rod",
       "weight": "1 kg",
       "availability": "Near Unique",
       "description": "Few things invoke terror as much as a psyker calling on the unholy powers of the Warp to twist reality and rend souls. While faith in the Emperor is always essential, a null rod can also be effective in negating such threats. Most null rods appear as short obsidian cylinders, often crawling with arcane icons and glyphs. Each can dampen the powers of any psykers within 2d10 metres, causing them to take all tests to use any of their psychic powers with a -30 penalty. They also offer an Acolyte personal protection from psychic attacks by granting a +30 bonus to resist any psychic power that directly affects him. A null rod acts as a truncheon with the Power Field quality when used in close combat.",

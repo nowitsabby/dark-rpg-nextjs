@@ -5,9 +5,11 @@ import DataTable from 'react-data-table-component';
 import FilterComponent from './components/FilterComponent';
 import SrdMarkdown from '../util/SrdMarkdown';
 import Stack from '@mui/material/Stack';
+import TableLink from './components/TableLink';
 
 export interface PsychicPowerRecord {
-  power: string;
+  name: string;
+  id: string;
   cost: number;
   prerequisites: string[];
   action: string;
@@ -25,7 +27,7 @@ export interface PsychicDisciplineRecord {
   powers: PsychicPowerRecord[];
 }
 
-export default function PsychicDiscipline({ data }: { data: PsychicDisciplineRecord }) {
+export default function PsychicDiscipline({ rootPath, data }: { rootPath: string, data: PsychicDisciplineRecord }) {
   
   const [filterText, setFilterText] = useState('');
   const subHeaderComponentMemo = useMemo(() => {
@@ -43,8 +45,8 @@ export default function PsychicDiscipline({ data }: { data: PsychicDisciplineRec
       grow: 1,
       sortable: true,
       wrap: true,
-      selector: (row: PsychicPowerRecord) => row.power,
-      format: (row: PsychicPowerRecord) => <strong>{row.power}</strong>,
+      selector: (row: PsychicPowerRecord) => row.name,
+      format: (row: PsychicPowerRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Cost',
@@ -105,7 +107,7 @@ export default function PsychicDiscipline({ data }: { data: PsychicDisciplineRec
             ? tableData.filter((item) => {
                 if (filterText) {
                   return (
-                    item.power
+                    item.name
                       ?.toLowerCase()
                       .includes(filterText.toLowerCase()) ||
                     item.prerequisites

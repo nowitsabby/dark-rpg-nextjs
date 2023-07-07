@@ -4,7 +4,8 @@
   "component": "Ammunition",
   "data": [
     {
-      "ammunition": "Abyssal Bolts",
+      "name": "Abyssal Bolts",
+      "id": "abyssal_bolts",
       "availability": "Very Rare",
       "usedWith": [
         "Bolt Weapons",
@@ -14,7 +15,8 @@
       "source": "Enemies Beyond"
     },
     {
-      "ammunition": "Amputator Shells",
+      "name": "Amputator Shells",
+      "id": "amputator_shells",
       "availability": "Extremely Rare",
       "usedWith": [
         "Basic Solid Projectile Weapons",
@@ -24,7 +26,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "ammunition": "Barbed Rounds",
+      "name": "Barbed Rounds",
+      "id": "barbed_rounds",
       "availability": "Scarce",
       "usedWith": [
         "Solid Projectile Weapons"
@@ -33,7 +36,8 @@
       "source": "Black Crusade"
     },
     {
-      "ammunition": "Blazer Shells",
+      "name": "Blazer Shells",
+      "id": "blazer_shells",
       "availability": "Common",
       "usedWith": [
         "Shotguns"
@@ -42,7 +46,8 @@
       "source": "Inquisitor's Handbook"
     },
     {
-      "ammunition": "Bleeder Rounds",
+      "name": "Bleeder Rounds",
+      "id": "bleeder_rounds",
       "availability": "Rare",
       "usedWith": [
         "Solid Projectile Weapons, except Shotguns"
@@ -51,7 +56,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "ammunition": "Dumdum Bullets",
+      "name": "Dumdum Bullets",
+      "id": "dumdum_bullets",
       "availability": "Scarce",
       "usedWith": [
         "Stub Weapons",
@@ -62,7 +68,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "ammunition": "Emperor's Light Thermal Bolts",
+      "name": "Emperor's Light Thermal Bolts",
+      "id": "emperors_light_thermal_bolts",
       "availability": "Rare",
       "usedWith": [
         "Crossbows"
@@ -71,7 +78,8 @@
       "source": "Enemies Within"
     },
     {
-      "ammunition": "Emperor's Wrath Shard Bolts",
+      "name": "Emperor's Wrath Shard Bolts",
+      "id": "emperors_wrath_shard_bolts",
       "availability": "Scarce",
       "usedWith": [
         "Crossbows"
@@ -80,7 +88,8 @@
       "source": "Enemies Within"
     },
     {
-      "ammunition": "Envenomed Ammunition",
+      "name": "Envenomed Ammunition",
+      "id": "envenomed_ammunition",
       "availability": "Scarce",
       "usedWith": [
         "Low-Tech Ranged Weapons"
@@ -89,7 +98,8 @@
       "source": "Hammer of the Emperor"
     },
     {
-      "ammunition": "Executioner Shotgun Shells",
+      "name": "Executioner Shotgun Shells",
+      "id": "executioner_shotgun_shells",
       "availability": "Very Rare",
       "usedWith": [
         "Shotguns"
@@ -98,7 +108,8 @@
       "source": "Ascension"
     },
     {
-      "ammunition": "Exitus Shield-breaker Round",
+      "name": "Exitus Shield-breaker Round",
+      "id": "exitus_shield_breaker_round",
       "availability": "Unique",
       "usedWith": [
         "Exitus Weapons"
@@ -107,7 +118,8 @@
       "source": "Ascension"
     },
     {
-      "ammunition": "Exitus Hellfire Round",
+      "name": "Exitus Hellfire Round",
+      "id": "exitus_hellfire_round",
       "availability": "Near Unique",
       "usedWith": [
         "Exitus Weapons"
@@ -116,7 +128,8 @@
       "source": "Ascension"
     },
     {
-      "ammunition": "Exitus Turbo-penetrator Round",
+      "name": "Exitus Turbo-penetrator Round",
+      "id": "exitus_turbo_penetrator_round",
       "availability": "Unique",
       "usedWith": [
         "Exitus Weapons"
@@ -125,7 +138,8 @@
       "source": "Ascension"
     },
     {
-      "ammunition": "Expander Rounds",
+      "name": "Expander Rounds",
+      "id": "expander_rounds",
       "availability": "Scarce",
       "usedWith": [
         "Solid Projectile Weapons, except Shotguns"
@@ -134,7 +148,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "ammunition": "Explosive Arrows/Quarrels",
+      "name": "Explosive Arrows/Quarrels",
+      "id": "explosive_arrows_quarrels",
       "availability": "Scarce",
       "usedWith": [
         "Bows",
@@ -144,7 +159,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "ammunition": "Hellfire Bolt Rounds",
+      "name": "Hellfire Bolt Rounds",
+      "id": "hellfire_bolt_rounds",
       "availability": "Very Rare",
       "usedWith": [
         "Bolt Weapons"
@@ -153,7 +169,8 @@
       "source": "Black Crusade"
     },
     {
-      "ammunition": "Heretic's Match Incendiary Rounds",
+      "name": "Heretic's Match Incendiary Rounds",
+      "id": "heretics_match_incendiary_rounds",
       "availability": "Scarce",
       "usedWith": [
         "Bows",
@@ -164,7 +181,8 @@
       "source": "Enemies Within"
     },
     {
-      "ammunition": "Hot-Shot Charge Packs",
+      "name": "Hot-Shot Charge Packs",
+      "id": "hot_shot_charge_packs",
       "availability": "Scarce",
       "usedWith": [
         "Pistol or Basic Las Weapons"
@@ -173,7 +191,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "ammunition": "Hyper-Density Rounds",
+      "name": "Hyper-Density Rounds",
+      "id": "hyper_density_rounds",
       "availability": "Rare",
       "usedWith": [
         "Hand Cannons",
@@ -185,7 +204,8 @@
       "source": "Inquisitor's Handbook"
     },
     {
-      "ammunition": "Inferno Shells",
+      "name": "Inferno Shells",
+      "id": "inferno_shells",
       "availability": "Rare",
       "usedWith": [
         "Shotguns",
@@ -195,7 +215,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "ammunition": "Man-Stopper Bullets",
+      "name": "Man-Stopper Bullets",
+      "id": "man_stopper_bullets",
       "availability": "Scarce",
       "usedWith": [
         "Solid Projectile Weapons, except Shotguns"
@@ -204,7 +225,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "ammunition": "Metal Storm Bolt Rounds",
+      "name": "Metal Storm Bolt Rounds",
+      "id": "metal_storm_bolt_rounds",
       "availability": "Very Rare",
       "usedWith": [
         "Bolt Weapons"
@@ -213,7 +235,8 @@
       "source": "Black Crusade"
     },
     {
-      "ammunition": "Nitidus Rounds",
+      "name": "Nitidus Rounds",
+      "id": "nitidus_rounds",
       "availability": "Very Rare",
       "usedWith": [
         "Shotguns"
@@ -222,7 +245,8 @@
       "source": "Enemies Beyond"
     },
     {
-      "ammunition": "Psybolts",
+      "name": "Psybolts",
+      "id": "psybolts",
       "availability": "Extremely Rare",
       "usedWith": [
         "Bolt Weapons"
@@ -231,7 +255,8 @@
       "source": "Enemies Beyond"
     },
     {
-      "ammunition": "Psyflame",
+      "name": "Psyflame",
+      "id": "psyflame",
       "availability": "Very Rare",
       "usedWith": [
         "Flame Weapons"
@@ -240,7 +265,8 @@
       "source": "Enemies Beyond"
     },
     {
-      "ammunition": "Purgatus Stakes",
+      "name": "Purgatus Stakes",
+      "id": "purgatus_stakes",
       "availability": "Extremely Rare",
       "usedWith": [
         "Purgatus Crossbow Only"
@@ -249,7 +275,8 @@
       "source": "Enemies Within"
     },
     {
-      "ammunition": "Purity Bolts",
+      "name": "Purity Bolts",
+      "id": "purity_bolts",
       "availability": "Very Rare",
       "usedWith": [
         "Crossbows"
@@ -258,7 +285,8 @@
       "source": "Enemies Within"
     },
     {
-      "ammunition": "Sanctified Ammunition",
+      "name": "Sanctified Ammunition",
+      "id": "sanctified_ammunition",
       "availability": "Rare",
       "usedWith": [
         "Bows",
@@ -270,7 +298,8 @@
       "source": "Enemies Within"
     },
     {
-      "ammunition": "Scrambler Rounds",
+      "name": "Scrambler Rounds",
+      "id": "scrambler_rounds",
       "availability": "Rare",
       "usedWith": [
         "Bolt Weapons",
@@ -280,7 +309,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "ammunition": "Silver Stakes",
+      "name": "Silver Stakes",
+      "id": "silver_stakes",
       "availability": "Very Rare",
       "usedWith": [
         "Crossbows"
@@ -289,7 +319,8 @@
       "source": "Enemies Within"
     },
     {
-      "ammunition": "Solid Slugs",
+      "name": "Solid Slugs",
+      "id": "solid_slugs",
       "availability": "Common",
       "usedWith": [
         "Shotguns"
@@ -298,7 +329,8 @@
       "source": "Hammer of the Emperor"
     },
     {
-      "ammunition": "Stalker Bolt Rounds",
+      "name": "Stalker Bolt Rounds",
+      "id": "stalker_bolt_rounds",
       "availability": "Very Rare",
       "usedWith": [
         "Bolt Weapons"
@@ -307,7 +339,8 @@
       "source": "Black Crusade"
     },
     {
-      "ammunition": "Tempest Bolt Shells",
+      "name": "Tempest Bolt Shells",
+      "id": "tempest_bolt_shells",
       "availability": "Near Unique",
       "usedWith": [
         "Bolt Weapons"
@@ -316,7 +349,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "ammunition": "Theta-Pattern Concussion Bolts",
+      "name": "Theta-Pattern Concussion Bolts",
+      "id": "theta_pattern_concussion_bolts",
       "availability": "Very Rare",
       "usedWith": [
         "Crossbows"
@@ -325,7 +359,8 @@
       "source": "Enemies Within"
     },
     {
-      "ammunition": "Theta-Pattern Shock Bolts",
+      "name": "Theta-Pattern Shock Bolts",
+      "id": "theta_pattern_shock_bolts",
       "availability": "Very Rare",
       "usedWith": [
         "Crossbows"
@@ -334,7 +369,8 @@
       "source": "Enemies Within"
     },
     {
-      "ammunition": "Tox Rounds",
+      "name": "Tox Rounds",
+      "id": "tox_rounds",
       "availability": "Scarce",
       "usedWith": [
         "Bolt Weapons",
@@ -344,7 +380,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "ammunition": "Tracer Rounds",
+      "name": "Tracer Rounds",
+      "id": "tracer_rounds",
       "availability": "Common",
       "usedWith": [
         "Solid Projectile Weapons"
@@ -353,7 +390,8 @@
       "source": "Hammer of the Emperor"
     },
     {
-      "ammunition": "Void Rounds",
+      "name": "Void Rounds",
+      "id": "void_rounds",
       "availability": "Scarce",
       "usedWith": [
         "Solid Projectile Weapons"

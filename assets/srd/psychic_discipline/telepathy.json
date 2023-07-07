@@ -7,7 +7,7 @@
     "information": "Perhaps due to Astropaths being amongst the more common types of psyker, many individuals equate all psychic ability with telepathy. In fact, only certain psykers possess the talent to enter the minds of others, and even fewer the strength of will to maintain their own sanity in the face of constant exposure to others' thoughts. These powers may not inspire awe in the same way as other, less subtle, disciplines, but a skilled telepath can end a battle before a single shot is fired.",
     "powers": [
       {
-        "power": "Erasure",
+        "name": "Erasure",
         "cost": 100,
         "prerequisites": [
           "Fellowship 40"
@@ -23,7 +23,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Telepathic Link",
+        "name": "Telepathic Link",
         "cost": 100,
         "prerequisites": [
           "Willpower 35"
@@ -39,7 +39,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Dominate",
+        "name": "Dominate",
         "cost": 200,
         "prerequisites": [
           "Willpower 40"
@@ -55,7 +55,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Hallucination",
+        "name": "Hallucination",
         "cost": 200,
         "prerequisites": [
           "Fellowship 40"
@@ -71,7 +71,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Mental Fortitude",
+        "name": "Mental Fortitude",
         "cost": 300,
         "prerequisites": [
           "Adamantium Faith"
@@ -87,7 +87,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Psychic Shriek",
+        "name": "Psychic Shriek",
         "cost": 300,
         "prerequisites": [
           "Psy Rating 3"
@@ -103,7 +103,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Invisibility",
+        "name": "Invisibility",
         "cost": 400,
         "prerequisites": [
           "Agility 30",
@@ -120,7 +120,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Puppet Master",
+        "name": "Puppet Master",
         "cost": 400,
         "prerequisites": [
           "Fellowship 55"
@@ -136,7 +136,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Terrify",
+        "name": "Terrify",
         "cost": 400,
         "prerequisites": [
           "Fellowship 45"

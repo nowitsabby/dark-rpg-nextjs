@@ -4,7 +4,8 @@ import FilterComponent from './FilterComponent';
 import SrdMarkdown from '../../util/SrdMarkdown';
 
 export interface WeaponRecord {
-  weapon: string;
+  name: string;
+  id: string;
   type: string;
   class: string;
   range: string;
@@ -52,11 +53,10 @@ export function WeaponGroupTable<Type extends WeaponRecord>({
       title={<h4>{group}</h4>}
       columns={columns}
       data={
-        Array.isArray(tableData)
-          ? tableData.filter((item) => {
+        tableData.filter((item) => {
               if (filterText) {
                 return (
-                  item.weapon
+                  item.name
                     ?.toLowerCase()
                     .includes(filterText.toLowerCase()) ||
                   item.class
@@ -75,7 +75,6 @@ export function WeaponGroupTable<Type extends WeaponRecord>({
               }
               return true;
             })
-          : []
       }
       actions={subHeaderComponentMemo}
       expandableRows

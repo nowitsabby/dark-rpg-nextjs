@@ -7,7 +7,7 @@
     "information": "Perhaps the most ancient of psychic disciplines, divination foretells the future. Though diviners may seek answers by scattering animal entrails or studying the movement of stars, it is in fact the timeless realm of the Warp to which they turn. The powers of divination are of inestimable use to an Inquisitor and his Acolytes in the pursuit of their duties, both in the frenzied arena of combat and while undertaking investigative pursuits.",
     "powers": [
       {
-        "power": "Warp Perception",
+        "name": "Warp Perception",
         "cost": 100,
         "prerequisites": [
           "Willpower 35"
@@ -23,7 +23,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Foreboding",
+        "name": "Foreboding",
         "cost": 200,
         "prerequisites": [
           "Psyniscience rank 1"
@@ -39,7 +39,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Prescience",
+        "name": "Prescience",
         "cost": 200,
         "prerequisites": [
           "Psyniscience rank 1"
@@ -55,7 +55,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Scrier's Gaze",
+        "name": "Scrier's Gaze",
         "cost": 200,
         "prerequisites": [
           "Psyniscience rank 2"
@@ -71,7 +71,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Misfortune",
+        "name": "Misfortune",
         "cost": 300,
         "prerequisites": [
           "Willpower 45"
@@ -88,7 +88,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Perfect Timing",
+        "name": "Perfect Timing",
         "cost": 300,
         "prerequisites": [
           "Perception 55"
@@ -104,7 +104,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Forewarning",
+        "name": "Forewarning",
         "cost": 400,
         "prerequisites": [
           "Perception 50"
@@ -120,7 +120,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Precognition",
+        "name": "Precognition",
         "cost": 400,
         "prerequisites": [
           "Perception 45",
@@ -137,7 +137,7 @@
         "source": "Dark Heresy 2e"
       },
       {
-        "power": "Winding Fate",
+        "name": "Winding Fate",
         "cost": 500,
         "prerequisites": [
           "Perception 50"

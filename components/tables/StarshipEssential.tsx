@@ -18,7 +18,7 @@ export interface EssentialComponents {
   augurArrays: StarshipComponentRecord[];
 }
 
-export default function StarshipEssential({ data }: { data: EssentialComponents }) {
+export default function StarshipEssential({ rootPath, data }: { rootPath: string, data: EssentialComponents }) {
   return (
     <Tabs>
       <TabList>
@@ -34,41 +34,49 @@ export default function StarshipEssential({ data }: { data: EssentialComponents 
 
       <TabPanel>
         <StarshipComponents
+          rootPath={rootPath}
             data={data.plasmaDrives}
           />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
+          rootPath={rootPath}
             data={data.warpEngines}
           />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
+          rootPath={rootPath}
             data={data.gellerFields}
           />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
+          rootPath={rootPath}
           data={data.voidShields}
         />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
+          rootPath={rootPath}
           data={data.bridges}
         />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
+          rootPath={rootPath}
           data={data.lifeSustainers}
         />
       </TabPanel>
-      <TabPanel key="crew-quarter-tabpanel">
+      <TabPanel>
         <StarshipComponents
+          rootPath={rootPath}
           data={data.crewQuarter}
         />
       </TabPanel>
-      <TabPanel key="augur-arrays-tabpanel">
+      <TabPanel>
         <StarshipComponents
+          rootPath={rootPath}
           data={data.augurArrays}
         />
       </TabPanel>

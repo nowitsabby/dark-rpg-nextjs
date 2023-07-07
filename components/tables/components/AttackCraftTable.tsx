@@ -2,9 +2,11 @@ import { useMemo, useState } from 'react';
 import DataTable from 'react-data-table-component';
 import FilterComponent from './FilterComponent';
 import SrdMarkdown from '../../util/SrdMarkdown';
+import TableLink from './TableLink';
 
 export interface AttackCraftRecord {
-  craft: string;
+  name: string;
+  id: string;
   type: string;
   speed: number;
   rating: number;
@@ -13,9 +15,11 @@ export interface AttackCraftRecord {
 }
 
 export function AttackCraftTable({
+  rootPath,
   tableData,
   group,
 }: {
+  rootPath: string;
   tableData: AttackCraftRecord[];
   group: string;
 }) {
@@ -33,8 +37,8 @@ export function AttackCraftTable({
     {
       name: 'Craft',
       wrap: true,
-      selector: (row: AttackCraftRecord) => row.craft,
-      format: (row: AttackCraftRecord) => <strong>{row.craft}</strong>,
+      selector: (row: AttackCraftRecord) => row.name,
+      format: (row: AttackCraftRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Speed',
@@ -66,7 +70,7 @@ export function AttackCraftTable({
           ? tableData.filter((item) => {
               if (filterText) {
                 return (
-                  item.craft
+                  item.name
                     ?.toLowerCase()
                     .includes(filterText.toLowerCase()) ||
                   item.special

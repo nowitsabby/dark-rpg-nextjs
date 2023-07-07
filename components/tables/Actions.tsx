@@ -4,7 +4,8 @@ import DataTable from 'react-data-table-component';
 import SrdMarkdown from '../util/SrdMarkdown';
 
 export interface ActionsTable {
-  action: string;
+  name: string;
+  id: string
   type: string;
   subtypes: string[];
   description: string;
@@ -16,7 +17,7 @@ export default function Actions({ data }: { data: ActionsTable[] }) {
       name: 'Action',
       grow: 1,
       wrap: true,
-      selector: (row: ActionsTable) => row.action,
+      selector: (row: ActionsTable) => row.name,
     },
     {
       name: 'Type',

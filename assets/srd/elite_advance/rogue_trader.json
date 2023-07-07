@@ -29,8 +29,8 @@
     "talents": [
       {
         "tier": 1,
-        "talent": "Renowned Warrant",
-        "id": "renowned-warrant",
+        "name": "Renowned Warrant",
+        "id": "renowned_warrant",
         "prerequisites": null,
         "aptitudes": [
           "Fellowship",

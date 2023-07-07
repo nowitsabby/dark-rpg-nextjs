@@ -6,7 +6,7 @@ import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 
 import 'react-tabs/style/react-tabs.css';
 
-export default function StarshipHulls({ data }: { data: StarshipHullRecord[] }) {
+export default function StarshipHulls({ rootPath, data }: { rootPath: string, data: StarshipHullRecord[] }) {
   const [groups, setGroups] = useState([] as string[]);
 
   useEffect(() => {
@@ -26,6 +26,7 @@ export default function StarshipHulls({ data }: { data: StarshipHullRecord[] }) 
       {groups?.map((group: string) => (
           <TabPanel key={`${group}-tabpanel`}>
             <HullTable
+                rootPath={rootPath}
                 group={group}
                 tableData={data.filter((item) => item.class === group)}
               />

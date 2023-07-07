@@ -5,7 +5,7 @@ import SrdMarkdown from '../util/SrdMarkdown';
 import Container from '@mui/material/Container';
 
 export interface NavigatorPowerType {
-  power: string;
+  name: string;
   id: string;
   novice: string;
   adept: string;
@@ -18,7 +18,7 @@ export default function NavigatorPowers({ data }: { data: NavigatorPowerType[] }
     data.map((power: NavigatorPowerType) => (
       <Container key={power.id}>
         <Stack>
-          <h2 id={power.id}>{power.power}</h2>
+          <h2 id={power.id}>{power.name}</h2>
           <div>
             <h4>Novice</h4>
             <SrdMarkdown text={power.novice} />

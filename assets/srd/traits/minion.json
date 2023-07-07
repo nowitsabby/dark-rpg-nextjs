@@ -4,27 +4,27 @@
   "component": "Traits",
   "data": [
     {
-      "trait": "Fanatic",
+      "name": "Fanatic",
       "id": "fanatic",
       "description": "The Minion is fanatically devoted to its master, and would gladly sacrifice its own life to preserve him. Once per combat, after an attack successfully hits its master but before Damage is rolled, the Minion may use a Reaction and move up to its Half Move rate to interpose itself, suffering the Damage in the Heretic's place."
     },
     {
-      "trait": "Monodevotant",
+      "name": "Monodevotant",
       "id": "Monodevotant",
       "description": "The Minion is hopelessly addicted to something the Heretic can offer. This could be anything, from a certain chem, to the blood of Daemons, to souls. As a result, the Minion is willing to do anything to keep its master's favour, including risk its life. Likewise, the Minion goes to any lengths to avoid disappointing its master, obsessively pursuing any given task. The Minion may re-roll failed Loyalty Tests. However, should the Heretic be unable to supply the Minion with its desire, after a number of days equal to 1d10 + the Minion's Willpower Bonus, the Minion suffers a -10 penalty to all Characteristics due to withdrawal. This penalty increases by a further -5 each subsequent day, until the addict's thirst is slaked. If this state of affairs continues too long, the GM may rule that the Minion abandons the character, succumbs to madness, or even dies, depending on the nature of the addiction."
     },
     {
-      "trait": "Mutant (X)",
-      "id": "mutant-x",
+      "name": "Mutant (X)",
+      "id": "mutant_x",
       "description": "The Minion is touched by Chaos, whether through service to the Dark Gods or unchecked exposure to the twisting influence of the Warp. The Minion gains a number of random Mutations, rolled as normal from the Mutation Table. The value noted in parentheses indicates the number of Mutations gained. With the GM's permission, the player may instead select a result that is fitting for his Minion. Some Minions in the service of Chaos are so corrupted that they are almost unrecognizable as their original selves. Characters in service to the Dark Gods, aka using the Alignment system instead of Aptitudes, may instead generate mutations for their minion using the Gifts of the Gods table."
     },
     {
-      "trait": "Parasite",
+      "name": "Parasite",
       "id": "parasite",
       "description": "The Minion is able to attach itself to a host organism and influence its behaviour. This ability is evinced by certain xenos creatures for which it is a necessity of their life cycle, but it might also be evinced by bizarre cyber-constructs of Forge Castir, or even stranger entities. Usually, a parasitic creature is much smaller than potential host organisms, no more than Size (2). Depending on the nature and size of a particular Minion, the GM may deem it necessary to modify this Trait to better reflect the functions of a specific creature. In order to attach itself to, or enter the body of, a host, known as infection, the parasite must come into physical contact. Infecting the host organism takes 1d5 Rounds, +1 for each Armour Point on the location through which the parasite is attempting to enter, to represent either the Minion burrowing through armour or searching for a weak point or opening. If the intended host is aware of the parasite at any point during this process, he may attempt to stop it, most likely by either attacking it or pulling it off. Any successful attacks against the parasite, by the potential host, or by another character, inflict half Damage against the host, and any attacks that fail by one degree or less strike the host instead. The parasite can be pulled free before it has fully attached to or entered the host, with an Opposed Strength Test. If the parasite fails, it is removed from the host, who suffers 1d5 Damage, not reduced by Toughness Bonus. Once infected, the host must pass a Hard (-20) Toughness Test or succumb to the parasite's influence, which may range from subtle changes to behaviour to outright control, depending on the nature of the parasite. Infection is insidious, and the parasite must be removed, probably with the aid of a chirurgeon or flesh adept, before the host's behaviour can return to normal."
     },
     {
-      "trait": "Sycophant",
+      "name": "Sycophant",
       "id": "sycophant",
       "description": "This Minion has an innate tendency to latch on to more powerful individuals and is loyal almost to the point of absurdity. Minions with this trait are likely to perceive every word from their master's mouth as divinely inspired wisdom, and his every act as pure genius. Heretics of a particularly vain nature are likely to appreciate this behaviour, while others may find it infuriating. Nevertheless, the commitment these Minions show is beyond question. A Minion with the Sycophant Trait increases its Loyalty by +15. In addition, such is the sycophantic Minion's lavish and unceasing praise of its master, that the Heretic removes Fellowship Damage at twice the normal rate."
     }

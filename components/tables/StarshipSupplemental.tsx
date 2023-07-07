@@ -14,7 +14,7 @@ export interface SupplementalComponents {
   facilities: StarshipComponentRecord[];
 }
 
-export default function StarshipSupplemental({ data }: { data: SupplementalComponents }) {
+export default function StarshipSupplemental({ rootPath, data }: { rootPath: string, data: SupplementalComponents }) {
   
   return (
     <Tabs>
@@ -27,21 +27,25 @@ export default function StarshipSupplemental({ data }: { data: SupplementalCompo
 
       <TabPanel>
         <StarshipComponents
-            data={data.cargoHolds}
-          />
+          rootPath={rootPath}
+          data={data.cargoHolds}
+        />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
-            data={data.passengerBays}
-          />
+          rootPath={rootPath}
+          data={data.passengerBays}
+        />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
-            data={data.enhancements}
-          />
+          rootPath={rootPath}
+          data={data.enhancements}
+        />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
+          rootPath={rootPath}
           data={data.facilities}
         />
       </TabPanel>

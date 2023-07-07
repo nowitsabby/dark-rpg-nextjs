@@ -5,16 +5,18 @@ import DataTable from 'react-data-table-component';
 import availability from '../util/Availability';
 import SrdMarkdown from '../util/SrdMarkdown';
 import FilterComponent from './components/FilterComponent';
+import TableLink from './components/TableLink';
 
 export interface AmmunitionRecord {
-  ammunition: string;
+  name: string;
+  id: string;
   availability: string;
   usedWith: string[];
   effect: string;
   source: string;
 }
 
-export default function Ammunition({ data }: { data: AmmunitionRecord[] }) {
+export default function Ammunition({ rootPath, data }: { rootPath: string, data: AmmunitionRecord[] }) {
   const [filterText, setFilterText] = useState('');
   const subHeaderComponentMemo = useMemo(() => {
     return (
@@ -30,8 +32,8 @@ export default function Ammunition({ data }: { data: AmmunitionRecord[] }) {
       name: 'Ammunition',
       sortable: true,
       wrap: true,
-      selector: (row: AmmunitionRecord) => row.ammunition,
-      format: (row: AmmunitionRecord) => <strong>{row.ammunition}</strong>,
+      selector: (row: AmmunitionRecord) => row.name,
+      format: (row: AmmunitionRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Used With',
@@ -56,7 +58,7 @@ export default function Ammunition({ data }: { data: AmmunitionRecord[] }) {
           ? data.filter((item) => {
               if (filterText) {
                 return (
-                  item.ammunition
+                  item.name
                     ?.toLowerCase()
                     .includes(filterText.toLowerCase()) ||
                   item.usedWith

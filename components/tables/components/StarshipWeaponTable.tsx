@@ -2,9 +2,11 @@ import { useMemo, useState } from 'react';
 import DataTable from 'react-data-table-component';
 import FilterComponent from './FilterComponent';
 import SrdMarkdown from '../../util/SrdMarkdown';
+import TableLink from './TableLink';
 
 export interface StarshipWeaponRecord {
-  component: string;
+  name: string;
+  id: string;
   hulls: string[];
   power: number;
   space: number;
@@ -16,7 +18,7 @@ export interface StarshipWeaponRecord {
   special: { title: string; effect: string }[];
 }
 
-export function StarshipWeaponTable({ data }: { data: StarshipWeaponRecord[] }) {
+export function StarshipWeaponTable({ rootPath, data }: { rootPath: string, data: StarshipWeaponRecord[] }) {
   const [filterText, setFilterText] = useState('');
   const subHeaderComponentMemo = useMemo(() => {
     return (
@@ -29,10 +31,10 @@ export function StarshipWeaponTable({ data }: { data: StarshipWeaponRecord[] }) 
 
   const columns = [
     {
-      name: 'Component',
+      name: 'Weapon',
       wrap: true,
-      selector: (row: StarshipWeaponRecord) => row.component,
-      format: (row: StarshipWeaponRecord) => <strong>{row.component}</strong>,
+      selector: (row: StarshipWeaponRecord) => row.name,
+      format: (row: StarshipWeaponRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Appropriate Hull Types',
@@ -96,7 +98,7 @@ export function StarshipWeaponTable({ data }: { data: StarshipWeaponRecord[] }) 
         data.filter((item) => {
           if (filterText) {
             return (
-              item.component
+              item.name
                 ?.toLowerCase()
                 .includes(filterText.toLowerCase()) ||
               item.hulls

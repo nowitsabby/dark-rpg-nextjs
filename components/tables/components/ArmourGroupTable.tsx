@@ -3,9 +3,11 @@ import DataTable from 'react-data-table-component';
 import availability from '../../util/Availability';
 import FilterComponent from './FilterComponent';
 import SrdMarkdown from '../../util/SrdMarkdown';
+import TableLink from './TableLink';
 
 export interface ArmourRecord {
-  armour: string;
+  name: string;
+  id: string;
   type: string;
   locations: string[];
   ap: number;
@@ -17,9 +19,11 @@ export interface ArmourRecord {
 }
 
 export function ArmourGroupTable({
+  rootPath,
   tableData,
   group,
 }: {
+  rootPath: string;
   tableData: ArmourRecord[];
   group: string;
 }) {
@@ -39,8 +43,8 @@ export function ArmourGroupTable({
       grow: 10,
       sortable: true,
       wrap: true,
-      selector: (row: ArmourRecord) => row.armour,
-      format: (row: ArmourRecord) => <strong>{row.armour}</strong>,
+      selector: (row: ArmourRecord) => row.name,
+      format: (row: ArmourRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'AP',
@@ -95,7 +99,7 @@ export function ArmourGroupTable({
           ? tableData.filter((item) => {
               if (filterText) {
                 return (
-                  item.armour
+                  item.name
                     ?.toLowerCase()
                     .includes(filterText.toLowerCase()) ||
                   item.locations

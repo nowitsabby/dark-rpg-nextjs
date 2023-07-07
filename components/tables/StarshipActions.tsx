@@ -47,8 +47,7 @@ const columns = [
       <DataTable
         columns={columns}
         data={
-          Array.isArray(data)
-            ? data.filter((item) => {
+          data.filter((item) => {
                 if (filterText) {
                   return (
                     item.action
@@ -62,7 +61,6 @@ const columns = [
                 }
                 return true;
               })
-            : []
         }
         actions={subHeaderComponentMemo}
         expandableRows

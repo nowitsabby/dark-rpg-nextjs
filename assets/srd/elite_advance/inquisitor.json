@@ -29,8 +29,8 @@
     "talents": [
       {
         "tier": 1,
-        "talent": "Shared Destiny",
-        "id": "shared-destiny",
+        "name": "Shared Destiny",
+        "id": "shared_destiny",
         "prerequisites": [
           "Willpower 40"
         ],
@@ -43,8 +43,8 @@
       },
       {
         "tier": 2,
-        "talent": "Complete Control",
-        "id": "complete-control",
+        "name": "Complete Control",
+        "id": "complete_control",
         "prerequisites": [
           "Perception 45"
         ],
@@ -57,8 +57,8 @@
       },
       {
         "tier": 2,
-        "talent": "Jack of All Trades",
-        "id": "jack-of-all-trades",
+        "name": "Jack of All Trades",
+        "id": "jack_of_all_trades",
         "prerequisites": [
           "Intelligence 45"
         ],
@@ -70,8 +70,8 @@
       },
       {
         "tier": 2,
-        "talent": "Shield of Contempt",
-        "id": "shield-of-contempt",
+        "name": "Shield of Contempt",
+        "id": "shield_of_contempt",
         "prerequisites": [
           "Willpower 50"
         ],
@@ -84,8 +84,8 @@
       },
       {
         "tier": 2,
-        "talent": "Strength through Conviction",
-        "id": "strength-through-conviction",
+        "name": "Strength through Conviction",
+        "id": "strength_through_conviction",
         "prerequisites": [
           "Willpower 50"
         ],
@@ -98,7 +98,7 @@
       },
       {
         "tier": 3,
-        "talent": "Fated",
+        "name": "Fated",
         "id": "fated",
         "prerequisites": [
           "Inspired Intuition",
@@ -114,8 +114,8 @@
       },
       {
         "tier": 3,
-        "talent": "Master of All Trades",
-        "id": "master-of-all-trades",
+        "name": "Master of All Trades",
+        "id": "master_of_all_trades",
         "prerequisites": [
           "Intelligence 55",
           "Jack of All Trades"
@@ -128,8 +128,8 @@
       },
       {
         "tier": 3,
-        "talent": "Will of the Inquisitor",
-        "id": "will-of-the-inquisitor",
+        "name": "Will of the Inquisitor",
+        "id": "will_of_the_inquisitor",
         "prerequisites": [
           "Fated",
           "Intelligence 50",
@@ -145,8 +145,8 @@
       },
       {
         "tier": 3,
-        "talent": "Aegis of Contempt",
-        "id": "aegis-of-contempt",
+        "name": "Aegis of Contempt",
+        "id": "aegis_of_contempt",
         "prerequisites": [
           "Shared Destiny",
           "Shield of Contempt",
@@ -161,8 +161,8 @@
       },
       {
         "tier": 3,
-        "talent": "Into the Jaws of Hell",
-        "id": "into-the-jaws-of-hell",
+        "name": "Into the Jaws of Hell",
+        "id": "into_the_jaws_of_hell",
         "prerequisites": [
           "Adamantium Faith",
           "Halo of Command",
@@ -177,8 +177,8 @@
       },
       {
         "tier": 3,
-        "talent": "Indomitable Conviction",
-        "id": "indomitable-conviction",
+        "name": "Indomitable Conviction",
+        "id": "indomitable_conviction",
         "prerequisites": [
           "Shared Destiny",
           "Strength through Conviction",

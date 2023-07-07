@@ -2,9 +2,10 @@
 
 import DataTable from 'react-data-table-component';
 import SrdMarkdown from '../util/SrdMarkdown';
+import TableLink from './components/TableLink';
 
 export interface OriginsTable {
-  origin: string;
+  name: string;
   id: string;
   characteristicModifiers: {
     plus: string[];
@@ -20,19 +21,15 @@ export interface OriginsTable {
   wounds: number;
 }
 
-export default function Origins({ data }: { data: OriginsTable[] }) {
+export default function Origins({ rootPath, data }: { rootPath: string, data: OriginsTable[] }) {
   const columns = [
     {
       name: 'Origin',
       grow: 1,
       wrap: true,
       allowOverflow: true,
-      selector: (row: OriginsTable) => row.origin,
-      format: (row: OriginsTable) => (
-        <strong id={row.id} className="table-anchor">
-          {row.origin}
-        </strong>
-      ),
+      selector: (row: OriginsTable) => row.name,
+      format: (row: OriginsTable) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Characteristic Modifiers',
