@@ -45,12 +45,12 @@ export default function SrdSidebar({ sidebar }: { sidebar: {} }) {
 function GenerateSidebar({ sidebar }: { sidebar: {} }) {
   return (
     Object.entries(sidebar).map(([label, item]) => (
-      <CreateSubMenu key={label} label={label} item={item as string | object}/>
+      <CreateSubMenu key={uuidv4()} label={label} item={item as string | object}/>
     ))
   )
 };
 
-function CreateSubMenu({ key, label, item }: { key: string, label: string, item: string | object }) {
+function CreateSubMenu({ label, item }: { label: string, item: string | object }) {
   return ( typeof item === 'string' ? 
     <MenuItem icon={<TextSnippetOutlinedIcon />} component={<Link href={item}/>}>
       {toTitleCase(label)}
