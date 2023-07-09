@@ -6,16 +6,7 @@ import availability from '../util/Availability';
 import SrdMarkdown from '../util/SrdMarkdown';
 import FilterComponent from './components/FilterComponent';
 import TableLink from './components/TableLink';
-
-export interface ModRecord {
-  name: string;
-  id: string;
-  weight: string;
-  availability: string;
-  upgrades: string;
-  description: string;
-  source: string;
-}
+import { ModRecord } from '../types/Records';
 
 export default function Modifications({ rootPath, data }: { rootPath: string, data: ModRecord[] }) {
   const [filterText, setFilterText] = useState('');

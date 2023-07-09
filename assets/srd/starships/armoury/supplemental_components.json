@@ -661,7 +661,8 @@
         ]
       },
       {
-        "component": "\"Storm\" Drop Pod Launch Bays",
+        "name": "'Storm' Drop Pod Launch Bays",
+        "id": "storm_drop_pod_launch_bays",
         "hulls": [
           "Transports",
           "Raiders",
@@ -680,7 +681,7 @@
           },
           {
             "title": "Drop Pod Deployment",
-            "effect": "The players may use drop pods. The \"Storm\" design is equipped to hold 20 pods, although it may only launch 10 every 30 minutes or so (in other words, it may launch 10 pods every Strategic Turn). The pods must be recovered from the planet's surface before being reused."
+            "effect": "The players may use drop pods. The 'Storm' design is equipped to hold 20 pods, although it may only launch 10 every 30 minutes or so (in other words, it may launch 10 pods every Strategic Turn). The pods must be recovered from the planet's surface before being reused."
           }
         ]
       },

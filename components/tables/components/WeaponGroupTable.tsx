@@ -2,31 +2,7 @@ import { useMemo, useState } from 'react';
 import DataTable, { TableColumn } from 'react-data-table-component';
 import FilterComponent from './FilterComponent';
 import SrdMarkdown from '../../util/SrdMarkdown';
-
-export interface WeaponRecord {
-  name: string;
-  id: string;
-  type: string;
-  class: string;
-  range: string;
-  damage: string;
-  penetration: number | string;
-  special: string;
-  description: string;
-  weight: string;
-  availability: string;
-  source: string;
-}
-
-export interface RangedWeaponRecord extends WeaponRecord {
-  rateOfFire: string;
-  clip: number | string;
-  reload: string;
-}
-
-export interface MeleeWeaponRecord extends WeaponRecord {
-  twoHanded: boolean;
-}
+import { WeaponRecord } from '@/components/types/Records';
 
 export function WeaponGroupTable<Type extends WeaponRecord>({
   tableData,

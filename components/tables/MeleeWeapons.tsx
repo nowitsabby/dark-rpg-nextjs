@@ -1,11 +1,10 @@
 'use client'
 
 import { useEffect, useState } from 'react';
-import { MeleeWeaponRecord } from './components/WeaponGroupTable';
 import MeleeWeaponTable from './components/MeleeWeaponTable';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
-
 import 'react-tabs/style/react-tabs.css';
+import { MeleeWeaponRecord } from '../types/Records';
 
 export default function MeleeWeapons({ rootPath, data }: { rootPath: string, data: MeleeWeaponRecord[] }) { 
   const [weaponGroups, setWeaponGroups] = useState([] as string[]);

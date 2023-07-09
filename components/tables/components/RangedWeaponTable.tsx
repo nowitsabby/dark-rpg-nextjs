@@ -1,6 +1,7 @@
+import { RangedWeaponRecord } from '@/components/types/Records';
 import availability from '../../util/Availability';
 import TableLink from './TableLink';
-import { RangedWeaponRecord, WeaponGroupTable } from './WeaponGroupTable';
+import { WeaponGroupTable } from './WeaponGroupTable';
 
 export default function RangedWeaponTable({
   rootPath,

@@ -1,11 +1,10 @@
 'use client'
 
 import { useEffect, useState } from 'react';
-import { RangedWeaponRecord } from './components/WeaponGroupTable';
 import RangedWeaponTable from './components/RangedWeaponTable';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
-
 import 'react-tabs/style/react-tabs.css';
+import { RangedWeaponRecord } from '../types/Records';
 
 export default function RangedWeapons({ rootPath, data }: { rootPath: string, data: RangedWeaponRecord[] }) {
   const [weaponGroups, setWeaponGroups] = useState([] as string[]);

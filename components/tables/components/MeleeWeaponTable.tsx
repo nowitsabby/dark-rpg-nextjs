@@ -1,6 +1,7 @@
+import { MeleeWeaponRecord } from '@/components/types/Records';
 import availability from '../../util/Availability';
 import TableLink from './TableLink';
-import { MeleeWeaponRecord, WeaponGroupTable } from './WeaponGroupTable';
+import { WeaponGroupTable } from './WeaponGroupTable';
 
 export default function MeleeWeaponTable({
   rootPath,

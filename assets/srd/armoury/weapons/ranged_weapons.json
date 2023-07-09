@@ -1585,7 +1585,8 @@
       "source": "Hammer of the Emperor"
     },
     {
-      "weapon": "Heavy Laspistol, Sollex Pattern \"Steel Burner\"",
+      "name": "Heavy Laspistol, Sollex Pattern 'Steel Burner'",
+      "id": "heavy_laspistol_sollex_pattern_steel_burner'",
       "type": "Las",
       "class": "Pistol",
       "range": "30m",
@@ -1822,7 +1823,8 @@
       "source": "Hammer of the Emperor"
     },
     {
-      "weapon": "Lasgun, Sollex Pattern \"Death Light\"",
+      "name": "Lasgun, Sollex Pattern 'Death Light'",
+      "id": "lasgun_sollex_pattern_death_light",
       "type": "Las",
       "class": "Basic",
       "range": "80m",
@@ -3929,7 +3931,8 @@
       "source": "Dark Heresy 2e"
     },
     {
-      "weapon": "Stub Revolver, \"Fate Bringer\"",
+      "name": "Stub Revolver, 'Fate Bringer'",
+      "id": "stub_revolver_fate_bringer",
       "type": "Solid Projectile",
       "class": "Pistol",
       "range": "40m",

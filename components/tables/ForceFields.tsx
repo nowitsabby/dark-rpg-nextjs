@@ -6,18 +6,9 @@ import availability from '../util/Availability';
 import SrdMarkdown from '../util/SrdMarkdown';
 import FilterComponent from './components/FilterComponent';
 import TableLink from './components/TableLink';
+import { ForceFieldRecord } from '../types/Records';
 
-export interface FieldRecord {
-  name: string;
-  id: string;
-  protectionRating: number;
-  weight: string;
-  availability: string;
-  description: string;
-  source: string;
-}
-
-export default function ForceFields({ rootPath, data }: { rootPath: string, data: FieldRecord[] }) {
+export default function ForceFields({ rootPath, data }: { rootPath: string, data: ForceFieldRecord[] }) {
   const [filterText, setFilterText] = useState('');
   const subHeaderComponentMemo = useMemo(() => {
     return (
@@ -33,28 +24,28 @@ export default function ForceFields({ rootPath, data }: { rootPath: string, data
       name: 'Field',
       sortable: true,
       wrap: true,
-      selector: (row: FieldRecord) => row.name,
-      format: (row: FieldRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
+      selector: (row: ForceFieldRecord) => row.name,
+      format: (row: ForceFieldRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Protection Rating',
       sortable: true,
       wrap: true,
-      selector: (row: FieldRecord) => row.protectionRating,
+      selector: (row: ForceFieldRecord) => row.protectionRating,
     },
     {
       name: 'Wgt',
       compact: true,
       sortable: true,
       wrap: true,
-      selector: (row: FieldRecord) => row.weight,
+      selector: (row: ForceFieldRecord) => row.weight,
     },
     {
       name: 'Availability',
       sortable: true,
       wrap: true,
-      selector: (row: FieldRecord) => availability(row.availability),
-      format: (row: FieldRecord) => row.availability,
+      selector: (row: ForceFieldRecord) => availability(row.availability),
+      format: (row: ForceFieldRecord) => row.availability,
     },
   ];
 

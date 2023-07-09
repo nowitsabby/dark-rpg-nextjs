@@ -55,3 +55,56 @@ export interface TalentRecord {
   benefit: string;
   source: string;
 }
+
+export interface ForceFieldRecord {
+  name: string;
+  id: string;
+  protectionRating: number;
+  weight: string;
+  availability: string;
+  description: string;
+  source: string;
+}
+
+export interface WeaponRecord {
+  name: string;
+  id: string;
+  type: string;
+  class: string;
+  range: string;
+  damage: string;
+  penetration: number | string;
+  special: string;
+  description: string;
+  weight: string;
+  availability: string;
+  source: string;
+}
+
+export interface RangedWeaponRecord extends WeaponRecord {
+  rateOfFire: string;
+  clip: number | string;
+  reload: string;
+}
+
+export interface MeleeWeaponRecord extends WeaponRecord {
+  twoHanded: boolean;
+}
+
+export interface ModRecord {
+  name: string;
+  id: string;
+  weight: string;
+  availability: string;
+  upgrades: string;
+  description: string;
+  source: string;
+}
+
+export interface NavigatorPowerRecord {
+  name: string;
+  id: string;
+  novice: string;
+  adept: string;
+  master: string;
+}

@@ -2,6 +2,11 @@ import AmmunitionEntry from '@/components/entries/AmmunitionEntry';
 import ArmourEntry from '@/components/entries/ArmourEntry';
 import BackgroundEntry from '@/components/entries/BackgroundEntry';
 import EquipmentEntry from '@/components/entries/EquipmentEntry';
+import ForceFieldEntry from '@/components/entries/ForceFieldEntry';
+import MeleeWeaponEntry from '@/components/entries/MeleeWeaponEntry';
+import ModificationEntry from '@/components/entries/ModificationEntry';
+import NavigatorPowerEntry from '@/components/entries/NavigatorPowerEntry';
+import RangedWeaponEntry from '@/components/entries/RangedWeaponEntry';
 import TalentEntry from '@/components/entries/TalentEntry';
 import Actions, { ActionsTable } from '@/components/tables/Actions';
 import Ammunition from '@/components/tables/Ammunition';
@@ -10,10 +15,10 @@ import Backgrounds from '@/components/tables/Backgrounds';
 import CriticalDamage, { CriticalDamageTable } from '@/components/tables/CriticalDamage';
 import EliteAdvance, { EliteAdvanceRecord } from '@/components/tables/EliteAdvance';
 import Equipment from '@/components/tables/Equipment';
-import ForceFields, { FieldRecord } from '@/components/tables/ForceFields';
+import ForceFields from '@/components/tables/ForceFields';
 import MeleeWeapons from '@/components/tables/MeleeWeapons';
-import Modifications, { ModRecord } from '@/components/tables/Modifications';
-import NavigatorPowers, { NavigatorPowerType } from '@/components/tables/NavigatorPowers';
+import Modifications from '@/components/tables/Modifications';
+import NavigatorPowers from '@/components/tables/NavigatorPowers';
 import Origins, { OriginsTable } from '@/components/tables/Origins';
 import PsychicDiscipline, { PsychicDisciplineRecord } from '@/components/tables/PsychicDiscipline';
 import RangedWeapons from '@/components/tables/RangedWeapons';
@@ -29,8 +34,18 @@ import Talents from '@/components/tables/Talents';
 import TorpedoesAttackCraft, { TorpedoAttackCraft } from '@/components/tables/TorpedoesAttackCraft';
 import Traits, { TraitTable } from '@/components/tables/Traits';
 import { StarshipHullRecord } from '@/components/tables/components/HullTable';
-import { MeleeWeaponRecord, RangedWeaponRecord } from '@/components/tables/components/WeaponGroupTable';
-import { AmmunitionRecord, ArmourRecord, BackgroundRecord, EquipmentRecord, TalentRecord } from '@/components/types/Records';
+import { 
+  AmmunitionRecord, 
+  ArmourRecord, 
+  BackgroundRecord, 
+  EquipmentRecord, 
+  ForceFieldRecord, 
+  MeleeWeaponRecord, 
+  ModRecord, 
+  NavigatorPowerRecord, 
+  RangedWeaponRecord, 
+  TalentRecord 
+} from '@/components/types/Records';
 import Document from '@/components/util/Document'
 import { DOC_TYPES, loadDocument } from '@/lib/srd'
 import path from 'path';
@@ -59,13 +74,13 @@ function DataTableComponent({ rootPath, component, data }: { rootPath: string, c
     case 'Equipment':
       return <Equipment rootPath={rootPath} data={ data as EquipmentRecord[] } />
     case 'ForceFields':
-      return <ForceFields rootPath={rootPath} data={ data as FieldRecord[] } />
+      return <ForceFields rootPath={rootPath} data={ data as ForceFieldRecord[] } />
     case 'MeleeWeapons': 
       return <MeleeWeapons rootPath={rootPath} data={ data as MeleeWeaponRecord[] }/>
     case 'Modifications':
       return <Modifications rootPath={rootPath} data={ data as ModRecord[] } />
     case 'NavigatorPowers':
-      return <NavigatorPowers data={ data as NavigatorPowerType[] } />
+      return <NavigatorPowers rootPath={rootPath} data={ data as NavigatorPowerRecord[] } />
     case 'Origins':
       return <Origins rootPath={rootPath} data={ data as OriginsTable[] } />
     case 'PsychicDiscipline':
@@ -119,21 +134,21 @@ function DataEntryComponent({ rootPath, component, data, id }: {
         return <EliteAdvance rootPath={rootPath} data={ data as EliteAdvanceRecord } />
       }
     case 'Equipment':
-      return <EquipmentEntry rootPath={rootPath} data={ data as EquipmentRecord[] }id={id} />
+      return <EquipmentEntry rootPath={rootPath} data={ data as EquipmentRecord[] } id={id} />
     case 'ForceFields':
-      return <ForceFields rootPath={rootPath} data={ data as FieldRecord[] } />
+      return <ForceFieldEntry rootPath={rootPath} data={ data as ForceFieldRecord[] } id={id} />
     case 'MeleeWeapons': 
-      return <MeleeWeapons rootPath={rootPath} data={ data as MeleeWeaponRecord[] }/>
+      return <MeleeWeaponEntry rootPath={rootPath} data={ data as MeleeWeaponRecord[] } id={id} />
     case 'Modifications':
-      return <Modifications rootPath={rootPath} data={ data as ModRecord[] } />
+      return <ModificationEntry rootPath={rootPath} data={ data as ModRecord[] } id={id} />
     case 'NavigatorPowers':
-      return <NavigatorPowers data={ data as NavigatorPowerType[] } />
+      return <NavigatorPowerEntry rootPath={rootPath} data={ data as NavigatorPowerRecord[] } id={id} />
     case 'Origins':
       return <Origins rootPath={rootPath} data={ data as OriginsTable[] } />
     case 'PsychicDiscipline':
       return <PsychicDiscipline rootPath={rootPath} data={ data as PsychicDisciplineRecord } />
     case 'RangedWeapons':
-      return <RangedWeapons rootPath={rootPath} data={ data as RangedWeaponRecord[] }/>
+      return <RangedWeaponEntry rootPath={rootPath} data={ data as RangedWeaponRecord[] } id={id} />
     case 'Roles':
       return <Roles rootPath={rootPath} data={ data as RolesTable[] } />
     case 'Skills':

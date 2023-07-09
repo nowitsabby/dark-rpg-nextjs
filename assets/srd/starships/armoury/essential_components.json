@@ -125,7 +125,8 @@
         ]
       },
       {
-        "component": "Saturine-pattern Class 4A \"Ultra\" Drive",
+        "name": "Saturine-pattern Class 4A 'Ultra' Drive",
+        "id": "saturine_pattern_class_4_a_ultra_drive",
         "hulls": [
           "Battlecruisers"
         ],
@@ -161,12 +162,13 @@
           },
           {
             "title": "Fragile Engines",
-            "effect": "Any hits to the finely-balanced plasma drives are likely to incapacitate the entire ship. If the ship suffers a \"Thrusters Damaged\" or \"Engines Crippled\" Critical Hit, the subsequent dice roll to determine severity is always a 10."
+            "effect": "Any hits to the finely-balanced plasma drives are likely to incapacitate the entire ship. If the ship suffers a 'Thrusters Damaged' or 'Engines Crippled' Critical Hit, the subsequent dice roll to determine severity is always a 10."
           }
         ]
       },
       {
-        "component": "Javian-pattern \"Warcruiser\" Drive",
+        "name": "Javian-pattern 'Warcruiser' Drive",
+        "id": "javian_pattern_warcruiser_drive",
         "hulls": [
           "Light Cruisers"
         ],
@@ -176,7 +178,8 @@
         "special": []
       },
       {
-        "component": "Javian-pattern \"Warcruiser\" Drive",
+        "name": "Javian-pattern 'Warcruiser' Drive",
+        "id": "javian_pattern_warcruiser_drive",
         "hulls": [
           "Cruisers"
         ],
@@ -186,7 +189,8 @@
         "special": []
       },
       {
-        "component": "Segrazian \"Viperdrive\" Pirate Engine",
+        "name": "Segrazian 'Viperdrive' Pirate Engine",
+        "id": "segrazian_viperdrive_pirate_engine",
         "hulls": [
           "Raiders",
           "Frigates"
@@ -385,7 +389,7 @@
         "special": [
           {
             "title": "Mysteries of the Warp",
-            "effect": "The design intent was for these ships to travel without a Navigator. Adopting one of these warp engines is sure to bring the wrath of the Navis Nobilite upon a Rogue Trader. These vessels can only ride the currents of the warp to follow a \"Calculated Jump\". Multiple redundant cogitation systems aid in finding safe passage. However, the systems required for a Navigator to interface with the Warp Engine are not present. No warp assessment is possible, so the dangers of the Immaterium are increased. When using this system, the vessel must make a daily test on *Table: Warp Travel Encounters*"
+            "effect": "The design intent was for these ships to travel without a Navigator. Adopting one of these warp engines is sure to bring the wrath of the Navis Nobilite upon a Rogue Trader. These vessels can only ride the currents of the warp to follow a 'Calculated Jump'. Multiple redundant cogitation systems aid in finding safe passage. However, the systems required for a Navigator to interface with the Warp Engine are not present. No warp assessment is possible, so the dangers of the Immaterium are increased. When using this system, the vessel must make a daily test on *Table: Warp Travel Encounters*"
           },
           {
             "title": "Static System",
@@ -553,7 +557,8 @@
         ]
       },
       {
-        "component": "Voss \"Glimmer\"-pattern Single Void Shield Array",
+        "name": "Voss 'Glimmer'-pattern Single Void Shield Array",
+        "is": "voss_glimmer_pattern_single_void_shield_array",
         "hulls": [
           "Transports",
           "Raiders",
@@ -577,7 +582,8 @@
         ]
       },
       {
-        "component": "Voss \"Glimmer\"-pattern Multiple Void Shield Array",
+        "name": "Voss 'Glimmer'-pattern Multiple Void Shield Array",
+        "id": "voss_glimmer_pattern_multiple_void_shield_array",
         "hulls": [
           "Cruisers",
           "Space Stations"
@@ -1452,7 +1458,7 @@
           },
           {
             "title": "No Broadcasting",
-            "effect": "When on \"Silent Running\" this vessel may perform any Detection actions without penalty."
+            "effect": "When on 'Silent Running' this vessel may perform any Detection actions without penalty."
           }
         ]
       }
