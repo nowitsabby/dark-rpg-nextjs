@@ -181,7 +181,7 @@ The shifting warp of Winterscale's Realm and the obsessive secrecy of those who 
 
 __Themes:__ Criminal, Trade
 
-The trade in Egarian materials is presently accepted as falling within the bounds of a Warrant of Trade, and so has far less attendant risk than selling other xenos artefacts. Nonetheless, few potential buyers stand on the right side of Imperial authority. A Rogue Trader will often find himself forging an unwilling compact of trade with the Kasballica to generate the profit he desires.
+The trade in Egarian materials is presently accepted as falling within the bounds of a Warrant of Trade, and so has far less attendant risk than selling other xenos artefacts. Nonetheless, few potential buyers stand on the right side of Imperial authority. A Rogue Trader will often find herself forging an unwilling compact of trade with the Kasballica to generate the profit he desires.
 
 #### Objective 3: Seek Out Value in the Hive-ruins
 

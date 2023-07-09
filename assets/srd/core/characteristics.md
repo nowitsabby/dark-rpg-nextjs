@@ -47,7 +47,7 @@ Willpower measures a character's mental strength and resilience\. High Willpower
 
 ### Fellowship \(Fel\) 
 
-Fellowship measures a character's persuasiveness, ability to lead, and force of personality\. Having a strong Fellowship makes for a character who can ingratiate himself into a gathering of suspicious forge menials or make skilled trades with wily vendors\. 
+Fellowship measures a character's persuasiveness, ability to lead, and force of personality\. Having a strong Fellowship makes for a character who can ingratiate herself into a gathering of suspicious forge menials or make skilled trades with wily vendors\. 
 
 ### Influence/Infamy \(Inf\) 
 

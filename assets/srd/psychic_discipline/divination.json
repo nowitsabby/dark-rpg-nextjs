@@ -123,7 +123,7 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "For the duration of this power, a number of allies within range equal to the psyker's psy rating, plus the psyker himself, gain a bonus to all Evasion tests equal to twice the psyker's psy rating. Allies affected by this power lose its benefits as soon as they move out of range.",
+        "effects": "For the duration of this power, a number of allies within range equal to the psyker's psy rating, plus the psyker herself, gain a bonus to all Evasion tests equal to twice the psyker's psy rating. Allies affected by this power lose its benefits as soon as they move out of range.",
         "source": "Dark Heresy 2e"
       },
       {

@@ -118,7 +118,7 @@
     },
     {
       "critical DAMAGE": 9,
-      "critical EFFECT": "As above, except the fire pours into the main hull of the vehicle, setting everything ablaze. Each character inside the affected portions of the vehicle, as determined by the GM, must make a Challenging (+0) Agility test or catch on fire (see On Fire!). Anyone who catches fire can attempt to put himself out as described in the rules for Fire."
+      "critical EFFECT": "As above, except the fire pours into the main hull of the vehicle, setting everything ablaze. Each character inside the affected portions of the vehicle, as determined by the GM, must make a Challenging (+0) Agility test or catch on fire (see On Fire!). Anyone who catches fire can attempt to put herself out as described in the rules for Fire."
     },
     {
       "critical DAMAGE": "10+",

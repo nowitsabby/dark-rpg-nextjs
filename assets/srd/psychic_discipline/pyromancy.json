@@ -54,7 +54,7 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker chooses himself or another character she can physically touch. If the target is suffering from Blood Loss, successfully using the power removes that condition.",
+        "effects": "The psyker chooses herself or another character she can physically touch. If the target is suffering from Blood Loss, successfully using the power removes that condition.",
         "source": "Dark Heresy 2e"
       },
       {
@@ -105,7 +105,7 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "While this power is in effect, all of the psyker's melee attacks deal additional Energy damage equal to her psy rating and gain the Flame quality. In addition, at the end of each of the psyker's turns in which she sustains this power, she emits a Psychic Blast (1d10+PR E; Pen 0; Special: Blast (PR), Flame) centred on her location. Each character within the area of the blast, with the exception of the psyker himself, are struck.",
+        "effects": "While this power is in effect, all of the psyker's melee attacks deal additional Energy damage equal to her psy rating and gain the Flame quality. In addition, at the end of each of the psyker's turns in which she sustains this power, she emits a Psychic Blast (1d10+PR E; Pen 0; Special: Blast (PR), Flame) centred on her location. Each character within the area of the blast, with the exception of the psyker herself, are struck.",
         "source": "Dark Heresy 2e"
       },
       {

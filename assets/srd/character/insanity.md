@@ -51,7 +51,7 @@ Mental disorders reflect the permanent, long\-term effects on a character's mind
 
 ### Disorders and Their Severity
 
-The effect a mental disorder has on a character is left largely up to the GM, though the descriptions presented below provide some guidelines\. If a character finds himself in a situation or encounter where her disorder will be immediately or dangerously detrimental, she can make a Willpower test\. Success means that she is able to ignore the effects of the disorder for the remainder of the encounter\. All disorders are rated as Minor, Severe, or Acute, in ascending order of effect\.
+The effect a mental disorder has on a character is left largely up to the GM, though the descriptions presented below provide some guidelines\. If a character finds herself in a situation or encounter where her disorder will be immediately or dangerously detrimental, she can make a Willpower test\. Success means that she is able to ignore the effects of the disorder for the remainder of the encounter\. All disorders are rated as Minor, Severe, or Acute, in ascending order of effect\.
 
 - Minor Disorder: The effects of the disorder manifest rarely or exhibit a fairly weak compulsion\. Any test to overcome the effects of the disorder gains a \+10 bonus\.
 - Severe Disorder: The effects of the disorder are stronger and may manifest regularly\. There is no modifier to tests made to overcome the effects of the disorder\.

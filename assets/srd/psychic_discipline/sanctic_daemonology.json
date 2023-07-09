@@ -92,7 +92,7 @@
           "Attack",
           "Concentration"
         ],
-        "effects": "Each round the psyker sustains Holocaust, she emits a psychic blast centred on himself. She is not affected by the blast, but each turn the psyker sustains the power she suffers 1d10+PR Energy damage, ignoring armour and Toughness bonus. \n\nPsychic Blast; Rng: Self; Dmg: 1d10xPR E; Pen: 0; Special: Blast (PR), Flame, Warp Weapon",
+        "effects": "Each round the psyker sustains Holocaust, she emits a psychic blast centred on herself. She is not affected by the blast, but each turn the psyker sustains the power she suffers 1d10+PR Energy damage, ignoring armour and Toughness bonus. \n\nPsychic Blast; Rng: Self; Dmg: 1d10xPR E; Pen: 0; Special: Blast (PR), Flame, Warp Weapon",
         "source": "Enemies Beyond"
       },
       {

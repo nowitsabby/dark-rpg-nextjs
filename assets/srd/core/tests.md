@@ -39,7 +39,7 @@ Occasionally, a character will attempt a task so complicated that it requires qu
 
 # Opposed Tests
 
-There are times when a character needs to test himself against a foe, and times like these call for an Opposed test\. In an Opposed test, each participant makes her appropriate test normally and whoever succeeds wins the test\. If both parties succeed, the party with the most degrees of success wins the test\. If the number of successes is equal, then the party with the highest characteristic bonus wins\. If there is still a tie, then the lowest die roll wins\. Should both parties fail, then one of two things occurs: either the test ends in a stalemate and nothing happens, or both parties re\-roll until there is a clear winner\. Either outcome is appropriate and is left to the GM's discretion\.
+There are times when a character needs to test herself against a foe, and times like these call for an Opposed test\. In an Opposed test, each participant makes her appropriate test normally and whoever succeeds wins the test\. If both parties succeed, the party with the most degrees of success wins the test\. If the number of successes is equal, then the party with the highest characteristic bonus wins\. If there is still a tie, then the lowest die roll wins\. Should both parties fail, then one of two things occurs: either the test ends in a stalemate and nothing happens, or both parties re\-roll until there is a clear winner\. Either outcome is appropriate and is left to the GM's discretion\.
 
 # Test Difficulty
 

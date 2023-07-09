@@ -38,7 +38,7 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker can remove a number of levels of Fatigue from himself and allies within range. She can chose how many levels to reduce per character, but the sum of all levels removed from all characters cannot exceed her psy rating. This power is very taxing and requires at least 12 hours of recovery before it can be used again",
+        "effects": "The psyker can remove a number of levels of Fatigue from herself and allies within range. She can chose how many levels to reduce per character, but the sum of all levels removed from all characters cannot exceed her psy rating. This power is very taxing and requires at least 12 hours of recovery before it can be used again",
         "source": "Dark Heresy 2e"
       },
       {
@@ -56,7 +56,7 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker chooses himself or an organic target that she can physically touch. The target's physical appearance changes to a new form of the psyker's choosing for the duration of the power. The amount and precision of the alterations depend on the final psy rating used. Following are some broad guidelines, but GMs can further alter the range of the power as needed. \n* PR 1-3: The psyker can alter subtle flesh shapes, tones, and colours to distort the appearance of the target. She does not have direct control over what the end result looks like. \n* PR 4-6: The psyker can alter flesh, hair, eyes, and any other physical features. She can choose how the features will be altered, but does not have the precision to mimic others.\n* PR 7-9: The psyker can change any physical feature of the target to resemble another individual. However, the psyker must have a pic record of the individual, or have seen her before.\n* PR 10+: The psyker can shape her target to exactly mimic another individual. Additionally, she can use the power to morph the target into a form that no longer appears human. All tests to identify the target's true identity suffer a penalty equal to 5 x PR for the duration of the power. The effects of the power on a target other than the psyker remain in effect for the duration of the power, regardless of how far away from the psyker the target becomes.",
+        "effects": "The psyker chooses herself or an organic target that she can physically touch. The target's physical appearance changes to a new form of the psyker's choosing for the duration of the power. The amount and precision of the alterations depend on the final psy rating used. Following are some broad guidelines, but GMs can further alter the range of the power as needed. \n* PR 1-3: The psyker can alter subtle flesh shapes, tones, and colours to distort the appearance of the target. She does not have direct control over what the end result looks like. \n* PR 4-6: The psyker can alter flesh, hair, eyes, and any other physical features. She can choose how the features will be altered, but does not have the precision to mimic others.\n* PR 7-9: The psyker can change any physical feature of the target to resemble another individual. However, the psyker must have a pic record of the individual, or have seen her before.\n* PR 10+: The psyker can shape her target to exactly mimic another individual. Additionally, she can use the power to morph the target into a form that no longer appears human. All tests to identify the target's true identity suffer a penalty equal to 5 x PR for the duration of the power. The effects of the power on a target other than the psyker remain in effect for the duration of the power, regardless of how far away from the psyker the target becomes.",
         "source": "Dark Heresy 2e"
       },
       {
@@ -91,7 +91,7 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "A number of allies in range equal to the psyker's psy rating, plus the psyker himself, recover wounds equal to half the psyker's psy rating, rounded up. They can also immediately overcome the effects of Pinning. This power is incredibly taxing and requires at least 12 hours of recovery before it may be used again",
+        "effects": "A number of allies in range equal to the psyker's psy rating, plus the psyker herself, recover wounds equal to half the psyker's psy rating, rounded up. They can also immediately overcome the effects of Pinning. This power is incredibly taxing and requires at least 12 hours of recovery before it may be used again",
         "source": "Dark Heresy 2e"
       },
       {

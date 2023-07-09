@@ -59,7 +59,7 @@ introduction, an adversary for the Heretics to pursue, a clearer description of 
 
 ### The Introduction
 
-This portion of the Investigation is designed to provide the Heretics with the motivation for starting the Investigation and seeing it through. It provides a crucial hook and sets the tone for the rest of the Investigation. There are numerous other ways for a GM to begin an Investigation; perhaps one of the Heretics learns a partial ritual of Daemonhood from a sorcerer-lord she had met before, or receives a communiqué from himself warning of a future event!
+This portion of the Investigation is designed to provide the Heretics with the motivation for starting the Investigation and seeing it through. It provides a crucial hook and sets the tone for the rest of the Investigation. There are numerous other ways for a GM to begin an Investigation; perhaps one of the Heretics learns a partial ritual of Daemonhood from a sorcerer-lord she had met before, or receives a communiqué from herself warning of a future event!
 
 ### The Adversary
 

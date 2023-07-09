@@ -159,11 +159,11 @@ A character is considered Lightly Damaged if she has taken damage equal to or le
 
 ### Heavily Damaged 
 
-A character is Heavily Damaged whenever she has taken more damage than twice her Toughness bonus\. A Heavily Damaged character does not remove damage unless she devotes himself to complete rest \(such as when receiving extended care, as per the Medicae skill\)\. If she does so, the character removes 1 point of damage at the end of each 24–hour period\. Once a Heavily Damaged character's damage is equal to or less than twice her Toughness bonus, she becomes Lightly Damaged instead\. 
+A character is Heavily Damaged whenever she has taken more damage than twice her Toughness bonus\. A Heavily Damaged character does not remove damage unless she devotes herself to complete rest \(such as when receiving extended care, as per the Medicae skill\)\. If she does so, the character removes 1 point of damage at the end of each 24–hour period\. Once a Heavily Damaged character's damage is equal to or less than twice her Toughness bonus, she becomes Lightly Damaged instead\. 
 
 ### Critically Damaged 
 
-A character is Critically Damaged whenever she has taken damage in excess of her wounds\. A Critically Damaged character does not remove damage unless she devotes himself to complete rest \(such as when receiving extended care, as per the Medicae skill\)\. If she does so, the character makes a Challenging \(\+0\) Toughness test at the end of each 24–hour period\. If she succeeds, she removes 1 point of Critical damage\. Once all Critical damage has been removed, a character becomes Heavily Damaged instead\. 
+A character is Critically Damaged whenever she has taken damage in excess of her wounds\. A Critically Damaged character does not remove damage unless she devotes herself to complete rest \(such as when receiving extended care, as per the Medicae skill\)\. If she does so, the character makes a Challenging \(\+0\) Toughness test at the end of each 24–hour period\. If she succeeds, she removes 1 point of Critical damage\. Once all Critical damage has been removed, a character becomes Heavily Damaged instead\. 
 
 ### Medical Attention 
 

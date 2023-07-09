@@ -123,7 +123,7 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker nominates a single target within range and line of sight (this can be the psyker himself). For the duration of the power, the target counts having the Stealth skill at Known (rank 1), and gains a bonus to Stealth tests equal to +5 times the psyker's psy rating. Additionally, all ranged attacks made against the target suffer a penalty equal to –5 times the psyker's psy rating. If the target moves beyond the power's range, she loses this power's benefits.",
+        "effects": "The psyker nominates a single target within range and line of sight (this can be the psyker herself). For the duration of the power, the target counts having the Stealth skill at Known (rank 1), and gains a bonus to Stealth tests equal to +5 times the psyker's psy rating. Additionally, all ranged attacks made against the target suffer a penalty equal to –5 times the psyker's psy rating. If the target moves beyond the power's range, she loses this power's benefits.",
         "source": "Dark Heresy 2e"
       },
       {
@@ -140,7 +140,7 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker nominates a single target in range and line of sight with total wounds no greater than 3 times the psyker's psy rating, who opposes this power with a Willpower test. If the target fails to resist the power, it is controlled by the psyker like a puppet. For the duration of the power, the psyker can divide her Actions between himself and the target. The dominated target uses its own Characteristics, but at –10 due to the crudity of the control. If at any point the psyker would make the target perform a potentially suicidal action, the target can attempt a Challenging (+0) Opposed Willpower test to try to break free of the power. Additionally, the power breaks as soon as the target moves out of range.",
+        "effects": "The psyker nominates a single target in range and line of sight with total wounds no greater than 3 times the psyker's psy rating, who opposes this power with a Willpower test. If the target fails to resist the power, it is controlled by the psyker like a puppet. For the duration of the power, the psyker can divide her Actions between herself and the target. The dominated target uses its own Characteristics, but at –10 due to the crudity of the control. If at any point the psyker would make the target perform a potentially suicidal action, the target can attempt a Challenging (+0) Opposed Willpower test to try to break free of the power. Additionally, the power breaks as soon as the target moves out of range.",
         "source": "Dark Heresy 2e"
       },
       {

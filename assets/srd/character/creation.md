@@ -164,7 +164,7 @@ The eternal fight never ends, but each character takes up the cause for her own 
 
 #### What Does the Character Hate?
 
-Hatred can motivate many a character in powerful ways, burning her passions and keeping her fighting when all else is gone\. A character who lost her world to a xenos invasion might be consumed with hate, and eagerly seek out aliens to kill no matter the species or their actual threat\. Another might reserve her wrath for those who do not worship the Emperor in the correct manner, or for foul mutants who defy the holy form of Man\. A character's hatred could also be within himself, for a moment of weakness on an otherwise\-forgotten battlefield that only the Emperor witnessed\.
+Hatred can motivate many a character in powerful ways, burning her passions and keeping her fighting when all else is gone\. A character who lost her world to a xenos invasion might be consumed with hate, and eagerly seek out aliens to kill no matter the species or their actual threat\. Another might reserve her wrath for those who do not worship the Emperor in the correct manner, or for foul mutants who defy the holy form of Man\. A character's hatred could also be within herself, for a moment of weakness on an otherwise\-forgotten battlefield that only the Emperor witnessed\.
 
 #### What is the Character Willing to Sacrifice?
 

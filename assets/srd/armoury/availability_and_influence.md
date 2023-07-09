@@ -70,7 +70,7 @@ If the Requisition test succeeds, the offered item is traded away, and lost. If 
 
 ### "The Emperor Provides..."
 
-A player might decide that it is in her character's best interest to focus her skills so that she is better suited for acquiring equipment. In this way, one Acolyte could be the main negotiator for obtaining unusual items for the warband, or for bartering for any extra gear. A character who chooses to develop himself in this way would likely seek to advance her Commerce skill and Fellowship characteristic. Following this path, the warband improves its odds of having access to the most appropriate gear for its investigation, and might even acquire a few luxuries along the way.
+A player might decide that it is in her character's best interest to focus her skills so that she is better suited for acquiring equipment. In this way, one Acolyte could be the main negotiator for obtaining unusual items for the warband, or for bartering for any extra gear. A character who chooses to develop herself in this way would likely seek to advance her Commerce skill and Fellowship characteristic. Following this path, the warband improves its odds of having access to the most appropriate gear for its investigation, and might even acquire a few luxuries along the way.
 
 Any time that a character seeks to obtain an item, she begins by identifying the person or group most likely to provide it. Once she has done so, she can engage in a Challenging (+0) Opposed Commerce test. For every degree of success on the test, the Acolyte receives a +10 bonus to her Requisition test to obtain an item. Three or more degrees of failure, however, imposes a –10 penalty on the test and could possibly impact the warband's Subtlety.
 

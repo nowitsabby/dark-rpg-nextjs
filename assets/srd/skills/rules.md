@@ -51,7 +51,7 @@ Some skills fall into broad categories that use common rules. Skill descriptors 
 
 ### Combat Skills
 
-Skills with this descriptor are used in the heat of battle. They are often made in reaction to an enemy's blows, with a basic skill test and the resulting degrees of success or failure determining how well the user acquitted himself in the attempt.
+Skills with this descriptor are used in the heat of battle. They are often made in reaction to an enemy's blows, with a basic skill test and the resulting degrees of success or failure determining how well the user acquitted herself in the attempt.
 
 ### Crafting Skills
 

@@ -29,7 +29,7 @@
       "subtypes": [
         "Miscellaneous"
       ],
-      "description": "Heavy weapons must be braced before they can be fired accurately. This can involve using a bipod or tripod, propping the weapon up, or simply assuming a wide stance or kneeling. When a character fires an unbraced Heavy weapon, she suffers a –30 penalty to her Ballistic Skill test. She can use this action to secure the weapon in place, after which point it is braced and remains so until it is moved. Once it has been braced, it cannot be moved without losing the benefit of bracing. However, the user can still pivot it 45° (or sometimes more) depending on the type of bracing. For example, a weapon braced in the notch of a broken wall would have a limited field of fire, while one on a full tripod could potentially pivot up to 180°. Note that a character can leave a braced weapon behind, assuming that she was bracing the weapon against something other than himself—it only ceases being braced when relocated."
+      "description": "Heavy weapons must be braced before they can be fired accurately. This can involve using a bipod or tripod, propping the weapon up, or simply assuming a wide stance or kneeling. When a character fires an unbraced Heavy weapon, she suffers a –30 penalty to her Ballistic Skill test. She can use this action to secure the weapon in place, after which point it is braced and remains so until it is moved. Once it has been braced, it cannot be moved without losing the benefit of bracing. However, the user can still pivot it 45° (or sometimes more) depending on the type of bracing. For example, a weapon braced in the notch of a broken wall would have a limited field of fire, while one on a full tripod could potentially pivot up to 180°. Note that a character can leave a braced weapon behind, assuming that she was bracing the weapon against something other than herself—it only ceases being braced when relocated."
     },
     {
       "name": "Called Shot",
@@ -136,7 +136,7 @@
         "Concentration",
         "Melee or Ranged"
       ],
-      "description": "The character's next steps are careful and guarded, making sure she remains well poised to defend himself. This action must be the first action in the character's turn. She suffers a –10 penalty to any Weapon Skill tests or Ballistic Skill tests made this turn, but gains a +10 bonus to all Evasion tests until the start of her next turn."
+      "description": "The character's next steps are careful and guarded, making sure she remains well poised to defend herself. This action must be the first action in the character's turn. She suffers a –10 penalty to any Weapon Skill tests or Ballistic Skill tests made this turn, but gains a +10 bonus to all Evasion tests until the start of her next turn."
     },
     {
       "name": "Jump or Leap",
