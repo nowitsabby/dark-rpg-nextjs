@@ -4,10 +4,11 @@
   "component": "PsychicDiscipline",
   "data": {
     "discipline": "Telekinesis",
-    "information": "Through the power of the Warp, telekines translate mental impulses into physical force. Powers from the telekinesis discipline can defy gravity, blast opponents with invisible bolts of force, and even tear holes in the very fabric of reality. Such powers offer great utility in a variety of situations, for they allow a psyker to affect the world around him without the constraints of his physical body.",
+    "information": "Through the power of the Warp, telekines translate mental impulses into physical force. Powers from the telekinesis discipline can defy gravity, blast opponents with invisible bolts of force, and even tear holes in the very fabric of reality. Such powers offer great utility in a variety of situations, for they allow a psyker to affect the world around her without the constraints of her physical body.",
     "powers": [
       {
         "name": "Telekinetic Control",
+        "id": "telekinetic_control",
         "cost": 100,
         "prerequisites": [
           "Willpower 35"
@@ -19,11 +20,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker chooses an object in range and line of sight with a weight no greater than 2 x PR kilograms. At the beginning of each of his turns, he can move the object in any direction up to a number of metres equal to twice his psy rating. If the object ever leaves the range of the power, the power ends",
+        "effects": "The psyker chooses an object in range and line of sight with a weight no greater than 2 x PR kilograms. At the beginning of each of her turns, she can move the object in any direction up to a number of metres equal to twice her psy rating. If the object ever leaves the range of the power, the power ends",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Assail",
+        "id": "assail",
         "cost": 200,
         "prerequisites": [
           "Willpower 40"
@@ -41,6 +43,7 @@
       },
       {
         "name": "Telekine Shield",
+        "id": "telekine_shield",
         "cost": 200,
         "prerequisites": [
           "Intelligence 40"
@@ -57,6 +60,7 @@
       },
       {
         "name": "Crush",
+        "id": "crush",
         "cost": 300,
         "prerequisites": [
           "Willpower 45"
@@ -74,6 +78,7 @@
       },
       {
         "name": "Objuration Mechanicum",
+        "id": "objuration_mechanicum",
         "cost": 300,
         "prerequisites": [
           "Intelligence 40"
@@ -90,6 +95,7 @@
       },
       {
         "name": "Shockwave",
+        "id": "shockwave",
         "cost": 300,
         "prerequisites": [
           "Willpower 50"
@@ -102,11 +108,12 @@
           "Attack",
           "Concentration"
         ],
-        "effects": "Each character in the area of effect (other than the psyker) suffers the damage below. He is also pushed directly away from the psyker a number of metres equal to the psyker's psy rating.\n\nPsychic Blast; 1d10+PR X; Pen 0; Special: Blast (PR)",
+        "effects": "Each character in the area of effect (other than the psyker) suffers the damage below. She is also pushed directly away from the psyker a number of metres equal to the psyker's psy rating.\n\nPsychic Blast; 1d10+PR X; Pen 0; Special: Blast (PR)",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Telekine Dome",
+        "id": "telekine_dome",
         "cost": 300,
         "prerequisites": [
           "Psy Rating 4"
@@ -123,6 +130,7 @@
       },
       {
         "name": "Gate of Infinity",
+        "id": "gate_of_infinity",
         "cost": 400,
         "prerequisites": [
           "Psy Rating 5"
@@ -134,11 +142,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker chooses a point anywhere within 5 metres times his psy rating, and opens a gate to the Immaterium at that point. He then chooses a point within range of the power, and opens an exit to the gate at that location. The psyker must be aware of the location in which he is opening the exit to the gate, either having visited it before, seen it from afar, or simply studied it on a map. The gate lasts for a number of rounds equal to the psyker's psy rating, and has a radius in metres equal to the psyker's psy rating as well. For the duration of the power, the two sides of the gate are linked, and any person or objects may pass between them freely provided they can fit through the gate. This power is incredibly taxing and requires at least 12 hours of recovery before it may be used again.",
+        "effects": "The psyker chooses a point anywhere within 5 metres times her psy rating, and opens a gate to the Immaterium at that point. She then chooses a point within range of the power, and opens an exit to the gate at that location. The psyker must be aware of the location in which she is opening the exit to the gate, either having visited it before, seen it from afar, or simply studied it on a map. The gate lasts for a number of rounds equal to the psyker's psy rating, and has a radius in metres equal to the psyker's psy rating as well. For the duration of the power, the two sides of the gate are linked, and any person or objects may pass between them freely provided they can fit through the gate. This power is incredibly taxing and requires at least 12 hours of recovery before it may be used again.",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Vortex of Doom",
+        "id": "vortex_of_doom",
         "cost": 400,
         "prerequisites": [
           "Psy Rating 5"
@@ -151,7 +160,7 @@
           "Attack",
           "Concentration"
         ],
-        "effects": "The psyker chooses a point in range and line of sight, and creates a vortex of energy centred on that point that starts with a radius of 2 metres. Each character who is touching the vortex at the end of the psyker's turn suffers damage as detailed below: \n\nPsychic Blast; 2d10+2*PR X; Pen Vortex Radius; Special: Blast (2)\n\nThe psyker cannot voluntarily stop sustaining this power. Instead, at the beginning of each turn the psyker is sustaining the vortex, he must make a Challenging (+0) Willpower test with a –5 penalty for each metre in the vortex's current radius. If he passes the test, he may perform one of the following actions: \n* Increase the vortex's radius by one metre. \n* Decrease the vortex's radius by one metre. \n* Move the vortex any direction a number of metres equal to the psyker's psy rating. \n\nIf the psyker fails the Willpower test to sustain the vortex, or if he is unable to make the test due to other circumstances, its radius increases by one metre and it moves a number of metres equal to the psyker's psy rating in a random direction. If the vortex's radius ever decreases to zero metres, the power ends and the vortex disappears. If the vortex's radius ever grows larger than the psyker's psy rating, it explodes, ending the power, and destroying the vortex. \n\nPsychic Blast; 2d10+4\\*PR X; Pen Vortex Radius; Special: Blast (2\\*PR)\n\nThe psyker is hit by this damage regardless of his proximity to the exploding vortex as the energy of the Warp he was channelling lashes back into him",
+        "effects": "The psyker chooses a point in range and line of sight, and creates a vortex of energy centred on that point that starts with a radius of 2 metres. Each character who is touching the vortex at the end of the psyker's turn suffers damage as detailed below: \n\nPsychic Blast; 2d10+2*PR X; Pen Vortex Radius; Special: Blast (2)\n\nThe psyker cannot voluntarily stop sustaining this power. Instead, at the beginning of each turn the psyker is sustaining the vortex, she must make a Challenging (+0) Willpower test with a –5 penalty for each metre in the vortex's current radius. If she passes the test, she may perform one of the following actions: \n* Increase the vortex's radius by one metre. \n* Decrease the vortex's radius by one metre. \n* Move the vortex any direction a number of metres equal to the psyker's psy rating. \n\nIf the psyker fails the Willpower test to sustain the vortex, or if she is unable to make the test due to other circumstances, its radius increases by one metre and it moves a number of metres equal to the psyker's psy rating in a random direction. If the vortex's radius ever decreases to zero metres, the power ends and the vortex disappears. If the vortex's radius ever grows larger than the psyker's psy rating, it explodes, ending the power, and destroying the vortex. \n\nPsychic Blast; 2d10+4\\*PR X; Pen Vortex Radius; Special: Blast (2\\*PR)\n\nThe psyker is hit by this damage regardless of her proximity to the exploding vortex as the energy of the Warp she was channelling lashes back into her",
         "source": "Dark Heresy 2e"
       }
     ]

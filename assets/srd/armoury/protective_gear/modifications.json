@@ -9,7 +9,7 @@
       "weight": "+10 kg",
       "availability": "Common",
       "upgrades": "Any armour, helmet, or backpack.",
-      "description": "A brazier must be affixed to a backpack, helmet, or similarly worn item. Setting it aflame requires a Half Action and it can burn for 2 hours. Whilst alight, it acts as a glow-globe and grants a +30 bonus to all Charm and Command tests, a +10 bonus to Intimidate tests, and a -40 penalty to all Stealth tests. If the wearer is ever knocked Prone while it is lit, he must pass an Ordinary (+10) Agility test to avoid setting himself on fire.",
+      "description": "A brazier must be affixed to a backpack, helmet, or similarly worn item. Setting it aflame requires a Half Action and it can burn for 2 hours. Whilst alight, it acts as a glow-globe and grants a +30 bonus to all Charm and Command tests, a +10 bonus to Intimidate tests, and a -40 penalty to all Stealth tests. If the wearer is ever knocked Prone while it is lit, she must pass an Ordinary (+10) Agility test to avoid setting himself on fire.",
       "source": "Enemies Within"
     },
     {
@@ -117,7 +117,7 @@
       "weight": "-",
       "availability": "Rare",
       "upgrades": "Power Armour Helmet",
-      "description": "A paired infra-lens and x-ray imager help the Apothecary monitor small changes in a patient and diagnose internal injuries, even through power armour. A character equipped with a diagnostor helmet gains a +10 to all Medicae Tests where he is working directly on a patient. The improved sensory capabilities also duplicate the effects of a Preysense sight.",
+      "description": "A paired infra-lens and x-ray imager help the Apothecary monitor small changes in a patient and diagnose internal injuries, even through power armour. A character equipped with a diagnostor helmet gains a +10 to all Medicae Tests where she is working directly on a patient. The improved sensory capabilities also duplicate the effects of a Preysense sight.",
       "source": "Deathwatch"
     },
     {
@@ -126,7 +126,7 @@
       "weight": "+4 kg",
       "availability": "Very Rare",
       "upgrades": "Any armour",
-      "description": "When an enemy uses a melee weapon to strike a character wearing this armour, if the 1s digit of his attack roll is a 1, the weapon is destroyed unless it has the Power Field or Warp Weapon quality, or is otherwise immune to being destroyed (such as being granted by the Natural Weapons trait). When added to non-power armour, this upgrade imposes a -5 penalty on the upgraded armour's Maximum Agility rating due to its bulk.",
+      "description": "When an enemy uses a melee weapon to strike a character wearing this armour, if the 1s digit of her attack roll is a 1, the weapon is destroyed unless it has the Power Field or Warp Weapon quality, or is otherwise immune to being destroyed (such as being granted by the Natural Weapons trait). When added to non-power armour, this upgrade imposes a -5 penalty on the upgraded armour's Maximum Agility rating due to its bulk.",
       "source": "Enemies Within"
     },
     {
@@ -135,7 +135,7 @@
       "weight": "+2 kg",
       "availability": "Very Rare",
       "upgrades": "Power Armour",
-      "description": "As long as the user wears the upgraded helmet, the wearer gains a +5 bonus to his Ballistic Skill and a +10 bonus to all Awareness tests based on Sight and Hearing. When added to Terminator Armour the wearer also counts as being equipped with an auspex\n\nThis is a power armour sub-system. Sub-systems do not count towards the maximum number of upgrades a piece of armour can have",
+      "description": "As long as the user wears the upgraded helmet, the wearer gains a +5 bonus to her Ballistic Skill and a +10 bonus to all Awareness tests based on Sight and Hearing. When added to Terminator Armour the wearer also counts as being equipped with an auspex\n\nThis is a power armour sub-system. Sub-systems do not count towards the maximum number of upgrades a piece of armour can have",
       "source": "Enemies Within"
     },
     {
@@ -162,7 +162,7 @@
       "weight": "-",
       "availability": "Extremely Rare",
       "upgrades": "Carapace and power armour.",
-      "description": "The wearer gains a +20 bonus to tests made to resist any psychic attack or manipulation directed at him. The upgraded armour's Armour points are doubled against hits inflicted by psychic attacks. The Warp Weapon quality does not ignore the AP provided by this armour.",
+      "description": "The wearer gains a +20 bonus to tests made to resist any psychic attack or manipulation directed at her. The upgraded armour's Armour points are doubled against hits inflicted by psychic attacks. The Warp Weapon quality does not ignore the AP provided by this armour.",
       "source": "Enemies Within"
     },
     {
@@ -171,7 +171,7 @@
       "weight": "-",
       "availability": "Extremely Rare",
       "upgrades": "Any armour",
-      "description": "Whenever a character with the Daemonic or Warp Instability trait becomes engaged in melee with the warded armour's wearer or begins his turn engaged with the wearer, that character must make a Hard (-20) Willpower test. If the character fails, he suffers 1d5 Energy damage per degree of failure (ignoring armour and Toughness bonus). If the character scores 4 or more degrees of success on the test, however, the pentagramatic ward shatters and the armour permanently loses this upgrade.",
+      "description": "Whenever a character with the Daemonic or Warp Instability trait becomes engaged in melee with the warded armour's wearer or begins her turn engaged with the wearer, that character must make a Hard (-20) Willpower test. If the character fails, she suffers 1d5 Energy damage per degree of failure (ignoring armour and Toughness bonus). If the character scores 4 or more degrees of success on the test, however, the pentagramatic ward shatters and the armour permanently loses this upgrade.",
       "source": "Enemies Beyond"
     },
     {

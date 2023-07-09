@@ -23,7 +23,7 @@ In addition to the effects listed above, certain kinds of weapons gain additiona
 - Integrated shock weapons inflict an additional --30 Penalty on Toughness Tests to resist their effects.
 - Integrated power weapons increase their Damage and Penetration by +2.
 
-Upgrading a weapon to an integrated weapon follows the standard rules for weapon upgrades except that the character attempting to upgrade the weapon must have the Forbidden Lore (Adeptus Mechanicus) Skill before he can attempt the Test. The components required to create Integrated Weapons are typically only available on Forge Worlds.
+Upgrading a weapon to an integrated weapon follows the standard rules for weapon upgrades except that the character attempting to upgrade the weapon must have the Forbidden Lore (Adeptus Mechanicus) Skill before she can attempt the Test. The components required to create Integrated Weapons are typically only available on Forge Worlds.
 
 ### Disconnected Integrated Weapons
 

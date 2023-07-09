@@ -4,10 +4,11 @@
   "component": "PsychicDiscipline",
   "data": {
     "discipline": "Malefic Daemonology",
-    "information": "Malefic Daemonology is not viewed as a psychic discipline by the Adeptus Astra Telepathica, but as the gravest of sorcery and Warpcraft. To practice this discipline is to invite corruption and, should it be discovered, the branding of Excommunicate Traitoris.\n\n__To Invite Corruption__\n\nPracticing Malefic Daemonology and invoking the daemonic leaves an indelible stain on a psyker. A character who uses his full power or pushes consequently opens himself even further to the Warp, while one that holds back minimises the taint on his soul. Each time a psyker successfully manifests a power from the Malefic Daemonology discipline, he gains Corruption points equal to the psy rating used to manifest the power. This is gained after the power's effects are resolved.",
+    "information": "Malefic Daemonology is not viewed as a psychic discipline by the Adeptus Astra Telepathica, but as the gravest of sorcery and Warpcraft. To practice this discipline is to invite corruption and, should it be discovered, the branding of Excommunicate Traitoris.\n\n__To Invite Corruption__\n\nPracticing Malefic Daemonology and invoking the daemonic leaves an indelible stain on a psyker. A character who uses her full power or pushes consequently opens himself even further to the Warp, while one that holds back minimises the taint on her soul. Each time a psyker successfully manifests a power from the Malefic Daemonology discipline, she gains Corruption points equal to the psy rating used to manifest the power. This is gained after the power's effects are resolved.",
     "powers": [
       {
         "name": "Cursed Earth",
+        "id": "cursed_earth",
         "cost": 100,
         "prerequisites": [
           "Willpower 40"
@@ -24,6 +25,7 @@
       },
       {
         "name": "Dark Flame",
+        "id": "dark_flame",
         "cost": 100,
         "prerequisites": [
           "10 Corruption Points"
@@ -41,6 +43,7 @@
       },
       {
         "name": "Infernal Gaze",
+        "id": "infernal_gaze",
         "cost": 200,
         "prerequisites": [
           "15 Corruption Points",
@@ -59,6 +62,7 @@
       },
       {
         "name": "Incursion",
+        "id": "incursion",
         "cost": 100,
         "prerequisites": [
           "Willpower 45"
@@ -70,11 +74,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "As long as this power remains in effect, the psyker gains a bonus to his Daemonic Mastery tests of +10 x psy rating.",
+        "effects": "As long as this power remains in effect, the psyker gains a bonus to her Daemonic Mastery tests of +10 x psy rating.",
         "source": "Enemies Beyond"
       },
       {
         "name": "Possession",
+        "id": "possession",
         "cost": 200,
         "prerequisites": [
           "20 Corruption Points"
@@ -86,11 +91,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "While the power is sustained, the psyker gains the Daemonic (X) and Unnatural Strength (X) traits, where X equals half his psy rating, as well as the Deadly Natural Weapons trait. In addition, the psyker must succeed at a Challenging (+0) Willpower test each round the power is sustained or enter a Frenzied state per the Frenzy talent. While Frenzied, the psyker must continue to sustain the power (in a special exception to the prohibition on using psychic powers while Frenzied). \n\nPsychic Phenomena: A result of Psychic Phenomena when using this power means that a more powerful Daemon, as chosen by the GM, has taken the psyker's invitation. The psyker must succeed in an Opposed Willpower test against the Daemon or become possessed.",
+        "effects": "While the power is sustained, the psyker gains the Daemonic (X) and Unnatural Strength (X) traits, where X equals half her psy rating, as well as the Deadly Natural Weapons trait. In addition, the psyker must succeed at a Challenging (+0) Willpower test each round the power is sustained or enter a Frenzied state per the Frenzy talent. While Frenzied, the psyker must continue to sustain the power (in a special exception to the prohibition on using psychic powers while Frenzied). \n\nPsychic Phenomena: A result of Psychic Phenomena when using this power means that a more powerful Daemon, as chosen by the GM, has taken the psyker's invitation. The psyker must succeed in an Opposed Willpower test against the Daemon or become possessed.",
         "source": "Enemies Beyond"
       },
       {
         "name": "Sacrifice",
+        "id": "sacrifice",
         "cost": 100,
         "prerequisites": [
           "Willpower 45"
@@ -102,11 +108,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "This power can only be used if the psyker has inflicted damage on a target (possibly himself) since the beginning of the previous round. If the Focus Power test succeeds, the psyker gains a +5 bonus to his next Focus Power test for each point of damage inflicted (after reductions for armour and Toughness bonus) with the preceding attack. This bonus must be used within 1 hour.",
+        "effects": "This power can only be used if the psyker has inflicted damage on a target (possibly himself) since the beginning of the previous round. If the Focus Power test succeeds, the psyker gains a +5 bonus to her next Focus Power test for each point of damage inflicted (after reductions for armour and Toughness bonus) with the preceding attack. This bonus must be used within 1 hour.",
         "source": "Enemies Beyond"
       },
       {
         "name": "Summoning",
+        "id": "summoning",
         "cost": 50,
         "prerequisites": [
           "Willpower 35"

@@ -4,10 +4,11 @@
   "component": "PsychicDiscipline",
   "data": {
     "discipline": "Divination",
-    "information": "Perhaps the most ancient of psychic disciplines, divination foretells the future. Though diviners may seek answers by scattering animal entrails or studying the movement of stars, it is in fact the timeless realm of the Warp to which they turn. The powers of divination are of inestimable use to an Inquisitor and his Acolytes in the pursuit of their duties, both in the frenzied arena of combat and while undertaking investigative pursuits.",
+    "information": "Perhaps the most ancient of psychic disciplines, divination foretells the future. Though diviners may seek answers by scattering animal entrails or studying the movement of stars, it is in fact the timeless realm of the Warp to which they turn. The powers of divination are of inestimable use to an Inquisitor and her Acolytes in the pursuit of their duties, both in the frenzied arena of combat and while undertaking investigative pursuits.",
     "powers": [
       {
         "name": "Warp Perception",
+        "id": "warp_perception",
         "cost": 100,
         "prerequisites": [
           "Willpower 35"
@@ -24,6 +25,7 @@
       },
       {
         "name": "Foreboding",
+        "id": "foreboding",
         "cost": 200,
         "prerequisites": [
           "Psyniscience rank 1"
@@ -35,11 +37,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "In any situation where the psyker would be called upon to make an Evasion test, he may instead attempt to use this power. If the power is successful, the psyker avoids the attack exactly as if he has passed an Evasion test with the number of degrees of success he scored on the Focus Power test.",
+        "effects": "In any situation where the psyker would be called upon to make an Evasion test, she may instead attempt to use this power. If the power is successful, the psyker avoids the attack exactly as if she has passed an Evasion test with the number of degrees of success she scored on the Focus Power test.",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Prescience",
+        "id": "prescience",
         "cost": 200,
         "prerequisites": [
           "Psyniscience rank 1"
@@ -51,11 +54,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "For the duration of this power, the psyker and a number of allies equal to his psy rating within range, gain a bonus to their Weapon Skill and Ballistic Skill tests equal to twice the psyker's psy rating. Allies affected by this power lose its benefit as soon as they move out of range",
+        "effects": "For the duration of this power, the psyker and a number of allies equal to her psy rating within range, gain a bonus to their Weapon Skill and Ballistic Skill tests equal to twice the psyker's psy rating. Allies affected by this power lose its benefit as soon as they move out of range",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Scrier's Gaze",
+        "id": "scrier_s_gaze",
         "cost": 200,
         "prerequisites": [
           "Psyniscience rank 2"
@@ -67,11 +71,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "To begin the ritual, the psyker must spend at least thirty minutes using assorted psychic foci to concentrate his vision— drawing Tarot cards, casting runes, gazing deep into fire, or other methods as varied as the stars of the Imperium. At the end of this time, he makes his Focus Power test to project his vision over the area, with the GM revealing information based on the degrees of success. \n\n1 - Single Threat: The psyker manages to focus his view on a single key action his foe is either planning or currently enacting. This could be launching an ambush, hiding a heretical tome, or enacting a blood-soaked sacrifice. \n\n2 - Enemy Movements: The psyker's visions stretches over a wide area, able to see all activity within an entire battlefield or hive level. However, he is unable to focus his vision enough to see the exact details at an individual level. \n\n3 - Enemy Numbers: The psyker controls the focus of his vision. He is aware of all previous effects and is also able to discern details as to individual activities and exact enemy numbers. \n\n4+ - Enemy Plans: The psyker breaks through the veil of time, seeing an area and the countless possible outcomes of conflicts within it. He is aware of all previous effects, and also knows details of the plots any enemy leaders are planning.",
+        "effects": "To begin the ritual, the psyker must spend at least thirty minutes using assorted psychic foci to concentrate her vision— drawing Tarot cards, casting runes, gazing deep into fire, or other methods as varied as the stars of the Imperium. At the end of this time, she makes her Focus Power test to project her vision over the area, with the GM revealing information based on the degrees of success. \n\n1 - Single Threat: The psyker manages to focus her view on a single key action her foe is either planning or currently enacting. This could be launching an ambush, hiding a heretical tome, or enacting a blood-soaked sacrifice. \n\n2 - Enemy Movements: The psyker's visions stretches over a wide area, able to see all activity within an entire battlefield or hive level. However, she is unable to focus her vision enough to see the exact details at an individual level. \n\n3 - Enemy Numbers: The psyker controls the focus of her vision. She is aware of all previous effects and is also able to discern details as to individual activities and exact enemy numbers. \n\n4+ - Enemy Plans: The psyker breaks through the veil of time, seeing an area and the countless possible outcomes of conflicts within it. She is aware of all previous effects, and also knows details of the plots any enemy leaders are planning.",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Misfortune",
+        "id": "misfortune",
         "cost": 300,
         "prerequisites": [
           "Willpower 45"
@@ -89,6 +94,7 @@
       },
       {
         "name": "Perfect Timing",
+        "id": "perfect_timing",
         "cost": 300,
         "prerequisites": [
           "Perception 55"
@@ -100,11 +106,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "For the duration of this power, the psyker and a number of allies equal to his psy rating within range, ignore the effects of cover when firing on a target. If their attacks would strike a Hit Location on the enemy that would benefit from cover, that benefit is ignored. Allies affected by this power lose its benefits as soon as they move out of range",
+        "effects": "For the duration of this power, the psyker and a number of allies equal to her psy rating within range, ignore the effects of cover when firing on a target. If their attacks would strike a Hit Location on the enemy that would benefit from cover, that benefit is ignored. Allies affected by this power lose its benefits as soon as they move out of range",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Forewarning",
+        "id": "forewarning",
         "cost": 400,
         "prerequisites": [
           "Perception 50"
@@ -121,6 +128,7 @@
       },
       {
         "name": "Precognition",
+        "id": "precognition",
         "cost": 400,
         "prerequisites": [
           "Perception 45",
@@ -133,11 +141,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker gains a number of re-rolls equal to his psy rating that last until the beginning of the his next turn. For the duration of that round, whenever the psyker or an ally in range makes a test or damage roll, the psyker may spend one of the rerolls to allow that ally to re-roll all dice involved in the roll. If the psyker is killed or rendered Unconscious before the beginning of his next turn, all remaining re-rolls are lost.",
+        "effects": "The psyker gains a number of re-rolls equal to her psy rating that last until the beginning of the her next turn. For the duration of that round, whenever the psyker or an ally in range makes a test or damage roll, the psyker may spend one of the rerolls to allow that ally to re-roll all dice involved in the roll. If the psyker is killed or rendered Unconscious before the beginning of her next turn, all remaining re-rolls are lost.",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Winding Fate",
+        "id": "winding_fate",
         "cost": 500,
         "prerequisites": [
           "Perception 50"
@@ -149,7 +158,7 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The vision lasts for a number of seconds equal to the twice the psy rating, and can be from the subject's future or past a number of days equal to the psy rating. The higher the psy rating, the more the psyker can control what his flashes focus on (at the GM's discretion).",
+        "effects": "The vision lasts for a number of seconds equal to the twice the psy rating, and can be from the subject's future or past a number of days equal to the psy rating. The higher the psy rating, the more the psyker can control what her flashes focus on (at the GM's discretion).",
         "source": "Dark Heresy 2e"
       }
     ]

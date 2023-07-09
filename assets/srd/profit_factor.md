@@ -7,7 +7,7 @@ A Rogue Trader's wealth and power are vast indeed, stretching across the stars t
 
 To represent this mighty wealth and influence, the Rogue Trader game uses Profit Factor\. This value, more than anything else, is a measure of the Explorers' rising or failing fortunes\. As the PCs' Profit Factor grows so to will their access to rare and powerful items, unique retainers, and exclusive organisations\. Beyond personal power, Profit Factor also maps the rise of the Explorers' dynasty and over time will allow them to acquire legions of elite warriors, sprawling solar settlements, and even the favour of Imperial Adeptus\. Table Profit and Power provides an example of Profit Factor and corresponding power within the Imperium\.
 
-Profit Factor does not, however, represent any one thing, but rather is a combination of all the aspects of wealth and power at the Explorers' command\. This means that Profit Factor is all at once the amount of coins in their coffers, their standing in Imperial society, and their complex web of loans, favours, and debts\. As such, Profit Factor is used whenever the Rogue Trader wishes to exert the power of his dynasty or expand his dominion within the Imperium\. In this section, we will cover the two most common uses of Profit Factor— Acquisition and Influence
+Profit Factor does not, however, represent any one thing, but rather is a combination of all the aspects of wealth and power at the Explorers' command\. This means that Profit Factor is all at once the amount of coins in their coffers, their standing in Imperial society, and their complex web of loans, favours, and debts\. As such, Profit Factor is used whenever the Rogue Trader wishes to exert the power of her dynasty or expand her dominion within the Imperium\. In this section, we will cover the two most common uses of Profit Factor— Acquisition and Influence
 
 #### Acquisition
 
@@ -96,7 +96,7 @@ Profit Factor is not normally expended when it is used—it represents wealth an
 1d100 |Misfortune Details
 ------|-------------------------
 01–05 |Administratum tithe clerks files for an assessment, empowered by their superiors to bleed the Rogue Trader a little more in the name of the God-Emperor.
-06–10 |Departmento Munitorum officers have come into evidence that the Rogue Trader has siphoned materiel from their Port Wander vaults, and are pressing upon him with the full force of Imperial law. The evidence is all false, of course, but what motivation is behind this outrage?
+06–10 |Departmento Munitorum officers have come into evidence that the Rogue Trader has siphoned materiel from their Port Wander vaults, and are pressing upon her with the full force of Imperial law. The evidence is all false, of course, but what motivation is behind this outrage?
 11–15 |A setback in the tending of coffers: ledgers are errant and Thrones are lost. Is this a careless accident or hidden embezzlement?
 16–20 |A dire plague is abroad, and the merest threat of it is enough for quarantines and panic. Even places unaffected by the plague are disrupted by the havoc it wreaks many worlds away.
 21–25 |An accident fells many skilled hirelings, leaving too few possessing a rare talent in a vital position. Is it really an accident, however?
@@ -109,16 +109,16 @@ Profit Factor is not normally expended when it is used—it represents wealth an
 56–60 |Pirates from Iniquity, thought broken and scattered, strike at the Rogue Trader's interests, assaulting vessels and raiding resource worlds.
 61–65 |The vile Ork emerges to loot and destroy the Rogue Trader's interests in the Koronus Expanse.
 66–70 |Calixian leaders of a great Imperial organisation suddenly display far less respect for Rogue Traders. This change of opinion will spread from the top down and out into the broader Imperial class if not stopped.
-71–75 |The Rogue Trader is supposed by some to be an adherent of one of the unseemly Imperial cults of Footfall, placing him well on the outside of civilised Imperial society in Port Wander and the Drusus Marches.
+71–75 |The Rogue Trader is supposed by some to be an adherent of one of the unseemly Imperial cults of Footfall, placing her well on the outside of civilised Imperial society in Port Wander and the Drusus Marches.
 76–80 |An influential noble or powerful Imperial hierarch chooses to denigrate the Rogue Trader, and all the sycophants follow that lead. This disrespect will spread from the top down into the broader Imperial class if not stopped.
-81–85 |The Rogue Trader is rumoured to have died. Administratum adepts now move slowly and inexorably towards the legal annulment of his Warrant of Trade.
-86–90 |Adeptus Arbites find, or are provided with, evidence of rebellion fomented amongst the Rogue Trader's hirelings. A lord perceived to hold an unruly estate will suffer in the eyes of his peers.
+81–85 |The Rogue Trader is rumoured to have died. Administratum adepts now move slowly and inexorably towards the legal annulment of her Warrant of Trade.
+86–90 |Adeptus Arbites find, or are provided with, evidence of rebellion fomented amongst the Rogue Trader's hirelings. A lord perceived to hold an unruly estate will suffer in the eyes of her peers.
 91–95 |A rival's hatred for the Rogue Trader becomes well known, and many lesser figures prefer not to become involved with either side whilst such an enmity exists. Now, the rival has begun to strike openly against the Rogue Trader's interests.
-96–100|The Rogue Trader receives an unexplained and unexpected visitation from highly ranked members of the Inquisition, an event guaranteed to harm his prospects when word gets out.
+96–100|The Rogue Trader receives an unexplained and unexpected visitation from highly ranked members of the Inquisition, an event guaranteed to harm her prospects when word gets out.
 
 #### Overcoming Misfortunes
 
-When a Misfortune occurs, the Explorers are faced with two choices: they can deal with it or ignore it. Ignoring a Misfortune means that the Profit Factor lost to it is permanent, and at the GM's discretion, there may be other consequences as well, as plagues are allowed to run rampant, charges are gathered against the Explorers, or worlds slowly fall into chaos. If the Explorers choose to deal with the Misfortune, then they must allocate time and resources to combating it—perhaps at the expense of current Endeavours or missions. It then falls to the GM to decide if they have acted both swiftly enough and decisively enough to overcome the Misfortune. If they have, then he should allow them to recover any Profit Factor lost to the Misfortune.
+When a Misfortune occurs, the Explorers are faced with two choices: they can deal with it or ignore it. Ignoring a Misfortune means that the Profit Factor lost to it is permanent, and at the GM's discretion, there may be other consequences as well, as plagues are allowed to run rampant, charges are gathered against the Explorers, or worlds slowly fall into chaos. If the Explorers choose to deal with the Misfortune, then they must allocate time and resources to combating it—perhaps at the expense of current Endeavours or missions. It then falls to the GM to decide if they have acted both swiftly enough and decisively enough to overcome the Misfortune. If they have, then she should allow them to recover any Profit Factor lost to the Misfortune.
 
 ## Influence Tests
 

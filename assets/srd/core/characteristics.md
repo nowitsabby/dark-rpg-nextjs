@@ -3,7 +3,7 @@ title: Characteristics
 ---
 # Characteristics 
 
-Characteristics represent a character's raw potential and natural physical and mental gifts, such as his strength, agility, intelligence, and skill with melee and ranged weaponry\. Characteristic values range from 1 to 100 and the higher the characteristic is, the more raw talent the character has in that particular area\. There are ten characteristics, and each represents a different mental or physical attribute\. Each is listed briefly here, with its common abbreviation \(Willpower, for example, is often abbreviated as “WP” in game text\)\. 
+Characteristics represent a character's raw potential and natural physical and mental gifts, such as her strength, agility, intelligence, and skill with melee and ranged weaponry\. Characteristic values range from 1 to 100 and the higher the characteristic is, the more raw talent the character has in that particular area\. There are ten characteristics, and each represents a different mental or physical attribute\. Each is listed briefly here, with its common abbreviation \(Willpower, for example, is often abbreviated as “WP” in game text\)\. 
 
 Characteristics are important to a character for a number of reasons, not least of which is that they reflect a character's ability to succeed at particular actions\. Characteristics are modified by external factors such as skills, and can be improved in a number of temporary and permanent ways\. Since characteristics set the base target number for all tests, high characteristics are always more favourable than low characteristics\. For more information on how to generate characteristics and how they relate to character generation, see Character Creation\. 
 
@@ -31,7 +31,7 @@ Toughness measures a character's health, stamina, and resistance\. Exceptionally
 
 ### Agility \(Ag\) 
 
-This measures a character's quickness, reflex, and poise\. High Agility can allow a character to manipulate delicate machinery with finesse, or keep his footing when crossing treacherous terrain\. This characteristic also determines a character's movement rate; the higher the Agility bonus, the farther he can move each turn\. 
+This measures a character's quickness, reflex, and poise\. High Agility can allow a character to manipulate delicate machinery with finesse, or keep her footing when crossing treacherous terrain\. This characteristic also determines a character's movement rate; the higher the Agility bonus, the farther she can move each turn\. 
 
 ### Intelligence \(Int\) 
 
@@ -39,7 +39,7 @@ Intelligence measures a character's acumen, reason, and general knowledge\. A ch
 
 ### Perception \(Per\) 
 
-This measures a character's awareness and the acuteness of his senses\. A character who has a high Perception value can pick out a stray bolter shell casing left amidst an underhive morass, or tell when someone is being deceitful\. 
+This measures a character's awareness and the acuteness of her senses\. A character who has a high Perception value can pick out a stray bolter shell casing left amidst an underhive morass, or tell when someone is being deceitful\. 
 
 ### Willpower \(WP\) 
 
@@ -51,4 +51,4 @@ Fellowship measures a character's persuasiveness, ability to lead, and force of 
 
 ### Influence/Infamy \(Inf\) 
 
-This measures a character's connections, reputation, and resources\. High Influence can allow a character to quickly summon the aid of local military forces to his side, or arrange for fast transit to another star system\. Unlike the other characteristics, Influence changes only as a character performs actions: it would decrease should he fail a mission in a highly visible manner, for example, or increase after he successfully rescues a kidnapped planetary governor\. In the case heretic or otherwise "Evil" characters, this characteristic is called Infamy instead\. The methods used to obtain it may vary, but it functions identically
+This measures a character's connections, reputation, and resources\. High Influence can allow a character to quickly summon the aid of local military forces to her side, or arrange for fast transit to another star system\. Unlike the other characteristics, Influence changes only as a character performs actions: it would decrease should she fail a mission in a highly visible manner, for example, or increase after she successfully rescues a kidnapped planetary governor\. In the case heretic or otherwise "Evil" characters, this characteristic is called Infamy instead\. The methods used to obtain it may vary, but it functions identically

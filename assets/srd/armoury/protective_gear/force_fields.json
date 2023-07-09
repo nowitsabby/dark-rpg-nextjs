@@ -18,7 +18,7 @@
       "protectionRating": 55,
       "weight": "2 kg",
       "availability": "Near Unique",
-      "description": "When the field successfully nullifies an attack, the user jumps in a random direction using the Scatter Diagram. Roll 3d10 for the number of metres travelled—the wearer always emerges on solid footing and in a suitable empty space. If all three dice come up with the same number (e.g., 3 results of 7), then the user does not re-emerge for 1d5 rounds and gains 1 Corruption point from exposure to the unnatural energies within the Warp. If the activation is unexpected, then the wearer cannot act for one round while he regains his sense of place",
+      "description": "When the field successfully nullifies an attack, the user jumps in a random direction using the Scatter Diagram. Roll 3d10 for the number of metres travelled—the wearer always emerges on solid footing and in a suitable empty space. If all three dice come up with the same number (e.g., 3 results of 7), then the user does not re-emerge for 1d5 rounds and gains 1 Corruption point from exposure to the unnatural energies within the Warp. If the activation is unexpected, then the wearer cannot act for one round while she regains her sense of place",
       "source": "Dark Heresy 2e"
     },
     {
@@ -54,7 +54,7 @@
       "protectionRating": 70,
       "weight": "0.5kg",
       "availability": "Extremely Rare",
-      "description": "Null-blockers behave like any other field, except that their field ability only applies to psychic powers. When the wearer is affected directly by a psychic power, he may make his field save. If he is successful, the power has no affect on him. Of course, the field is useless against indirect attacks from psychic powers, such as dropping a large stone on the wearer from a great height using telekinetics.",
+      "description": "Null-blockers behave like any other field, except that their field ability only applies to psychic powers. When the wearer is affected directly by a psychic power, she may make her field save. If she is successful, the power has no affect on her. Of course, the field is useless against indirect attacks from psychic powers, such as dropping a large stone on the wearer from a great height using telekinetics.",
       "source": "Ascension"
     },
     {
@@ -81,7 +81,7 @@
       "protectionRating": 30,
       "weight": "2 kg",
       "availability": "Very Rare",
-      "description": "The glow of an active refractor field makes the user more noticeable in low lighting or darkness, and imposes a -20 penalty on all Stealth tests he takes",
+      "description": "The glow of an active refractor field makes the user more noticeable in low lighting or darkness, and imposes a -20 penalty on all Stealth tests she takes",
       "source": "Dark Heresy 2e"
     },
     {

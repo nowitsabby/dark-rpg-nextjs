@@ -4,10 +4,11 @@
   "component": "PsychicDiscipline",
   "data": {
     "discipline": "Pyromancy",
-    "information": "A most destructive discipline, pyromancy allows a psyker to control and create flame using his mind. These powers focus on combat, from incinerating foes from within to summoning walls of flame to shield allies. Pyromancers are greatly feared, for their powers are often difficult to control once released, and can inflict great collateral damage.",
+    "information": "A most destructive discipline, pyromancy allows a psyker to control and create flame using her mind. These powers focus on combat, from incinerating foes from within to summoning walls of flame to shield allies. Pyromancers are greatly feared, for their powers are often difficult to control once released, and can inflict great collateral damage.",
     "powers": [
       {
         "name": "Manipulate Flame",
+        "id": "manipulate_flame",
         "cost": 100,
         "prerequisites": [
           "Willpower 35"
@@ -19,11 +20,12 @@
         "subtypes": [
           "Attack"
         ],
-        "effects": "The psyker chooses a patch of fire in range and line of sight with a radius no greater than PR metres. Each round, he can either extinguish or control the fire. If he extinguishes the fire, this power ends and the fire goes out. If he controls the fire, he can move it up to a number of metres equal to his psy rating per round along a flammable surface.",
+        "effects": "The psyker chooses a patch of fire in range and line of sight with a radius no greater than PR metres. Each round, she can either extinguish or control the fire. If she extinguishes the fire, this power ends and the fire goes out. If she controls the fire, she can move it up to a number of metres equal to her psy rating per round along a flammable surface.",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Spontaneous Combustion",
+        "id": "spontaneous_combustion",
         "cost": 200,
         "prerequisites": [
           "Willpower 40"
@@ -40,6 +42,7 @@
       },
       {
         "name": "Cauterise",
+        "id": "cauterise",
         "cost": 300,
         "prerequisites": [
           "Willpower 45"
@@ -51,11 +54,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker chooses himself or another character he can physically touch. If the target is suffering from Blood Loss, successfully using the power removes that condition.",
+        "effects": "The psyker chooses himself or another character she can physically touch. If the target is suffering from Blood Loss, successfully using the power removes that condition.",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Fire Shield",
+        "id": "fire_shield",
         "cost": 300,
         "prerequisites": [
           "Agility 40"
@@ -72,6 +76,7 @@
       },
       {
         "name": "Flame Breath",
+        "id": "flame_breath",
         "cost": 300,
         "prerequisites": [
           "Psy Rating 3"
@@ -88,6 +93,7 @@
       },
       {
         "name": "Fiery Form",
+        "id": "fiery_form",
         "cost": 400,
         "prerequisites": [
           "Psy Rating 4"
@@ -99,11 +105,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "While this power is in effect, all of the psyker's melee attacks deal additional Energy damage equal to his psy rating and gain the Flame quality. In addition, at the end of each of the psyker's turns in which he sustains this power, he emits a Psychic Blast (1d10+PR E; Pen 0; Special: Blast (PR), Flame) centred on his location. Each character within the area of the blast, with the exception of the psyker himself, are struck.",
+        "effects": "While this power is in effect, all of the psyker's melee attacks deal additional Energy damage equal to her psy rating and gain the Flame quality. In addition, at the end of each of the psyker's turns in which she sustains this power, she emits a Psychic Blast (1d10+PR E; Pen 0; Special: Blast (PR), Flame) centred on her location. Each character within the area of the blast, with the exception of the psyker himself, are struck.",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Molten Beam",
+        "id": "molten_beam",
         "cost": 400,
         "prerequisites": [
           "Psy Rating 4"
@@ -120,6 +127,7 @@
       },
       {
         "name": "Sunburst",
+        "id": "sunburst",
         "cost": 400,
         "prerequisites": [
           "Psy Rating 4"
@@ -136,6 +144,7 @@
       },
       {
         "name": "Inferno",
+        "id": "inferno",
         "cost": 500,
         "prerequisites": [
           "Psy Rating 5"

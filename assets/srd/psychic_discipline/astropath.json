@@ -8,6 +8,7 @@
     "powers": [
       {
         "name": "Astral Telepathy",
+        "id": "astral_telepathy",
         "cost": 200,
         "prerequisites": [
           "Willpower 40"
@@ -19,11 +20,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker chooses a person he is aware of within range who resists the power with a Willpower test. This can be someone the psyker has met personally, or someone he is aware of by description. If the power succeeds, the psyker can transmit a brief verbal message of no more than 5 seconds x psy rating. If the target is aware of the psyker's action, he may choose to fail the Willpower test, counting as having rolled a 100.",
+        "effects": "The psyker chooses a person she is aware of within range who resists the power with a Willpower test. This can be someone the psyker has met personally, or someone she is aware of by description. If the power succeeds, the psyker can transmit a brief verbal message of no more than 5 seconds x psy rating. If the target is aware of the psyker's action, she may choose to fail the Willpower test, counting as having rolled a 100.",
         "source": "Enemies Beyond"
       },
       {
         "name": "Telepathic Bond",
+        "id": "telepathic_bond",
         "cost": 200,
         "prerequisites": [
           "Fellowship 35"
@@ -35,11 +37,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker establishes a telepathic bond with a number of individuals up to half his psy rating, who resist the power with a Willpower test. As long as the bond is held, the psyker and targets can send and receive messages telepathically. This does not grant full awareness of all of the characters' thoughts, but allows each character to choose what messages to send. All characters involved in the bond receive all messages. If a target is aware of the psyker's action, he may choose to fail the Willpower test, counting as having rolled a 100. If a character moves out of range of the psyker, the power ceases to affect him.",
+        "effects": "The psyker establishes a telepathic bond with a number of individuals up to half her psy rating, who resist the power with a Willpower test. As long as the bond is held, the psyker and targets can send and receive messages telepathically. This does not grant full awareness of all of the characters' thoughts, but allows each character to choose what messages to send. All characters involved in the bond receive all messages. If a target is aware of the psyker's action, she may choose to fail the Willpower test, counting as having rolled a 100. If a character moves out of range of the psyker, the power ceases to affect her.",
         "source": "Enemies Beyond"
       },
       {
         "name": "Mind Scan",
+        "id": "mind_scan",
         "cost": 300,
         "prerequisites": [
           "Fellowship 40",
@@ -52,11 +55,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker chooses a target within range and line of sight who resists the power with a Willpower test. The target may attempt to resist each round the power is sustained. If the target wins, the psyker is repelled from his mind and gains no further information. The information the psyker learns corresponds to the number of rounds he successfully sustains the power: \n* First Round: The psyker learns basic information, including the target's name, mood, and general state of health.\n* Second Round: The psyker accesses the target's surface thoughts and learns his number of Insanity points and number of Corruption points.\n* Third Round: The psyker successfully gains access to the target's short-term memory and learns of any mental disorders.\n* Fourth Round: The target's subconscious is revealed.\n* Fifth Round: The target's mind is laid bare for the psyker to plunder at will, from the target's happiest memories to his darkest secrets.",
+        "effects": "The psyker chooses a target within range and line of sight who resists the power with a Willpower test. The target may attempt to resist each round the power is sustained. If the target wins, the psyker is repelled from her mind and gains no further information. The information the psyker learns corresponds to the number of rounds she successfully sustains the power: \n* First Round: The psyker learns basic information, including the target's name, mood, and general state of health.\n* Second Round: The psyker accesses the target's surface thoughts and learns her number of Insanity points and number of Corruption points.\n* Third Round: The psyker successfully gains access to the target's short-term memory and learns of any mental disorders.\n* Fourth Round: The target's subconscious is revealed.\n* Fifth Round: The target's mind is laid bare for the psyker to plunder at will, from the target's happiest memories to her darkest secrets.",
         "source": "Enemies Beyond"
       },
       {
         "name": "Thought Shield",
+        "id": "thought_shield",
         "cost": 300,
         "prerequisites": [
           "Strong Minded"
@@ -68,7 +72,7 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker can choose to use this power when he is the target of a rival psyker's mind-influencing ability, a Daemon's attempt to possess him, or any creature's attempt to subvert his control of himself. If the power succeeds, the psyker successfully shields his mind from the influence or possession attempt, which immediately fails.",
+        "effects": "The psyker can choose to use this power when she is the target of a rival psyker's mind-influencing ability, a Daemon's attempt to possess her, or any creature's attempt to subvert her control of himself. If the power succeeds, the psyker successfully shields her mind from the influence or possession attempt, which immediately fails.",
         "source": "Enemies Beyond"
       }
     ]

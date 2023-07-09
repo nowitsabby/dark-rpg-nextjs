@@ -23,7 +23,7 @@
     "information": [
       {
         "title": "Becoming an Inquisitor",
-        "description": "Just as each Inquisitor is unique, so are the means by which each gains his office. Few who know of the true burden such power carries would desire such ascension; Acolytes might serve their Inquisitor their entire lives and never even consider it.Many Inquisitors are drawn from the ranks of Acolytes, for they may have at least a glimpse of what dread responsibilities it carries. Others might come from outside, discovered during investigations or battles and through deeds and fortitude proved themselves worthy. There is no standard way a new Inquisitor is named or to decide when one is ready to become an Inquisitor. Some are created via a master/apprentice relationship, but others might happen in a joint decision from a group of Inquisitors, or acclamation of peers. There could be grand ceremonies in opulent palaces, or a simple clasping together of their arms before the new Inquisitor departs. The only constants are the truths they share, the power they wield, and the burdens they carry knowing that if they falter, Mankind is doomed..."
+        "description": "Just as each Inquisitor is unique, so are the means by which each gains her office. Few who know of the true burden such power carries would desire such ascension; Acolytes might serve their Inquisitor their entire lives and never even consider it.Many Inquisitors are drawn from the ranks of Acolytes, for they may have at least a glimpse of what dread responsibilities it carries. Others might come from outside, discovered during investigations or battles and through deeds and fortitude proved themselves worthy. There is no standard way a new Inquisitor is named or to decide when one is ready to become an Inquisitor. Some are created via a master/apprentice relationship, but others might happen in a joint decision from a group of Inquisitors, or acclamation of peers. There could be grand ceremonies in opulent palaces, or a simple clasping together of their arms before the new Inquisitor departs. The only constants are the truths they share, the power they wield, and the burdens they carry knowing that if they falter, Mankind is doomed..."
       }
     ],
     "talents": [
@@ -79,7 +79,7 @@
           "Defence",
           "Toughness"
         ],
-        "benefit": "Whenever this character would gain any amount of Corruption points, he may spend a Fate point to gain 0 instead",
+        "benefit": "Whenever this character would gain any amount of Corruption points, she may spend a Fate point to gain 0 instead",
         "source": "Dark Heresy 2e"
       },
       {
@@ -93,7 +93,7 @@
           "Defence",
           "Willpower"
         ],
-        "benefit": "Whenever this character would gain any amount of Insanity points, he may spend a Fate point to gain 0 instead",
+        "benefit": "Whenever this character would gain any amount of Insanity points, she may spend a Fate point to gain 0 instead",
         "source": "Dark Heresy 2e"
       },
       {
@@ -109,7 +109,7 @@
           "Knowledge",
           "Willpower"
         ],
-        "benefit": "When this talent is acquired, the character immediately increases his Fate threshold by one.",
+        "benefit": "When this talent is acquired, the character immediately increases her Fate threshold by one.",
         "source": "Dark Heresy 2e"
       },
       {

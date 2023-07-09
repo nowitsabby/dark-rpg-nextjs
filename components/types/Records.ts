@@ -108,3 +108,40 @@ export interface NavigatorPowerRecord {
   adept: string;
   master: string;
 }
+
+export interface OriginsRecord {
+  name: string;
+  id: string;
+  characteristicModifiers: {
+    plus: string[];
+    minus: string;
+  };
+  fateThreshold: number;
+  blessing: number;
+  bonus: {
+    title: string;
+    effect: string;
+  };
+  aptitude: string;
+  wounds: number;
+}
+
+export interface PsychicPowerRecord {
+  name: string;
+  id: string;
+  cost: number;
+  prerequisites: string[];
+  action: string;
+  focus: string;
+  range: string;
+  sustained: string;
+  subtypes: string[];
+  effects: string;
+  source: string;
+}
+
+export interface PsychicDisciplineRecord {
+  discipline: string;
+  information: string;
+  powers: PsychicPowerRecord[];
+}

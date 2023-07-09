@@ -55,7 +55,7 @@
       "blessing": 10,
       "bonus": {
         "title": "Breeding Counts",
-        "effect": "Any time a highborn character would reduce his Influence (or his group's Profit Factor), he reduces it by 1 less (to a minimum reduction of 1)"
+        "effect": "Any time a highborn character would reduce her Influence (or her group's Profit Factor), she reduces it by 1 less (to a minimum reduction of 1)"
       },
       "aptitude": "Fellowship",
       "wounds": 9
@@ -74,7 +74,7 @@
       "blessing": 6,
       "bonus": {
         "title": "Teeming Masses in Metal Mountains",
-        "effect": "A hive world character ignores crowds for purposes of movement, treating them as open terrain. When in enclosed spaces, he also gains a +20 bonus to Navigate (Surface) tests."
+        "effect": "A hive world character ignores crowds for purposes of movement, treating them as open terrain. When in enclosed spaces, she also gains a +20 bonus to Navigate (Surface) tests."
       },
       "aptitude": "Perception",
       "wounds": 8
@@ -93,7 +93,7 @@
       "blessing": 6,
       "bonus": {
         "title": "Faith in the Creed",
-        "effect": "Whenever a shrine world character spends a Fate point, he rolls 1d10. On a result of 1, the character's total number of Fate points is not reduced."
+        "effect": "Whenever a shrine world character spends a Fate point, she rolls 1d10. On a result of 1, the character's total number of Fate points is not reduced."
       },
       "aptitude": "Willpower",
       "wounds": 7
@@ -150,7 +150,7 @@
       "blessing": 4,
       "bonus": {
         "title": "Touched by the Warp",
-        "effect": "A Daemon world native begins with one Rank in the Psyniscience skill. Should he gain this skill again in a later step of character creation, he instead gains one additional Rank in the skill. Note that he cannot purchase more Ranks of this skill unless he acquires the Psyker aptitude. This character also begins with 1d10+5 Corruption points."
+        "effect": "A Daemon world native begins with one Rank in the Psyniscience skill. Should she gain this skill again in a later step of character creation, she instead gains one additional Rank in the skill. Note that she cannot purchase more Ranks of this skill unless she acquires the Psyker aptitude. This character also begins with 1d10+5 Corruption points."
       },
       "aptitude": "Willpower",
       "wounds": 7
@@ -188,7 +188,7 @@
       "blessing": 6,
       "bonus": {
         "title": "At Home in Armour",
-        "effect": "A feudal world character ignores the maximum Agility value imposed by any armour he is wearing."
+        "effect": "A feudal world character ignores the maximum Agility value imposed by any armour she is wearing."
       },
       "aptitude": "Weapon Skill",
       "wounds": 9
@@ -283,7 +283,7 @@
       "blessing": 8,
       "bonus": {
         "title": "Pursuit of Data",
-        "effect": "Whenever a research station character reaches Rank 2 (Trained) in a Scholastic Lore skill, he also gains Rank 1 (Known) in one related or identical Forbidden Lore skill specialisation of his choice. The GM is the final arbiter of whether the two specialisations are related."
+        "effect": "Whenever a research station character reaches Rank 2 (Trained) in a Scholastic Lore skill, she also gains Rank 1 (Known) in one related or identical Forbidden Lore skill specialisation of her choice. The GM is the final arbiter of whether the two specialisations are related."
       },
       "aptitude": "Knowledge",
       "wounds": 8

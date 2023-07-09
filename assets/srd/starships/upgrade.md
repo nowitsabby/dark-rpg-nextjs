@@ -15,7 +15,7 @@ The cost of new Components is discussed below. The time it takes to install new 
 
 # Acquisition of Starship Components 
 
-Few things acquired or maintained by the Explorers' dynasty compare to the astronomical value of their void-ships. When the Explorers wish to acquire new components for their vessel, or commandeer a new vessel, the GM should work out the Acquisition Modifier using the Component's final SP cost, after any modifiers for Craftmanship, as detailed below. However, in place of the Scale Acquisition Modifier, he should use the modifiers detailed in *Table: Starship Component Acquisitions* based on the kind of system being acquired.
+Few things acquired or maintained by the Explorers' dynasty compare to the astronomical value of their void-ships. When the Explorers wish to acquire new components for their vessel, or commandeer a new vessel, the GM should work out the Acquisition Modifier using the Component's final SP cost, after any modifiers for Craftmanship, as detailed below. However, in place of the Scale Acquisition Modifier, she should use the modifiers detailed in *Table: Starship Component Acquisitions* based on the kind of system being acquired.
 
 ## Starship Component Acquisitions
 

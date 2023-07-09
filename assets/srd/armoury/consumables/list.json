@@ -48,7 +48,7 @@
       "id": "manic",
       "weight": "-",
       "availability": "Average",
-      "description": "A favourite of depraved princelings, Manic induces exactly the emotional state its name suggests. Feelings and sensations become exaggerated and uncontrolled as the user feels a sense of boundless energy.\n\nThe user adds +30 to any Willpower Tests, ignores Fatigue, and cannot be Stunned or Pinned. These effects last for 3d10 minutes.\n\nSide Effects: Once the drug wears off, the user falls unconscious for 1d5 hours unless he can pass a Hard (-20) Toughness Test.",
+      "description": "A favourite of depraved princelings, Manic induces exactly the emotional state its name suggests. Feelings and sensations become exaggerated and uncontrolled as the user feels a sense of boundless energy.\n\nThe user adds +30 to any Willpower Tests, ignores Fatigue, and cannot be Stunned or Pinned. These effects last for 3d10 minutes.\n\nSide Effects: Once the drug wears off, the user falls unconscious for 1d5 hours unless she can pass a Hard (-20) Toughness Test.",
       "source": "Tome of Excess"
     },
     {
@@ -64,7 +64,7 @@
       "id": "stimm",
       "weight": "-",
       "availability": "Average",
-      "description": "A dose of stimm is enough to energise the weary and mask pain with short-term vitality, often enough to finally bring a protracted combat to a successful conclusion. Each dose lasts for 3d10 rounds. During this time, a character ignores any negative effects to his characteristics from damage, Critical damage, and Fatigue, and cannot be Stunned. When the stimm wears off, the character suffers a -20 penalty to Strength, Toughness, and Agility tests for one hour and gains one level of Fatigue. Stimm is Addictive.",
+      "description": "A dose of stimm is enough to energise the weary and mask pain with short-term vitality, often enough to finally bring a protracted combat to a successful conclusion. Each dose lasts for 3d10 rounds. During this time, a character ignores any negative effects to her characteristics from damage, Critical damage, and Fatigue, and cannot be Stunned. When the stimm wears off, the character suffers a -20 penalty to Strength, Toughness, and Agility tests for one hour and gains one level of Fatigue. Stimm is Addictive.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -72,7 +72,7 @@
       "id": "sweep",
       "weight": "-",
       "availability": "Average",
-      "description": "Sweep is a bizarre chemical commonly used to cure addiction to other drugs. Ironically, Sweep is itself quite addictive, and dulls the senses of those who consume it. \n\nA single dose of Sweep allows the user to remove any addictions he currently has. Note it does not eliminate any other side effects a drug may impart.\n\nSide Effects: The user suffers -10 to all Agility and Perception Tests for 1d5 hours. Sweep addictions are twice as hard to remove than other addictions. Sweep cannot be used to cure an addiction to Sweep.",
+      "description": "Sweep is a bizarre chemical commonly used to cure addiction to other drugs. Ironically, Sweep is itself quite addictive, and dulls the senses of those who consume it. \n\nA single dose of Sweep allows the user to remove any addictions she currently has. Note it does not eliminate any other side effects a drug may impart.\n\nSide Effects: The user suffers -10 to all Agility and Perception Tests for 1d5 hours. Sweep addictions are twice as hard to remove than other addictions. Sweep cannot be used to cure an addiction to Sweep.",
       "source": "Tome of Excess"
     },
     {
@@ -80,7 +80,7 @@
       "id": "pan_immune",
       "weight": "-",
       "availability": "Average",
-      "description": "This highly potent medicinal compound serves to greatly enhance resistance to most forms of toxins, contaminations, micro-parasites and infection for a period of hours after its application, although repeated use can cause physiological damage. Pan-immune is found in the med-kits of many enforcer squads, tech-priests and other parties wishing to descend into the underhive or travel through hazard zones. The dose is usually applied by pressure-hypo directly to the neck and provides a +30 bonus on Toughness Tests made to resist toxins and diseases. The effects of a single dose lasts 1d5+1 hours. After the dose expires, the subject becomes Fatigued until he rests. The subject may immediately re-dose himself (which also negates the Fatigue), but each time this is done without a period of 8 hours rest, he must pass a Toughness Test or take a -10 penalty on Strength and Toughness Tests for 1 hour and permanently reduce Willpower by 1d5.",
+      "description": "This highly potent medicinal compound serves to greatly enhance resistance to most forms of toxins, contaminations, micro-parasites and infection for a period of hours after its application, although repeated use can cause physiological damage. Pan-immune is found in the med-kits of many enforcer squads, tech-priests and other parties wishing to descend into the underhive or travel through hazard zones. The dose is usually applied by pressure-hypo directly to the neck and provides a +30 bonus on Toughness Tests made to resist toxins and diseases. The effects of a single dose lasts 1d5+1 hours. After the dose expires, the subject becomes Fatigued until she rests. The subject may immediately re-dose himself (which also negates the Fatigue), but each time this is done without a period of 8 hours rest, she must pass a Toughness Test or take a -10 penalty on Strength and Toughness Tests for 1 hour and permanently reduce Willpower by 1d5.",
       "source": "Inquisitor's Handbook"
     },
     {
@@ -88,7 +88,7 @@
       "id": "desoleum_fungus",
       "weight": "-",
       "availability": "Scarce",
-      "description": "A hallucinogen made from unusual narcotic mushrooms that grow in ancient aquifers deep in a Hive's lower reaches, this drug has a disorienting, intoxicating effect that causes users to stumble about despite retaining the full spectrum of their senses. Depraved gangers particularly enjoy dosing themselves and then instigating extended gunfights, whirling about drunkenly and watching the havoc of their wayward shots. A dose of lasts 1d10 rounds, and the user immediately suffers 1 Fatigue as his body spins wildly. A character under the effects of the drug can take advantage of the skewed perspective this gives him: once during this time, he may invert the result of any 1d100 roll, exchanging the tens digit for the ones digit (turning a 73 into a 37 or a 91 into a 19, etc.).",
+      "description": "A hallucinogen made from unusual narcotic mushrooms that grow in ancient aquifers deep in a Hive's lower reaches, this drug has a disorienting, intoxicating effect that causes users to stumble about despite retaining the full spectrum of their senses. Depraved gangers particularly enjoy dosing themselves and then instigating extended gunfights, whirling about drunkenly and watching the havoc of their wayward shots. A dose of lasts 1d10 rounds, and the user immediately suffers 1 Fatigue as her body spins wildly. A character under the effects of the drug can take advantage of the skewed perspective this gives her: once during this time, she may invert the result of any 1d100 roll, exchanging the tens digit for the ones digit (turning a 73 into a 37 or a 91 into a 19, etc.).",
       "source": "Dark Heresy 2e"
     },
     {
@@ -104,7 +104,7 @@
       "id": "barrage",
       "weight": "-",
       "availability": "Rare",
-      "description": "Barrage enhances the users physical abilities to super-human levels for a short period of time but rapidly causes damage to the strained flesh.\n\nThe user gains Unnatural Strength (5) and Unnatural Toughness (5) for a number of rounds equal to his base Toughness Bonus. \n\nSide Effects: Once the effect has worn, off the user suffers 1d5 temporary Strength and Toughness Damage and becomes Stunned for 1d5 rounds.",
+      "description": "Barrage enhances the users physical abilities to super-human levels for a short period of time but rapidly causes damage to the strained flesh.\n\nThe user gains Unnatural Strength (5) and Unnatural Toughness (5) for a number of rounds equal to her base Toughness Bonus. \n\nSide Effects: Once the effect has worn, off the user suffers 1d5 temporary Strength and Toughness Damage and becomes Stunned for 1d5 rounds.",
       "source": "Tome of Excess"
     },
     {
@@ -112,7 +112,7 @@
       "id": "de_tox",
       "weight": "-",
       "availability": "Rare",
-      "description": "De-tox can negate most of the dangerous effects of other drugs or toxins. A dose immediately ends the effects, both positive and negative, for any chemicals the subject has inhaled, ingested, or injected, unless the item specifically states de-tox cannot work against it. Its use is extremely unpleasant, however, with common side-effects so extreme (excessive vomiting and diarrhoea being the mildest) that many would rather abide their current woes. Using de-tox, however, is both painful and debilitating, and can cause several unpleasant side effects such as vomiting, nose bleeds, and a great voiding of the bowels. Upon taking this drug, a character is Stunned for a number of rounds equal to 1d10 minus his Toughness bonus. A result of 0 or less means that the character suffers no ill effects.",
+      "description": "De-tox can negate most of the dangerous effects of other drugs or toxins. A dose immediately ends the effects, both positive and negative, for any chemicals the subject has inhaled, ingested, or injected, unless the item specifically states de-tox cannot work against it. Its use is extremely unpleasant, however, with common side-effects so extreme (excessive vomiting and diarrhoea being the mildest) that many would rather abide their current woes. Using de-tox, however, is both painful and debilitating, and can cause several unpleasant side effects such as vomiting, nose bleeds, and a great voiding of the bowels. Upon taking this drug, a character is Stunned for a number of rounds equal to 1d10 minus her Toughness bonus. A result of 0 or less means that the character suffers no ill effects.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -128,7 +128,7 @@
       "id": "rose",
       "weight": "-",
       "availability": "Rare",
-      "description": "Many a Chaos worshipper has had to depart from the strict confines of Imperial society as their desires for new sensations become too extreme. For such adventurers, Rose is the drug of choice, as it heightens all sensory input to a thrilling degree. The slightest touch becomes a razor's caress, the softest whisper a sonic dagger of delight. A dose of rose lasts for roughly three hours. During that time the user gains the Dark Sight Trait and gains a +20 bonus to Perception based Tests. If the user ever passes a Test by five Degrees or more, however, he becomes overloaded by sensations and must take a Challenging (+0) Willpower Test or become Stunned for 1d5 rounds.",
+      "description": "Many a Chaos worshipper has had to depart from the strict confines of Imperial society as their desires for new sensations become too extreme. For such adventurers, Rose is the drug of choice, as it heightens all sensory input to a thrilling degree. The slightest touch becomes a razor's caress, the softest whisper a sonic dagger of delight. A dose of rose lasts for roughly three hours. During that time the user gains the Dark Sight Trait and gains a +20 bonus to Perception based Tests. If the user ever passes a Test by five Degrees or more, however, she becomes overloaded by sensations and must take a Challenging (+0) Willpower Test or become Stunned for 1d5 rounds.",
       "source": "Black Crusade"
     },
     {
@@ -136,7 +136,7 @@
       "id": "spook",
       "weight": "-",
       "availability": "Rare",
-      "description": "A highly-proscribed drug, spook creates and augments that most hazardous of effects: psychic abilities. Even the briefest of connections to the Warp and the Ruinous Powers that dwell within can allow daemonic incursions or worse, but in desperate instances, even these horrific effects are brushed aside. If a character without any psy rating takes a dose of this drug, he must successfully make a Challenging (+0) Willpower test or gain 1d5 Insanity points due to his mind being filled with terrifying visions of the Warp. If he succeeds, the user gains a psychic power from Table Spook Effects. The power lasts for 1d5 hours, and the user makes all Focus Power tests during this time as if he had a psy rating of 1. If a character with a psy rating of 1 or more uses spook, he must make a Challenging (+0) Willpower test. If he fails, he gain 1 Insanity Point and the drug has no further effects. If he passes, he adds 1 to his psy rating for the next hour. However, add +25 to rolls he makes on Psychic Phenomena. Spook is Addictive, and depending on the setting, its mere possession can incur intense and even lethal punishment from local authorities.",
+      "description": "A highly-proscribed drug, spook creates and augments that most hazardous of effects: psychic abilities. Even the briefest of connections to the Warp and the Ruinous Powers that dwell within can allow daemonic incursions or worse, but in desperate instances, even these horrific effects are brushed aside. If a character without any psy rating takes a dose of this drug, she must successfully make a Challenging (+0) Willpower test or gain 1d5 Insanity points due to her mind being filled with terrifying visions of the Warp. If she succeeds, the user gains a psychic power from Table Spook Effects. The power lasts for 1d5 hours, and the user makes all Focus Power tests during this time as if she had a psy rating of 1. If a character with a psy rating of 1 or more uses spook, she must make a Challenging (+0) Willpower test. If she fails, she gain 1 Insanity Point and the drug has no further effects. If she passes, she adds 1 to her psy rating for the next hour. However, add +25 to rolls she makes on Psychic Phenomena. Spook is Addictive, and depending on the setting, its mere possession can incur intense and even lethal punishment from local authorities.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -152,7 +152,7 @@
       "id": "glimmerdust",
       "weight": "-",
       "availability": "Very Rare",
-      "description": "Cultivated from the nests of Glimmerwings on Q'Sal, this highly addictive drug fortifies the user against the machinations of psykers. \n\nThe user gains the Resistance (Psychic Powers) Talent for a number of hours equal to his Willpower Bonus. If they already has this Talent, he gains a further +10 to Resistance Tests. \n\nSide Effects: Whilst under the influence of Glimmerdust, everything appears blindingly bright and more colourful than usual. The user suffers a -30 to all Perception Tests until the drug wears off. Psykers that take this Drug cannot Push their powers until the drug's effects subside.",
+      "description": "Cultivated from the nests of Glimmerwings on Q'Sal, this highly addictive drug fortifies the user against the machinations of psykers. \n\nThe user gains the Resistance (Psychic Powers) Talent for a number of hours equal to her Willpower Bonus. If they already has this Talent, she gains a further +10 to Resistance Tests. \n\nSide Effects: Whilst under the influence of Glimmerdust, everything appears blindingly bright and more colourful than usual. The user suffers a -30 to all Perception Tests until the drug wears off. Psykers that take this Drug cannot Push their powers until the drug's effects subside.",
       "source": "Tome of Excess"
     },
     {
@@ -176,7 +176,7 @@
       "id": "plas",
       "weight": "-",
       "availability": "Very Rare",
-      "description": "Most wastrels of the nobility use this biomorphic chemical to mildly alter their facial features for such frivolities as romantic assignation or humour. Others apply it in stronger doses to let them meld their flesh more painfully, rearranging the flesh into new forms and new identities for clandestine rendezvous' or other more serious applications. When applied to the skin, plas softens it to the consistency of soft wax for roughly five minutes, allowing the user to reshape it into new forms. Multiple applications allow even the flesh underneath to be moulded but with intense pain. These will gradually ware off in 1d5 days causing pain proportional to the extent of modification. This gives the subject a +30 against any Perception tests to determine his true identity and also to fool anyone into believing the false one. Poor doses will only do +10 to the same, while Good Craftsmanship applications will last 1-10 days as desired.",
+      "description": "Most wastrels of the nobility use this biomorphic chemical to mildly alter their facial features for such frivolities as romantic assignation or humour. Others apply it in stronger doses to let them meld their flesh more painfully, rearranging the flesh into new forms and new identities for clandestine rendezvous' or other more serious applications. When applied to the skin, plas softens it to the consistency of soft wax for roughly five minutes, allowing the user to reshape it into new forms. Multiple applications allow even the flesh underneath to be moulded but with intense pain. These will gradually ware off in 1d5 days causing pain proportional to the extent of modification. This gives the subject a +30 against any Perception tests to determine her true identity and also to fool anyone into believing the false one. Poor doses will only do +10 to the same, while Good Craftsmanship applications will last 1-10 days as desired.",
       "source": "Black Crusade"
     },
     {
@@ -208,7 +208,7 @@
       "id": "blue_fire",
       "weight": "-",
       "availability": "Extremely Rare",
-      "description": "Also known as Cerulean Flames to the nobility and other social elites and simply Blue to hive gangers, blue fi re comes as small crystals that shine as if they had absorbed the sky on a perfectly clear day. When dropped in a vessel of water they dissolve, releasing a heatless flame of an even stronger hue. Users quickly breathe the cold fi re into their lungs, where it rapidly travels in shivering tingles through the nerveways to the brain, lighting their eyes into glowing sapphires and igniting psychic consciousness. Blue fire lasts for 1d10 rounds and allows the user to reroll any Focus Power Test attempts made during that time. His soul burns brighter than normal during this time, however, and they always trigger Psychic Phenomena as if they were Pushing. The user must also make a Difficult (-10) Willpower Test or gain +1 Corruption Point when using this. This counts as gaining Corruption through a failing.",
+      "description": "Also known as Cerulean Flames to the nobility and other social elites and simply Blue to hive gangers, blue fi re comes as small crystals that shine as if they had absorbed the sky on a perfectly clear day. When dropped in a vessel of water they dissolve, releasing a heatless flame of an even stronger hue. Users quickly breathe the cold fi re into their lungs, where it rapidly travels in shivering tingles through the nerveways to the brain, lighting their eyes into glowing sapphires and igniting psychic consciousness. Blue fire lasts for 1d10 rounds and allows the user to reroll any Focus Power Test attempts made during that time. Her soul burns brighter than normal during this time, however, and they always trigger Psychic Phenomena as if they were Pushing. The user must also make a Difficult (-10) Willpower Test or gain +1 Corruption Point when using this. This counts as gaining Corruption through a failing.",
       "source": "Black Crusade"
     },
     {
@@ -216,7 +216,7 @@
       "id": "barkweed_juice",
       "weight": "-",
       "availability": "Near Unique",
-      "description": "Vast groves of barkweed cover large areas of the Gates of Moment, and the Helwyr tribes use the distilled juice to help perfect their fighting prowess. Outside the Gates, warlords and princes pay ludicrous sums for even the smallest amount.\n\nThe user gains Lightning Reflexes, Rapid Reaction, Unnatural Agility (1) and Unnatural Willpower (1) for a number of rounds equal to his base Toughness Bonus.\n\nSide Effects: Barkweed Juice is not addictive, but imparts 1d5 temporary Toughness Damage after its effects pass.",
+      "description": "Vast groves of barkweed cover large areas of the Gates of Moment, and the Helwyr tribes use the distilled juice to help perfect their fighting prowess. Outside the Gates, warlords and princes pay ludicrous sums for even the smallest amount.\n\nThe user gains Lightning Reflexes, Rapid Reaction, Unnatural Agility (1) and Unnatural Willpower (1) for a number of rounds equal to her base Toughness Bonus.\n\nSide Effects: Barkweed Juice is not addictive, but imparts 1d5 temporary Toughness Damage after its effects pass.",
       "source": "Tome of Excess"
     }
   ]

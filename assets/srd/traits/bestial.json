@@ -11,12 +11,12 @@
     {
       "name": "Enduring",
       "id": "enduring",
-      "description": "Some beasts of burden can tolerate extreme amounts of punishment, and can subsist for long periods of time without food or water, all whilst carrying any rider and his equipment. This Bestial Companion gains a +30 bonus to any Toughness Tests it makes due to dehydration or starvation and can carry one additional passenger or comparably heavy item without the associated penalties. A Bestial Companion with this Trait cannot be given the Wiry Trait."
+      "description": "Some beasts of burden can tolerate extreme amounts of punishment, and can subsist for long periods of time without food or water, all whilst carrying any rider and her equipment. This Bestial Companion gains a +30 bonus to any Toughness Tests it makes due to dehydration or starvation and can carry one additional passenger or comparably heavy item without the associated penalties. A Bestial Companion with this Trait cannot be given the Wiry Trait."
     },
     {
       "name": "Irritable",
       "id": "irritable",
-      "description": "This creature is not terribly friendly at the best of times, and once its ire is ignited, it is all that a rider can do to stay on and survive. Of course, the rider will likely fare much better than anyone unfortunate enough to be caught in its path. This Bestial Companion grants its rider a +20 bonus to Survival Tests to use the Crushing Charge and Rearing Strike Mounted Special Actions. However, whenever the master of a Bestial Companion with this Trait fails a Survival Test to control it, he adds 1 additional Degree of Failure to his failed Test. A Bestial Companion with this Trait cannot be given the Placid or Skittish Traits."
+      "description": "This creature is not terribly friendly at the best of times, and once its ire is ignited, it is all that a rider can do to stay on and survive. Of course, the rider will likely fare much better than anyone unfortunate enough to be caught in its path. This Bestial Companion grants its rider a +20 bonus to Survival Tests to use the Crushing Charge and Rearing Strike Mounted Special Actions. However, whenever the master of a Bestial Companion with this Trait fails a Survival Test to control it, she adds 1 additional Degree of Failure to her failed Test. A Bestial Companion with this Trait cannot be given the Placid or Skittish Traits."
     },
     {
       "name": "Loyal",

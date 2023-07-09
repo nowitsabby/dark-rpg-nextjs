@@ -7,7 +7,7 @@ Whenever a character attempts a task that has some chance of failure, the player
 
 ### Determine Value 
 
-The GM selects either the characteristic or skill \(a characteristic modified by training\) most appropriate for the task\. The player then references his character sheet and obtains the value associated with that skill or characteristic\. This value will be a number between 1 and 100\. 
+The GM selects either the characteristic or skill \(a characteristic modified by training\) most appropriate for the task\. The player then references her character sheet and obtains the value associated with that skill or characteristic\. This value will be a number between 1 and 100\. 
 
 ### Apply Modifiers 
 
@@ -31,15 +31,15 @@ Although technically all actions require tests, in practice this would greatly s
 
 # Degrees of Success and Failure
 
-During a game, knowing whether a test has succeeded or failed is often sufficient\. There are times, however, when it is helpful to know just how well a character has succeeded at a given task, or just how badly he has failed\. This is of particular importance with social skills, such as Charm and Inquiry, as well as during some combat situations such as when firing an automatic weapon, which can score additional hits depending on the roll\. Measuring a character's degrees of success or failure is a rather straightforward process\. Once the percentile roll for the test is made, compare the outcome of the roll with the modified characteristic score\. If the roll is equal to or lower than the characteristic, the character has gained one degree of success \(DoS\)\. He also gains additional degrees of success equal to the tens digit of the target value minus the tens digit of the roll\. Conversely, if the roll is higher than the characteristic, the character has gained one degree of failure \(DoF\), and gains additional degrees of failure equal to the tens digit of the roll minus the tens digit of the target value\.
+During a game, knowing whether a test has succeeded or failed is often sufficient\. There are times, however, when it is helpful to know just how well a character has succeeded at a given task, or just how badly she has failed\. This is of particular importance with social skills, such as Charm and Inquiry, as well as during some combat situations such as when firing an automatic weapon, which can score additional hits depending on the roll\. Measuring a character's degrees of success or failure is a rather straightforward process\. Once the percentile roll for the test is made, compare the outcome of the roll with the modified characteristic score\. If the roll is equal to or lower than the characteristic, the character has gained one degree of success \(DoS\)\. She also gains additional degrees of success equal to the tens digit of the target value minus the tens digit of the roll\. Conversely, if the roll is higher than the characteristic, the character has gained one degree of failure \(DoF\), and gains additional degrees of failure equal to the tens digit of the roll minus the tens digit of the target value\.
 
 # Extended Tests
 
-Occasionally, a character will attempt a task so complicated that it requires quite a length of time to complete\. In cases such as these, the Game Master can require multiple skill tests to complete the task\. This is known as an Extended test\. In general, each skill states within its description whether it requires an Extended test\. However, the GM should adjust the time represented by each test to best suit the situation and the needs of his campaign\.
+Occasionally, a character will attempt a task so complicated that it requires quite a length of time to complete\. In cases such as these, the Game Master can require multiple skill tests to complete the task\. This is known as an Extended test\. In general, each skill states within its description whether it requires an Extended test\. However, the GM should adjust the time represented by each test to best suit the situation and the needs of her campaign\.
 
 # Opposed Tests
 
-There are times when a character needs to test himself against a foe, and times like these call for an Opposed test\. In an Opposed test, each participant makes his appropriate test normally and whoever succeeds wins the test\. If both parties succeed, the party with the most degrees of success wins the test\. If the number of successes is equal, then the party with the highest characteristic bonus wins\. If there is still a tie, then the lowest die roll wins\. Should both parties fail, then one of two things occurs: either the test ends in a stalemate and nothing happens, or both parties re\-roll until there is a clear winner\. Either outcome is appropriate and is left to the GM's discretion\.
+There are times when a character needs to test himself against a foe, and times like these call for an Opposed test\. In an Opposed test, each participant makes her appropriate test normally and whoever succeeds wins the test\. If both parties succeed, the party with the most degrees of success wins the test\. If the number of successes is equal, then the party with the highest characteristic bonus wins\. If there is still a tie, then the lowest die roll wins\. Should both parties fail, then one of two things occurs: either the test ends in a stalemate and nothing happens, or both parties re\-roll until there is a clear winner\. Either outcome is appropriate and is left to the GM's discretion\.
 
 # Test Difficulty
 
@@ -64,7 +64,7 @@ Hellish|–60
 
 # Assistance
 
-Acolytes must depend on each other to succeed, and should always be ready to assist fellow members of their warband to combat the enemies of Mankind\. There are commonly times during a game when a task will be too great, an obstacle too insurmountable, or an enemy too implacable, for a lone Acolyte to succeed\. The only way for the players to succeed at such a task is to pool their skills and resources to work together\. During a complicated or delicate test \(and with the Game Master's permission\), the character performing the test can request the assistance of other characters in the group\. When the percentile roll is made, only the character who is actually making the test rolls the dice, but he gains a \+10 bonus for each character giving assistance to him\.
+Acolytes must depend on each other to succeed, and should always be ready to assist fellow members of their warband to combat the enemies of Mankind\. There are commonly times during a game when a task will be too great, an obstacle too insurmountable, or an enemy too implacable, for a lone Acolyte to succeed\. The only way for the players to succeed at such a task is to pool their skills and resources to work together\. During a complicated or delicate test \(and with the Game Master's permission\), the character performing the test can request the assistance of other characters in the group\. When the percentile roll is made, only the character who is actually making the test rolls the dice, but she gains a \+10 bonus for each character giving assistance to her\.
 
 ### Limits On Assistance 
 

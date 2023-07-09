@@ -27,7 +27,7 @@
       "weight": "+1kg",
       "availability": "Common",
       "upgrades": "Any weapon except Pistol or Thrown.",
-      "description": "This small device contains a small one-shot device that shoots out a sheet of fire. Rather than firing the weapon as normal, the wielder may discharge the exterminator cartridge as a Half Action, resolving the effects as if he had made a Standard Attack action with a flamer.",
+      "description": "This small device contains a small one-shot device that shoots out a sheet of fire. Rather than firing the weapon as normal, the wielder may discharge the exterminator cartridge as a Half Action, resolving the effects as if she had made a Standard Attack action with a flamer.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -36,7 +36,7 @@
       "weight": "+25kg",
       "availability": "Common",
       "upgrades": "Any Heavy Las, Solid Projectile, Bolter, Melta, or Launcher weapon.",
-      "description": "As a Half Action, a character can “lock” a Heavy weapon into a gun carriage (or remove it from the gun carriage). While it is “locked” in, it has a 45-degree firing arc and counts as being Braced. A Player Character or Comrade can move the gun carriage with him as part of any Full Move Action, but may not make Reactions in any Round in which he does so",
+      "description": "As a Half Action, a character can “lock” a Heavy weapon into a gun carriage (or remove it from the gun carriage). While it is “locked” in, it has a 45-degree firing arc and counts as being Braced. A Player Character or Comrade can move the gun carriage with her as part of any Full Move Action, but may not make Reactions in any Round in which she does so",
       "source": "Hammer of the Emperor"
     },
     {
@@ -108,7 +108,7 @@
       "weight": "-",
       "availability": "Average",
       "upgrades": "Any ranged weapon.",
-      "description": "During the first Round of combat, a character wielding a weapon with this modification receives a +1 bonus to Initiative. However, due to the variation, if any other individual uses the weapon, he suffers a -5 penalty to Ballistic Skill Tests made with it.",
+      "description": "During the first Round of combat, a character wielding a weapon with this modification receives a +1 bonus to Initiative. However, due to the variation, if any other individual uses the weapon, she suffers a -5 penalty to Ballistic Skill Tests made with it.",
       "source": "Only War"
     },
     {
@@ -207,7 +207,7 @@
       "weight": "-",
       "availability": "Scarce",
       "upgrades": "Any weapon.",
-      "description": "When a character takes an Aim action with weapons modified in this way, he receives an additional +2 bonus on a Half Action or an additional +4 bonus for a Full Action. This customisation is compatible with any other devices that modify Aim actions. It is most commonly applied to the stock of a Basic ranged weapon, but comparable changes can be made to virtually any weapon.",
+      "description": "When a character takes an Aim action with weapons modified in this way, she receives an additional +2 bonus on a Half Action or an additional +4 bonus for a Full Action. This customisation is compatible with any other devices that modify Aim actions. It is most commonly applied to the stock of a Basic ranged weapon, but comparable changes can be made to virtually any weapon.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -243,7 +243,7 @@
       "weight": "-",
       "availability": "Scarce",
       "upgrades": "Any weapon.",
-      "description": "The constant reminder of his faith serves to instill additional courage in the weapon's wielder when his courage is tested. A character who possesses one or more weapons with this modification gains a +10 bonus to Pinning tests.",
+      "description": "The constant reminder of her faith serves to instill additional courage in the weapon's wielder when her courage is tested. A character who possesses one or more weapons with this modification gains a +10 bonus to Pinning tests.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -261,7 +261,7 @@
       "weight": "+2.5kg",
       "availability": "Rare",
       "upgrades": "Any Las, Solid Projectile, or Bolt weapons of the Basic class.",
-      "description": "A character using a weapon with an auxiliary grenade launcher can choose to either fire the launcher or the weapon it is attached to in his turn, but not both at once. It has a range of 45 metres with damage and penetration as per the loaded grenade, and can be fired Indirectly. The device however is too cumbersome to be reloaded during combat; each new acquisition for the weapon reloads the launcher with one fresh round but does not require the modification to be reapplied.",
+      "description": "A character using a weapon with an auxiliary grenade launcher can choose to either fire the launcher or the weapon it is attached to in her turn, but not both at once. It has a range of 45 metres with damage and penetration as per the loaded grenade, and can be fired Indirectly. The device however is too cumbersome to be reloaded during combat; each new acquisition for the weapon reloads the launcher with one fresh round but does not require the modification to be reapplied.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -297,7 +297,7 @@
       "weight": "+1kg",
       "availability": "Rare",
       "upgrades": "Any Bolt, Launcher, and Solid Projectile weapon of the Pistol or Basic class.",
-      "description": "The weapon can now have up to three different types of ammunition loaded (the total amount of shells not exceeding its clip size); at the start of his turn, the wielder can use the fire selector to select which type of ammunition he fires for his shooting that round.",
+      "description": "The weapon can now have up to three different types of ammunition loaded (the total amount of shells not exceeding its clip size); at the start of her turn, the wielder can use the fire selector to select which type of ammunition she fires for her shooting that round.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -306,7 +306,7 @@
       "weight": "-",
       "availability": "Rare",
       "upgrades": "Any ranged weapon capable of Semi-Automatic fire.",
-      "description": "When the character uses the weapon as part of a successful Semi-Auto Burst action, he counts as scoring one additional degree of success for purposes of determining the number of rounds that hit the target. Weapons with this customisation are trickier to load, as the ammunition feed must be more carefully engaged, and so reload time is increased by an additional Half Action.",
+      "description": "When the character uses the weapon as part of a successful Semi-Auto Burst action, she counts as scoring one additional degree of success for purposes of determining the number of rounds that hit the target. Weapons with this customisation are trickier to load, as the ammunition feed must be more carefully engaged, and so reload time is increased by an additional Half Action.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -360,7 +360,7 @@
       "weight": "+0.75kg",
       "availability": "Rare",
       "upgrades": "Any Low-Tech or Chain melee weapon.",
-      "description": "As a Free Action, a character with a weapon equipped with a tox dispenser may cause his weapon to gain the Toxic (2) quality for one round. A tox dispenser can be used 10 times before requiring refilling; no Requisition test in needed as long as the character is in a location the ingredients would be available. ",
+      "description": "As a Free Action, a character with a weapon equipped with a tox dispenser may cause her weapon to gain the Toxic (2) quality for one round. A tox dispenser can be used 10 times before requiring refilling; no Requisition test in needed as long as the character is in a location the ingredients would be available. ",
       "source": "Dark Heresy 2e"
     },
     {
@@ -369,7 +369,7 @@
       "weight": "+0.5kg",
       "availability": "Rare",
       "upgrades": "Any Pistol, Basic, Launcher, or Heavy weapon that is not of the Low-Tech type.",
-      "description": "Keyed into the user's vocal signature, these vox receptors are linked into a weapon's firing controls. With spoken commands, the operator can fire his gun, switch firing modes, and also change ammunition (should it be fitted with a fire selector).",
+      "description": "Keyed into the user's vocal signature, these vox receptors are linked into a weapon's firing controls. With spoken commands, the operator can fire her gun, switch firing modes, and also change ammunition (should it be fitted with a fire selector).",
       "source": "Dark Heresy 2e"
     },
     {
@@ -450,7 +450,7 @@
       "weight": "+0.5 kg",
       "availability": "Extremely Rare",
       "upgrades": "Any weapon with the Power Field Quality",
-      "description": "A power weapon can be fitted with an overcharged generator to increase the output of its power field, though it is not without risk as the cracking halo of energy can sometime be as dangerous to the user as his foes. The weapon increases its Damage and Penetration by 2 and any weapon without the Power Field, Force, etc. Qualities which parries or is parried by a weapon with a Storm Field is automatically destroyed. If the wielder rolls an unmodified 91-00 when making attacks with the weapon he has been touched by the field and takes one hit from the weapon that cannot be evaded (do not add the bearer's Strength Bonus to this damage roll).",
+      "description": "A power weapon can be fitted with an overcharged generator to increase the output of its power field, though it is not without risk as the cracking halo of energy can sometime be as dangerous to the user as her foes. The weapon increases its Damage and Penetration by 2 and any weapon without the Power Field, Force, etc. Qualities which parries or is parried by a weapon with a Storm Field is automatically destroyed. If the wielder rolls an unmodified 91-00 when making attacks with the weapon she has been touched by the field and takes one hit from the weapon that cannot be evaded (do not add the bearer's Strength Bonus to this damage roll).",
       "source": "Black Crusade"
     },
     {

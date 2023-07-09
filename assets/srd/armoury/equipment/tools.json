@@ -40,7 +40,7 @@
       "id": "mantrap",
       "weight": "2kg",
       "availability": "Plentiful",
-      "description": "If a character steps on the clutch inside the trap, it snaps shut on their leg dealing 1d10 Rending Damage, and rendering him Immobilized. The individual must pass a Difficult (-10) Strength Test to free themselves from the clutches of the trap.",
+      "description": "If a character steps on the clutch inside the trap, it snaps shut on their leg dealing 1d10 Rending Damage, and rendering her Immobilized. The individual must pass a Difficult (-10) Strength Test to free themselves from the clutches of the trap.",
       "source": "Only War"
     },
     {
@@ -72,7 +72,7 @@
       "id": "clip_drop_harness",
       "weight": "2 kg",
       "availability": "Common",
-      "description": "A simple (but robust) spooled safety line with a magnetic or hooked clasp at the end, these tools attach to the user's belt or shoulder straps. When deployed, they allow for relative safety in rappelling down vertical surfaces or preventing falls from unsteady rooftops. A character using a clip harness to descend a vertical surface gains a +30 bonus on tests to Climb and cannot fall if he fails. Common quality harnesses can hold 150kg, while Good quality harnesses can support 200 kg.",
+      "description": "A simple (but robust) spooled safety line with a magnetic or hooked clasp at the end, these tools attach to the user's belt or shoulder straps. When deployed, they allow for relative safety in rappelling down vertical surfaces or preventing falls from unsteady rooftops. A character using a clip harness to descend a vertical surface gains a +30 bonus on tests to Climb and cannot fall if she fails. Common quality harnesses can hold 150kg, while Good quality harnesses can support 200 kg.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -192,7 +192,7 @@
       "id": "psy_focus",
       "weight": "-",
       "availability": "Average",
-      "description": "Many psykers use these small, personalised items to steady themselves before accessing the terrible powers of the Warp. Each is different; some might be no more than a carved finger bone or pressed flower, while others could be a softly glowing crystal or void-iron glyph. All, however, are specially attuned to their bearers through long meditation or ritual, allowing them greater control over their abilities. When a psyker with a psy focus makes a Focus Power test, he gains a +10 bonus.",
+      "description": "Many psykers use these small, personalised items to steady themselves before accessing the terrible powers of the Warp. Each is different; some might be no more than a carved finger bone or pressed flower, while others could be a softly glowing crystal or void-iron glyph. All, however, are specially attuned to their bearers through long meditation or ritual, allowing them greater control over their abilities. When a psyker with a psy focus makes a Focus Power test, she gains a +10 bonus.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -200,7 +200,7 @@
       "id": "snare_mine",
       "weight": "1 kg",
       "availability": "Average",
-      "description": "Placing a snare mine requires a Routine (+20) Tech- Use Test and requires one grenade (or other explosive). When a creature of Size (3) or larger approaches within a predetermined distance metres of a snare mine, the grenade detonates with its usual effect. The proximity detonator can be adjusted to trigger at a distance of 1, 2, or 3 metres and can be set with a delay from 0 to 5 Rounds. Detecting a planted snare mine (before triggering it) requires a Challenging (+0) Awareness Test with a -10 penalty for every Degree of Success the user scored on his Tech-Use Test to plant it.",
+      "description": "Placing a snare mine requires a Routine (+20) Tech- Use Test and requires one grenade (or other explosive). When a creature of Size (3) or larger approaches within a predetermined distance metres of a snare mine, the grenade detonates with its usual effect. The proximity detonator can be adjusted to trigger at a distance of 1, 2, or 3 metres and can be set with a delay from 0 to 5 Rounds. Detecting a planted snare mine (before triggering it) requires a Challenging (+0) Awareness Test with a -10 penalty for every Degree of Success the user scored on her Tech-Use Test to plant it.",
       "source": "Hammer of the Emperor"
     },
     {
@@ -224,7 +224,7 @@
       "id": "auto_quill",
       "weight": "-",
       "availability": "Scarce",
-      "description": "Often elaborate devices of ink-stained brass and vat-grown or artificial quills, these devices allow a user to copy text or transcribe speech with impressive speed and accuracy. Many scribes carry portable units, suitable for recording interrogation sessions or xenos translations. A character with a relevant Trade skill can use it to gain a +10 to his tests involving this skill when recording data.",
+      "description": "Often elaborate devices of ink-stained brass and vat-grown or artificial quills, these devices allow a user to copy text or transcribe speech with impressive speed and accuracy. Many scribes carry portable units, suitable for recording interrogation sessions or xenos translations. A character with a relevant Trade skill can use it to gain a +10 to her tests involving this skill when recording data.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -232,7 +232,7 @@
       "id": "consecrated_scrolls",
       "weight": "1kg",
       "availability": "Scarce",
-      "description": "Soaked in sacred oils and covered in illuminated texts of devotion, consecrated scrolls offer a small measure of protection against the machinations of the Warp. Before making a Focus Power test, a character possessing one of these scrolls may choose to burn a single one as a Free Action; this destroys that scroll. Should the user have to roll on Psychic Phenomena as a result of the subsequent Focus Power test, he may re-roll the result.",
+      "description": "Soaked in sacred oils and covered in illuminated texts of devotion, consecrated scrolls offer a small measure of protection against the machinations of the Warp. Before making a Focus Power test, a character possessing one of these scrolls may choose to burn a single one as a Free Action; this destroys that scroll. Should the user have to roll on Psychic Phenomena as a result of the subsequent Focus Power test, she may re-roll the result.",
       "source": "Enemies Beyond"
     },
     {
@@ -240,7 +240,7 @@
       "id": "hand_held_targeter",
       "weight": "0.5 kg",
       "availability": "Scarce",
-      "description": "A hand-held targeter is a small device used in most forces of the Imperium. It is capable of detecting ranges to targets using optical sights for zooming, prediction systems for firing, and so on. It is commonly used by spotters assisting with artillery fire. An Acolyte with a hand-held targeter may spend a Half Action to grant another character +20 bonus to his next Ballistic Skill test when firing a weapon with the Indirect quality.",
+      "description": "A hand-held targeter is a small device used in most forces of the Imperium. It is capable of detecting ranges to targets using optical sights for zooming, prediction systems for firing, and so on. It is commonly used by spotters assisting with artillery fire. An Acolyte with a hand-held targeter may spend a Half Action to grant another character +20 bonus to her next Ballistic Skill test when firing a weapon with the Indirect quality.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -328,7 +328,7 @@
       "id": "jump_pack",
       "weight": "25 kg",
       "availability": "Rare",
-      "description": "A user must have the Operate (Aeronautica) Skill to use a jump pack. The standard model allows a safe descent from any height along with an unlimited series of short jumps of up to double his Base Movement, avoiding any ground obstacles and landing at the end of each Round's movement. Alternatively, the pack can be used to duplicate the Flyer (12) trait for up to a minute at a time. On-board fuel supplies will be exhausted after an hour of continual use.",
+      "description": "A user must have the Operate (Aeronautica) Skill to use a jump pack. The standard model allows a safe descent from any height along with an unlimited series of short jumps of up to double her Base Movement, avoiding any ground obstacles and landing at the end of each Round's movement. Alternatively, the pack can be used to duplicate the Flyer (12) trait for up to a minute at a time. On-board fuel supplies will be exhausted after an hour of continual use.",
       "source": "Black Crusade"
     },
     {
@@ -336,7 +336,7 @@
       "id": "magboots",
       "weight": "2 kg",
       "availability": "Rare",
-      "description": "Heavy and bulky, these oversized boots contain electromagnets. They allow the wearer to adhere to metallic surfaces such as exterior hull plating, and are often found in voidship emergency lockers. Magboots reduce the character's Agility bonus by 2, but allows him to move normally when in low- or zero-gravity areas, provided there is a suitable metallic surface to walk upon.",
+      "description": "Heavy and bulky, these oversized boots contain electromagnets. They allow the wearer to adhere to metallic surfaces such as exterior hull plating, and are often found in voidship emergency lockers. Magboots reduce the character's Agility bonus by 2, but allows her to move normally when in low- or zero-gravity areas, provided there is a suitable metallic surface to walk upon.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -360,7 +360,7 @@
       "id": "nathecium",
       "weight": "3 kg",
       "availability": "Rare",
-      "description": "A sophisticated wrist-mounted medi-pack, a narthecium includes three auto-injectors and a powerful, diamantine-tipped saw for cutting through armour to provide emergency treatment to a wounded Guardsman. Consequently, narthecium are typically reserved for very well-supplied regiments, or medics attendant to an officer and his command squad. As well as providing all the benefits of a Good-Craftsmanship medi-pack, the user of a narthecium may administer a dose of a drug from one of the auto-injectors as a Free Action, when done in conjunction with a Medicae Test. Each auto-injector can be used to store a different type of drug. Though not authorised for such use, a narthecium may be used in melee with the profile of a chain blade with the Unwieldy Quality.",
+      "description": "A sophisticated wrist-mounted medi-pack, a narthecium includes three auto-injectors and a powerful, diamantine-tipped saw for cutting through armour to provide emergency treatment to a wounded Guardsman. Consequently, narthecium are typically reserved for very well-supplied regiments, or medics attendant to an officer and her command squad. As well as providing all the benefits of a Good-Craftsmanship medi-pack, the user of a narthecium may administer a dose of a drug from one of the auto-injectors as a Free Action, when done in conjunction with a Medicae Test. Each auto-injector can be used to store a different type of drug. Though not authorised for such use, a narthecium may be used in melee with the profile of a chain blade with the Unwieldy Quality.",
       "source": "Hammer of the Emperor"
     },
     {
@@ -368,7 +368,7 @@
       "id": "psyocculum",
       "weight": "1.5kg",
       "availability": "Rare",
-      "description": "An arcane assemblage of strange lenses and scarcely-understood ætheric scryers, a psyocculum tracks the Warp signatures of psykers and Daemons alike. Although cumbersome to wear and draining to use, the device leaves those infused with Warp power no place to hide as they become highlighted in a corona of white light. As a Half Action, the wearer may make a Challenging (+10) Awareness test to detect psykers and characters with the Daemonic trait without the need for normal lighting until the end of the encounter. While these targets are illuminated in this way, the wearer gains a +10 bonus to his Ballistic Skill tests against them. The psyocculum distorts standard vision, however, imposing a -20 penalty to all other sight-based tests made while it is used. It also cannot be used at the same time as another piece of headgear, such as a helmet, and requires a Half Action to both put on or take off. Using a psyocculum causes the wearer to gain one level of Fatigue for every 5 minutes of operation beyond the first minute.",
+      "description": "An arcane assemblage of strange lenses and scarcely-understood ætheric scryers, a psyocculum tracks the Warp signatures of psykers and Daemons alike. Although cumbersome to wear and draining to use, the device leaves those infused with Warp power no place to hide as they become highlighted in a corona of white light. As a Half Action, the wearer may make a Challenging (+10) Awareness test to detect psykers and characters with the Daemonic trait without the need for normal lighting until the end of the encounter. While these targets are illuminated in this way, the wearer gains a +10 bonus to her Ballistic Skill tests against them. The psyocculum distorts standard vision, however, imposing a -20 penalty to all other sight-based tests made while it is used. It also cannot be used at the same time as another piece of headgear, such as a helmet, and requires a Half Action to both put on or take off. Using a psyocculum causes the wearer to gain one level of Fatigue for every 5 minutes of operation beyond the first minute.",
       "source": "Enemies Beyond"
     },
     {
@@ -392,7 +392,7 @@
       "id": "comm_leech",
       "weight": "1 kg",
       "availability": "Very Rare",
-      "description": "A somewhat heretical item in the eyes of the Mechanicum, these tap into vox signals or data transmissions. After making a successful Tech-Use test (with the GM setting the difficulty based on the situation and signal), the user can use it to receive a signal or transmission within 1km for a number of minutes equal to his degrees of success. If the character fails by a number of degrees of failure greater than his Intelligence bonus, the sender and receiver of the signal become aware that someone is attempting to tap in.",
+      "description": "A somewhat heretical item in the eyes of the Mechanicum, these tap into vox signals or data transmissions. After making a successful Tech-Use test (with the GM setting the difficulty based on the situation and signal), the user can use it to receive a signal or transmission within 1km for a number of minutes equal to her degrees of success. If the character fails by a number of degrees of failure greater than her Intelligence bonus, the sender and receiver of the signal become aware that someone is attempting to tap in.",
       "source": "Dark Heresy 2e"
     },
     {
@@ -416,7 +416,7 @@
       "id": "empyrean_brain_mine",
       "weight": "1kg",
       "availability": "Very Rare",
-      "description": "Thought to be created using forbidden technologies found on a ghost world, these objects latch onto a victim's body and send disruptive energies directly into the brain, rendering the target temporarily catatonic. A brain mine must be attached to an enemy through a successful Grapple action in melee combat. At the start of his turn for the following 3 rounds, the target must make a Hard (-20) Agility test. If successful, he can perform a Half Action; otherwise he is unable to perform any actions, including Reactions, that round. The mine deals 1d10+5 Rending damage that is not reduced by armour if forcibly removed, but after 3 rounds, it burns out and dislodges from the target.",
+      "description": "Thought to be created using forbidden technologies found on a ghost world, these objects latch onto a victim's body and send disruptive energies directly into the brain, rendering the target temporarily catatonic. A brain mine must be attached to an enemy through a successful Grapple action in melee combat. At the start of her turn for the following 3 rounds, the target must make a Hard (-20) Agility test. If successful, she can perform a Half Action; otherwise she is unable to perform any actions, including Reactions, that round. The mine deals 1d10+5 Rending damage that is not reduced by armour if forcibly removed, but after 3 rounds, it burns out and dislodges from the target.",
       "source": "Enemies Beyond"
     },
     {
@@ -432,7 +432,7 @@
       "id": "holo_spectus",
       "weight": "6kg",
       "availability": "Very Rare",
-      "description": "Consisting of a powerful launching tube, a long-range pict-recorder, and a holographic display, the holo-spectus allows its user to survey a large area to plan movements, seek out targets, or even find his bearings. Aimed skyward, the compact launcher blasts the fist-sized recorder several hundred metres vertically into the air, where it floats on tiny grav plating, feeding what it sees to a three-dimensional holographic display on the base-unit. As the user turns on the spot, so does the floating recorder, allowing the user to see kilometres in every direction. With a simple flick of a switch, the recorder zeroes in on the base unit and returns to the launcher in a matter of seconds. Successfully firing a holo-spectus into the air requires a Challenging (+0) Tech-Use test, after which the user gains a visual representation of the area below the hovering pict-recorder out for several kilometres. The control interface allows the Acolyte to zoom and highlight parts of the holographic display, and turning on the spot causes the recorder above to turn, allowing the Acolyte to survey the area around him in great detail, which grants a +20 bonus to Navigate (Surface), Survival (Tracking), and Scrutiny tests. The recorder can stay airborne for 5 hours before its power cell is exhausted.",
+      "description": "Consisting of a powerful launching tube, a long-range pict-recorder, and a holographic display, the holo-spectus allows its user to survey a large area to plan movements, seek out targets, or even find her bearings. Aimed skyward, the compact launcher blasts the fist-sized recorder several hundred metres vertically into the air, where it floats on tiny grav plating, feeding what it sees to a three-dimensional holographic display on the base-unit. As the user turns on the spot, so does the floating recorder, allowing the user to see kilometres in every direction. With a simple flick of a switch, the recorder zeroes in on the base unit and returns to the launcher in a matter of seconds. Successfully firing a holo-spectus into the air requires a Challenging (+0) Tech-Use test, after which the user gains a visual representation of the area below the hovering pict-recorder out for several kilometres. The control interface allows the Acolyte to zoom and highlight parts of the holographic display, and turning on the spot causes the recorder above to turn, allowing the Acolyte to survey the area around her in great detail, which grants a +20 bonus to Navigate (Surface), Survival (Tracking), and Scrutiny tests. The recorder can stay airborne for 5 hours before its power cell is exhausted.",
       "source": "Enemies Without"
     },
     {
@@ -448,7 +448,7 @@
       "id": "adaptive_logis_engine",
       "weight": "4kg",
       "availability": "Extremely Rare",
-      "description": "To operate an Adaptive Logis-Engine, an Acolyte must place it onto the alien computer, lock, or other interface device that he wishes to crack, and make a Hard (-20) Security (Int) test. If successful, the engine accesses the alien device, and the character treats it like any other cogitator or electronic lock for the purposes of additional tests. An Adaptive Logis-Engine takes 5 minutes to access a basic alien system, less 30 seconds for each degree of success on the user's Security test (to a minimum of 30 seconds).",
+      "description": "To operate an Adaptive Logis-Engine, an Acolyte must place it onto the alien computer, lock, or other interface device that she wishes to crack, and make a Hard (-20) Security (Int) test. If successful, the engine accesses the alien device, and the character treats it like any other cogitator or electronic lock for the purposes of additional tests. An Adaptive Logis-Engine takes 5 minutes to access a basic alien system, less 30 seconds for each degree of success on the user's Security test (to a minimum of 30 seconds).",
       "source": "Enemies Without"
     },
     {
@@ -480,7 +480,7 @@
       "id": "null_rod",
       "weight": "1 kg",
       "availability": "Near Unique",
-      "description": "Few things invoke terror as much as a psyker calling on the unholy powers of the Warp to twist reality and rend souls. While faith in the Emperor is always essential, a null rod can also be effective in negating such threats. Most null rods appear as short obsidian cylinders, often crawling with arcane icons and glyphs. Each can dampen the powers of any psykers within 2d10 metres, causing them to take all tests to use any of their psychic powers with a -30 penalty. They also offer an Acolyte personal protection from psychic attacks by granting a +30 bonus to resist any psychic power that directly affects him. A null rod acts as a truncheon with the Power Field quality when used in close combat.",
+      "description": "Few things invoke terror as much as a psyker calling on the unholy powers of the Warp to twist reality and rend souls. While faith in the Emperor is always essential, a null rod can also be effective in negating such threats. Most null rods appear as short obsidian cylinders, often crawling with arcane icons and glyphs. Each can dampen the powers of any psykers within 2d10 metres, causing them to take all tests to use any of their psychic powers with a -30 penalty. They also offer an Acolyte personal protection from psychic attacks by granting a +30 bonus to resist any psychic power that directly affects her. A null rod acts as a truncheon with the Power Field quality when used in close combat.",
       "source": "Dark Heresy 2e"
     }
   ]

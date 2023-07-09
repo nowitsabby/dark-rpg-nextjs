@@ -15,11 +15,11 @@ A round consists of each character in the encounter taking one turn\. Although t
 
 ### Turns 
 
-Each character in an encounter gets one turn each round, during which he can perform one or more actions\. While characters' turns actually overlap each other slightly, turns are resolved in a specific order known as Initiative order\. 
+Each character in an encounter gets one turn each round, during which she can perform one or more actions\. While characters' turns actually overlap each other slightly, turns are resolved in a specific order known as Initiative order\. 
 
 ### Actions 
 
-A character can perform one or more actions during his turn\. Actions represent tasks the character might want to undertake, from moving down a corridor or into cover, to firing his gun at the enemy\. When performing multiple actions, the character can execute them in any order he chooses\.
+A character can perform one or more actions during her turn\. Actions represent tasks the character might want to undertake, from moving down a corridor or into cover, to firing her gun at the enemy\. When performing multiple actions, the character can execute them in any order she chooses\.
 
 ## Combat Overview 
 
@@ -29,7 +29,7 @@ When a new combat begins, follow these steps to determine what happens:
 
 ### Step 1: Surprise 
 
-At the beginning of a combat, the GM determines whether any characters are Surprised\. This can only happen once, at the beginning of a combat, and there will be many combats wherein nobody is Surprised\. During the first round of combat, a Surprised character loses his turn and cannot use Reactions because he has been caught unawares by his enemies\. If no one is Surprised, move immediately to the next step\. 
+At the beginning of a combat, the GM determines whether any characters are Surprised\. This can only happen once, at the beginning of a combat, and there will be many combats wherein nobody is Surprised\. During the first round of combat, a Surprised character loses her turn and cannot use Reactions because she has been caught unawares by her enemies\. If no one is Surprised, move immediately to the next step\. 
 
 ### Step 2: Set the Scene 
 
@@ -41,7 +41,7 @@ To determine the order in which the characters take their turns during each roun
 
 ### Step 4: Combatants Take Turns 
 
-Starting with the character at the top of the Initiative order, each character takes a turn\. The character currently taking his turn is known as the active character, and can perform one or more actions\. Once his actions have been resolved, his turn ends and any lingering effects that specify a duration of “until the end of the player's turn” now end\. The next character in the Initiative order then becomes the active character and takes his turn, and so forth\. 
+Starting with the character at the top of the Initiative order, each character takes a turn\. The character currently taking her turn is known as the active character, and can perform one or more actions\. Once her actions have been resolved, her turn ends and any lingering effects that specify a duration of “until the end of the player's turn” now end\. The next character in the Initiative order then becomes the active character and takes her turn, and so forth\. 
 
 ### Step 5: Round Ends 
 
@@ -53,9 +53,9 @@ Continue to repeat Steps 4 and 5 until the combat is finished, or until the non\
 
 ## Initiative
 
-Initiative is rolled once at the beginning of each combat encounter, and determines the order in which all characters take turns each round during that encounter\. To determine the Initiative order, each character rolls 1d10 and adds his Agility bonus to the result\. The GM rolls Initiative for all NPCs involved in the encounter\. To keep things simple, it is recommended that the GM make one Initiative roll for each group of similar enemy characters\. 
+Initiative is rolled once at the beginning of each combat encounter, and determines the order in which all characters take turns each round during that encounter\. To determine the Initiative order, each character rolls 1d10 and adds her Agility bonus to the result\. The GM rolls Initiative for all NPCs involved in the encounter\. To keep things simple, it is recommended that the GM make one Initiative roll for each group of similar enemy characters\. 
 
-After each character has determined his Initiative, the GM makes a list, placing them in order from highest to lowest\. This list is known as the Initiative order, which is the order in which characters take turns each round, until the end of the combat\. 
+After each character has determined her Initiative, the GM makes a list, placing them in order from highest to lowest\. This list is known as the Initiative order, which is the order in which characters take turns each round, until the end of the combat\. 
 
 If more than one character has the same Initiative score, the one with the higher Agility characteristic is placed higher in the Initiative order\. If they also have the same Agility characteristic, they both roll 1d10, and the character with the higher roll is placed higher in the Initiative order\. 
 

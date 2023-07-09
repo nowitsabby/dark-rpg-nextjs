@@ -3,13 +3,13 @@ title: Cyber-Constructs
 ---
 # Cyber-Constructs 
 
-It is not unheard of for individuals who are not Cyber-Mastiff handlers, or who are not equipped with a Constructer Interface to make use of Cyber-Constructs. While a trained Adeptus Mechanicus agent, with the proper augmetics is vastly more capable of repairing, controlling, and training these creatures, they are not alone in their use. Anyone equipped with a Constructer Interface can program his Cyber-Construct to obey the vocal (or vox) commands of another agent. This is limited, and cogitation patterns that would normally process evasion and attack movements must instead decipher human speech and intent. To avoid confusion, many users give the beast a designation, commands may be easily addressed, so that it does not interpret random words in other discussion as an order.
+It is not unheard of for individuals who are not Cyber-Mastiff handlers, or who are not equipped with a Constructer Interface to make use of Cyber-Constructs. While a trained Adeptus Mechanicus agent, with the proper augmetics is vastly more capable of repairing, controlling, and training these creatures, they are not alone in their use. Anyone equipped with a Constructer Interface can program her Cyber-Construct to obey the vocal (or vox) commands of another agent. This is limited, and cogitation patterns that would normally process evasion and attack movements must instead decipher human speech and intent. To avoid confusion, many users give the beast a designation, commands may be easily addressed, so that it does not interpret random words in other discussion as an order.
 
 It requires an Ordinary (+10) Tech-Use Test to order a Cyber-Construct to obey the commands of another. This test requires that the user be able to physically adjust the Cyber-Construct, and takes 1 hour. Once so ordered, the creature cannot benefit from the Constructor-Interface until the process has been repeated (this includes uploaded patterns). The following vocal (or vox) commands may be given by users without a Constructor Interface:
 
 #### Attack 
 
-The user spends a Half-Action designating a target that both he and the construct can see. The Construct will then attack the target until it is dead (or sometimes after). Constructs are decidedly ferocious creatures that will not stop until their target is dead or they have been called to heel.
+The user spends a Half-Action designating a target that both she and the construct can see. The Construct will then attack the target until it is dead (or sometimes after). Constructs are decidedly ferocious creatures that will not stop until their target is dead or they have been called to heel.
 
 #### Tackle 
 

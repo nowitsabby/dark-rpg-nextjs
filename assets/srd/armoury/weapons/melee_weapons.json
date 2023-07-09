@@ -58,7 +58,7 @@
       "damage": "1d10+2 R",
       "penetration": 3,
       "special": "Tearing",
-      "description": "This weapon can be used while gripping another weapon in the same hand, however the wielder must choose the weapon with which he is attacking on a given turn.",
+      "description": "This weapon can be used while gripping another weapon in the same hand, however the wielder must choose the weapon with which she is attacking on a given turn.",
       "weight": "5kg",
       "availability": "Rare",
       "source": "Black Crusade"
@@ -73,7 +73,7 @@
       "damage": "1d10+4 R",
       "penetration": 2,
       "special": "Flexible, Tearing, Unwieldy, Vengeful (9)",
-      "description": "If the wielder of a chain flail fails a Weapon Skill Test with it by a number of Degrees of Failure greater than his Weapon Skill Bonus, he instead resolves the attack as though he had successfully struck himself.",
+      "description": "If the wielder of a chain flail fails a Weapon Skill Test with it by a number of Degrees of Failure greater than her Weapon Skill Bonus, she instead resolves the attack as though she had successfully struck himself.",
       "weight": "14kg",
       "availability": "Very Rare",
       "source": "Hammer of the Emperor"
@@ -328,7 +328,7 @@
       "damage": "1d10 R",
       "penetration": 8,
       "special": "Tearing, Toxic (0)",
-      "description": "The cuts from a neuro-gauntlet are deceptively small. However, the poisons they produce are some of the most potent and crippling toxins known to the Officio Assassinorum. Neuro-Gauntlets have the Toxic Quality; if the target fails its Toughness Test, in addition to suffering damage as normal, all his Characteristics are halved for 1d5 minutes. This specific effect is not cumulative, and does not affect targets with the Daemonic or Machine Traits. \n\nThe toxins within the neuro-gauntlets may be replaced by different toxins (including one that mimics the effect of a Hallucinogen Grenade).",
+      "description": "The cuts from a neuro-gauntlet are deceptively small. However, the poisons they produce are some of the most potent and crippling toxins known to the Officio Assassinorum. Neuro-Gauntlets have the Toxic Quality; if the target fails its Toughness Test, in addition to suffering damage as normal, all her Characteristics are halved for 1d5 minutes. This specific effect is not cumulative, and does not affect targets with the Daemonic or Machine Traits. \n\nThe toxins within the neuro-gauntlets may be replaced by different toxins (including one that mimics the effect of a Hallucinogen Grenade).",
       "weight": "2.5kg",
       "availability": "Extremely Rare",
       "source": "Ascension"
@@ -373,7 +373,7 @@
       "damage": "1d10+5 E",
       "penetration": 3,
       "special": "Flame, Unbalanced",
-      "description": "Any character who can draw line of sight to an ally wielding an active Brazier of Holy Fire gains a +10 bonus to his Willpower tests. Additionally, it can be used as a heavy flamer with a clip size of 1. Once fired, it loses the Flame quality in melee until it is reloaded, a process that takes roughly 20 minutes and involves several special hymns",
+      "description": "Any character who can draw line of sight to an ally wielding an active Brazier of Holy Fire gains a +10 bonus to her Willpower tests. Additionally, it can be used as a heavy flamer with a clip size of 1. Once fired, it loses the Flame quality in melee until it is reloaded, a process that takes roughly 20 minutes and involves several special hymns",
       "weight": "6kg",
       "availability": "Very Rare",
       "source": "Enemies Within"
@@ -403,7 +403,7 @@
       "damage": "2d10+10† E",
       "penetration": 4,
       "special": "Daemonbane, Force, Power Field, Unwieldy",
-      "description": "An Animus hammer acts as a psy-focus. If the wielder possesses the Psyker trait, the weapon adds +1 to his psy rating.",
+      "description": "An Animus hammer acts as a psy-focus. If the wielder possesses the Psyker trait, the weapon adds +1 to her psy rating.",
       "weight": "8kg",
       "availability": "Near Unique",
       "source": "Enemies Beyond"
@@ -553,7 +553,7 @@
       "damage": "2d10+4† E",
       "penetration": 6,
       "special": "Daemonbane, Force, Power Field, Unwieldy",
-      "description": "Once per game session, as a Full Action, a character wielding Tempus may smite the ground, causing a blast with a radius of 2d10 metres. Each other character in this area must make a Hard (-20) Agility test or lose a Half Action during his next turn; if a character fails with two or more degrees of failure, he loses his Full Action instead.",
+      "description": "Once per game session, as a Full Action, a character wielding Tempus may smite the ground, causing a blast with a radius of 2d10 metres. Each other character in this area must make a Hard (-20) Agility test or lose a Half Action during her next turn; if a character fails with two or more degrees of failure, she loses her Full Action instead.",
       "weight": "14kg",
       "availability": "Near Unique",
       "source": "Enemies Beyond"
@@ -928,7 +928,7 @@
       "damage": "1d5",
       "penetration": 2,
       "special": "-",
-      "description": "To use a kineblade, the wielder must manifest any psychic power that allows him to lift and move objects. The power is manifested as normal. However, instead of its usual effect, the user animates a number of kineblades equal to half his Psy Rating (rounding up). He must sustain the power if he wishes to animate the blades over multiple turns.\n\nThe blades hover and fly in mid-air. They must remain within the psyker's Willpower Bonus x5 metres. However, the psyker may move them anywhere within that zone as a free action (within reason, of course. Kineblades cannot move through solid objects). During the psyker's turn, he may attack with half his kineblades as a half action, or all of them as a full action (he may not make other attacks if he does this). To attack, he must make a Weapon Skill Test for each kineblade. He can attack multiple targets, and only suffers a -10 penalty for called shots.\n\nKineblades are also desirable for their easily-concealed nature. They can be woven into clothing, inlayed on equipment, or disguised in any number of other cunning ways. Any Tests made to discover a concealed kineblade are three degrees more difficult than they would be normally",
+      "description": "To use a kineblade, the wielder must manifest any psychic power that allows her to lift and move objects. The power is manifested as normal. However, instead of its usual effect, the user animates a number of kineblades equal to half her Psy Rating (rounding up). She must sustain the power if she wishes to animate the blades over multiple turns.\n\nThe blades hover and fly in mid-air. They must remain within the psyker's Willpower Bonus x5 metres. However, the psyker may move them anywhere within that zone as a free action (within reason, of course. Kineblades cannot move through solid objects). During the psyker's turn, she may attack with half her kineblades as a half action, or all of them as a full action (she may not make other attacks if she does this). To attack, she must make a Weapon Skill Test for each kineblade. She can attack multiple targets, and only suffers a -10 penalty for called shots.\n\nKineblades are also desirable for their easily-concealed nature. They can be woven into clothing, inlayed on equipment, or disguised in any number of other cunning ways. Any Tests made to discover a concealed kineblade are three degrees more difficult than they would be normally",
       "weight": "0.5kg",
       "availability": "Very Rare",
       "source": "Ascension"
@@ -1048,7 +1048,7 @@
       "damage": "1d10 I",
       "penetration": 0,
       "special": "Snare (4), Unwieldy",
-      "description": "This is a two-handed weapon, and the user must spend a Half Action each round in order to maintain a hold of his victim. The Best craftsmanship version is fitted with electrical wiring and gains the Shocking quality.",
+      "description": "This is a two-handed weapon, and the user must spend a Half Action each round in order to maintain a hold of her victim. The Best craftsmanship version is fitted with electrical wiring and gains the Shocking quality.",
       "weight": "8kg",
       "availability": "Scarce",
       "source": "Enemies Within"
@@ -1183,7 +1183,7 @@
       "damage": "1d5 I",
       "penetration": 0,
       "special": "Defensive, Tainted, Tearing, Vengeful (8)",
-      "description": "A rune shield provides +1AP to the body as well as the arm that it is attached to, plus additional points of AP equal to the user's Corruption Bonus (e.g., if the user has a Corruption Bonus of 4, a rune shield provides +5AP). Suffers a -20 penalty to hit, instead of the normal -10 from Defensive. Cannot be destroyed by a weapon with the Power Field quality. Whenever a character wielding a rune weapon triggers Righteous Fury, he gains 1d5 Corruption points.",
+      "description": "A rune shield provides +1AP to the body as well as the arm that it is attached to, plus additional points of AP equal to the user's Corruption Bonus (e.g., if the user has a Corruption Bonus of 4, a rune shield provides +5AP). Suffers a -20 penalty to hit, instead of the normal -10 from Defensive. Cannot be destroyed by a weapon with the Power Field quality. Whenever a character wielding a rune weapon triggers Righteous Fury, she gains 1d5 Corruption points.",
       "weight": "3kg",
       "availability": "Near Unique",
       "source": "Tome of Blood"
@@ -1198,7 +1198,7 @@
       "damage": "1d10 R",
       "penetration": 0,
       "special": "Balanced, Tainted, Tearing, Vengeful (8)",
-      "description": "Cannot be destroyed by a weapon with the Power Field quality. Whenever a character wielding a rune weapon triggers Righteous Fury, he gains 1d5 Corruption points.",
+      "description": "Cannot be destroyed by a weapon with the Power Field quality. Whenever a character wielding a rune weapon triggers Righteous Fury, she gains 1d5 Corruption points.",
       "weight": "3kg",
       "availability": "Near Unique",
       "source": "Enemies Beyond"
@@ -1303,7 +1303,7 @@
       "damage": "1d10+4 R",
       "penetration": 4,
       "special": "Felling (2), Razor Sharp, Sanctified",
-      "description": "A stealth claw has the Compact modification. When a character successfully inflicts a hit as part of an All Out Attack action using a stealth claw, he inflicts additional damage equal to his psy rating.",
+      "description": "A stealth claw has the Compact modification. When a character successfully inflicts a hit as part of an All Out Attack action using a stealth claw, she inflicts additional damage equal to her psy rating.",
       "weight": "1.5kg",
       "availability": "Very Rare",
       "source": "Enemies Beyond"
@@ -1498,7 +1498,7 @@
       "damage": "1d10+12 I",
       "penetration": 4,
       "special": "Concussive (2), Power Field, Unwieldy",
-      "description": "A Character wielding a Bonecrusher Mace can attempt to attack everyone within two meters with a single All-Out Attack Action. The usual +30 bonus granted from that action is reduced to +10, and the Heretic must make a Weapon Skill Test for each target he is attempting to hit.",
+      "description": "A Character wielding a Bonecrusher Mace can attempt to attack everyone within two meters with a single All-Out Attack Action. The usual +30 bonus granted from that action is reduced to +10, and the Heretic must make a Weapon Skill Test for each target she is attempting to hit.",
       "weight": "16kg",
       "availability": "Extremely Rare",
       "source": "Tome of Blood"
@@ -2023,7 +2023,7 @@
       "damage": "1d10 I",
       "penetration": 0,
       "special": "Defensive, Recharge, Shocking",
-      "description": "When its Recharge Quality causes it to lose power temporarily, or if it becomes unpowered for any other reason, a suppression shield can still be used as a weapon, but it does not benefit from its Shocking Quality. A suppression shield grants +4 APs to that arm and the wielder's torso. Good and Best Craftsmanship suppression shields have a weapon lock that lets the wielder brace a rifle against the edge of the shield. A character wielding a suppression shield with a weapon lock can wield a single Basic weapon in his other hand without the normal penalty for using a Basic weapon one-handed.",
+      "description": "When its Recharge Quality causes it to lose power temporarily, or if it becomes unpowered for any other reason, a suppression shield can still be used as a weapon, but it does not benefit from its Shocking Quality. A suppression shield grants +4 APs to that arm and the wielder's torso. Good and Best Craftsmanship suppression shields have a weapon lock that lets the wielder brace a rifle against the edge of the shield. A character wielding a suppression shield with a weapon lock can wield a single Basic weapon in her other hand without the normal penalty for using a Basic weapon one-handed.",
       "weight": "7kg",
       "availability": "Extremely Rare",
       "source": "Hammer of the Emperor"

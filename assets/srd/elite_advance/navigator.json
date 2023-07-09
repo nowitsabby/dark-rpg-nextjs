@@ -26,11 +26,11 @@
     "information": [
       {
         "title": "The Boons of Lineage",
-        "description": "A Navigator hails from a lineage of a particular type that grants him a number of advantages and quirks. The Lineages which a Navigator may hail from are Nomadic Houses, Magisterial Houses, Shrouded Houses, or Renegade Houses. The details and effects of each of these lineages may be found at Navigator Houses. "
+        "description": "A Navigator hails from a lineage of a particular type that grants her a number of advantages and quirks. The Lineages which a Navigator may hail from are Nomadic Houses, Magisterial Houses, Shrouded Houses, or Renegade Houses. The details and effects of each of these lineages may be found at Navigator Houses. "
       },
       {
         "title": "Navigator Mutations",
-        "description": "The Navigator begins play with a number of Navigator Mutations determined by the nature of his Lineage. Thereafter whenever the character gains a new Navigator power, or increases his level of mastery over a power he already has, he must test for mutation, an Ordinary (+10) Toughness Test. If he fails this test, then a flaw in his genes has revealed itself, and he must generate a mutation from Navigator Mutations."
+        "description": "The Navigator begins play with a number of Navigator Mutations determined by the nature of her Lineage. Thereafter whenever the character gains a new Navigator power, or increases her level of mastery over a power she already has, she must test for mutation, an Ordinary (+10) Toughness Test. If she fails this test, then a flaw in her genes has revealed itself, and she must generate a mutation from Navigator Mutations."
       },
       {
         "title": "Unlicensed",
@@ -38,7 +38,7 @@
       },
       {
         "title": "The Eye is Open",
-        "description": "A Navigator is a living window into the warp, a fact mercifully mitigated for his own soul's and sanity's sake by the effects of the Navigator Gene that allows him to perceive the warp's mind-blasting truth in a unique way that allows his human mind to deal with it. As a result he does not suffer Corruption Points from Warp Shock, although he can acquire Corruption Points normally by other means."
+        "description": "A Navigator is a living window into the warp, a fact mercifully mitigated for her own soul's and sanity's sake by the effects of the Navigator Gene that allows her to perceive the warp's mind-blasting truth in a unique way that allows her human mind to deal with it. As a result she does not suffer Corruption Points from Warp Shock, although she can acquire Corruption Points normally by other means."
       }
     ],
     "advances": [

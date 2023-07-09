@@ -8,7 +8,7 @@
       "id": "ace",
       "bonus": {
         "title": "Right Stuff",
-        "effect": "In addition to the normal uses of Fate points, an Ace character may spend a Fate point to automatically succeed at an Operate or Survival skill test involving vehicles or living steeds with a number of degrees of success equal to his Agility bonus."
+        "effect": "In addition to the normal uses of Fate points, an Ace character may spend a Fate point to automatically succeed at an Operate or Survival skill test involving vehicles or living steeds with a number of degrees of success equal to her Agility bonus."
       },
       "aptitudes": [
         "Agility",
@@ -27,7 +27,7 @@
       "id": "assassin",
       "bonus": {
         "title": "Sure Kill",
-        "effect": "In addition to the normal uses of Fate points, when an Assassin successfully hits with an attack, he may spend a Fate point to inflict additional damage equal to his degrees of success on the attack roll on the first hit the attack inflicts."
+        "effect": "In addition to the normal uses of Fate points, when an Assassin successfully hits with an attack, she may spend a Fate point to inflict additional damage equal to her degrees of success on the attack roll on the first hit the attack inflicts."
       },
       "aptitudes": [
         "Agility",
@@ -49,7 +49,7 @@
       "id": "chirurgeon",
       "bonus": {
         "title": "Dedicated Healer",
-        "effect": "In addition to the normal uses of Fate points, when a Chirurgeon character fails a test to provide First Aid, he can spend a Fate point to automatically succeed instead with the degrees of success equal to his Intelligence bonus."
+        "effect": "In addition to the normal uses of Fate points, when a Chirurgeon character fails a test to provide First Aid, she can spend a Fate point to automatically succeed instead with the degrees of success equal to her Intelligence bonus."
       },
       "aptitudes": [
         "Fieldcraft",
@@ -68,7 +68,7 @@
       "id": "crusader",
       "bonus": {
         "title": "Smite the Unholy",
-        "effect": "In addition to the normal uses of Fate points, a Crusader character can also spend a Fate Point to automatically pass a Fear test with a number of degrees of success equal to his Willpower bonus. In addition, whenever he inflicts a hit with a melee attack against a target with the Fear (X) trait, he inflicts X additional damage and counts his weapon's penetration as being X higher."
+        "effect": "In addition to the normal uses of Fate points, a Crusader character can also spend a Fate Point to automatically pass a Fear test with a number of degrees of success equal to her Willpower bonus. In addition, whenever she inflicts a hit with a melee attack against a target with the Fear (X) trait, she inflicts X additional damage and counts her weapon's penetration as being X higher."
       },
       "aptitudes": [
         "Knowledge",
@@ -87,7 +87,7 @@
       "id": "desperado",
       "bonus": {
         "title": "Move and Shoot",
-        "effect": "Once per round, after performing a Move action, a Desperado character may perform a single Standard Attack with a Pistol weapon he is currently wielding as a Free Action."
+        "effect": "Once per round, after performing a Move action, a Desperado character may perform a single Standard Attack with a Pistol weapon she is currently wielding as a Free Action."
       },
       "aptitudes": [
         "Agility",
@@ -106,7 +106,7 @@
       "id": "fanatic",
       "bonus": {
         "title": "Death to All Who Oppose Me!",
-        "effect": "In addition to the normal uses of Fate points, a Fanatic character may spend a Fate point to count as having the Hatred talent against his current foe for the duration of the encounter. Should he choose to leave combat against a Hated foe in that encounter, however, he gains 1 Insanity point."
+        "effect": "In addition to the normal uses of Fate points, a Fanatic character may spend a Fate point to count as having the Hatred talent against her current foe for the duration of the encounter. Should she choose to leave combat against a Hated foe in that encounter, however, she gains 1 Insanity point."
       },
       "aptitudes": [
         "Leadership",
@@ -125,7 +125,7 @@
       "id": "hierophant",
       "bonus": {
         "title": "Sway the Masses",
-        "effect": "In addition to the normal uses of Fate points, a Hierophant character may spend a Fate point to automatically succeed at a Charm, Command, or Intimidate skill test with a number of degrees of success equal to his Willpower bonus."
+        "effect": "In addition to the normal uses of Fate points, a Hierophant character may spend a Fate point to automatically succeed at a Charm, Command, or Intimidate skill test with a number of degrees of success equal to her Willpower bonus."
       },
       "aptitudes": [
         "Fellowship",
@@ -204,7 +204,7 @@
       "id": "pentient",
       "bonus": {
         "title": "Cleansing Pain",
-        "effect": "Whenever a Penitent character suffers 1 or more points of damage (after reductions for Toughness bonus and Armour), he gains a +10 bonus to the irst test he makes before the end of his next turn."
+        "effect": "Whenever a Penitent character suffers 1 or more points of damage (after reductions for Toughness bonus and Armour), she gains a +10 bonus to the irst test she makes before the end of her next turn."
       },
       "aptitudes": [
         "Agility",
@@ -223,7 +223,7 @@
       "id": "sage",
       "bonus": {
         "title": "Quest for Knowledge",
-        "effect": "In addition to the normal uses of Fate points, a Sage character may spend a Fate point to automatically succeed at a Logic or any Lore skill test with a number of degrees of success equal to his Intelligence bonus."
+        "effect": "In addition to the normal uses of Fate points, a Sage character may spend a Fate point to automatically succeed at a Logic or any Lore skill test with a number of degrees of success equal to her Intelligence bonus."
       },
       "aptitudes": [
         "Intelligence",
@@ -242,7 +242,7 @@
       "id": "seeker",
       "bonus": {
         "title": "Nothing Escapes My Sight",
-        "effect": "In addition to the normal uses of Fate points, a Seeker character may spend a Fate point to automatically succeed at an Awareness or Inquiry skill test with a number of degrees of success equal to his Perception bonus."
+        "effect": "In addition to the normal uses of Fate points, a Seeker character may spend a Fate point to automatically succeed at an Awareness or Inquiry skill test with a number of degrees of success equal to her Perception bonus."
       },
       "aptitudes": [
         "Fellowship",
@@ -261,7 +261,7 @@
       "id": "warrior",
       "bonus": {
         "title": "Expert at Violence",
-        "effect": "In addition to the normal uses of Fate points, after making a successful attack test, but before determining hits, a Warrior character may spend a Fate point to substitute his Weapon Skill (for melee) or Ballistic Skill (for ranged) bonus for the degrees of success scored on the attack test."
+        "effect": "In addition to the normal uses of Fate points, after making a successful attack test, but before determining hits, a Warrior character may spend a Fate point to substitute her Weapon Skill (for melee) or Ballistic Skill (for ranged) bonus for the degrees of success scored on the attack test."
       },
       "aptitudes": [
         "Ballistic Skill",

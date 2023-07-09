@@ -200,7 +200,7 @@
       ],
       "ap": 6,
       "maxAg": 35,
-      "description": "A character wearing this armour gains the Resistance (Psychic Powers) talent, or an additional +10 to tests to resist psychic powers if the character already has this talent. Obsidian plate counts its listed Armour points as triple against hits inflicted by Psychic Bolts. A psyker wearing obsidian plate cannot push his psychic powers, and reduces his psy-rating by 3 (to a minimum of 1).",
+      "description": "A character wearing this armour gains the Resistance (Psychic Powers) talent, or an additional +10 to tests to resist psychic powers if the character already has this talent. Obsidian plate counts its listed Armour points as triple against hits inflicted by Psychic Bolts. A psyker wearing obsidian plate cannot push her psychic powers, and reduces her psy-rating by 3 (to a minimum of 1).",
       "weight": "35 kg",
       "availability": "Very Rare",
       "source": "Enemies Beyond"
@@ -324,7 +324,7 @@
       ],
       "ap": 5,
       "maxAg": 45,
-      "description": "Judge's carapace armour has a helmet equipped with an integral encrypted micro-bead, good quality photo-visor (granting him Dark Sight and allowing him to ignore photon flash grenades), and a vox-amplifier (allowing the user to amplify his voice to near-deafening levels). A small stab-light can also be attached to the shoulder pads. These systems are powered by a small charge pack (equivalent in size and cost to a lasgun charge pack) that must be replaced after a week of continuous use.",
+      "description": "Judge's carapace armour has a helmet equipped with an integral encrypted micro-bead, good quality photo-visor (granting her Dark Sight and allowing her to ignore photon flash grenades), and a vox-amplifier (allowing the user to amplify her voice to near-deafening levels). A small stab-light can also be attached to the shoulder pads. These systems are powered by a small charge pack (equivalent in size and cost to a lasgun charge pack) that must be replaced after a week of continuous use.",
       "weight": "15.5 kg",
       "availability": "Rare",
       "source": "Ascension"
@@ -618,7 +618,7 @@
       ],
       "ap": 8,
       "maxAg": 35,
-      "description": "Heavy power armour grants the wearer the Auto-Stabilised and Unnatural Strength (2) trait (or increases the value of this Trait by 2), and increases the value of his Size (X) trait by 1. When used with the detachable helmet, it is environmentally sealed with its own oxygen supply and voxcaster systems. Its power supply can operate for 24 hours before recharging or refueling is needed, and while powered the suit's weight does not count towards the user's carry limit",
+      "description": "Heavy power armour grants the wearer the Auto-Stabilised and Unnatural Strength (2) trait (or increases the value of this Trait by 2), and increases the value of her Size (X) trait by 1. When used with the detachable helmet, it is environmentally sealed with its own oxygen supply and voxcaster systems. Its power supply can operate for 24 hours before recharging or refueling is needed, and while powered the suit's weight does not count towards the user's carry limit",
       "weight": "65kg",
       "availability": "Extremely Rare",
       "source": "Enemies Beyond"
@@ -652,7 +652,7 @@
       ],
       "ap": 14,
       "maxAg": 20,
-      "description": "Terminator armour grants the wearer the Auto-Stabilised and Unnatural Strength (3) trait (or increases the value of this Trait by 3), and increases the value of his Size (X) trait by 1. While in Terminator armour, the user can wield two-handed melee weapons and fire Basic and Heavy Weapons one-handed, but cannot use Pistols. Other weapons, particularly small or delicate ones, might also be unusable in terminator armour. The GM has final say on what can or cannot be used. Terminator armour counts as having a force field with a protection rating of 35, however, this represents shots glancing off the armour's strongest surfaces, so there is no chance for an overload. Delicate tasks suffer a -10 penalty and the user cannot Run or Dodge. When used with the detachable helmet, it is environmentally sealed with its own oxygen supply and voxcaster systems. Its power supply can operate for 24 hours before recharging or refueling is needed, and while powered the suit's weight does not count towards the user's carry limit",
+      "description": "Terminator armour grants the wearer the Auto-Stabilised and Unnatural Strength (3) trait (or increases the value of this Trait by 3), and increases the value of her Size (X) trait by 1. While in Terminator armour, the user can wield two-handed melee weapons and fire Basic and Heavy Weapons one-handed, but cannot use Pistols. Other weapons, particularly small or delicate ones, might also be unusable in terminator armour. The GM has final say on what can or cannot be used. Terminator armour counts as having a force field with a protection rating of 35, however, this represents shots glancing off the armour's strongest surfaces, so there is no chance for an overload. Delicate tasks suffer a -10 penalty and the user cannot Run or Dodge. When used with the detachable helmet, it is environmentally sealed with its own oxygen supply and voxcaster systems. Its power supply can operate for 24 hours before recharging or refueling is needed, and while powered the suit's weight does not count towards the user's carry limit",
       "weight": "400kg",
       "availability": "Near Unique",
       "source": "Black Crusade"

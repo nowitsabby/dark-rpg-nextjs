@@ -491,7 +491,7 @@
       "clip": 10,
       "reload": "Full",
       "special": "Accurate",
-      "description": "All Exitus weapons incorporate a silencer and a selector switch. The Exitus rifle has a built-in telescopic sight. Exitus weapons are manufactured at the Best craftsmanship level. The firer may load one round as a half action (normally for one of the special issue ammunition loads). If the firer has the Rapid Reload Talent, he may instead use a Reaction to load a single round.",
+      "description": "All Exitus weapons incorporate a silencer and a selector switch. The Exitus rifle has a built-in telescopic sight. Exitus weapons are manufactured at the Best craftsmanship level. The firer may load one round as a half action (normally for one of the special issue ammunition loads). If the firer has the Rapid Reload Talent, she may instead use a Reaction to load a single round.",
       "weight": "9kg",
       "availability": "Near Unique",
       "source": "Ascension"
@@ -576,7 +576,7 @@
       "clip": 6,
       "reload": "3 Full",
       "special": "Blast (5), Concussive (0), Inaccurate",
-      "description": "After being fired, the cannon creates a gravitic anomaly within the area of its Blast quality that persists for 1d5 rounds. Whenever a character begins his turn in this area, he must make a Hard (-20) Dodge (Strength) test. If he fails, he is Immobilized until the end of his turn and suffers a single automatic hit to a randomly determined location for 4d10+4 Impact damage with penetration 8.",
+      "description": "After being fired, the cannon creates a gravitic anomaly within the area of its Blast quality that persists for 1d5 rounds. Whenever a character begins her turn in this area, she must make a Hard (-20) Dodge (Strength) test. If she fails, she is Immobilized until the end of her turn and suffers a single automatic hit to a randomly determined location for 4d10+4 Impact damage with penetration 8.",
       "weight": "65kg",
       "availability": "Near Unique",
       "source": "Enemies Without"
@@ -763,7 +763,7 @@
       "clip": 1,
       "reload": "-",
       "special": "Blast (3)",
-      "description": "Anyone within this area can spend his Reaction to attempt to Dodge out of it before the rift fully forms (see Dodging Area Effects). Those who fail, along with everything else in the area, are dragged into the warp, never to be seen again. Each Round, the capricious vortex winks in and out of existence. It has a 50% chance of closing permanently when this happens. Otherwise, it reappears 2d10 metres in a random direction from its last manifestation-see the Scatter Diagram",
+      "description": "Anyone within this area can spend her Reaction to attempt to Dodge out of it before the rift fully forms (see Dodging Area Effects). Those who fail, along with everything else in the area, are dragged into the warp, never to be seen again. Each Round, the capricious vortex winks in and out of existence. It has a 50% chance of closing permanently when this happens. Otherwise, it reappears 2d10 metres in a random direction from its last manifestation-see the Scatter Diagram",
       "weight": "1kg",
       "availability": "Unique",
       "source": "Deathwatch"
@@ -950,7 +950,7 @@
       "clip": 10,
       "reload": "2 Full",
       "special": "Flame, Proven (3), Spray",
-      "description": "The Hydra Flamer Array is not a single weapon, but in fact several flamers strapped to each forearm with tubes leading to a high-pressure fuel canister. When a character fires a Hydra Flamer Array, he gains the Fear (1) trait until the end of the encounter. The Hydra's Spray quality affects a 90° cone, rather than the usual 30° arc for weapons with this quality Its weight includes the backpack fuel supply.",
+      "description": "The Hydra Flamer Array is not a single weapon, but in fact several flamers strapped to each forearm with tubes leading to a high-pressure fuel canister. When a character fires a Hydra Flamer Array, she gains the Fear (1) trait until the end of the encounter. The Hydra's Spray quality affects a 90° cone, rather than the usual 30° arc for weapons with this quality Its weight includes the backpack fuel supply.",
       "weight": "10kg",
       "availability": "Very Rare",
       "source": "Enemies Within"
@@ -1256,7 +1256,7 @@
       "clip": 1,
       "reload": "",
       "special": "Daemonbane, Sanctified, Smoke (3)",
-      "description": "Whenever a character suffers a hit from this grenade, enters its smoke, or begins his turn within the smoke, he suffers Energy damage equal to his Corruption bonus or his Daemonic (X) trait (whichever is higher), ignoring armour and Toughness bonus.",
+      "description": "Whenever a character suffers a hit from this grenade, enters its smoke, or begins her turn within the smoke, she suffers Energy damage equal to her Corruption bonus or her Daemonic (X) trait (whichever is higher), ignoring armour and Toughness bonus.",
       "weight": "0.5kg",
       "availability": "Rare",
       "source": "Enemies Beyond"
@@ -1392,7 +1392,7 @@
       "clip": 1,
       "reload": "-",
       "special": "Blast (3), Smoke (3)",
-      "description": "Whenever a character with the Psyker trait suffers a hit from this grenade, enters its smoke, or begins his turn within the smoke, he must make a Very Hard (-30) Willpower test or have his psy rating temporarily reduced by 1 for every degree of failure. If the character fails the test by two or more degrees of failure, he must also immediately roll on Psychic Phenomena. Every six hours, a psyker automatically recovers 1 point of psy rating lost this way. Additionally, any attempt to manifest a psychic power from within the cloud automatically fails.",
+      "description": "Whenever a character with the Psyker trait suffers a hit from this grenade, enters its smoke, or begins her turn within the smoke, she must make a Very Hard (-30) Willpower test or have her psy rating temporarily reduced by 1 for every degree of failure. If the character fails the test by two or more degrees of failure, she must also immediately roll on Psychic Phenomena. Every six hours, a psyker automatically recovers 1 point of psy rating lost this way. Additionally, any attempt to manifest a psychic power from within the cloud automatically fails.",
       "weight": "1kg",
       "availability": "Extremely Rare",
       "source": "Enemies Beyond"
@@ -1494,7 +1494,7 @@
       "clip": 1,
       "reload": "-",
       "special": "Blast (2), Sanctified",
-      "description": "When a psyker is struck by an attack from this weapon, he must immediately roll on Perils of the Warp. When a creature with the Daemonic trait is struck by this weapon, it gains the Warp Instability trait until the end of the encounter. If it already has this trait, it suffers a -20 penalty to the tests it makes for this trait until the end of the encounter",
+      "description": "When a psyker is struck by an attack from this weapon, she must immediately roll on Perils of the Warp. When a creature with the Daemonic trait is struck by this weapon, it gains the Warp Instability trait until the end of the encounter. If it already has this trait, it suffers a -20 penalty to the tests it makes for this trait until the end of the encounter",
       "weight": "-",
       "availability": "Near Unique",
       "source": "Enemies Within"
@@ -1528,7 +1528,7 @@
       "clip": 1,
       "reload": "-",
       "special": "Blast (3), Corrosive, Flame, Smoke (5), Toxic (2)",
-      "description": "Whenever a character begins his turn in the cloud of smoke created by the Smoke quality of the grenade, he suffers a single automatic hit that inflicts 1d10 Impact damage with the Corrosive and Toxic (2) qualities and must test for suffocation",
+      "description": "Whenever a character begins her turn in the cloud of smoke created by the Smoke quality of the grenade, she suffers a single automatic hit that inflicts 1d10 Impact damage with the Corrosive and Toxic (2) qualities and must test for suffocation",
       "weight": "1kg",
       "availability": "Extremely Rare",
       "source": "Enemies Within"
@@ -2446,7 +2446,7 @@
       "clip": 1,
       "reload": "4 Full",
       "special": "Crippling (5), Primitive (9), Snare (1)",
-      "description": "If a target is snared by a Harpoon Gun, the operator can make an Opposed Strength Test with the target as a Full Action on his next turn. If he succeeds, he pulls the target a number of metres directly towards him equal to the Degrees of Success.",
+      "description": "If a target is snared by a Harpoon Gun, the operator can make an Opposed Strength Test with the target as a Full Action on her next turn. If she succeeds, she pulls the target a number of metres directly towards her equal to the Degrees of Success.",
       "weight": "18kg",
       "availability": "Scarce",
       "source": "Black Crusade"
@@ -2650,7 +2650,7 @@
       "clip": 3,
       "reload": "Full",
       "special": "Melta, Sanctified",
-      "description": "The Hellax Infernus is a Best Craftsmanship Inferno Pistol that ignores the defences from Fields and all protective benefits granted by psychic powers (including benefits such as bonuses to Dodge, as well as powers that specifically reduce energy damage or damage from melta-weapons). In addition, if a target is hit by the Hellax Infernus and survives, he must make a Challenging (+0) Willpower Test. If he fail, he permanently reduces his Willpower by 1d10.",
+      "description": "The Hellax Infernus is a Best Craftsmanship Inferno Pistol that ignores the defences from Fields and all protective benefits granted by psychic powers (including benefits such as bonuses to Dodge, as well as powers that specifically reduce energy damage or damage from melta-weapons). In addition, if a target is hit by the Hellax Infernus and survives, she must make a Challenging (+0) Willpower Test. If she fail, she permanently reduces her Willpower by 1d10.",
       "weight": "2kg",
       "availability": "Unique",
       "source": "Ascension"

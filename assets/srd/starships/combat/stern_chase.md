@@ -3,7 +3,7 @@ title: Stern Chase
 ---
 # Stern Chase 
 
-In some situations, a starship may prefer to flee from opponents, rather than stand and fight. Perhaps a smuggler wishes to run a naval blockade, or a privateer is chasing a valuable prize. Perhaps a ship simply wishes to flee combat, and her captain is doubtful of his chances of successfully disengaging under the enemy's guns. In such situations, players have the options of using the rules for a stern chase-a flight and pursuit between two ships that might last hours, or even days.
+In some situations, a starship may prefer to flee from opponents, rather than stand and fight. Perhaps a smuggler wishes to run a naval blockade, or a privateer is chasing a valuable prize. Perhaps a ship simply wishes to flee combat, and her captain is doubtful of her chances of successfully disengaging under the enemy's guns. In such situations, players have the options of using the rules for a stern chase-a flight and pursuit between two ships that might last hours, or even days.
 
 Stern chases may begin in combat, or outside it. If two ships are not in combat and one ship flees, the other ship may elect to pursue it, beginning a stern chase. If the ships are in combat, a ship may flee the combat if it ends its turn out of range of the guns of any enemy ships. If it does so, it must make a Routine (+10) Operate (Voidship)+Manoeuvrability Test (if it fails, it must remain in the combat and forfeit its next Strategic Turn). Then, all other participants in the combat have the options of pursuing the fleeing vessel. If they chose to do so, they leave the combat on their next Strategic Turn and the stern chase begins.
 

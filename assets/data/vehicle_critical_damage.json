@@ -2,7 +2,7 @@
   "weapon": [
     {
       "critical DAMAGE": 1,
-      "critical EFFECT": "A strong concussive hit leaves the gun intact, but knocks the gunner away from his station. The gunner is Stunned for 1 round."
+      "critical EFFECT": "A strong concussive hit leaves the gun intact, but knocks the gunner away from her station. The gunner is Stunned for 1 round."
     },
     {
       "critical DAMAGE": 2,
@@ -34,7 +34,7 @@
     },
     {
       "critical DAMAGE": 9,
-      "critical EFFECT": "As above, except the explosion rips through the entire crew compartment. Each character inside suffers 1 level of Fatigue, suffers 1d10+6 Explosive damage to his Body location, and must make a Challenging (+0) Agility test or catch on fire. If this occurs, refer to the On Fire! rules. Anyone who catches fire can attempt to put themselves out as described in the rules for fire."
+      "critical EFFECT": "As above, except the explosion rips through the entire crew compartment. Each character inside suffers 1 level of Fatigue, suffers 1d10+6 Explosive damage to her Body location, and must make a Challenging (+0) Agility test or catch on fire. If this occurs, refer to the On Fire! rules. Anyone who catches fire can attempt to put themselves out as described in the rules for fire."
     },
     {
       "critical DAMAGE": "10+",
@@ -44,7 +44,7 @@
   "motive": [
     {
       "critical DAMAGE": 1,
-      "critical EFFECT": "A savage blow to the vehicle's drive mechanism or legs forces the operator to fight to maintain control. He suffers 1 level of Fatigue and must make a Challenging (+0) Operate test; if he fails, use the Scatter Diagram to determine the vehicle's new facing."
+      "critical EFFECT": "A savage blow to the vehicle's drive mechanism or legs forces the operator to fight to maintain control. She suffers 1 level of Fatigue and must make a Challenging (+0) Operate test; if she fails, use the Scatter Diagram to determine the vehicle's new facing."
     },
     {
       "critical DAMAGE": 2,
@@ -56,7 +56,7 @@
     },
     {
       "critical DAMAGE": 4,
-      "critical EFFECT": "The vehicle's fuel or drive power systems have taken a glancing hit. The vehicle is in no danger of exploding, but coaxing speed out of the engine is far more difficult now. If the operator attempts to take an action that would move the vehicle further than its Full Move distance, he must make a Difficulty (-10) Operate test. If he fails by three or more degrees of failure, the vehicle's engine stalls, and it suddenly stops; if it is a Skimmer, the vehicle Crashes immediately."
+      "critical EFFECT": "The vehicle's fuel or drive power systems have taken a glancing hit. The vehicle is in no danger of exploding, but coaxing speed out of the engine is far more difficult now. If the operator attempts to take an action that would move the vehicle further than its Full Move distance, she must make a Difficulty (-10) Operate test. If she fails by three or more degrees of failure, the vehicle's engine stalls, and it suddenly stops; if it is a Skimmer, the vehicle Crashes immediately."
     },
     {
       "critical DAMAGE": 5,
@@ -68,7 +68,7 @@
     },
     {
       "critical DAMAGE": 7,
-      "critical EFFECT": "The small internal explosion causes loose bolts to ricochet around the driver's controls, or perhaps a control panel explodes in the driver's face. He suffers 1 level of Fatigue, suffers 1d10 Impact damage to the head location, and must make a Difficult (-10) Operate test before he can move the vehicle next turn. If the vehicle was already moving when this result occurred and the vehicle's operator is unable to regain control, then the vehicle goes Out of Control if it is a Tracked or Wheeled Vehicle, Crashes if it is a Skimmer, or moves forward half its Tactical Speed or Full Move distance before Falling over if it is a Walker."
+      "critical EFFECT": "The small internal explosion causes loose bolts to ricochet around the driver's controls, or perhaps a control panel explodes in the driver's face. She suffers 1 level of Fatigue, suffers 1d10 Impact damage to the head location, and must make a Difficult (-10) Operate test before she can move the vehicle next turn. If the vehicle was already moving when this result occurred and the vehicle's operator is unable to regain control, then the vehicle goes Out of Control if it is a Tracked or Wheeled Vehicle, Crashes if it is a Skimmer, or moves forward half its Tactical Speed or Full Move distance before Falling over if it is a Walker."
     },
     {
       "critical DAMAGE": 8,
@@ -132,7 +132,7 @@
     },
     {
       "critical DAMAGE": 2,
-      "critical EFFECT": "An internal gas line bursts, unleashing an opaque but non-lethal cloud within the crew compartment. Until the leak is sealed, the crew suffers a -20 penalty on all tests to take actions in the vehicle. Anyone inside the vehicle can spend a Full Action on his turn to close the leak without a test."
+      "critical EFFECT": "An internal gas line bursts, unleashing an opaque but non-lethal cloud within the crew compartment. Until the leak is sealed, the crew suffers a -20 penalty on all tests to take actions in the vehicle. Anyone inside the vehicle can spend a Full Action on her turn to close the leak without a test."
     },
     {
       "critical DAMAGE": 3,

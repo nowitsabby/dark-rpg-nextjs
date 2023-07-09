@@ -6,6 +6,8 @@ import ForceFieldEntry from '@/components/entries/ForceFieldEntry';
 import MeleeWeaponEntry from '@/components/entries/MeleeWeaponEntry';
 import ModificationEntry from '@/components/entries/ModificationEntry';
 import NavigatorPowerEntry from '@/components/entries/NavigatorPowerEntry';
+import OriginEntry from '@/components/entries/OriginEntry';
+import PsychicPowerEntry from '@/components/entries/PsychicPowerEntry';
 import RangedWeaponEntry from '@/components/entries/RangedWeaponEntry';
 import TalentEntry from '@/components/entries/TalentEntry';
 import Actions, { ActionsTable } from '@/components/tables/Actions';
@@ -19,8 +21,8 @@ import ForceFields from '@/components/tables/ForceFields';
 import MeleeWeapons from '@/components/tables/MeleeWeapons';
 import Modifications from '@/components/tables/Modifications';
 import NavigatorPowers from '@/components/tables/NavigatorPowers';
-import Origins, { OriginsTable } from '@/components/tables/Origins';
-import PsychicDiscipline, { PsychicDisciplineRecord } from '@/components/tables/PsychicDiscipline';
+import Origins from '@/components/tables/Origins';
+import PsychicDiscipline from '@/components/tables/PsychicDiscipline';
 import RangedWeapons from '@/components/tables/RangedWeapons';
 import Roles, { RolesTable } from '@/components/tables/Roles';
 import Skills, { SkillsTable } from '@/components/tables/Skills';
@@ -43,6 +45,8 @@ import {
   MeleeWeaponRecord, 
   ModRecord, 
   NavigatorPowerRecord, 
+  OriginsRecord, 
+  PsychicDisciplineRecord, 
   RangedWeaponRecord, 
   TalentRecord 
 } from '@/components/types/Records';
@@ -82,7 +86,7 @@ function DataTableComponent({ rootPath, component, data }: { rootPath: string, c
     case 'NavigatorPowers':
       return <NavigatorPowers rootPath={rootPath} data={ data as NavigatorPowerRecord[] } />
     case 'Origins':
-      return <Origins rootPath={rootPath} data={ data as OriginsTable[] } />
+      return <Origins rootPath={rootPath} data={ data as OriginsRecord[] } />
     case 'PsychicDiscipline':
       return <PsychicDiscipline rootPath={rootPath} data={ data as PsychicDisciplineRecord } />
     case 'RangedWeapons':
@@ -144,9 +148,9 @@ function DataEntryComponent({ rootPath, component, data, id }: {
     case 'NavigatorPowers':
       return <NavigatorPowerEntry rootPath={rootPath} data={ data as NavigatorPowerRecord[] } id={id} />
     case 'Origins':
-      return <Origins rootPath={rootPath} data={ data as OriginsTable[] } />
+      return <OriginEntry rootPath={rootPath} data={ data as OriginsRecord[] } id={id} />
     case 'PsychicDiscipline':
-      return <PsychicDiscipline rootPath={rootPath} data={ data as PsychicDisciplineRecord } />
+      return <PsychicPowerEntry rootPath={rootPath} data={ (data as PsychicDisciplineRecord).powers } id={id} />
     case 'RangedWeapons':
       return <RangedWeaponEntry rootPath={rootPath} data={ data as RangedWeaponRecord[] } id={id} />
     case 'Roles':

@@ -5,23 +5,23 @@ title: Advancement
 
 ## Aptitudes
 
-These represent tasks or abilities for which a character has a natural affinity, and can learn with greater ease than others\. Characteristic, skill, and talent advances in the game have aptitudes linked to them, usually two \(though especially rare abilities might have only one\)\. Those advances sharing a character's aptitudes are easier for that character to learn, and thus cost fewer experience points to purchase\. If a character shares one aptitude with an advance, he gains a small discount to purchasing it, and if he shares two aptitudes with the advance he gains a large discount\. Players can still purchase advances for which they have no shared aptitudes, but these are typically very expensive\. All characters are considered to possess the 'General' aptitude
+These represent tasks or abilities for which a character has a natural affinity, and can learn with greater ease than others\. Characteristic, skill, and talent advances in the game have aptitudes linked to them, usually two \(though especially rare abilities might have only one\)\. Those advances sharing a character's aptitudes are easier for that character to learn, and thus cost fewer experience points to purchase\. If a character shares one aptitude with an advance, she gains a small discount to purchasing it, and if she shares two aptitudes with the advance she gains a large discount\. Players can still purchase advances for which they have no shared aptitudes, but these are typically very expensive\. All characters are considered to possess the 'General' aptitude
 
-Note that if during creation a character gains the same aptitude from different sources, he does not gain it twice\. He instead chooses and gains a Characteristic\-based aptitude that he does not already have\.
+Note that if during creation a character gains the same aptitude from different sources, she does not gain it twice\. She instead chooses and gains a Characteristic\-based aptitude that she does not already have\.
 
 ## Characteristic Advances
 
-A characteristic advance represents a natural improvement to a character's body or mind\. When a player purchases an advance in a characteristic, he adds \+5 to that characteristic permanently\. Characteristic advances are divided into five progression levels:
+A characteristic advance represents a natural improvement to a character's body or mind\. When a player purchases an advance in a characteristic, she adds \+5 to that characteristic permanently\. Characteristic advances are divided into five progression levels:
 
 - Simple: A small fulfilment of the character's potential\.
 - Intermediate: A significant and noticeable improvement of the character's capabilities\.
-- Trained: A measure of the character's improvement beyond most around him\.
+- Trained: A measure of the character's improvement beyond most around her\.
 - Proficient: Active, focused effort upon improving the character's prowess\.
 - Expert: The limit of a character's natural abilities
 
 As players set about increasing their characters' characteristics, they must progress through each of the progression levels in turn\. This begins with Simple and ends at Expert, using the prices on the Characteristic Advances Table\.
 
-The costs for characteristic advances are cumulative\. For instance, a player could not simply pay 500 xp for a \+10 increase for a characteristic he has one aptitude matched with\. Instead, the player is required to buy the Simple advance for 250 xp first, and then pay the 500 xp for the Intermediate advance\.
+The costs for characteristic advances are cumulative\. For instance, a player could not simply pay 500 xp for a \+10 increase for a characteristic she has one aptitude matched with\. Instead, the player is required to buy the Simple advance for 250 xp first, and then pay the 500 xp for the Intermediate advance\.
 
 ### Characteristic Advance Costs
 Matching Aptitudes| Simple| Intermediate| Trained| Proficient| Expert 
@@ -63,7 +63,7 @@ Zero              |300 xp        |600 xp          |900 xp              |1,200 xp
 
 ## Talent Purchases
 
-Talents are enhancements that permit a character to use his natural abilities in new fashions\. These can provide a situational bonus to the use of a skill or characteristic, or provide specific and unusual ways for a character to take advantage of his equipment\. As with characteristics and skills, talents have aptitudes associated with them \(usually two, but some might have only one\), and are discounted based on how many a character shares\. Talents are also divided into three tiers, representing their relative power levels and the amount of xp needed to purchase them\. Talents also often have prerequisites that must be met before they can be purchased, no matter what tier they belong to\.
+Talents are enhancements that permit a character to use her natural abilities in new fashions\. These can provide a situational bonus to the use of a skill or characteristic, or provide specific and unusual ways for a character to take advantage of her equipment\. As with characteristics and skills, talents have aptitudes associated with them \(usually two, but some might have only one\), and are discounted based on how many a character shares\. Talents are also divided into three tiers, representing their relative power levels and the amount of xp needed to purchase them\. Talents also often have prerequisites that must be met before they can be purchased, no matter what tier they belong to\.
 
 ### Talent Advance Costs
 Matching Aptitudes| Tier One| Tier Two| Tier Three

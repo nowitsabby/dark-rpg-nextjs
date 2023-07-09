@@ -8,6 +8,7 @@
     "powers": [
       {
         "name": "Banishment",
+        "id": "banishment",
         "cost": 300,
         "prerequisites": [
           "Psy Rating 3"
@@ -25,6 +26,7 @@
       },
       {
         "name": "Cleansing Flame",
+        "id": "cleansing_flame",
         "cost": 300,
         "prerequisites": [
           "Psy Rating 4"
@@ -37,11 +39,12 @@
           "Attack",
           "Concentration"
         ],
-        "effects": "Psychic Bolt; Rng: 5m x PR; Dmg: 1d10+PR+WillpowerB E; Pen: 0; Special: Flame, Sanctified, Spray \n\nWhen a character is set on fire by this power, the damage he suffers from the flames counts as having the Sanctified quality.",
+        "effects": "Psychic Bolt; Rng: 5m x PR; Dmg: 1d10+PR+WillpowerB E; Pen: 0; Special: Flame, Sanctified, Spray \n\nWhen a character is set on fire by this power, the damage she suffers from the flames counts as having the Sanctified quality.",
         "source": "Enemies Beyond"
       },
       {
         "name": "Exorcism",
+        "id": "exorcism",
         "cost": 200,
         "prerequisites": [
           "Willpower 40"
@@ -59,6 +62,7 @@
       },
       {
         "name": "Hammerhand",
+        "id": "hammerhand",
         "cost": 300,
         "prerequisites": [
           "Psy Rating 3"
@@ -70,11 +74,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker selects a number of allies within range equal to his psy rating (which may include the psyker). While the power persists, the affected characters gain the Unnatural Strength (X) trait where X is equal to the user's psy rating, or increases their existing trait's value by 4. This benefit ends if a character moves out of range.",
+        "effects": "The psyker selects a number of allies within range equal to her psy rating (which may include the psyker). While the power persists, the affected characters gain the Unnatural Strength (X) trait where X is equal to the user's psy rating, or increases their existing trait's value by 4. This benefit ends if a character moves out of range.",
         "source": "Enemies Beyond"
       },
       {
         "name": "Holocaust",
+        "id": "holocaust",
         "cost": 500,
         "prerequisites": [
           "Psy Rating 5"
@@ -87,11 +92,12 @@
           "Attack",
           "Concentration"
         ],
-        "effects": "Each round the psyker sustains Holocaust, he emits a psychic blast centred on himself. He is not affected by the blast, but each turn the psyker sustains the power he suffers 1d10+PR Energy damage, ignoring armour and Toughness bonus. \n\nPsychic Blast; Rng: Self; Dmg: 1d10xPR E; Pen: 0; Special: Blast (PR), Flame, Warp Weapon",
+        "effects": "Each round the psyker sustains Holocaust, she emits a psychic blast centred on himself. She is not affected by the blast, but each turn the psyker sustains the power she suffers 1d10+PR Energy damage, ignoring armour and Toughness bonus. \n\nPsychic Blast; Rng: Self; Dmg: 1d10xPR E; Pen: 0; Special: Blast (PR), Flame, Warp Weapon",
         "source": "Enemies Beyond"
       },
       {
         "name": "Psychic Communion",
+        "id": "psychic_communion",
         "cost": 100,
         "prerequisites": [
           "Perception 35"
@@ -103,11 +109,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker selects a number of allies up to psy rating within range. While the power persists, the psyker and his affected allies add +2 to their Initiative. This can change an already established Initiative order.",
+        "effects": "The psyker selects a number of allies up to psy rating within range. While the power persists, the psyker and her affected allies add +2 to their Initiative. This can change an already established Initiative order.",
         "source": "Enemies Beyond"
       },
       {
         "name": "Purge Soul",
+        "id": "purge_soul",
         "cost": 200,
         "prerequisites": [
           "Willpower 35"
@@ -125,6 +132,7 @@
       },
       {
         "name": "Sanctuary",
+        "id": "sanctuary",
         "cost": 400,
         "prerequisites": [
           "Willpower 45"
@@ -141,6 +149,7 @@
       },
       {
         "name": "Word of the Emperor",
+        "id": "word_of_the_emperor",
         "cost": 200,
         "prerequisites": [
           "Fellowship 30"
@@ -152,7 +161,7 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "Whilst the power remains in effect, whenever a character within range takes an Attack action targeting the psyker, the attacker must pass a Challenging (+0) Willpower test or suffer a -5 penalty to his attack roll for each degree of failure.",
+        "effects": "Whilst the power remains in effect, whenever a character within range takes an Attack action targeting the psyker, the attacker must pass a Challenging (+0) Willpower test or suffer a -5 penalty to her attack roll for each degree of failure.",
         "source": "Enemies Beyond"
       }
     ]

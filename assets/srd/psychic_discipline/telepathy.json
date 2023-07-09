@@ -8,6 +8,7 @@
     "powers": [
       {
         "name": "Erasure",
+        "id": "erasure",
         "cost": 100,
         "prerequisites": [
           "Fellowship 40"
@@ -19,11 +20,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker chooses a single foe in range and line of sight who opposes this power with a Willpower test. If he fails, the psyker removes a memory of a recent event from the target's mind. The psyker can only remove an amount of time from the target's memory up to 10 x PR minutes, and the event removed cannot have occurred more than PR hours prior to the use of this power. The enemy is left with a gap in his memory, with no recollection of what occurred during that time.",
+        "effects": "The psyker chooses a single foe in range and line of sight who opposes this power with a Willpower test. If she fails, the psyker removes a memory of a recent event from the target's mind. The psyker can only remove an amount of time from the target's memory up to 10 x PR minutes, and the event removed cannot have occurred more than PR hours prior to the use of this power. The enemy is left with a gap in her memory, with no recollection of what occurred during that time.",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Telepathic Link",
+        "id": "telepathic_link",
         "cost": 100,
         "prerequisites": [
           "Willpower 35"
@@ -35,11 +37,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker chooses a person in range and line of sight who opposes this power with a Willpower test. If the target fails, the psyker can either read the person's thoughts or send him a brief mental message. \n* Thought Reading: The psyker reads the target's thoughts, with the GM determining the nature of the information gained. The more degrees of success scored on the Focus Power test, the more information is gained overall. The higher the PR of the power, the more secretive the information gained. \n* Thought Sending: The psyker causes a message to appear in the target's mind as if he has just heard it spoken aloud. The message can be no longer than 5 x PR seconds long. \n\nIf the target of this power is aware of what the psyker is trying to do, he can voluntarily fail the opposed Willpower test, counting as having rolled a 100.",
+        "effects": "The psyker chooses a person in range and line of sight who opposes this power with a Willpower test. If the target fails, the psyker can either read the person's thoughts or send her a brief mental message. \n* Thought Reading: The psyker reads the target's thoughts, with the GM determining the nature of the information gained. The more degrees of success scored on the Focus Power test, the more information is gained overall. The higher the PR of the power, the more secretive the information gained. \n* Thought Sending: The psyker causes a message to appear in the target's mind as if she has just heard it spoken aloud. The message can be no longer than 5 x PR seconds long. \n\nIf the target of this power is aware of what the psyker is trying to do, she can voluntarily fail the opposed Willpower test, counting as having rolled a 100.",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Dominate",
+        "id": "dominate",
         "cost": 200,
         "prerequisites": [
           "Willpower 40"
@@ -51,11 +54,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker nominates a number targets in range and line of sight up to half his psy rating (rounded up) who oppose this power with a Willpower test. Each target that fails to resist the power must follow a simple command given by the psyker. Some example orders include “Flee,” “Fall,” or “Attack your friend.” If the command is a potentially suicidal act, each target receives a +20 to its Willpower test to Oppose the power. In all cases, the command must be achievable in a single round.",
+        "effects": "The psyker nominates a number targets in range and line of sight up to half her psy rating (rounded up) who oppose this power with a Willpower test. Each target that fails to resist the power must follow a simple command given by the psyker. Some example orders include “Flee,” “Fall,” or “Attack your friend.” If the command is a potentially suicidal act, each target receives a +20 to its Willpower test to Oppose the power. In all cases, the command must be achievable in a single round.",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Hallucination",
+        "id": "hallucination",
         "cost": 200,
         "prerequisites": [
           "Fellowship 40"
@@ -72,6 +76,7 @@
       },
       {
         "name": "Mental Fortitude",
+        "id": "mental_fortitude",
         "cost": 300,
         "prerequisites": [
           "Adamantium Faith"
@@ -88,6 +93,7 @@
       },
       {
         "name": "Psychic Shriek",
+        "id": "psychic_shriek",
         "cost": 300,
         "prerequisites": [
           "Psy Rating 3"
@@ -104,6 +110,7 @@
       },
       {
         "name": "Invisibility",
+        "id": "invisibility",
         "cost": 400,
         "prerequisites": [
           "Agility 30",
@@ -116,11 +123,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker nominates a single target within range and line of sight (this can be the psyker himself). For the duration of the power, the target counts having the Stealth skill at Known (rank 1), and gains a bonus to Stealth tests equal to +5 times the psyker's psy rating. Additionally, all ranged attacks made against the target suffer a penalty equal to –5 times the psyker's psy rating. If the target moves beyond the power's range, he loses this power's benefits.",
+        "effects": "The psyker nominates a single target within range and line of sight (this can be the psyker himself). For the duration of the power, the target counts having the Stealth skill at Known (rank 1), and gains a bonus to Stealth tests equal to +5 times the psyker's psy rating. Additionally, all ranged attacks made against the target suffer a penalty equal to –5 times the psyker's psy rating. If the target moves beyond the power's range, she loses this power's benefits.",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Puppet Master",
+        "id": "puppet_master",
         "cost": 400,
         "prerequisites": [
           "Fellowship 55"
@@ -132,11 +140,12 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "The psyker nominates a single target in range and line of sight with total wounds no greater than 3 times the psyker's psy rating, who opposes this power with a Willpower test. If the target fails to resist the power, it is controlled by the psyker like a puppet. For the duration of the power, the psyker can divide his Actions between himself and the target. The dominated target uses its own Characteristics, but at –10 due to the crudity of the control. If at any point the psyker would make the target perform a potentially suicidal action, the target can attempt a Challenging (+0) Opposed Willpower test to try to break free of the power. Additionally, the power breaks as soon as the target moves out of range.",
+        "effects": "The psyker nominates a single target in range and line of sight with total wounds no greater than 3 times the psyker's psy rating, who opposes this power with a Willpower test. If the target fails to resist the power, it is controlled by the psyker like a puppet. For the duration of the power, the psyker can divide her Actions between himself and the target. The dominated target uses its own Characteristics, but at –10 due to the crudity of the control. If at any point the psyker would make the target perform a potentially suicidal action, the target can attempt a Challenging (+0) Opposed Willpower test to try to break free of the power. Additionally, the power breaks as soon as the target moves out of range.",
         "source": "Dark Heresy 2e"
       },
       {
         "name": "Terrify",
+        "id": "terrify",
         "cost": 400,
         "prerequisites": [
           "Fellowship 45"
@@ -148,7 +157,7 @@
         "subtypes": [
           "Concentration"
         ],
-        "effects": "Slithering deep into the mind of his victim, the psyker unearths their greatest failings, greatest weaknesses, and greatest fears. Using these as tools against his opponent, the psyker can turn even the most courageous warriors into pathetic, whimpering cowards before him. The psyker nominates a single target in range and line of sight who opposes this power with a Willpower test. If the target fails to resist the power, it must roll on Table Shock, adding +10 times the psyker's psy rating to the roll in place of the normal addition for degrees of failure, and immediately apply the effects.",
+        "effects": "Slithering deep into the mind of her victim, the psyker unearths their greatest failings, greatest weaknesses, and greatest fears. Using these as tools against her opponent, the psyker can turn even the most courageous warriors into pathetic, whimpering cowards before her. The psyker nominates a single target in range and line of sight who opposes this power with a Willpower test. If the target fails to resist the power, it must roll on Table Shock, adding +10 times the psyker's psy rating to the roll in place of the normal addition for degrees of failure, and immediately apply the effects.",
         "source": "Dark Heresy 2e"
       }
     ]

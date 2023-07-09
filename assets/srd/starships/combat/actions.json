@@ -8,7 +8,7 @@
         "name": "Active Augury",
         "id": "active_augury",
         "test": "Challenging (+0) Scrutiny + Detection",
-        "benefit": "If the scan is successful, the GM should reveal basic (and important) information about celestial bodies, phenomena, and ships within 20 VUs of the vessel. If there is a vessel on Silent Running within scan range, it is immediately detected. For every degree of success, the character can extend the range of his scan by five VUs."
+        "benefit": "If the scan is successful, the GM should reveal basic (and important) information about celestial bodies, phenomena, and ships within 20 VUs of the vessel. If there is a vessel on Silent Running within scan range, it is immediately detected. For every degree of success, the character can extend the range of her scan by five VUs."
       },
       {
         "name": "Aid the Machine Spirit",
@@ -20,13 +20,13 @@
         "name": "Disinformation",
         "id": "disinformation",
         "test": "Difficult (-10) Deceive",
-        "benefit": "If he succeeds, he can increase the crew's Morale by 1d5 for every degree of success for the duration of the combat."
+        "benefit": "If she succeeds, she can increase the crew's Morale by 1d5 for every degree of success for the duration of the combat."
       },
       {
         "name": "Emergency Repairs",
         "id": "emergency_repairs",
         "test": "Difficult (-10) Essential Repair Skill",
-        "benefit": "If he succeeds, he repairs one unpowered, damaged, or depressurized Component. Repairs normally take 1d5 turns, however, this can be reduced by one turn per degree of success, to a minimum of one turn. Emergency Repairs cannot fix destroyed Components."
+        "benefit": "If she succeeds, she repairs one unpowered, damaged, or depressurized Component. Repairs normally take 1d5 turns, however, this can be reduced by one turn per degree of success, to a minimum of one turn. Emergency Repairs cannot fix destroyed Components."
       },
       {
         "name": "Flank Speed",
@@ -38,37 +38,37 @@
         "name": "Focused Augury",
         "id": "focused_augury",
         "test": "Challenging (+0) Scrutiny + Detection",
-        "benefit": "Scan a particular ship within 20 VUs of his vessel. A successful scan reveals a number of Components aboard the enemy ship.\n* Basic Success: All Essential Components except Auger Arrays and Void Shields\n* One Degree of Success: All Weapon Components\n* Two Degrees of Success: Auger Arrays, Void Shields, and any combat related Components\n* Three Degrees of Success: All Components aboard the target ship"
+        "benefit": "Scan a particular ship within 20 VUs of her vessel. A successful scan reveals a number of Components aboard the enemy ship.\n* Basic Success: All Essential Components except Auger Arrays and Void Shields\n* One Degree of Success: All Weapon Components\n* Two Degrees of Success: Auger Arrays, Void Shields, and any combat related Components\n* Three Degrees of Success: All Components aboard the target ship"
       },
       {
         "name": "Hail the Enemy",
         "id": "hail_the_enemy",
         "test": "Interaction Skill",
-        "benefit": "This action is unique as it can be performed by characters who have participated in Manoeuvre Actions or Shooting Actions during the turn. The character contacts one enemy ship using his ship's vox systems. He may use Interaction Skills to accomplish certain goals, such as the Intimidation Skill to convince an opponent to surrender. The exact details of how this works is left up to the GM"
+        "benefit": "This action is unique as it can be performed by characters who have participated in Manoeuvre Actions or Shooting Actions during the turn. The character contacts one enemy ship using her ship's vox systems. She may use Interaction Skills to accomplish certain goals, such as the Intimidation Skill to convince an opponent to surrender. The exact details of how this works is left up to the GM"
       },
       {
         "name": "Hit and Run",
         "id": "hit_and_run",
         "test": "Challenging (+0) Operate (Aeronautica) & Ordinary (+10) Command",
-        "benefit": "The character makes a Challenging (+0) Operate (Aeronautica) Test, attempting to reach one enemy ship within 5 VUs in a boarding craft, accompanied by a team of raiders. This test can be further modified by the target vessel's Turret Rating. If he fails the test, he is forced to return to his ship. If he fails by four or more degrees, his craft is shot down. The character either survives stranded in a crippled craft or is killed at the GM's discretion. If he succeeds, he must make an opposed Ordinary (+10) Command Test against the commander of troops aboard the enemy ship. If he succeeds, roll 1d5 on the Critical Hit chart twice and select one result to apply to the enemy ship, plus 1 point of damage to Hull Integrity for every degree of success. If he fails, his force is forced to retreat back to his boarding craft, unsuccessful in causing mayhem."
+        "benefit": "The character makes a Challenging (+0) Operate (Aeronautica) Test, attempting to reach one enemy ship within 5 VUs in a boarding craft, accompanied by a team of raiders. This test can be further modified by the target vessel's Turret Rating. If she fails the test, she is forced to return to her ship. If she fails by four or more degrees, her craft is shot down. The character either survives stranded in a crippled craft or is killed at the GM's discretion. If she succeeds, she must make an opposed Ordinary (+10) Command Test against the commander of troops aboard the enemy ship. If she succeeds, roll 1d5 on the Critical Hit chart twice and select one result to apply to the enemy ship, plus 1 point of damage to Hull Integrity for every degree of success. If she fails, her force is forced to retreat back to her boarding craft, unsuccessful in causing mayhem."
       },
       {
         "name": "Hold Fast!",
         "id": "hold_fast",
         "test": "Challenging (+0) Willpower",
-        "benefit": "The character must have Air of Authority (or a similar Talent at the GM's discretion) and make a Challenging (+0) Willpower Test. If he succeeds, he inspires the crew and reduces any damage to Morale by 1, plus 1 for every degree of success to a minimum of 1. Hold Fast! may only cancel out Morale damage suffered during the previous turn."
+        "benefit": "The character must have Air of Authority (or a similar Talent at the GM's discretion) and make a Challenging (+0) Willpower Test. If she succeeds, she inspires the crew and reduces any damage to Morale by 1, plus 1 for every degree of success to a minimum of 1. Hold Fast! may only cancel out Morale damage suffered during the previous turn."
       },
       {
         "name": "Jam Communications",
         "id": "jam_communications",
         "test": "Difficult (-10) Tech-Use",
-        "benefit": "The Character makes a Difficult (-10) Tech-Use Test, targeting a ship within 10 VUs of his vessel. If he succeeds, that ship is unable to use vox-transmitters or other technologies to communicate with other ships. Psychic communicators — such as an Astropath — are unaffected. For every degree of success, the range of Jam Communications is extended by one VU."
+        "benefit": "The Character makes a Difficult (-10) Tech-Use Test, targeting a ship within 10 VUs of her vessel. If she succeeds, that ship is unable to use vox-transmitters or other technologies to communicate with other ships. Psychic communicators — such as an Astropath — are unaffected. For every degree of success, the range of Jam Communications is extended by one VU."
       },
       {
         "name": "Launch Assault Boats",
         "id": "launch_assault_boats",
         "test": "Challenging (+0) Command+Craft Rating",
-        "benefit": "The assault boat squadrons may be grouped up into one or more wings consisting of two or more squadrons, or may operate as independent squadrons, in any combination, as desired. Upon launch and again at the beginning of their parent vessel's subsequent Strategic Turns, the assault boat wings may move freely a number of VUs up to the speed of the slowest squadron in the unit. They may continue to remain away from their carrier in this manner for no more than four turns, as fuel and life support supplies begin to run low and the assault boats are forced to return to their carrier. Upon moving within 1VU of an enemy vessel, the assault boats may commence an attack run, closing quickly upon their target to deliver their payload before retreating back to the carrier.\n\nMake a Challenging (+0) Command+Craft Rating Test (this will either be from a character aboard the carrier, or from a character leading the assault boats personally), gaining a +5 bonus for every squadron of friendly bombers after the first. A successful test means that a single assault boat squadron has reached the ship and breached the hull, with an additional assault boat landing for every degree of success, up to a maximum equal to the number of assault boat squadrons attacking that survived any defensive fire. The character leading the boarding parties (if an Explorer is piloting an assault boat, he may not also lead the boarding parties) then begins a Hit and Run Action against the target, ignoring the Operate (Aeronautica) Test and gaining a +10 for every assault boat squadron that successfully landed.\n\n**After delivering their payload, the assault boats withdraw to their carrier with any survivors by the shortest expedient route.**"
+        "benefit": "The assault boat squadrons may be grouped up into one or more wings consisting of two or more squadrons, or may operate as independent squadrons, in any combination, as desired. Upon launch and again at the beginning of their parent vessel's subsequent Strategic Turns, the assault boat wings may move freely a number of VUs up to the speed of the slowest squadron in the unit. They may continue to remain away from their carrier in this manner for no more than four turns, as fuel and life support supplies begin to run low and the assault boats are forced to return to their carrier. Upon moving within 1VU of an enemy vessel, the assault boats may commence an attack run, closing quickly upon their target to deliver their payload before retreating back to the carrier.\n\nMake a Challenging (+0) Command+Craft Rating Test (this will either be from a character aboard the carrier, or from a character leading the assault boats personally), gaining a +5 bonus for every squadron of friendly bombers after the first. A successful test means that a single assault boat squadron has reached the ship and breached the hull, with an additional assault boat landing for every degree of success, up to a maximum equal to the number of assault boat squadrons attacking that survived any defensive fire. The character leading the boarding parties (if an Explorer is piloting an assault boat, she may not also lead the boarding parties) then begins a Hit and Run Action against the target, ignoring the Operate (Aeronautica) Test and gaining a +10 for every assault boat squadron that successfully landed.\n\n**After delivering their payload, the assault boats withdraw to their carrier with any survivors by the shortest expedient route.**"
       },
       {
         "name": "Launch Bombers",
@@ -98,19 +98,19 @@
         "name": "Lock on Target",
         "id": "lock_on_target",
         "test": "Challenging (+0) Scrutiny + Detection",
-        "benefit": "If successful, he adds a +5 bonus to the Ballistic Skill Test to fire one Weapon Component during this turn. Every two additional degrees of success adds an additional +5 to the same Test."
+        "benefit": "If successful, she adds a +5 bonus to the Ballistic Skill Test to fire one Weapon Component during this turn. Every two additional degrees of success adds an additional +5 to the same Test."
       },
       {
         "name": "Prepare to Repel Boarders!",
         "id": "prepare_to_repel_boarders",
         "test": "Challenging (+0) Command",
-        "benefit": "If he succeeds, he may add +10 to any opposed Command Test he performs against enemy borders during subsequent turns of combat, plus an additional +5 for every degree of success. Although the character is not required to make additional tests on subsequent turns, he will be occupied rallying the defenders for as long as he wants to maintain the bonus."
+        "benefit": "If she succeeds, she may add +10 to any opposed Command Test she performs against enemy borders during subsequent turns of combat, plus an additional +5 for every degree of success. Although the character is not required to make additional tests on subsequent turns, she will be occupied rallying the defenders for as long as she wants to maintain the bonus."
       },
       {
         "name": "Put Your Backs Into It!",
         "id": "put_your_backs_into_it",
         "test": "Challenging (+0) Intimidate or Charm",
-        "benefit": "If he succeeds, he can choose to add +5 to a Ballistic Skill Test to fire a Weapon Component, an Emergency Repairs Action, or an attempt to put out a fire made during this turn. He may aid an additional Ballistic Skill Test, Emergency Repairs Action, or firefighting attempt for every three degrees of success."
+        "benefit": "If she succeeds, she can choose to add +5 to a Ballistic Skill Test to fire a Weapon Component, an Emergency Repairs Action, or an attempt to put out a fire made during this turn. She may aid an additional Ballistic Skill Test, Emergency Repairs Action, or firefighting attempt for every three degrees of success."
       },
       {
         "name": "Rapid Reload",
@@ -122,7 +122,7 @@
         "name": "Triage",
         "id": "triage",
         "test": "Difficult (-10) Medicae",
-        "benefit": "If he succeeds, he reduces any damage to Crew Population by 1, plus 1 for every degree of success to a minimum of 1. Triage may only cancel Crew Population damage suffered during the previous Turn."
+        "benefit": "If she succeeds, she reduces any damage to Crew Population by 1, plus 1 for every degree of success to a minimum of 1. Triage may only cancel Crew Population damage suffered during the previous Turn."
       }
     ],
     "manouevre": [
@@ -142,13 +142,13 @@
         "name": "Adjust Speed",
         "id": "adjust_speed",
         "test": "Challenging (+0) Operate (Voidship)+ Manoeuvrability",
-        "benefit": "First, the ship decides if it is moving half its Speed value or its full Speed value. Then, the helmsman makes the test. On a success, he may increase or decrease the number of VUs his ship moves by one. For every degree of success, he may increase or decrease that number by an additional one. The starship may not move less than 0 VUs forward (the starship may come to a stop using its retro-thrusters, but cannot move in reverse). The starship may not move double or more its Speed value using this Manoeuvre (only Flank Speed allows that)."
+        "benefit": "First, the ship decides if it is moving half its Speed value or its full Speed value. Then, the helmsman makes the test. On a success, she may increase or decrease the number of VUs her ship moves by one. For every degree of success, she may increase or decrease that number by an additional one. The starship may not move less than 0 VUs forward (the starship may come to a stop using its retro-thrusters, but cannot move in reverse). The starship may not move double or more its Speed value using this Manoeuvre (only Flank Speed allows that)."
       },
       {
         "name": "Adjust Speed & Bearing",
         "id": "adjust_speed_bearing",
         "test": "Hard (-20) Operate (Voidship)+Manoeuvrability",
-        "benefit": "First, the ship decides if it is moving half its Speed value or its full Speed value. Then, the helmsman makes the test. On a success, he may increase or decrease the number of VUs his ship moves by 1, and may turn after moving one VU less than its Speed Value (as above). Likewise, every degree of success awards the benefits of Adjust Speed and Adjust Bearing. However, the limitations of both Manoeuvre Actions apply."
+        "benefit": "First, the ship decides if it is moving half its Speed value or its full Speed value. Then, the helmsman makes the test. On a success, she may increase or decrease the number of VUs her ship moves by 1, and may turn after moving one VU less than its Speed Value (as above). Likewise, every degree of success awards the benefits of Adjust Speed and Adjust Bearing. However, the limitations of both Manoeuvre Actions apply."
       },
       {
         "name": "Come to New Heading",
@@ -180,13 +180,13 @@
         "name": "Ram Them!",
         "id": "ram_them",
         "test": "Hard (-20) Operate (Voidship) + Manoeuvrability Test",
-        "benefit": "If a starship ends its Manoeuvre Action within one VU of an enemy vessel and its bow is facing said vessel, the starship may give up its Shooting Action this turn and ram the ship instead. The helmsman must make a Hard (-20) Operate (Voidship) + Manoeuvrability Test. If he succeeds, the ship crashes into its target, doing damage based on its hull size - 1d5 for transports and raiders, 1d10 for frigates, 2d5 for light cruisers, and 2d10 for cruisers. The ship adds the die roll to its prow armour value for total damage inflicted. This damage ignores void shields. The ramming ship then takes damage equal to the defending ship's Armour plus 1d5 to their prow armour, also ignoring void shields."
+        "benefit": "If a starship ends its Manoeuvre Action within one VU of an enemy vessel and its bow is facing said vessel, the starship may give up its Shooting Action this turn and ram the ship instead. The helmsman must make a Hard (-20) Operate (Voidship) + Manoeuvrability Test. If she succeeds, the ship crashes into its target, doing damage based on its hull size - 1d5 for transports and raiders, 1d10 for frigates, 2d5 for light cruisers, and 2d10 for cruisers. The ship adds the die roll to its prow armour value for total damage inflicted. This damage ignores void shields. The ramming ship then takes damage equal to the defending ship's Armour plus 1d5 to their prow armour, also ignoring void shields."
       },
       {
         "name": "Boarding Action",
         "id": "boarding_action",
         "test": "Hard (-20) Operate (Voidship) + Manoeuvrability Test",
-        "benefit": "If a starship ends its Manoeuvre Action within 1 VU of its target, it may give up its Shooting Action to Board the target. The helmsman must make a Hard (-20) Operate (Voidship) + Manoeuvrability Test. If he succeeds, the two ships crash together and the boarding action begins. While two ships are involved in a boarding action, neither of them can take Manoeuvre or Shooting Actions (meaning the two ships remain stationary), although individual characters may still take Extended Actions. The ships are locked together, and the only way a ship can break free is by making a Hard (-20) Operate (Voidship) + Manoeuvrability Test at the beginning of its turn. If a ship attempts to break free and fails, however, it will suffer a -20 to the subsequent opposed Command Test (see below).\n\nThe two ships take their Strategic Turns simultaneously, dropping to last in the initiative order. During their turns, two characters, one from each ship (whoever is leading the ship's warriors), make an opposed Command Test. The ship with the larger Crew Population value will receive a +10 bonus to its character's Command Test for every full 10 points difference in Crew Population between the two ships. The ship with the higher remaining Hull Integrity provides a +10 bonus to its character's Command Test for every full 10 points difference in Crew Population between the two ships. Each ship's turret rating also provides a bonus.\n\nFor each degree the winner wins by, he may choose to inflict one of the following options on his opponent. The loser may either suffer 1d5 Crew Population and 1d5 Morale damage (representing the crew cutting through the enemy), or 1 point of Hull Integrity damage (representing the crew setting charges and doing as much damage as possible). Damage to Hull Integrity will also result in damage to Crew Population and Morale as normal.\n\nThe ship that has lost the opposed Command Test must then roll a d100 and compare it to their current Morale. If they roll an equal or lower number than their Morale, their crew continues to fight. During the next Strategic Turn, both ships will make opposed Command Tests again. If, however, the losing ship rolls higher than their current Morale, their crew routes and surrenders to their captors. If the ship is an NPC vessel, it surrenders. If it is the Explorers' vessel, the characters face a grim choice-surrender to their foes, or try and flee as best they can..."
+        "benefit": "If a starship ends its Manoeuvre Action within 1 VU of its target, it may give up its Shooting Action to Board the target. The helmsman must make a Hard (-20) Operate (Voidship) + Manoeuvrability Test. If she succeeds, the two ships crash together and the boarding action begins. While two ships are involved in a boarding action, neither of them can take Manoeuvre or Shooting Actions (meaning the two ships remain stationary), although individual characters may still take Extended Actions. The ships are locked together, and the only way a ship can break free is by making a Hard (-20) Operate (Voidship) + Manoeuvrability Test at the beginning of its turn. If a ship attempts to break free and fails, however, it will suffer a -20 to the subsequent opposed Command Test (see below).\n\nThe two ships take their Strategic Turns simultaneously, dropping to last in the initiative order. During their turns, two characters, one from each ship (whoever is leading the ship's warriors), make an opposed Command Test. The ship with the larger Crew Population value will receive a +10 bonus to its character's Command Test for every full 10 points difference in Crew Population between the two ships. The ship with the higher remaining Hull Integrity provides a +10 bonus to its character's Command Test for every full 10 points difference in Crew Population between the two ships. Each ship's turret rating also provides a bonus.\n\nFor each degree the winner wins by, she may choose to inflict one of the following options on her opponent. The loser may either suffer 1d5 Crew Population and 1d5 Morale damage (representing the crew cutting through the enemy), or 1 point of Hull Integrity damage (representing the crew setting charges and doing as much damage as possible). Damage to Hull Integrity will also result in damage to Crew Population and Morale as normal.\n\nThe ship that has lost the opposed Command Test must then roll a d100 and compare it to their current Morale. If they roll an equal or lower number than their Morale, their crew continues to fight. During the next Strategic Turn, both ships will make opposed Command Tests again. If, however, the losing ship rolls higher than their current Morale, their crew routes and surrenders to their captors. If the ship is an NPC vessel, it surrenders. If it is the Explorers' vessel, the characters face a grim choice-surrender to their foes, or try and flee as best they can..."
       }
     ]
   }

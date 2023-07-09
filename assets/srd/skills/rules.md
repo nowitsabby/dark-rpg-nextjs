@@ -9,11 +9,11 @@ Throughout the course of a game session, the Game Master frequently calls upon p
 
 However, if there is a reasonable chance of failure due to environmental conditions or circumstance, even a routine test might be relevant.
 
-When a character uses a skill to perform a task, he must succeed at a skill test. The procedure follows the normal test rules: the player rolls, compares the result to the characteristic best suited to the task and, if the result is equal to or less than the skill rating, the check succeeds. Modifiers are applied to take into account any environmental factors, as well as the character's rank with the applicable skill.
+When a character uses a skill to perform a task, she must succeed at a skill test. The procedure follows the normal test rules: the player rolls, compares the result to the characteristic best suited to the task and, if the result is equal to or less than the skill rating, the check succeeds. Modifiers are applied to take into account any environmental factors, as well as the character's rank with the applicable skill.
 
 ## Untrained Skill Use
 
-It is unlikely that a character will be trained in the use of every skill, instead focusing on the mastery of a few and a general knowledge of a handful of others. A character can, however, still use skills in which he has no training when needs must, such as attempting to hide from a slavering group of mutants or frantically deciphering the coded messages in an ancient tome. In these instances, the character makes a skill test as normal but suffers a –20 penalty in addition to any other modifiers.
+It is unlikely that a character will be trained in the use of every skill, instead focusing on the mastery of a few and a general knowledge of a handful of others. A character can, however, still use skills in which she has no training when needs must, such as attempting to hide from a slavering group of mutants or frantically deciphering the coded messages in an ancient tome. In these instances, the character makes a skill test as normal but suffers a –20 penalty in addition to any other modifiers.
 
 The only exceptions to this rule are Specialist skills (see below) which require a level of ability that simply cannot be attempted by the untrained. These could include knowledge of ancient rites of the Adeptus Mechanicus, commanding a Mars Class Cruiser, or speaking fluently with an Eldar Corsair in its own xenos language. Specialist skills are indicated as such in the individual skill descriptions.
 
@@ -23,9 +23,9 @@ Several skill entries have subsections that detail a specific, focused use outsi
 
 ## Specialist Skills
 
-Some skills are not just one skill but many, representing a specialisation within the skill itself. These are known as Specialist skills, and whenever a character learns a Specialist skill, he must choose a particular specialisation within it. Specialisations represent such things as specific knowledge of places, people, and events; the ability to control, drive, or pilot particular types of vehicles and equipment; the ability to read and understand maps, as well as the ability to plot a course across a world or the stars themselves; and the ability to speak, read, or understand one of the countless languages, codes, or glyphs used by the races of the 41st Millennium.
+Some skills are not just one skill but many, representing a specialisation within the skill itself. These are known as Specialist skills, and whenever a character learns a Specialist skill, she must choose a particular specialisation within it. Specialisations represent such things as specific knowledge of places, people, and events; the ability to control, drive, or pilot particular types of vehicles and equipment; the ability to read and understand maps, as well as the ability to plot a course across a world or the stars themselves; and the ability to speak, read, or understand one of the countless languages, codes, or glyphs used by the races of the 41st Millennium.
 
-A character can take a Specialist skill more than once, taking a new speciality each time he takes the skill. If he takes a Specialist skill more than once (each with its own speciality), then these are treated as separate skills and must be advanced in rank individually.
+A character can take a Specialist skill more than once, taking a new speciality each time she takes the skill. If she takes a Specialist skill more than once (each with its own speciality), then these are treated as separate skills and must be advanced in rank individually.
 
 A list of the individual specialities within each Specialist skill can be found within the individual skill descriptions
 
@@ -37,7 +37,7 @@ Each skill entry includes guidance on the average amount of time that skill usua
 
 ### Trying Again
 
-Many tasks can be attempted repeatedly with few consequences until a character finally succeeds. A character using Inquiry to research vital information might decide, for example, he will keep examining data until he finally finds the vital clue necessary to answer a crucial question. In such a situation the GM could determine how long this might take based on a single roll, with the character's only cost the narrative time and effort involved, rather than have the player make a series of rolls until he is successful.
+Many tasks can be attempted repeatedly with few consequences until a character finally succeeds. A character using Inquiry to research vital information might decide, for example, she will keep examining data until she finally finds the vital clue necessary to answer a crucial question. In such a situation the GM could determine how long this might take based on a single roll, with the character's only cost the narrative time and effort involved, rather than have the player make a series of rolls until she is successful.
 
 Other tasks can have serious repercussions if failed. A character attempting to bypass an alarm system might trigger a response on a failed Security test, and further attempts might have to be made while avoiding a patrol sent to investigate the first failure.
 
@@ -63,7 +63,7 @@ All skills with the Interaction descriptor involve interplay with others. The di
 
 #### Interaction Skills and Crowds
 
-It is possible for a veteran commander or masterful orator to influence or control a number of people at the same time. When a character uses a skill with the Interaction descriptor, he can (if he chooses) affect a number of people up to ten times his Fellowship bonus, provided they can all clearly hear and understand him. If it is an Opposed test, then the character only makes one roll and compares the result to a roll for the group of people (or its leader) he is trying to affect to determine success.
+It is possible for a veteran commander or masterful orator to influence or control a number of people at the same time. When a character uses a skill with the Interaction descriptor, she can (if she chooses) affect a number of people up to ten times her Fellowship bonus, provided they can all clearly hear and understand her. If it is an Opposed test, then the character only makes one roll and compares the result to a roll for the group of people (or its leader) she is trying to affect to determine success.
 
 ### Investigation Skills
 
@@ -79,7 +79,7 @@ As characters survive adventures and develop during game play, they naturally be
 
 ### Skill Ranks
 
-Simply knowing a skill is very different from having mastered its use, and different characters can use different skills at varying levels. To represent this, all of a character's skills are ranked from 1–4, representing his level of ability. At Rank 1, the character no longer suffers the -20 penalty for being untrained. Each rank beyond first grants a cumulative +10 bonus. Characters only use the highest bonus available to them; for example, an Acolyte with Rank 3 in Intimidate gets +20 on all tests with the skill, not +20 for Experienced and +10 for Trained.
+Simply knowing a skill is very different from having mastered its use, and different characters can use different skills at varying levels. To represent this, all of a character's skills are ranked from 1–4, representing her level of ability. At Rank 1, the character no longer suffers the -20 penalty for being untrained. Each rank beyond first grants a cumulative +10 bonus. Characters only use the highest bonus available to them; for example, an Acolyte with Rank 3 in Intimidate gets +20 on all tests with the skill, not +20 for Experienced and +10 for Trained.
 
 ## Alternate Characteristics
 

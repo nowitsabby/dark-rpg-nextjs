@@ -6,26 +6,7 @@ import FilterComponent from './components/FilterComponent';
 import SrdMarkdown from '../util/SrdMarkdown';
 import Stack from '@mui/material/Stack';
 import TableLink from './components/TableLink';
-
-export interface PsychicPowerRecord {
-  name: string;
-  id: string;
-  cost: number;
-  prerequisites: string[];
-  action: string;
-  focus: string;
-  range: string;
-  sustained: string;
-  subtypes: string[];
-  effects: string;
-  source: string;
-}
-
-export interface PsychicDisciplineRecord {
-  discipline: string;
-  information: string;
-  powers: PsychicPowerRecord[];
-}
+import { PsychicDisciplineRecord, PsychicPowerRecord } from '../types/Records';
 
 export default function PsychicDiscipline({ rootPath, data }: { rootPath: string, data: PsychicDisciplineRecord }) {
   
@@ -103,29 +84,27 @@ export default function PsychicDiscipline({ rootPath, data }: { rootPath: string
         title={<h4>Powers</h4>}
         columns={columns}
         data={
-          Array.isArray(tableData)
-            ? tableData.filter((item) => {
-                if (filterText) {
-                  return (
-                    item.name
-                      ?.toLowerCase()
-                      .includes(filterText.toLowerCase()) ||
-                    item.prerequisites
-                      ?.join(' ')
-                      .toLowerCase()
-                      .includes(filterText.toLowerCase()) ||
-                    item.focus
-                      ?.toLowerCase()
-                      .includes(filterText.toLowerCase()) ||
-                    item.subtypes
-                      ?.join(' ')
-                      .toLowerCase()
-                      .includes(filterText.toLowerCase())
-                  );
-                }
-                return true;
-              })
-            : []
+          tableData.filter((item) => {
+            if (filterText) {
+              return (
+                item.name
+                  ?.toLowerCase()
+                  .includes(filterText.toLowerCase()) ||
+                item.prerequisites
+                  ?.join(' ')
+                  .toLowerCase()
+                  .includes(filterText.toLowerCase()) ||
+                item.focus
+                  ?.toLowerCase()
+                  .includes(filterText.toLowerCase()) ||
+                item.subtypes
+                  ?.join(' ')
+                  .toLowerCase()
+                  .includes(filterText.toLowerCase())
+              );
+            }
+            return true;
+          })
         }
         striped
         actions={subHeaderComponentMemo}

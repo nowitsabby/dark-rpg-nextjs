@@ -16,9 +16,9 @@ A Navigator character that belongs to a Nomadic House gains the following benefi
 #### Lore of the Wanderer
 The Navigator has an ingrained affinity with passage between distant and uncharted stars and gains the Talented (Navigation (Warp)) Talent. 
 #### A Taste for the Warp
-Living in constant contact with the veil between real space and the warp, the Navigator can read it like few others. The Navigator can spend a Fate Point to automatically succeed in using a Navigator power; if degrees of success are relevant to the effects of the power, he will succeed by 1d5 degrees of success with 5 counting as 0 degrees of success. 
+Living in constant contact with the veil between real space and the warp, the Navigator can read it like few others. The Navigator can spend a Fate Point to automatically succeed in using a Navigator power; if degrees of success are relevant to the effects of the power, she will succeed by 1d5 degrees of success with 5 counting as 0 degrees of success. 
 #### Scorn of Dirt Dwellers
-Those that have roamed the void for so long feel uncomfortable in the cultures of dirt dwellers and usually cannot wait to return to space. Whenever the Navigator is on a planetary body and must deal with locals he suffers a –10 to all Fellowship tests and skills based on Fellowship. 
+Those that have roamed the void for so long feel uncomfortable in the cultures of dirt dwellers and usually cannot wait to return to space. Whenever the Navigator is on a planetary body and must deal with locals she suffers a –10 to all Fellowship tests and skills based on Fellowship. 
 #### Initial Mutation
 Navigators from a Nomadic House begin play with a single Navigator Mutation rolled randomly from Table Navigator Mutations. They may develop additional mutations as normal when they acquire new Navigator Powers or increase their mastery of existing powers.	
 
@@ -33,7 +33,7 @@ Magisterial Houses with influence in the Expanse include the grand houses of Ben
 A Navigator character that belongs to a Magisterial House gains the following benefits
 
 #### Warp Focus
-The warp eye is the core of a Navigator's being and his oldest and most potent tool. Once per game session he may force a single opponent to re-roll a successful test when testing to resist the effects of The Lidless Stare Navigator Power. 
+The warp eye is the core of a Navigator's being and her oldest and most potent tool. Once per game session she may force a single opponent to re-roll a successful test when testing to resist the effects of The Lidless Stare Navigator Power. 
 #### Resistant Genes
 The Navigators of a Magisterial House are less likely to mutate due to their carefully cultivated genes. Whenever they must test for mutation the test is considered Routine (+20) rather than Ordinary (+10). 
 #### Exalted Lineage
@@ -52,9 +52,9 @@ Some of the more powerful and influential include the Modar, Yeshar, and the Rey
 A Navigator character that belongs to a Shrouded House gains the following benefits:
 
 #### Destitute
-The navigator's fortunes are so low that he has little or nothing and is initially a drain on the resources of his fellows. The presence of a navigator from a Shrouded Lineage reduces the group's starting Profit Factor, or their individual Influence, by –1. 
+The navigator's fortunes are so low that she has little or nothing and is initially a drain on the resources of her fellows. The presence of a navigator from a Shrouded Lineage reduces the group's starting Profit Factor, or their individual Influence, by –1. 
 #### A Gaze to Pierce the Soul
-The Navigator has a keen understanding of a person's relationship to the warp born of enforced self-reliance and bitter musings. The Navigator begins play with Gaze into the Abyss as a bonus power. In addition, he may raise this ability above Master to Paragon (the xp cost is the same as to raise to Master) giving him a +30 bonus on all tests with this power. 
+The Navigator has a keen understanding of a person's relationship to the warp born of enforced self-reliance and bitter musings. The Navigator begins play with Gaze into the Abyss as a bonus power. In addition, she may raise this ability above Master to Paragon (the xp cost is the same as to raise to Master) giving her a +30 bonus on all tests with this power. 
 #### Mercantile Opportunists
 Raised in a volatile atmosphere where the need for profit and advancement outweighed all other concerns, these Navigators have had to learn the hard way the skills of hard bargaining and contract hunting—needs most of their kind are normally sheltered from. The Navigator gains a +10 bonus to tests with the Commerce and Charm Skills. 
 #### Initial Mutation
@@ -71,9 +71,9 @@ It is whispered that the Expanse is home to several Renegade Houses like the sec
 A Navigator character that belongs to a Renegade House gains the following benefits:
 
 #### The Fruits of Corrupted Blood
-In tampering with the fundamental nature of their bloodlines the Renegade Houses have created both monsters and marvels. The Navigator begins play with an additional Navigator Power. Additionally, the Navigator may also choose three Navigator Powers; these may include powers he does not yet have, but plans to later acquire. He gains a +10 bonus to all tests with these powers (in addition to bonuses for being an Adept or Master). In addition, all tests by others to resist these powers suffer a –10 penalty. 
+In tampering with the fundamental nature of their bloodlines the Renegade Houses have created both monsters and marvels. The Navigator begins play with an additional Navigator Power. Additionally, the Navigator may also choose three Navigator Powers; these may include powers she does not yet have, but plans to later acquire. She gains a +10 bonus to all tests with these powers (in addition to bonuses for being an Adept or Master). In addition, all tests by others to resist these powers suffer a –10 penalty. 
 #### Unchecked Mutation
-The Navigator is more prone to mutation and mental instability that any others of his kind, representing the tampering of his family line and a life overshadowed by doom. When taking tests for mutation for gaining a new power or increasing an existing one, his tests are Challenging (+0) rather than Ordinary (+10) and he begins play with 1d5 Insanity points. 
+The Navigator is more prone to mutation and mental instability that any others of her kind, representing the tampering of her family line and a life overshadowed by doom. When taking tests for mutation for gaining a new power or increasing an existing one, her tests are Challenging (+0) rather than Ordinary (+10) and she begins play with 1d5 Insanity points. 
 #### Renegades
 The price of dabbling in the unknown is high, and it has cost the Renegade Houses in both security and status. Navigators from Renegade Houses begin play with 1d5 Corruption points and the watchful eye of the Inquisition ever waiting to uncover wrongdoing. Also, all tests that involve interacting with the official bodies of the Imperium are at a –10 penalty. 
 #### Initial Mutation

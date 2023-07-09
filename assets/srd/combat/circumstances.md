@@ -20,9 +20,9 @@ Many circumstances offer modifications to tests, making them easier or harder to
 
 ## Cover 
 
-Given the extreme lethality of weapons in the 41st Millennium, taking cover in combat is often an excellent way to survive\. When a character hides behind cover in a fire\-fight, he conceals a portion of his body, protecting it from enemy fire\. There are no penalties to Ballistic Skill tests made to attack targets standing behind cover\. However, there is a chance that the shot can hit the cover rather than the target\. It is up to the Acolyte to decide which parts of his form he is exposing when behind cover, but as a general rule, a character firing around or over cover will have his Body and Legs concealed\. If the shot would hit a location that is concealed behind cover, work out the damage against the Armour points of the cover instead, with any excess being applied to the target as normal \(see Cover Examples for a guide to the Armour points of different kinds of cover\)\. 
+Given the extreme lethality of weapons in the 41st Millennium, taking cover in combat is often an excellent way to survive\. When a character hides behind cover in a fire\-fight, she conceals a portion of her body, protecting it from enemy fire\. There are no penalties to Ballistic Skill tests made to attack targets standing behind cover\. However, there is a chance that the shot can hit the cover rather than the target\. It is up to the Acolyte to decide which parts of her form she is exposing when behind cover, but as a general rule, a character firing around or over cover will have her Body and Legs concealed\. If the shot would hit a location that is concealed behind cover, work out the damage against the Armour points of the cover instead, with any excess being applied to the target as normal \(see Cover Examples for a guide to the Armour points of different kinds of cover\)\. 
 
-If a Hit Location would benefit from multiple cover bonuses, the character chooses which one he would like to use, and only gains the benefits from that one source\. 
+If a Hit Location would benefit from multiple cover bonuses, the character chooses which one she would like to use, and only gains the benefits from that one source\. 
 
 ### Damaging Cover 
 
@@ -39,7 +39,7 @@ Armaplas, voidship bulkheads, plasteel                   |32
 
 ## Darkness 
 
-Weapon Skill tests made in darkness suffer a –20 penalty, while Ballistic Skill tests suffer a –30 penalty\. While a character is concealed by darkness, he gains a \+20 bonus to Stealth skill tests\.
+Weapon Skill tests made in darkness suffer a –20 penalty, while Ballistic Skill tests suffer a –30 penalty\. While a character is concealed by darkness, she gains a \+20 bonus to Stealth skill tests\.
 
 ## Difficult Terrain 
 
@@ -47,7 +47,7 @@ Weapon Skill and Evasion tests made whilst standing in difficult terrain, such a
 
 ## Engaged in Melee 
 
-If an attacking character is adjacent to his target, both the character and his target are considered to be engaged in melee\. 
+If an attacking character is adjacent to her target, both the character and her target are considered to be engaged in melee\. 
 
 ### Shooting into Melee 
 
@@ -63,7 +63,7 @@ Ballistic Skill tests made to attack targets concealed by fog, mist, shadow, or 
 
 ## Ganging Up 
 
-A character has an advantage when he and his allies engage the same foe in melee combat\. If a group of characters outnumber their opponent two to one, their Weapon Skill tests against those foes gain a \+10 bonus\. If a group of characters outnumber their opponent by three to one or more, their Weapon Skill tests against those foes gain a \+20 bonus instead\. 
+A character has an advantage when she and her allies engage the same foe in melee combat\. If a group of characters outnumber their opponent two to one, their Weapon Skill tests against those foes gain a \+10 bonus\. If a group of characters outnumber their opponent by three to one or more, their Weapon Skill tests against those foes gain a \+20 bonus instead\. 
 
 ## Helpless Targets 
 
@@ -79,7 +79,7 @@ Targets that are at a distance of more than double the range of a character's we
 
 ## Missing and Scattering 
 
-Sometimes, when flinging a thrown weapon, it is important to know where the weapon lands should the attacker fail his Ballistic Skill test\. When a character fails this test, the GM rolls 1d10 and consults the Scatter Diagram\. Roll 1d5 to determine the number of metres the item travels in the indicated direction\. This is also used with weapons with the Blast quality\. These affect a wide enough area that if the shot goes awry, it might still damage something, even if what is struck is not the original target\. 
+Sometimes, when flinging a thrown weapon, it is important to know where the weapon lands should the attacker fail her Ballistic Skill test\. When a character fails this test, the GM rolls 1d10 and consults the Scatter Diagram\. Roll 1d5 to determine the number of metres the item travels in the indicated direction\. This is also used with weapons with the Blast quality\. These affect a wide enough area that if the shot goes awry, it might still damage something, even if what is struck is not the original target\. 
 
 ### Scatter Diagram
 | | Source | |
@@ -90,15 +90,15 @@ Sometimes, when flinging a thrown weapon, it is important to know where the weap
 
 ### Scattering in Zero Gravity 
 
-The consequences of throwing dangerous objects in a zero gravity environment can be both amusing and deadly\. One way of determining exactly where an errant krak grenade floats after it bounces off the bulkhead is to roll twice on the Scatter Diagram, once for the X\-axis and once for the Y\-axis\. If the GM desires, he can make a third roll for the Z\-axis when a scatter occurs in huge areas with expansive ceilings or multiple open decks, for example\. 
+The consequences of throwing dangerous objects in a zero gravity environment can be both amusing and deadly\. One way of determining exactly where an errant krak grenade floats after it bounces off the bulkhead is to roll twice on the Scatter Diagram, once for the X\-axis and once for the Y\-axis\. If the GM desires, she can make a third roll for the Z\-axis when a scatter occurs in huge areas with expansive ceilings or multiple open decks, for example\. 
 
 ## Pinning 
 
-Being shot at is a terrifying experience at the best of times, and even the most inexperienced Acolytes know to keep their heads down when the bullets and bolt shells start flying\. Pinning represents a character's survival instincts telling him to stay in cover\. Certain combat actions or other circumstances call on their targets to test for Pinning; this is a Challenging \(\+0\) Willpower test\. If the character succeeds, he can act normally\. If he fails, he instead becomes Pinned\. 
+Being shot at is a terrifying experience at the best of times, and even the most inexperienced Acolytes know to keep their heads down when the bullets and bolt shells start flying\. Pinning represents a character's survival instincts telling her to stay in cover\. Certain combat actions or other circumstances call on their targets to test for Pinning; this is a Challenging \(\+0\) Willpower test\. If the character succeeds, she can act normally\. If she fails, she instead becomes Pinned\. 
 
 ### Being Pinned 
 
-A Pinned character is busy trying to avoid getting shot, so may only take a single Half Action each turn, though he can take Free Actions and Reactions as normal\. Additionally, he suffers a –20 penalty to all Ballistic Skill tests\. If a Pinned character is in cover relative to the attacker that Pinned him, he may not leave it except to retreat \(provided he can remain in cover while doing so\)\. If he is not in cover when Pinned, he must use his next turn to reach cover\. If there is no cover nearby, he must move away from the attacker that Pinned him\. A character can make a Challenging \(\+0\) Willpower test at the end of his turn to escape Pinning, in which case he may act as normal on his next turn\. If the character has not been shot at since his last turn or is under cover, he gains a \+30 bonus on this test\. A character engaged in melee combat automatically escapes Pinning\. Characters cannot initiate melee combat in an attempt to escape Pinning\.
+A Pinned character is busy trying to avoid getting shot, so may only take a single Half Action each turn, though she can take Free Actions and Reactions as normal\. Additionally, she suffers a –20 penalty to all Ballistic Skill tests\. If a Pinned character is in cover relative to the attacker that Pinned her, she may not leave it except to retreat \(provided she can remain in cover while doing so\)\. If she is not in cover when Pinned, she must use her next turn to reach cover\. If there is no cover nearby, she must move away from the attacker that Pinned her\. A character can make a Challenging \(\+0\) Willpower test at the end of her turn to escape Pinning, in which case she may act as normal on her next turn\. If the character has not been shot at since her last turn or is under cover, she gains a \+30 bonus on this test\. A character engaged in melee combat automatically escapes Pinning\. Characters cannot initiate melee combat in an attempt to escape Pinning\.
 
 ## Point\-blank Range 
 
@@ -106,7 +106,7 @@ When a character makes a ranged attack against a target that is two metres away 
 
 ## Prone 
 
-A character is considered Prone any time he is lying on the ground\. Weapon Skill tests made to attack Prone targets gain a \+10 bonus, but Ballistic Skill tests made to hit Prone targets suffer a –10 penalty unless the attacker is at Point Blank range\. A character who is Prone suffers a –10 penalty to Weapon Skill tests and a –20 penalty to Evasion tests\. 
+A character is considered Prone any time she is lying on the ground\. Weapon Skill tests made to attack Prone targets gain a \+10 bonus, but Ballistic Skill tests made to hit Prone targets suffer a –10 penalty unless the attacker is at Point Blank range\. A character who is Prone suffers a –10 penalty to Weapon Skill tests and a –20 penalty to Evasion tests\. 
 
 ## Short Range 
 
@@ -122,7 +122,7 @@ Weapon Skill and Ballistic Skill tests to attack Stunned targets gain a \+20 bon
 
 ## Unaware Targets 
 
-When a character has no idea that he about to be attacked, he is considered an Unaware Target\. Usually, this happens at the beginning of a combat when one or more characters are Surprised\. Weapon Skill or Ballistic Skill tests made to attack Unaware targets gain a \+30 bonus\. 
+When a character has no idea that she about to be attacked, she is considered an Unaware Target\. Usually, this happens at the beginning of a combat when one or more characters are Surprised\. Weapon Skill or Ballistic Skill tests made to attack Unaware targets gain a \+30 bonus\. 
 
 ## Weather and Unnatural Conditions 
 

@@ -7,7 +7,7 @@ Meta Endeavours are campaign\-level Endeavours in which the Explorers take an ac
 
 ## Creating Meta Endeavours
 
-Creating a Meta Endeavour is a laborious but ultimately satisfying project for both Game Masters and players\. They are typically designed solely by the GM after discussions with his players regarding the scope and type of campaign they are looking for\. For the Explorers, it gives them an idea about what characters would be appropriate and fun to play in the campaign, as well as an idea of what to expect from the GM\. It also provides tangible goals for them to work toward, which ultimately helps the Game Master move the game along\. For the Game Master, Meta Endeavours grant a broad framework to work within that grants both definite progress benchmarks and the freedom to alter them to best suit the direction the Campaign takes over the course of its life\. 
+Creating a Meta Endeavour is a laborious but ultimately satisfying project for both Game Masters and players\. They are typically designed solely by the GM after discussions with her players regarding the scope and type of campaign they are looking for\. For the Explorers, it gives them an idea about what characters would be appropriate and fun to play in the campaign, as well as an idea of what to expect from the GM\. It also provides tangible goals for them to work toward, which ultimately helps the Game Master move the game along\. For the Game Master, Meta Endeavours grant a broad framework to work within that grants both definite progress benchmarks and the freedom to alter them to best suit the direction the Campaign takes over the course of its life\. 
 
 ## Meta Endeavour Scope
 
@@ -19,7 +19,7 @@ Meta Endeavours with a Monumental Scope typically last for a few months to a yea
 
 ### Legendary
 
-Legendary Scope Meta Endeavours can take anywhere from one to two years and could require the Explorers to cross and re\-cross Imperial Space to achieve their goals\. For example, the Rogue Trader and his crew have been tasked with scouring the entirety of the Koronus Expanse in search of ancient technology at the behest of the Adeptus Mechanicus\. Legendary Meta Endeavours will have eight to twelve Lesser and Greater Endeavours \(and possibly one or two Grand Endeavours\) as their primary requirement, as well as numerous random encounters\. Legendary Meta Endeavours, like their smaller Monumental Scale cousins, can be combined as the GM sees fit to make their campaign\. 
+Legendary Scope Meta Endeavours can take anywhere from one to two years and could require the Explorers to cross and re\-cross Imperial Space to achieve their goals\. For example, the Rogue Trader and her crew have been tasked with scouring the entirety of the Koronus Expanse in search of ancient technology at the behest of the Adeptus Mechanicus\. Legendary Meta Endeavours will have eight to twelve Lesser and Greater Endeavours \(and possibly one or two Grand Endeavours\) as their primary requirement, as well as numerous random encounters\. Legendary Meta Endeavours, like their smaller Monumental Scale cousins, can be combined as the GM sees fit to make their campaign\. 
 
 ### Epic
 
@@ -48,9 +48,9 @@ Epic|20000
 
 The following check list is a quick reference for Game Masters to aid them in creating their Meta Endeavours\. 
 
-- Determine the Scope of the Meta Endeavour \(Monumental, Legendary or Epic\): The Game Master and his players discuss what they want from a game, the length of the campaign \(roughly\) and appropriate characters\. Once all of this is agreed on the Game Master chooses the Scope that fits his campaign best\. Choosing the Scope of the Meta Endeavour determines approximately how long it will take, along with the difficulty and Achievement Point Requirements\. 
-- Design Component Common Endeavours: Based on the Meta Endeavour's Scope, the Game Master sets about designing the Common Endeavours that will form the body of the Meta Endeavour\. The GM may also make notes about possible side adventures and random encounters that he would like to include in the Endeavour\. 
-- Divide the Meta Endeavour into Objectives and Assign Themes: Once the component Endeavours have been designed, the GM can now group them together based on common themes to form chapters within his Meta Endeavour\. Once all of the pieces have come together and the Game Master has a good idea of how he'd like things to go, the Meta Endeavour is ready to be played\. 
+- Determine the Scope of the Meta Endeavour \(Monumental, Legendary or Epic\): The Game Master and her players discuss what they want from a game, the length of the campaign \(roughly\) and appropriate characters\. Once all of this is agreed on the Game Master chooses the Scope that fits her campaign best\. Choosing the Scope of the Meta Endeavour determines approximately how long it will take, along with the difficulty and Achievement Point Requirements\. 
+- Design Component Common Endeavours: Based on the Meta Endeavour's Scope, the Game Master sets about designing the Common Endeavours that will form the body of the Meta Endeavour\. The GM may also make notes about possible side adventures and random encounters that she would like to include in the Endeavour\. 
+- Divide the Meta Endeavour into Objectives and Assign Themes: Once the component Endeavours have been designed, the GM can now group them together based on common themes to form chapters within her Meta Endeavour\. Once all of the pieces have come together and the Game Master has a good idea of how she'd like things to go, the Meta Endeavour is ready to be played\. 
 
 ## Resolving Meta Endeavours 
 

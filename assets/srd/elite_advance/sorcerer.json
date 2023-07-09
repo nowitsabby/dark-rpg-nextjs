@@ -16,7 +16,7 @@
       },
       {
         "title": "A Source of Forbidden Knowledge",
-        "description": "All sorcerers must have access to some source of knowledge from which they can learn the sorcerous arts. What form this source takes is a matter of roleplaying more than rules, and should be determined by the GM and the player. Some likely sources include: \n\n * Ancient tomes and grimoires containing information on the Daemonic and malefic, preferably written by other sorcerers.\n\n* Another sorcerer willing to take on an apprentice.\n\n* A dark pact through a fell power of the warp, such as a daemon or another warp entity.\n\nIt is up for the GM to determine whether the source is authentic or truthful enough to provide actual information, or if it will simply lead the player's character astray and teach him nothing of value. "
+        "description": "All sorcerers must have access to some source of knowledge from which they can learn the sorcerous arts. What form this source takes is a matter of roleplaying more than rules, and should be determined by the GM and the player. Some likely sources include: \n\n * Ancient tomes and grimoires containing information on the Daemonic and malefic, preferably written by other sorcerers.\n\n* Another sorcerer willing to take on an apprentice.\n\n* A dark pact through a fell power of the warp, such as a daemon or another warp entity.\n\nIt is up for the GM to determine whether the source is authentic or truthful enough to provide actual information, or if it will simply lead the player's character astray and teach her nothing of value. "
       }
     ],
     "instantChanges": [
@@ -32,11 +32,11 @@
       },
       {
         "title": "Unstable Energies",
-        "description": "Whenever a Sorcerer is required to roll on the Psychic Phenomena Table or the Perils of the Warp Table, he adds his Corruption Point total to the result of his roll, before any other relevant modifiers are applied."
+        "description": "Whenever a Sorcerer is required to roll on the Psychic Phenomena Table or the Perils of the Warp Table, she adds her Corruption Point total to the result of her roll, before any other relevant modifiers are applied."
       },
       {
         "title": "Arcane Ritualist",
-        "description": "The character my use known sorcerous powers as if he was a Psyker with a Psy Rating of half their unmodified Intelligence Bonus, rounded up (i.e. Unnatural Intelligence does not apply).\n\nWhen a Sorcerer uses a Sorcerous or Arcana power, he must use some sort of ritual. This can be tracing a pattern in the air, speaking a few words of power, drawing sigils in blood, or gesturing in a particular fashion. If he is unable to do this for any reason, the power is not activated.\n\nPsychic Powers that have a Focus Time of a Free Action or Reaction cannot normally be learned through Sorcerer Advances. Most sorcerers must undertake at least a brief ritual to manifest their power — such momentary manifestations are beyond them."
+        "description": "The character my use known sorcerous powers as if she was a Psyker with a Psy Rating of half their unmodified Intelligence Bonus, rounded up (i.e. Unnatural Intelligence does not apply).\n\nWhen a Sorcerer uses a Sorcerous or Arcana power, she must use some sort of ritual. This can be tracing a pattern in the air, speaking a few words of power, drawing sigils in blood, or gesturing in a particular fashion. If she is unable to do this for any reason, the power is not activated.\n\nPsychic Powers that have a Focus Time of a Free Action or Reaction cannot normally be learned through Sorcerer Advances. Most sorcerers must undertake at least a brief ritual to manifest their power — such momentary manifestations are beyond them."
       },
       {
         "title": "Warp-Tainted Psyker",
@@ -68,7 +68,7 @@
           "Intelligence",
           "Knowledge"
         ],
-        "benefit": "The Sorcerer has become a master of the forbidden arts.\n\n* __Arcane Ritualist:__ When using his sorcerous powers, he may use them with a Psy Rating equal to his full unmodified Intelligence Bonus.\n\n* __Warp-Tainted Psyker:__ The Pysker may boost their effective Psy Rating by an addition 1, to a maximum of +2.\n\nIn addition, they gain a +10 bonus to Daemonic Mastery Tests, and are immune to the effects of Daemonic Presence.",
+        "benefit": "The Sorcerer has become a master of the forbidden arts.\n\n* __Arcane Ritualist:__ When using her sorcerous powers, she may use them with a Psy Rating equal to her full unmodified Intelligence Bonus.\n\n* __Warp-Tainted Psyker:__ The Pysker may boost their effective Psy Rating by an addition 1, to a maximum of +2.\n\nIn addition, they gain a +10 bonus to Daemonic Mastery Tests, and are immune to the effects of Daemonic Presence.",
         "source": "Radical's Handbook"
       },
       {
@@ -84,7 +84,7 @@
           "Intelligence",
           "Knowledge"
         ],
-        "benefit": "The sorcerer may use his powers without the usual need for obvious vocalisations, gestures, and the like, simply enacting the patterns needed mentally by sheer dint of concentration and unyielding mental strength. The Sorcerer now may gain Psychic Powers that have a Focus Time of a Free Action or Reaction as Sorcerous Powers.",
+        "benefit": "The sorcerer may use her powers without the usual need for obvious vocalisations, gestures, and the like, simply enacting the patterns needed mentally by sheer dint of concentration and unyielding mental strength. The Sorcerer now may gain Psychic Powers that have a Focus Time of a Free Action or Reaction as Sorcerous Powers.",
         "source": "Radical's Handbook"
       },
       {
@@ -96,7 +96,7 @@
           "Toughness",
           "Knowledge"
         ],
-        "benefit": "In manifesting their powers, many sorcerers practice some form of self-mutilation in order to further augment and empower their incantations with their own suffering and bodily sacrifice. Each time an sorcerous power is unsuccessfully manifested, the sorcerer with this talent can opt to re-roll the dice at the cost of inflicting 1d5 Damage on themselves (Armour, Toughness Bonus, and other protections do not apply to this Damage).\n\nAn unfortunate side-effect is that it leaves the sorcerer's flesh a mangled mess of cuts and wounds in a state of constant recovery and open to infection. As a result, the sorcerer suffers -20 to resist the effects of diseases and poisons, and if wounded by a Toxic weapon, he suffers an additional 1d10 points of damage with no reduction from his Armour or Toughness Bonus.",
+        "benefit": "In manifesting their powers, many sorcerers practice some form of self-mutilation in order to further augment and empower their incantations with their own suffering and bodily sacrifice. Each time an sorcerous power is unsuccessfully manifested, the sorcerer with this talent can opt to re-roll the dice at the cost of inflicting 1d5 Damage on themselves (Armour, Toughness Bonus, and other protections do not apply to this Damage).\n\nAn unfortunate side-effect is that it leaves the sorcerer's flesh a mangled mess of cuts and wounds in a state of constant recovery and open to infection. As a result, the sorcerer suffers -20 to resist the effects of diseases and poisons, and if wounded by a Toxic weapon, she suffers an additional 1d10 points of damage with no reduction from her Armour or Toughness Bonus.",
         "source": "Radical's Handbook"
       }
     ]

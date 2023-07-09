@@ -230,7 +230,7 @@
           "guidanceSystem": "Guided",
           "availability": "Rare",
           "rating": "+20",
-          "description": "At the beginning of the torpedo's movement, one Explorer or NPC on the launching ship may make a Challenging (+0) Tech Use+Detection Test. Success means he may change the direction the torpedoes are moving by up to 45 degrees. For every degree of success, he may slow the torpedoes movement speed that Round by 1 VU. If an enemy vessel has previously used a Focused Augury Test to identify the torpedo tubes on the launching vessel, they will have identified the hallmarks of the guided torpedo system. In this case, a character on the target vessel may make a Arduous (-40) Tech Use Test. If this test succeeds, the target vessel seizes control of the guided torpedoes and may redirect them towards any target within their remaining flight range."
+          "description": "At the beginning of the torpedo's movement, one Explorer or NPC on the launching ship may make a Challenging (+0) Tech Use+Detection Test. Success means she may change the direction the torpedoes are moving by up to 45 degrees. For every degree of success, she may slow the torpedoes movement speed that Round by 1 VU. If an enemy vessel has previously used a Focused Augury Test to identify the torpedo tubes on the launching vessel, they will have identified the hallmarks of the guided torpedo system. In this case, a character on the target vessel may make a Arduous (-40) Tech Use Test. If this test succeeds, the target vessel seizes control of the guided torpedoes and may redirect them towards any target within their remaining flight range."
         },
         {
           "guidanceSystem": "Seeking",

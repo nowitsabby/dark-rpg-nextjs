@@ -26,7 +26,7 @@ title: Crafting
 
 †_Note in the case of Tech-Use, characters cannot create items they do not have access to designs for._
 
-It is possible—with the right skills and materials—for a character to create his own items: crafting basic gear and equipment like spears or storm-cloaks, brewing up herbal remedies and advanced drugs and medicines, or building advanced weapons and works of art. To create an item, a character needs three things: the right skill, materials, and time.
+It is possible—with the right skills and materials—for a character to create her own items: crafting basic gear and equipment like spears or storm-cloaks, brewing up herbal remedies and advanced drugs and medicines, or building advanced weapons and works of art. To create an item, a character needs three things: the right skill, materials, and time.
 
 ## Crafting skills
 
@@ -56,11 +56,11 @@ This skill allows a character to manufacture things, from inspiring sculpture to
 
 When creating an item, a character must first have access to the right materials. Whether these materials are on hand is up to the GM, though common sense should play a part (i.e., a character on a feral world is going to have access to many basic materials good for the Survival skill, but might have trouble finding the parts needed to make an autogun). Once it has been determined whether the materials are on hand, the GM then decides if the character needs to expend any resources acquiring them. As a general rule, when creating items using the Tech-Use skill (or the Medicae skill when creating advanced drugs, such as those not occurring naturally), characters must always buy materials. Items crafted with Survival, on the other hand, can other be made from "found" materials, such as fashioning a bow when in a forest, or making a spear from scrap metal in an underhive.
 
-When acquiring materials for crafting, determine the item's Availability and then decrease it by one level (i.e., Average items become Common, Common items become Plentiful, etc.). The character then makes a Requisition test to acquire the materials just as if he were acquiring an item. Once he has the materials, he can then try to create the item.
+When acquiring materials for crafting, determine the item's Availability and then decrease it by one level (i.e., Average items become Common, Common items become Plentiful, etc.). The character then makes a Requisition test to acquire the materials just as if she were acquiring an item. Once she has the materials, she can then try to create the item.
 
 ## Time
 
-Creating an item takes time and is always an Extended test set by the GM. The length of the test and the time it takes depends on the complexity of the item. While both these factors are up to the GM, he can use Table: Crafting Items as a guideline. The Game Master can also modify Crafting tests depending on factors such as the presence of assistants, the workshop or lab available, the levels of funding or materials available, and the quality of each. The Time listed in Table: Crafting Items are meant to represent the amount of time spent during each individual skill test, not the entire time taken to create the item.
+Creating an item takes time and is always an Extended test set by the GM. The length of the test and the time it takes depends on the complexity of the item. While both these factors are up to the GM, she can use Table: Crafting Items as a guideline. The Game Master can also modify Crafting tests depending on factors such as the presence of assistants, the workshop or lab available, the levels of funding or materials available, and the quality of each. The Time listed in Table: Crafting Items are meant to represent the amount of time spent during each individual skill test, not the entire time taken to create the item.
 
 ## Fruits of your Labour
 
