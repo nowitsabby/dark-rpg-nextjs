@@ -76,11 +76,16 @@
    color: rgba(255, 184, 108, 1) !important;
  } */
  
- table,
+ table {
+  background-color: rgb(12, 12, 12) !important;
+  padding: 2px 8px;
+ }
+
+
  th,
  td {
    background-color: rgb(12, 12, 12) !important;
-   border-bottom: 1px solid rgba(248, 248, 242, 0.8) !important;
+   border-bottom: 1px solid rgba(248, 248, 242, 0.5) !important;
    padding: 2px 8px;
  }
  

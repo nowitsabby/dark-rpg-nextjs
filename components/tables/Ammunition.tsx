@@ -6,7 +6,7 @@ import availability from '../util/Availability';
 import SrdMarkdown from '../util/SrdMarkdown';
 import FilterComponent from './components/FilterComponent';
 import TableLink from './components/TableLink';
-import { AmmunitionRecord } from '../types/AmmunitionRecord';
+import { AmmunitionRecord } from '../types/Records';
 
 export default function Ammunition({ rootPath, data }: { rootPath: string, data: AmmunitionRecord[] }) {
   const [filterText, setFilterText] = useState('');

@@ -1,11 +1,15 @@
 import AmmunitionEntry from '@/components/entries/AmmunitionEntry';
+import ArmourEntry from '@/components/entries/ArmourEntry';
+import BackgroundEntry from '@/components/entries/BackgroundEntry';
+import EquipmentEntry from '@/components/entries/EquipmentEntry';
+import TalentEntry from '@/components/entries/TalentEntry';
 import Actions, { ActionsTable } from '@/components/tables/Actions';
 import Ammunition from '@/components/tables/Ammunition';
 import Armour from '@/components/tables/Armour';
-import Backgrounds, { BackgroundsTable } from '@/components/tables/Backgrounds';
+import Backgrounds from '@/components/tables/Backgrounds';
 import CriticalDamage, { CriticalDamageTable } from '@/components/tables/CriticalDamage';
 import EliteAdvance, { EliteAdvanceRecord } from '@/components/tables/EliteAdvance';
-import Equipment, { EquipmentRecord } from '@/components/tables/Equipment';
+import Equipment from '@/components/tables/Equipment';
 import ForceFields, { FieldRecord } from '@/components/tables/ForceFields';
 import MeleeWeapons from '@/components/tables/MeleeWeapons';
 import Modifications, { ModRecord } from '@/components/tables/Modifications';
@@ -21,13 +25,12 @@ import StarshipEssential, { EssentialComponents } from '@/components/tables/Star
 import StarshipHulls from '@/components/tables/StarshipHulls';
 import StarshipSupplemental, { SupplementalComponents } from '@/components/tables/StarshipSupplemental';
 import StarshipWeapons, { WeaponComponents } from '@/components/tables/StarshipWeapons';
-import Talents, { TalentType } from '@/components/tables/Talents';
+import Talents from '@/components/tables/Talents';
 import TorpedoesAttackCraft, { TorpedoAttackCraft } from '@/components/tables/TorpedoesAttackCraft';
 import Traits, { TraitTable } from '@/components/tables/Traits';
-import { ArmourRecord } from '@/components/tables/components/ArmourGroupTable';
 import { StarshipHullRecord } from '@/components/tables/components/HullTable';
 import { MeleeWeaponRecord, RangedWeaponRecord } from '@/components/tables/components/WeaponGroupTable';
-import { AmmunitionRecord } from '@/components/types/AmmunitionRecord';
+import { AmmunitionRecord, ArmourRecord, BackgroundRecord, EquipmentRecord, TalentRecord } from '@/components/types/Records';
 import Document from '@/components/util/Document'
 import { DOC_TYPES, loadDocument } from '@/lib/srd'
 import path from 'path';
@@ -48,15 +51,19 @@ function DataTableComponent({ rootPath, component, data }: { rootPath: string, c
     case 'Armour':
       return <Armour rootPath={rootPath} data={ data as ArmourRecord[] } />
     case 'Backgrounds':
-      return <Backgrounds rootPath={rootPath} data={ data as BackgroundsTable[] }/>
+      return <Backgrounds rootPath={rootPath} data={ data as BackgroundRecord[] }/>
     case 'CriticalDamage':
       return <CriticalDamage data={ data as CriticalDamageTable } />
     case 'EliteAdvance':
       return <EliteAdvance rootPath={rootPath} data={ data as EliteAdvanceRecord } />
     case 'Equipment':
       return <Equipment rootPath={rootPath} data={ data as EquipmentRecord[] } />
+    case 'ForceFields':
+      return <ForceFields rootPath={rootPath} data={ data as FieldRecord[] } />
     case 'MeleeWeapons': 
       return <MeleeWeapons rootPath={rootPath} data={ data as MeleeWeaponRecord[] }/>
+    case 'Modifications':
+      return <Modifications rootPath={rootPath} data={ data as ModRecord[] } />
     case 'NavigatorPowers':
       return <NavigatorPowers data={ data as NavigatorPowerType[] } />
     case 'Origins':
@@ -82,7 +89,7 @@ function DataTableComponent({ rootPath, component, data }: { rootPath: string, c
     case 'StarshipWeapons':
       return <StarshipWeapons rootPath={rootPath} data={ data as WeaponComponents } />
     case 'Talents':
-      return <Talents rootPath={rootPath} data={ data as TalentType[] } />
+      return <Talents rootPath={rootPath} data={ data as TalentRecord[] } />
     case 'TorpedoesAttackCraft':
       return <TorpedoesAttackCraft rootPath={rootPath} data={ data as TorpedoAttackCraft } />
     case 'Traits':
@@ -100,17 +107,25 @@ function DataEntryComponent({ rootPath, component, data, id }: {
     case 'Ammunition': 
       return <AmmunitionEntry rootPath={rootPath} data={ data as AmmunitionRecord[] } id={id}/>
     case 'Armour':
-      return <Armour rootPath={rootPath} data={ data as ArmourRecord[] } />
+      return <ArmourEntry rootPath={rootPath} data={ data as ArmourRecord[] } id={id} />
     case 'Backgrounds':
-      return <Backgrounds rootPath={rootPath} data={ data as BackgroundsTable[] }/>
+      return <BackgroundEntry rootPath={rootPath} data={ data as BackgroundRecord[] } id={id}/>
     case 'CriticalDamage':
       return <CriticalDamage data={ data as CriticalDamageTable } />
     case 'EliteAdvance':
-      return <EliteAdvance rootPath={rootPath} data={ data as EliteAdvanceRecord } />
+      if ((data as EliteAdvanceRecord).talents) {
+        return <TalentEntry rootPath={rootPath} data={ (data as EliteAdvanceRecord).talents as TalentRecord[] } id={id}/>
+      } else {
+        return <EliteAdvance rootPath={rootPath} data={ data as EliteAdvanceRecord } />
+      }
     case 'Equipment':
-      return <Equipment rootPath={rootPath} data={ data as EquipmentRecord[] } />
+      return <EquipmentEntry rootPath={rootPath} data={ data as EquipmentRecord[] }id={id} />
+    case 'ForceFields':
+      return <ForceFields rootPath={rootPath} data={ data as FieldRecord[] } />
     case 'MeleeWeapons': 
       return <MeleeWeapons rootPath={rootPath} data={ data as MeleeWeaponRecord[] }/>
+    case 'Modifications':
+      return <Modifications rootPath={rootPath} data={ data as ModRecord[] } />
     case 'NavigatorPowers':
       return <NavigatorPowers data={ data as NavigatorPowerType[] } />
     case 'Origins':
@@ -136,7 +151,7 @@ function DataEntryComponent({ rootPath, component, data, id }: {
     case 'StarshipWeapons':
       return <StarshipWeapons rootPath={rootPath} data={ data as WeaponComponents } />
     case 'Talents':
-      return <Talents rootPath={rootPath} data={ data as TalentType[] } />
+      return <TalentEntry rootPath={rootPath} data={ data as TalentRecord[] } id={id}/>
     case 'TorpedoesAttackCraft':
       return <TorpedoesAttackCraft rootPath={rootPath} data={ data as TorpedoAttackCraft } />
     case 'Traits':

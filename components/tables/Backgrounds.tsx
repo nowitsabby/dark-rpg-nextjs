@@ -3,89 +3,49 @@
 import DataTable from 'react-data-table-component';
 import SrdMarkdown from '../util/SrdMarkdown';
 import TableLink from './components/TableLink';
+import { BackgroundRecord } from '../types/Records';
+import { choiceArrayToString } from '../util/helpers';
 
-export interface BackgroundsTable {
-  name: string;
-  id: string;
-  skills: Array<string | Array<string | string[]>>;
-  talents: Array<string | Array<string | string[]>>;
-  equipment: Array<string | Array<string | string[]>>;
-  bonuses: Array<{
-    title: string;
-    effect: string;
-  }>;
-  aptitude: string[];
-  traits: string[] | string | null;
-}
-
-export default function Backgrounds({ rootPath, data }: { rootPath: string, data: BackgroundsTable[] }) {
-  const choiceArrayToString = (
-    choices: Array<string | Array<string | string[]>>
-  ) => {
-    let retVal = '';
-    choices.forEach((i) => {
-      if (Array.isArray(i)) {
-        i.forEach((j) => {
-          if (Array.isArray(j)) {
-            retVal = retVal.concat('(', j.join(' and '), '), ');
-          } else {
-            retVal = retVal.concat(j, ' or ');
-          }
-        });
-        if (retVal.endsWith(' or ')) {
-          retVal = retVal.slice(0, retVal.length - 4).concat(', ');
-        }
-      } else {
-        retVal = retVal.concat(i, ', ');
-      }
-    });
-
-    retVal = retVal.trim();
-    if (retVal.endsWith(',')) {
-      retVal = retVal.slice(0, retVal.length - 1);
-    }
-    return retVal.replaceAll('{X}', 'Pick One');
-  };
-
+export default function Backgrounds({ rootPath, data }: { rootPath: string, data: BackgroundRecord[] }) {
   const columns = [
     {
       name: 'Background',
       grow: 2,
       wrap: true,
       allowOverflow: true,
-      selector: (row: BackgroundsTable) => row.name,
-      format: (row: BackgroundsTable) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
+      selector: (row: BackgroundRecord) => row.name,
+      format: (row: BackgroundRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Skills',
       grow: 3,
       wrap: true,
-      selector: (row: BackgroundsTable) => choiceArrayToString(row.skills),
+      selector: (row: BackgroundRecord) => choiceArrayToString(row.skills),
     },
     {
       name: 'Talents',
       grow: 2,
       wrap: true,
-      selector: (row: BackgroundsTable) => choiceArrayToString(row.talents),
+      selector: (row: BackgroundRecord) => choiceArrayToString(row.talents),
     },
     {
       name: 'Equipment',
       grow: 3,
       wrap: true,
-      selector: (row: BackgroundsTable) => choiceArrayToString(row.equipment),
+      selector: (row: BackgroundRecord) => choiceArrayToString(row.equipment),
     },
     {
       name: 'Bonuses',
       grow: 4,
       wrap: true,
-      selector: (row: BackgroundsTable) => {
+      selector: (row: BackgroundRecord) => {
         let retVal = '';
         row.bonuses.forEach((value) => {
           retVal = retVal.concat(`${value.title}: ${value.effect}`);
         });
         return retVal;
       },
-      format: (row: BackgroundsTable) => {
+      format: (row: BackgroundRecord) => {
         let retVal = '';
         row.bonuses.forEach((value) => {
           retVal = retVal.concat(`__${value.title}__: ${value.effect}\n\n`);
@@ -95,16 +55,16 @@ export default function Backgrounds({ rootPath, data }: { rootPath: string, data
     },
     {
       name: 'Aptitude',
-      grow: 1,
+      grow: 2,
       wrap: true,
-      selector: (row: BackgroundsTable) => row.aptitude.join(' or '),
+      selector: (row: BackgroundRecord) => row.aptitude.join(' or '),
     },
     {
       name: 'Trait(s)',
       grow: 2,
       wrap: true,
-      selector: (row: BackgroundsTable) => JSON.stringify(row.traits),
-      format: (row: BackgroundsTable) => {
+      selector: (row: BackgroundRecord) => JSON.stringify(row.traits),
+      format: (row: BackgroundRecord) => {
         if (Array.isArray(row.traits)) {
           return (
             <SrdMarkdown text={`One of: \n\n${row.traits.join('\n\n')}`} />
@@ -116,6 +76,6 @@ export default function Backgrounds({ rootPath, data }: { rootPath: string, data
   ];
 
   return (
-    <DataTable columns={columns} data={data} striped />
+    <DataTable columns={columns} data={data} striped  dense />
   );
 }

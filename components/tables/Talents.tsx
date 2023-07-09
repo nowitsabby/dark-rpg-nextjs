@@ -5,21 +5,11 @@ import DataTable from 'react-data-table-component';
 import FilterComponent from './components/FilterComponent';
 import SrdMarkdown from '../util/SrdMarkdown';
 import TableLink from './components/TableLink';
+import { TalentRecord } from '../types/Records';
 
-export interface TalentType {
-  name: string;
-  id: string;
-  specialist: boolean;
-  specialisations: string[] | null;
-  tier: number | null;
-  aptitudes: string[] | null;
-  prerequisites: string[] | null;
-  alignment: string | null;
-  benefit: string;
-  source: string;
-}
 
-export default function Talents({ rootPath, data }: { rootPath: string, data: TalentType[] }) {
+
+export default function Talents({ rootPath, data }: { rootPath: string, data: TalentRecord[] }) {
   const [filterText, setFilterText] = useState('');
   const subHeaderComponentMemo = useMemo(() => {
     return (
@@ -36,42 +26,42 @@ export default function Talents({ rootPath, data }: { rootPath: string, data: Ta
       grow: 0.25,
       sortable: true,
       wrap: true,
-      selector: (row: TalentType) => (row.tier ? row.tier : 0),
+      selector: (row: TalentRecord) => (row.tier ? row.tier : 0),
     },
     {
       name: 'Talent',
       grow: 2,
       sortable: true,
       wrap: true,
-      selector: (row: TalentType) => row.name,
-      format: (row: TalentType) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
+      selector: (row: TalentRecord) => row.name,
+      format: (row: TalentRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Specialist',
       grow: 1,
       sortable: true,
       wrap: true,
-      selector: (row: TalentType) => (row.specialist ? 'Yes' : 'No'),
+      selector: (row: TalentRecord) => (row.specialist ? 'Yes' : 'No'),
     },
     {
       name: 'Prerequisites',
       grow: 4,
       wrap: true,
-      selector: (row: TalentType) =>
+      selector: (row: TalentRecord) =>
         row.prerequisites ? row.prerequisites.join(', ') : '-',
     },
     {
       name: 'Aptitudes',
       grow: 2,
       wrap: true,
-      selector: (row: TalentType) =>
+      selector: (row: TalentRecord) =>
         row.aptitudes ? row.aptitudes.join(', ') : '-',
     },
     {
       name: 'Alignment',
       grow: 1,
       wrap: true,
-      selector: (row: TalentType) => (row.alignment ? row.alignment : '-'),
+      selector: (row: TalentRecord) => (row.alignment ? row.alignment : '-'),
     },
   ];
 

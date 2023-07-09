@@ -1,10 +1,10 @@
 'use client'
 
 import { useEffect, useState } from 'react';
-import { ArmourGroupTable, ArmourRecord } from './components/ArmourGroupTable';
+import { ArmourGroupTable } from './components/ArmourGroupTable';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
-
 import 'react-tabs/style/react-tabs.css';
+import { ArmourRecord } from '../types/Records';
 
 export default function Armour({ rootPath, data }: { rootPath: string, data: ArmourRecord[] }) {
   const [armourGroups, setArmourGroups] = useState([] as string[]);

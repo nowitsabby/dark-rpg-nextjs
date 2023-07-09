@@ -5,17 +5,8 @@ import DataTable from 'react-data-table-component';
 import availability from '../util/Availability';
 import SrdMarkdown from '../util/SrdMarkdown';
 import FilterComponent from './components/FilterComponent';
-import Link from 'next/link';
 import TableLink from './components/TableLink';
-
-export interface EquipmentRecord {
-  name: string;
-  id: string;
-  weight: string;
-  availability: string;
-  description: string;
-  source: string;
-}
+import { EquipmentRecord } from '../types/Records';
 
 export default function Equipment({ rootPath, data }: { rootPath: string, data: EquipmentRecord[] }) {
 

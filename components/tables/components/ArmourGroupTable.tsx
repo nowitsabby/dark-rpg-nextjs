@@ -4,19 +4,7 @@ import availability from '../../util/Availability';
 import FilterComponent from './FilterComponent';
 import SrdMarkdown from '../../util/SrdMarkdown';
 import TableLink from './TableLink';
-
-export interface ArmourRecord {
-  name: string;
-  id: string;
-  type: string;
-  locations: string[];
-  ap: number;
-  maxAg: number | null;
-  description: string;
-  weight: string;
-  availability: string;
-  source: string;
-}
+import { ArmourRecord } from '@/components/types/Records';
 
 export function ArmourGroupTable({
   rootPath,
@@ -95,28 +83,26 @@ export function ArmourGroupTable({
       title={<h4>{group}</h4>}
       columns={columns}
       data={
-        Array.isArray(tableData)
-          ? tableData.filter((item) => {
-              if (filterText) {
-                return (
-                  item.name
-                    ?.toLowerCase()
-                    .includes(filterText.toLowerCase()) ||
-                  item.locations
-                    ?.join(' ')
-                    .toLowerCase()
-                    .includes(filterText.toLowerCase()) ||
-                  item.availability
-                    ?.toLowerCase()
-                    .includes(filterText.toLowerCase()) ||
-                  item.description
-                    ?.toLowerCase()
-                    .includes(filterText.toLowerCase())
-                );
-              }
-              return true;
-            })
-          : []
+        tableData.filter((item) => {
+          if (filterText) {
+            return (
+              item.name
+                ?.toLowerCase()
+                .includes(filterText.toLowerCase()) ||
+              item.locations
+                ?.join(' ')
+                .toLowerCase()
+                .includes(filterText.toLowerCase()) ||
+              item.availability
+                ?.toLowerCase()
+                .includes(filterText.toLowerCase()) ||
+              item.description
+                ?.toLowerCase()
+                .includes(filterText.toLowerCase())
+            );
+          }
+          return true;
+        })
       }
       actions={subHeaderComponentMemo}
       expandableRows

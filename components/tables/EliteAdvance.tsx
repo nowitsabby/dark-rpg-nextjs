@@ -2,8 +2,9 @@
 
 import { AdvanceTable, AdvanceType } from './components/AdvanceTable';
 import SrdMarkdown from '../util/SrdMarkdown';
-import Talents, { TalentType } from './Talents';
+import Talents from './Talents';
 import Stack from '@mui/material/Stack';
+import { TalentRecord } from '../types/Records';
 
 export interface EliteAdvanceRecord {
   eliteAdvance: string;
@@ -12,7 +13,7 @@ export interface EliteAdvanceRecord {
   instantChanges: string[];
   information: { title: string; description: string }[] | null | undefined;
   advances: AdvanceType[] | null | undefined;
-  talents: TalentType[] | null | undefined;
+  talents: TalentRecord[] | null | undefined;
 }
 
 export default function EliteAdvance({ rootPath, data }: { rootPath: string, data: EliteAdvanceRecord }) {
