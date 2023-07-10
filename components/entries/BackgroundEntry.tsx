@@ -25,7 +25,7 @@ export default function BackgroundEntry({
         <EntryDatum label='Equipment' value={`${choiceArrayToString(datum.equipment)}`} />
         <EntryDatum 
           label='Bonuses' 
-          text={
+          value={
             <SrdMarkdown 
               text={datum.bonuses.map((value) => `__${value.title}__: ${value.effect}`).join('\n\n')} 
             /> 
@@ -34,7 +34,7 @@ export default function BackgroundEntry({
         <EntryDatum label='Aptitude' value={datum.aptitude.join(' or ')} />
         <EntryDatum 
           label='Trait(s)' 
-          text={
+          value={
             Array.isArray(datum.traits) ? 
             `One of: ${datum.traits.join(', ')}` :
             datum.traits ? datum.traits : '-'

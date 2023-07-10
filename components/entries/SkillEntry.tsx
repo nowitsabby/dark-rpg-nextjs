@@ -31,7 +31,7 @@ export default function SkillEntry({
         <EntryDatum label='Primary Characteristic' value={`${datum.primaryCharacteristic}`} />
         <EntryDatum 
           label='Alternative Characteristic(s)' 
-          text={datum.alternateCharacteristics
+          value={datum.alternateCharacteristics
             ? datum.alternateCharacteristics.join(', ')
             : '-'} />
         <EntryDatum label='Aptitudes' value={datum.aptitudes ? datum.aptitudes.join(', ') : '-'} />

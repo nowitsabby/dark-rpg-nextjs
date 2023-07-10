@@ -21,7 +21,7 @@ export default function RoleEntry({
       <Entry rootPath={rootPath} name={datum.name} description='' >
         <EntryDatum 
           label='Bonus' 
-          text={
+          value={
             <div>
               <strong>{datum.bonus.title}: </strong><span>{datum.bonus.effect}</span>
             </div>

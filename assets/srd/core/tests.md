@@ -1,7 +1,7 @@
 ---
-title: The Core Mechanic - Tests
+title: The Core Mechanic & Tests
 ---
-# The Core Mechanic - Tests
+# The Core Mechanic & Tests
 
 Whenever a character attempts a task that has some chance of failure, the player who controls that character makes a percentile roll \(d100\) called a test to determine the outcome\. The following steps are used to determine if the character succeeds in a test: 
 

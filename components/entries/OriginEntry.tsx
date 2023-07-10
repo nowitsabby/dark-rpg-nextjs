@@ -34,7 +34,7 @@ export default function OriginEntry({
         <EntryDatum label='Fate Threshold' value={`${datum.fateThreshold} (Blessing ${datum.blessing}+)`}/>
         <EntryDatum 
           label='Bonus' 
-          text={
+          value={
             <div>
               <strong>{datum.bonus.title}: </strong><span>{datum.bonus.effect}</span>
             </div>

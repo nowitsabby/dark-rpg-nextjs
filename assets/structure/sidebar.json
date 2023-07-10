@@ -1,6 +1,6 @@
 {
     "core_rules": {
-        "core_mechanic_-_tests": "/core/tests",
+        "core_mechanic_&_tests": "/core/tests",
         "characteristics": "/core/characteristics",
         "dice": "/core/dice",
         "movement": "/core/movement",
