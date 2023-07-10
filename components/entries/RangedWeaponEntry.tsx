@@ -18,15 +18,15 @@ export default function RangedWeaponEntry({
   return (
     datum && (
       <Entry rootPath={rootPath} name={datum.name} description={datum.description} >
-        <EntryDatum label='Range' text={datum.range} />
-        <EntryDatum label='Rate of Fire' text={datum.rateOfFire} />
-        <EntryDatum label='Damage' text={datum.damage} />
-        <EntryDatum label='Penetration' text={datum.penetration} />
-        <EntryDatum label='Clip Size' text={datum.clip} />
-        <EntryDatum label='Reload Time' text={datum.reload} />
-        <EntryDatum label='Special Qualities' text={datum.special} />
-        <EntryDatum label='Weight' text={datum.weight} />
-        <EntryDatum label='Availability' text={datum.availability} />
+        <EntryDatum label='Range' value={datum.range} />
+        <EntryDatum label='Rate of Fire' value={datum.rateOfFire} />
+        <EntryDatum label='Damage' value={datum.damage} />
+        <EntryDatum label='Penetration' value={datum.penetration} />
+        <EntryDatum label='Clip Size' value={datum.clip} />
+        <EntryDatum label='Reload Time' value={datum.reload} />
+        <EntryDatum label='Special Qualities' value={datum.special} />
+        <EntryDatum label='Weight' value={datum.weight} />
+        <EntryDatum label='Availability' value={datum.availability} />
       </Entry>
     )
   );

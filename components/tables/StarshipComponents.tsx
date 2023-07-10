@@ -5,16 +5,8 @@ import DataTable from 'react-data-table-component';
 import FilterComponent from './components/FilterComponent';
 import SrdMarkdown from '../util/SrdMarkdown';
 import TableLink from './components/TableLink';
-
-export interface StarshipComponentRecord {
-  name: string;
-  id: string;
-  hulls: string[];
-  power: number;
-  space: number;
-  shipPoints: number;
-  special: { title: string; effect: string }[];
-}
+import { StarshipComponentRecord } from '../types/Records';
+import { componentPowerString, hullString } from '../util/helpers';
 
 export default function StarshipComponents({ rootPath, data }: { rootPath: string, data: StarshipComponentRecord[] }) {
   const [filterText, setFilterText] = useState('');
@@ -35,20 +27,18 @@ export default function StarshipComponents({ rootPath, data }: { rootPath: strin
       format: (row: StarshipComponentRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
-      name: 'Appropriate Hull Types',
+      name: 'Hulls',
       sortable: true,
       wrap: true,
       selector: (row: StarshipComponentRecord) => row.hulls.join(', '),
-      format: (row: StarshipComponentRecord) =>
-        row.hulls.length === 6 ? 'All Ships' : row.hulls.join(', '),
+      format: (row: StarshipComponentRecord) => hullString(row.hulls),
     },
     {
       name: 'Power',
       sortable: true,
       wrap: true,
       selector: (row: StarshipComponentRecord) => row.power,
-      format: (row: StarshipComponentRecord) =>
-        `${row.power > 0 ? '+' : ''}${row.power}`,
+      format: (row: StarshipComponentRecord) => componentPowerString(row.power),
     },
     {
       name: 'Space',

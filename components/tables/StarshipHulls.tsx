@@ -1,10 +1,10 @@
 'use client'
 
 import { useEffect, useState } from 'react';
-import { HullTable, StarshipHullRecord } from './components/HullTable';
+import { HullTable } from './components/HullTable';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
-
 import 'react-tabs/style/react-tabs.css';
+import { StarshipHullRecord } from '../types/Records';
 
 export default function StarshipHulls({ rootPath, data }: { rootPath: string, data: StarshipHullRecord[] }) {
   const [groups, setGroups] = useState([] as string[]);

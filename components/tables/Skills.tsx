@@ -4,26 +4,11 @@ import { useMemo, useState } from 'react';
 import DataTable from 'react-data-table-component';
 import abbreviation from '../util/Abbreviation';
 import FilterComponent from './components/FilterComponent';
-import SrdMarkdown from '../util/SrdMarkdown';
-import Stack from '@mui/material/Stack';
 import TableLink from './components/TableLink';
+import { SkillRecord } from '../types/Records';
+import SkillInfo from './components/SkillInfo';
 
-export interface SkillsTable {
-  name: string;
-  id: string;
-  specialist: boolean;
-  specialisations: string[] | null;
-  primaryCharacteristic: string;
-  aptitudes: string[];
-  descriptors: string[] | null;
-  alternateCharacteristics: string[] | null;
-  skillUse: string;
-  description: string;
-  exampleModifiers: string;
-  specialUses: string[] | null;
-}
-
-export default function Skills({ rootPath, data }: { rootPath: string, data: SkillsTable[] }) {
+export default function Skills({ rootPath, data }: { rootPath: string, data: SkillRecord[] }) {
   const [filterText, setFilterText] = useState('');
 
   const subHeaderComponentMemo = useMemo(() => {
@@ -40,80 +25,55 @@ export default function Skills({ rootPath, data }: { rootPath: string, data: Ski
       name: 'Skill',
       grow: 1,
       wrap: true,
-      selector: (row: SkillsTable) =>
+      selector: (row: SkillRecord) =>
         `${row.name} ${row.primaryCharacteristic} ${abbreviation(
           row.primaryCharacteristic
         )}`,
-        format: (row: SkillsTable) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
+        format: (row: SkillRecord) => (
+          <TableLink rootPath={rootPath} id={row.id} name={`${row.name} (${abbreviation(row.primaryCharacteristic)})`} />
+        ),
     },
     {
       name: 'Specialist',
       grow: 1,
       wrap: true,
-      selector: (row: SkillsTable) => (row.specialist ? 'Yes' : 'No'),
+      selector: (row: SkillRecord) => (row.specialist ? 'Yes' : 'No'),
     },
     {
       name: 'Aptitudes',
       grow: 1,
       wrap: true,
-      selector: (row: SkillsTable) => row.aptitudes.join(', '),
+      selector: (row: SkillRecord) => row.aptitudes.join(', '),
+    },
+    {
+      name: 'Alignment',
+      grow: 1,
+      wrap: true,
+      selector: (row: SkillRecord) => row.alignment,
     },
     {
       name: 'Descriptors',
       grow: 2,
       wrap: true,
-      selector: (row: SkillsTable) =>
+      selector: (row: SkillRecord) =>
         row.descriptors ? row.descriptors.join(', ') : '-',
     },
     {
-      name: 'Skill Use',
+      name: 'Use',
       grow: 2,
       wrap: true,
-      selector: (row: SkillsTable) => row.skillUse,
+      selector: (row: SkillRecord) => row.skillUse,
     },
     {
-      name: 'Alt. Characteristics',
+      name: 'Alt. Char.',
       grow: 2,
       wrap: true,
-      selector: (row: SkillsTable) =>
+      selector: (row: SkillRecord) =>
         row.alternateCharacteristics
           ? row.alternateCharacteristics.join(', ')
           : '-',
     },
   ];
-
-  const SkillInfo = ({
-    specialisations,
-    description,
-    exampleModifiers,
-    specialUses,
-  }: {
-    specialisations: string[] | null;
-    description: string;
-    exampleModifiers: string;
-    specialUses: string[] | null;
-  }) => (
-    <Stack>
-      {specialisations && (
-        <SrdMarkdown text={`_${specialisations.join(', ')}_`} />
-      )}
-      <Stack direction="row" style={{ alignItems: 'start' }}>
-        <Stack style={{ width: '60%', borderRight: '1px solid' }}>
-          <SrdMarkdown text={description} />
-          {specialUses && (
-            <div>
-              <strong>Special Uses</strong>
-              <SrdMarkdown text={specialUses.join('\n\n')} />
-            </div>
-          )}
-        </Stack>
-        <div style={{ width: '40%', padding: '8px' }}>
-          <strong>Example Modifiers</strong>
-          <SrdMarkdown text={exampleModifiers} />
-        </div>
-      </Stack>
-    </Stack>
-  );
 
   return (
     <DataTable

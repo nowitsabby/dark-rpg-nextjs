@@ -148,7 +148,7 @@
     },
     {
       "name": "Chameleon Hull†",
-      "id": "chameleon_hull__l",
+      "id": "chameleon_hull",
       "hulls": [
         "Transports",
         "Raiders",

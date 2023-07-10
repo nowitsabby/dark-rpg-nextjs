@@ -1,11 +1,10 @@
 'use client'
 
 import StarshipComponents, {
-  StarshipComponentRecord,
 } from './StarshipComponents';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
-
 import 'react-tabs/style/react-tabs.css';
+import { StarshipComponentRecord } from '../types/Records';
 
 export interface EssentialComponents {
   plasmaDrives: StarshipComponentRecord[];
@@ -17,6 +16,8 @@ export interface EssentialComponents {
   crewQuarter: StarshipComponentRecord[];
   augurArrays: StarshipComponentRecord[];
 }
+
+export type EssentialComponentsKey = keyof EssentialComponents;
 
 export default function StarshipEssential({ rootPath, data }: { rootPath: string, data: EssentialComponents }) {
   return (
@@ -34,49 +35,49 @@ export default function StarshipEssential({ rootPath, data }: { rootPath: string
 
       <TabPanel>
         <StarshipComponents
-          rootPath={rootPath}
-            data={data.plasmaDrives}
-          />
+          rootPath={`${rootPath}/plasma_drives`}
+          data={data.plasmaDrives}
+        />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
-          rootPath={rootPath}
-            data={data.warpEngines}
-          />
+          rootPath={`${rootPath}/warp_engines`}
+          data={data.warpEngines}
+        />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
-          rootPath={rootPath}
-            data={data.gellerFields}
-          />
+          rootPath={`${rootPath}/geller_fields`}
+          data={data.gellerFields}
+        />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
-          rootPath={rootPath}
+          rootPath={`${rootPath}/void_shields`}
           data={data.voidShields}
         />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
-          rootPath={rootPath}
+          rootPath={`${rootPath}/bridges`}
           data={data.bridges}
         />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
-          rootPath={rootPath}
+          rootPath={`${rootPath}/life_sustainers`}
           data={data.lifeSustainers}
         />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
-          rootPath={rootPath}
+          rootPath={`${rootPath}/crew_quarter`}
           data={data.crewQuarter}
         />
       </TabPanel>
       <TabPanel>
         <StarshipComponents
-          rootPath={rootPath}
+          rootPath={`${rootPath}/augur_arrays`}
           data={data.augurArrays}
         />
       </TabPanel>

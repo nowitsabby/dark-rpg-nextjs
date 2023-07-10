@@ -3,20 +3,15 @@
 import DataTable from 'react-data-table-component';
 import SrdMarkdown from '../util/SrdMarkdown';
 import TableLink from './components/TableLink';
+import { TraitRecord } from '../types/Records';
 
-export interface TraitTable {
-  name: string;
-  id: string;
-  description: string;
-}
-
-export default function Traits({ rootPath, data }: { rootPath: string, data: TraitTable[] }) {
+export default function Traits({ rootPath, data }: { rootPath: string, data: TraitRecord[] }) {
   const columns = [
     {
       name: 'Trait',
       allowOverflow: true,
-      selector: (row: TraitTable) => row.name,
-      format: (row: TraitTable) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
+      selector: (row: TraitRecord) => row.name,
+      format: (row: TraitRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
   ];
   return (
@@ -25,7 +20,6 @@ export default function Traits({ rootPath, data }: { rootPath: string, data: Tra
       data={data}
       striped
       expandableRows
-      expandableRowExpanded={() => true}
       expandableRowsComponent={({ data: row }) => (
         <div style={{ padding: '4px' }}>
           <SrdMarkdown text={row.description} />

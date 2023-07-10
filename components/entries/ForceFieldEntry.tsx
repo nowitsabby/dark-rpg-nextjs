@@ -18,9 +18,9 @@ export default function ForceFieldEntry({
   return (
     datum && (
       <Entry rootPath={rootPath} name={datum.name} description={datum.description} >
-        <EntryDatum label='Protection Rating' text={`${datum.protectionRating}`} />
-        <EntryDatum label='Weight' text={datum.weight} />
-        <EntryDatum label='Availability' text={datum.availability} />
+        <EntryDatum label='Protection Rating' value={`${datum.protectionRating}`} />
+        <EntryDatum label='Weight' value={datum.weight} />
+        <EntryDatum label='Availability' value={datum.availability} />
       </Entry>
     )
   );

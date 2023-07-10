@@ -448,7 +448,7 @@
     },
     {
       "name": "Emergency Energy Reserves†",
-      "id": "emergency_energy_reserves__l",
+      "id": "emergency_energy_reserves",
       "hulls": [
         "Transports",
         "Raiders",
@@ -470,7 +470,7 @@
     },
     {
       "name": "Emergency Energy Reserves†",
-      "id": "emergency_energy_reserves__l",
+      "id": "emergency_energy_reserves",
       "hulls": [
         "Light Cruisers",
         "Cruisers"
@@ -584,7 +584,7 @@
     },
     {
       "name": "Witch Augur†",
-      "id": "witch_augur__l",
+      "id": "witch_augur",
       "hulls": [
         "Transports",
         "Raiders",

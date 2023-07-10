@@ -1,12 +1,14 @@
 'use client'
 
-import Grid from "@mui/material/Grid";
-
-export default function EntryDatum({ label, text }: { label: string, text: string | React.ReactNode }) {
+export default function EntryDatum({ label, value }: { label: string, value: string | string[] | React.ReactNode }) {
   return (
     <tr>
         <td><strong>{label}</strong></td>
-        <td style={{ width: '100%' }}><span>{text}</span></td>
+        {
+          Array.isArray(value) ? 
+            value.map((v) => (<td key={v} style={{ width: '40%' }}><span>{v}</span></td>)) :
+          <td style={{ width: '80%' }}><span>{value}</span></td>
+        }
     </tr>
   );
 }

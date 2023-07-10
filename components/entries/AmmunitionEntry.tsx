@@ -18,8 +18,8 @@ export default function AmmunitionEntry({
   return (
     datum && (
       <Entry rootPath={rootPath} name={datum.name} description={datum.effect} >
-        <EntryDatum label='Used With' text={datum.usedWith.join('; ')} />
-        <EntryDatum label='Availability' text={datum.availability} />
+        <EntryDatum label='Used With' value={datum.usedWith.join('; ')} />
+        <EntryDatum label='Availability' value={datum.availability} />
       </Entry>
     )
   );

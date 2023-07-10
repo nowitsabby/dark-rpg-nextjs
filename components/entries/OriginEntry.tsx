@@ -1,6 +1,6 @@
 'use client'
 
-import { OriginsRecord } from '../types/Records';
+import { OriginRecord } from '../types/Records';
 import Entry from './components/Entry';
 import EntryDatum from './components/EntryDatum';
 
@@ -10,7 +10,7 @@ export default function OriginEntry({
   id 
 }: { 
   rootPath: string,
-  data: OriginsRecord[],
+  data: OriginRecord[],
   id: string }) {
 
   const datum = data.find((value) => value.id === id);
@@ -18,7 +18,7 @@ export default function OriginEntry({
   return (
     datum && (
       <Entry rootPath={rootPath} name={datum.name} description='' >
-        <EntryDatum label='Characteristic Modifiers' text={
+        <EntryDatum label='Characteristic Modifiers' value={
           <>
             <div>
               <strong>+ </strong><span>{datum.characteristicModifiers.plus[0]}</span>
@@ -31,17 +31,17 @@ export default function OriginEntry({
             </div>
           </>} 
         />
-        <EntryDatum label='Fate Threshold' text={`${datum.fateThreshold} (Blessing ${datum.blessing}+)`}/>
+        <EntryDatum label='Fate Threshold' value={`${datum.fateThreshold} (Blessing ${datum.blessing}+)`}/>
         <EntryDatum 
-          label='Bonuses' 
+          label='Bonus' 
           text={
             <div>
               <strong>{datum.bonus.title}: </strong><span>{datum.bonus.effect}</span>
             </div>
           } 
         />
-        <EntryDatum label='Aptitude' text={datum.aptitude} />
-        <EntryDatum label='Wounds' text={`${datum.wounds} + 1d5`} />
+        <EntryDatum label='Aptitude' value={datum.aptitude} />
+        <EntryDatum label='Wounds' value={`${datum.wounds} + 1d5`} />
       </Entry>
     )
   );

@@ -38,7 +38,6 @@ export function AttackCraftTable({
       name: 'Craft',
       wrap: true,
       selector: (row: AttackCraftRecord) => row.name,
-      format: (row: AttackCraftRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Speed',

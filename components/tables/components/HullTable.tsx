@@ -3,22 +3,7 @@ import DataTable from 'react-data-table-component';
 import FilterComponent from './FilterComponent';
 import SrdMarkdown from '../../util/SrdMarkdown';
 import TableLink from './TableLink';
-
-export interface StarshipHullRecord {
-  name: string;
-  id: string;
-  class: string;
-  speed: number;
-  manoeuvrability: number;
-  detection: number;
-  hull: number;
-  armour: number;
-  turret: number;
-  space: number;
-  shipPoints: number;
-  weapons: string[];
-  special: { title: string; effect: string }[];
-}
+import { StarshipHullRecord } from '@/components/types/Records';
 
 export function HullTable({
   rootPath,
@@ -65,7 +50,7 @@ export function HullTable({
       selector: (row: StarshipHullRecord) => row.detection,
     },
     {
-      name: 'Hull Integrity',
+      name: 'Hull',
       sortable: true,
       wrap: true,
       selector: (row: StarshipHullRecord) => row.hull,
@@ -77,7 +62,7 @@ export function HullTable({
       selector: (row: StarshipHullRecord) => row.armour,
     },
     {
-      name: 'Turret Rating',
+      name: 'Turret',
       sortable: true,
       wrap: true,
       selector: (row: StarshipHullRecord) => row.turret,
@@ -119,25 +104,23 @@ export function HullTable({
       title={<h4>{group}</h4>}
       columns={columns}
       data={
-        Array.isArray(tableData)
-          ? tableData.filter((item) => {
-              if (filterText) {
-                return (
-                  item.name?.toLowerCase().includes(filterText.toLowerCase()) ||
-                  item.special
-                    ?.map((value) => `${value.title} ${value.effect}`)
-                    .join(' ')
-                    .toLowerCase()
-                    .includes(filterText.toLowerCase()) ||
-                  item.weapons
-                    ?.join(' ')
-                    .toLowerCase()
-                    .includes(filterText.toLowerCase())
-                );
-              }
-              return true;
-            })
-          : []
+        tableData.filter((item) => {
+          if (filterText) {
+            return (
+              item.name?.toLowerCase().includes(filterText.toLowerCase()) ||
+              item.special
+                ?.map((value) => `${value.title} ${value.effect}`)
+                .join(' ')
+                .toLowerCase()
+                .includes(filterText.toLowerCase()) ||
+              item.weapons
+                ?.join(' ')
+                .toLowerCase()
+                .includes(filterText.toLowerCase())
+            );
+          }
+          return true;
+        })
       }
       actions={subHeaderComponentMemo}
       expandableRows

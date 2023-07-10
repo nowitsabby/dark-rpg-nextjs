@@ -109,7 +109,7 @@ export interface NavigatorPowerRecord {
   master: string;
 }
 
-export interface OriginsRecord {
+export interface OriginRecord {
   name: string;
   id: string;
   characteristicModifiers: {
@@ -144,4 +144,77 @@ export interface PsychicDisciplineRecord {
   discipline: string;
   information: string;
   powers: PsychicPowerRecord[];
+}
+
+export interface RoleRecord {
+  name: string;
+  id: string;
+  bonus: {
+    title: string;
+    effect: string;
+  };
+  aptitudes: Array<string | string[]>;
+  talent: string[];
+}
+
+export interface SkillRecord {
+  name: string;
+  id: string;
+  specialist: boolean;
+  specialisations: string[] | null;
+  primaryCharacteristic: string;
+  aptitudes: string[];
+  alignment: string;
+  descriptors: string[] | null;
+  alternateCharacteristics: string[] | null;
+  skillUse: string;
+  description: string;
+  exampleModifiers: string;
+  specialUses: string[] | null;
+}
+
+export interface StarshipComponentRecord {
+  name: string;
+  id: string;
+  hulls: string[];
+  power: number;
+  space: number;
+  shipPoints: number;
+  special: { title: string; effect: string }[];
+}
+
+export interface StarshipHullRecord {
+  name: string;
+  id: string;
+  class: string;
+  speed: number;
+  manoeuvrability: number;
+  detection: number;
+  hull: number;
+  armour: number;
+  turret: number;
+  space: number;
+  shipPoints: number;
+  weapons: string[];
+  special: { title: string; effect: string }[];
+}
+
+export interface StarshipWeaponRecord {
+  name: string;
+  id: string;
+  hulls: string[];
+  power: number;
+  space: number;
+  shipPoints: number;
+  strength: number | string;
+  damage: string;
+  crit: number | string;
+  range: number | string;
+  special: { title: string; effect: string }[];
+}
+
+export interface TraitRecord {
+  name: string;
+  id: string;
+  description: string;
 }

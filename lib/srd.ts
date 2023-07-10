@@ -35,6 +35,15 @@ export function loadDocument( file: string[] )
             type = DOC_TYPES.ENTRY;
             id = path.relative(parentPath, filePath);
             content = JSON.parse(fs.readFileSync(parentJson, 'utf8'))
+        } else {
+            // check if parent's parent is table
+            const ancestorPath = path.join(parentPath, '../').slice(0, -1)
+            const ancestorJson = `${ancestorPath}.json`;
+            if (fs.existsSync(ancestorJson)) {
+                type = DOC_TYPES.ENTRY;
+                id = path.relative(ancestorPath, filePath);
+                content = JSON.parse(fs.readFileSync(ancestorJson, 'utf8'))
+            }
         }
     }
 

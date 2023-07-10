@@ -14,19 +14,27 @@ export default function Entry({
 } : {
   rootPath: string;
   name: string;
-  description: string;
-  children: React.ReactNode;
+  description: string | React.ReactNode;
+  children?: React.ReactNode;
 }) {
   return (
     <Stack gap={2}>
       <ReturnLink rootPath={rootPath} />
       <h2>{name}</h2>
-      <table>
+      { children && (
+        <table>
         <tbody>
           {children}
         </tbody>
       </table>
-      <Container><SrdMarkdown text={description} /></Container>
+      )}
+      <Container>
+        { 
+          ((typeof description) === 'string') ? 
+          <SrdMarkdown text={description as string} /> : 
+          description 
+        }
+      </Container>
     </Stack>
   );
 }

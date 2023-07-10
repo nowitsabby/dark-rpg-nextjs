@@ -20,9 +20,9 @@ export default function BackgroundEntry({
   return (
     datum && (
       <Entry rootPath={rootPath} name={datum.name} description='' >
-        <EntryDatum label='Skills' text={`${choiceArrayToString(datum.skills)}`} />
-        <EntryDatum label='Talents' text={`${choiceArrayToString(datum.talents)}`} />
-        <EntryDatum label='Equipment' text={`${choiceArrayToString(datum.equipment)}`} />
+        <EntryDatum label='Skills' value={`${choiceArrayToString(datum.skills)}`} />
+        <EntryDatum label='Talents' value={`${choiceArrayToString(datum.talents)}`} />
+        <EntryDatum label='Equipment' value={`${choiceArrayToString(datum.equipment)}`} />
         <EntryDatum 
           label='Bonuses' 
           text={
@@ -31,7 +31,7 @@ export default function BackgroundEntry({
             /> 
           } 
         />
-        <EntryDatum label='Aptitude' text={datum.aptitude.join(' or ')} />
+        <EntryDatum label='Aptitude' value={datum.aptitude.join(' or ')} />
         <EntryDatum 
           label='Trait(s)' 
           text={

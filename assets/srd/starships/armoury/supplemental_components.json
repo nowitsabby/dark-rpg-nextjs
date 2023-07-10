@@ -119,7 +119,7 @@
       },
       {
         "name": "Evacuation Bay†",
-        "id": "evacuation_bay__l",
+        "id": "evacuation_bay",
         "hulls": [
           "Raiders",
           "Frigates",
@@ -343,7 +343,7 @@
       },
       {
         "name": "Armour Plating†",
-        "id": "armour_plating__l",
+        "id": "armour_plating",
         "hulls": [
           "Transports",
           "Raiders",
@@ -365,7 +365,7 @@
       },
       {
         "name": "Armour Plating†",
-        "id": "armour_plating__l",
+        "id": "armour_plating",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -386,7 +386,7 @@
       },
       {
         "name": "Armoured Prow†",
-        "id": "armoured_prow__l",
+        "id": "armoured_prow",
         "hulls": [
           "Cruisers"
         ],
@@ -402,7 +402,7 @@
       },
       {
         "name": "Tenebro-Maze†",
-        "id": "tenebro_maze__l",
+        "id": "tenebro_maze",
         "hulls": [
           "Transports",
           "Raiders",
@@ -424,7 +424,7 @@
       },
       {
         "name": "Tenebro-Maze†",
-        "id": "tenebro_maze__l",
+        "id": "tenebro_maze",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -445,7 +445,7 @@
       },
       {
         "name": "Defensive Countermeasures†",
-        "id": "defensive_countermeasures__l",
+        "id": "defensive_countermeasures",
         "hulls": [
           "Transports",
           "Raiders",
@@ -466,7 +466,7 @@
       },
       {
         "name": "Flak Turrets†",
-        "id": "flak_turrets__l",
+        "id": "flak_turrets",
         "hulls": [
           "Transports",
           "Raiders",
@@ -516,7 +516,7 @@
       },
       {
         "name": "Fire Suppression System†",
-        "id": "fire_suppression_system__l",
+        "id": "fire_suppression_system",
         "hulls": [
           "Transports",
           "Raiders",
@@ -534,7 +534,7 @@
       },
       {
         "name": "Fire Suppression System†",
-        "id": "fire_suppression_system__l",
+        "id": "fire_suppression_system",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -551,7 +551,7 @@
       },
       {
         "name": "Fire Suppression System†",
-        "id": "fire_suppression_system__l",
+        "id": "fire_suppression_system",
         "hulls": [
           "Grand Cruisers"
         ],
@@ -606,7 +606,7 @@
       },
       {
         "name": "Power Ram†",
-        "id": "power_ram__l",
+        "id": "power_ram",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -765,7 +765,7 @@
       },
       {
         "name": "Variable Figurehead†",
-        "id": "variable_figurehead__l",
+        "id": "variable_figurehead",
         "hulls": [
           "Transports",
           "Raiders",
@@ -792,7 +792,7 @@
     "facilities": [
       {
         "name": "Extended Supply Vaults†",
-        "id": "extended_supply_vaults__l",
+        "id": "extended_supply_vaults",
         "hulls": [
           "Transports",
           "Raiders",
@@ -817,7 +817,7 @@
       },
       {
         "name": "Crew Reclamation Facility†",
-        "id": "crew_reclamation_facility__l",
+        "id": "crew_reclamation_facility",
         "hulls": [
           "Transports",
           "Raiders",
@@ -838,7 +838,7 @@
       },
       {
         "name": "Munitorium†",
-        "id": "munitorium_l",
+        "id": "munitorium",
         "hulls": [
           "Transports",
           "Raiders",
@@ -864,7 +864,7 @@
       },
       {
         "name": "Munitorium†",
-        "id": "munitorium_l",
+        "id": "munitorium",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -889,7 +889,7 @@
       },
       {
         "name": "Temple-shrine to the God Emperor†",
-        "id": "temple_shrine_to_the_god_emperor__l",
+        "id": "temple_shrine_to_the_god_emperor",
         "hulls": [
           "Transports",
           "Raiders",
@@ -914,7 +914,7 @@
       },
       {
         "name": "Librarium Vault†",
-        "id": "librarium_vault__l",
+        "id": "librarium_vault",
         "hulls": [
           "Transports",
           "Raiders",
@@ -935,7 +935,7 @@
       },
       {
         "name": "Trophy Room†",
-        "id": "trophy_room__l",
+        "id": "trophy_room",
         "hulls": [
           "Transports",
           "Raiders",
@@ -956,7 +956,7 @@
       },
       {
         "name": "Observation Dome†",
-        "id": "observation_dome__l",
+        "id": "observation_dome",
         "hulls": [
           "Transports",
           "Raiders",
@@ -981,7 +981,7 @@
       },
       {
         "name": "Murder-Servitors†",
-        "id": "murder_servitors__l",
+        "id": "murder_servitors",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1006,7 +1006,7 @@
       },
       {
         "name": "Docks†",
-        "id": "docks_l",
+        "id": "docks",
         "hulls": [
           "Space Stations"
         ],
@@ -1022,7 +1022,7 @@
       },
       {
         "name": "Hydroponics Decks†",
-        "id": "hydroponics_decks__l",
+        "id": "hydroponics_decks",
         "hulls": [
           "Space Stations"
         ],
@@ -1054,7 +1054,7 @@
       },
       {
         "name": "Cloudmining Facility†",
-        "id": "cloudmining_facility__l",
+        "id": "cloudmining_facility",
         "hulls": [
           "Transports"
         ],
@@ -1070,7 +1070,7 @@
       },
       {
         "name": "Hydraphuran Jamming System†",
-        "id": "hydraphuran_jamming_system__l",
+        "id": "hydraphuran_jamming_system",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1116,7 +1116,7 @@
       },
       {
         "name": "Medicae Deck†",
-        "id": "medicae_deck__l",
+        "id": "medicae_deck",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1137,7 +1137,7 @@
       },
       {
         "name": "Melodium†",
-        "id": "melodium_l",
+        "id": "melodium",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1158,7 +1158,7 @@
       },
       {
         "name": "Plasma Scoop†",
-        "id": "plasma_scoop__l",
+        "id": "plasma_scoop",
         "hulls": [
           "Raiders",
           "Frigates"
@@ -1175,7 +1175,7 @@
       },
       {
         "name": "Plasma Scoop†",
-        "id": "plasma_scoop__l",
+        "id": "plasma_scoop",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -1196,7 +1196,7 @@
       },
       {
         "name": "Pilot's Chamber†",
-        "id": "pilot_s_chamber__l",
+        "id": "pilot_s_chamber",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1217,7 +1217,7 @@
       },
       {
         "name": "Salvage Systems†",
-        "id": "salvage_systems__l",
+        "id": "salvage_systems",
         "hulls": [
           "Transports",
           "Light Cruisers",
@@ -1235,7 +1235,7 @@
       },
       {
         "name": "Small Craft Repair Deck†",
-        "id": "small_craft_repair_deck__l",
+        "id": "small_craft_repair_deck",
         "hulls": [
           "Light Cruisers",
           "Cruisers"
@@ -1252,7 +1252,7 @@
       },
       {
         "name": "Spacedock Piers†",
-        "id": "spacedock_piers__l",
+        "id": "spacedock_piers",
         "hulls": [
           "Transports with 50+ Space",
           "Grand Cruisers"
@@ -1375,7 +1375,7 @@
       },
       {
         "name": "Auto Temple†",
-        "id": "auto_temple__l",
+        "id": "auto_temple",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1404,7 +1404,7 @@
       },
       {
         "name": "Laboratorium†",
-        "id": "laboratorium_l",
+        "id": "laboratorium",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1425,7 +1425,7 @@
       },
       {
         "name": "Pharmacia†",
-        "id": "pharmacia_l",
+        "id": "pharmacia",
         "hulls": [
           "Transports",
           "Raiders",
@@ -1450,7 +1450,7 @@
       },
       {
         "name": "Sensorium†",
-        "id": "sensorium_l",
+        "id": "sensorium",
         "hulls": [
           "Transports",
           "Raiders",

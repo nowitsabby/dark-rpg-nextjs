@@ -18,14 +18,14 @@ export default function MeleeWeaponEntry({
   return (
     datum && (
       <Entry rootPath={rootPath} name={datum.name} description={datum.description} >
-        <EntryDatum label='Class' text={`${datum.class}`} />
-        <EntryDatum label='Two-Handed' text={datum.twoHanded ? 'Yes' : 'No'} />
-        <EntryDatum label='Range' text={datum.range} />
-        <EntryDatum label='Damage' text={datum.damage} />
-        <EntryDatum label='Penetration' text={datum.penetration} />
-        <EntryDatum label='Special Qualities' text={datum.special} />
-        <EntryDatum label='Weight' text={datum.weight} />
-        <EntryDatum label='Availability' text={datum.availability} />
+        <EntryDatum label='Class' value={`${datum.class}`} />
+        <EntryDatum label='Two-Handed' value={datum.twoHanded ? 'Yes' : 'No'} />
+        <EntryDatum label='Range' value={datum.range} />
+        <EntryDatum label='Damage' value={datum.damage} />
+        <EntryDatum label='Penetration' value={datum.penetration} />
+        <EntryDatum label='Special Qualities' value={datum.special} />
+        <EntryDatum label='Weight' value={datum.weight} />
+        <EntryDatum label='Availability' value={datum.availability} />
       </Entry>
     )
   );

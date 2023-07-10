@@ -25,3 +25,11 @@ export function choiceArrayToString(
   }
   return retVal.replaceAll('{X}', 'Pick One');
 };
+
+export function hullString(hulls: string[]) {
+  return hulls.length === 6 ? 'All Ships' : hulls.join(', ')
+}
+
+export function componentPowerString(power: number) {
+  return `${power > 0 ? '+' : ''}${power}`
+}

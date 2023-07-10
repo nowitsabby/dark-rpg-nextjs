@@ -1,12 +1,11 @@
 'use client'
 
 import {
-  StarshipWeaponRecord,
   StarshipWeaponTable,
 } from './components/StarshipWeaponTable';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
-
 import 'react-tabs/style/react-tabs.css';
+import { StarshipWeaponRecord } from '../types/Records';
 
 export interface WeaponComponents {
   macrobatteries: StarshipWeaponRecord[];
@@ -15,6 +14,8 @@ export interface WeaponComponents {
   torpedoes: StarshipWeaponRecord[];
   landingBays: StarshipWeaponRecord[];
 }
+
+export type WeaponComponentsKey = keyof WeaponComponents;
 
 export default function StarshipWeapons({ rootPath, data }: { rootPath: string, data: WeaponComponents }) {
   return (
@@ -29,27 +30,27 @@ export default function StarshipWeapons({ rootPath, data }: { rootPath: string, 
 
       <TabPanel>
         <StarshipWeaponTable
-          rootPath={rootPath}
+          rootPath={`${rootPath}/macrobatteries`}
           data={data.macrobatteries} />
       </TabPanel>
       <TabPanel>
         <StarshipWeaponTable
-          rootPath={rootPath}
+          rootPath={`${rootPath}/lances`}
           data={data.lances} />
       </TabPanel>
       <TabPanel>
         <StarshipWeaponTable
-          rootPath={rootPath}
+          rootPath={`${rootPath}/nova_cannons`}
           data={data.novaCannons} />
       </TabPanel>
       <TabPanel>
         <StarshipWeaponTable
-          rootPath={rootPath}
+          rootPath={`${rootPath}/torpedoes`}
           data={data.torpedoes} />
       </TabPanel>
       <TabPanel>
         <StarshipWeaponTable
-          rootPath={rootPath} 
+          rootPath={`${rootPath}/landing_bays`} 
           data={data.landingBays} />
       </TabPanel>
     </Tabs>

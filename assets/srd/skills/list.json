@@ -13,6 +13,7 @@
         "Agility",
         "General"
       ],
+      "alignment": "Slaanesh",
       "descriptors": [
         "Movement"
       ],
@@ -38,6 +39,7 @@
         "Strength",
         "General"
       ],
+      "alignment": "Khorne",
       "descriptors": [
         "Movement"
       ],
@@ -62,6 +64,7 @@
         "Perception",
         "Fieldcraft"
       ],
+      "alignment": "Unaligned",
       "descriptors": null,
       "alternateCharacteristics": [
         "Fellowship",
@@ -85,6 +88,7 @@
         "Fellowship",
         "Social"
       ],
+      "alignment": "Slaanesh",
       "descriptors": [
         "Interaction",
         "Investigation"
@@ -107,6 +111,7 @@
         "Fellowship",
         "Leadership"
       ],
+      "alignment": "Khorne",
       "descriptors": [
         "Interaction"
       ],
@@ -133,6 +138,7 @@
         "Intelligence",
         "Knowledge"
       ],
+      "alignment": "Unaligned",
       "descriptors": [
         "Interaction",
         "Investigation"
@@ -178,6 +184,7 @@
         "Intelligence",
         "General"
       ],
+      "alignment": "Unaligned",
       "descriptors": [
         "Interaction",
         "Investigation"
@@ -200,6 +207,7 @@
         "Fellowship",
         "Social"
       ],
+      "alignment": "Slaanesh",
       "descriptors": [
         "Interaction",
         "Investigation"
@@ -226,6 +234,7 @@
         "Agility",
         "Defence"
       ],
+      "alignment": "Slaanesh",
       "descriptors": [
         "Combat",
         "Movement"
@@ -295,6 +304,7 @@
         "Intelligence",
         "Knowledge"
       ],
+      "alignment": "Tzeentch",
       "descriptors": [
         "Interaction",
         "Investigation"
@@ -317,6 +327,7 @@
         "Fellowship",
         "Social"
       ],
+      "alignment": "Unaligned",
       "descriptors": [
         "Interaction",
         "Investigation"
@@ -340,6 +351,7 @@
         "Willpower",
         "Social"
       ],
+      "alignment": "Unaligned",
       "descriptors": [
         "Interaction",
         "Investigation"
@@ -362,6 +374,7 @@
         "Strength",
         "Social"
       ],
+      "alignment": "Nurgle",
       "descriptors": [
         "Interaction",
         "Investigation"
@@ -399,6 +412,7 @@
         "Intelligence",
         "General"
       ],
+      "alignment": "Unaligned",
       "descriptors": null,
       "alternateCharacteristics": [
         "Fellowship"
@@ -420,6 +434,7 @@
         "Intelligence",
         "Knowledge"
       ],
+      "alignment": "Tzeentch",
       "descriptors": [
         "Investigation"
       ],
@@ -444,6 +459,7 @@
         "Intelligence",
         "Fieldcraft"
       ],
+      "alignment": "Nurgle",
       "descriptors": [
         "Crafting"
       ],
@@ -478,6 +494,7 @@
         "Intelligence",
         "Fieldcraft"
       ],
+      "alignment": "Unaligned",
       "descriptors": null,
       "alternateCharacteristics": [
         "Perception"
@@ -501,6 +518,7 @@
         "Agility",
         "Fieldcraft"
       ],
+      "alignment": "Unaligned",
       "descriptors": null,
       "alternateCharacteristics": [
         "Intelligence"
@@ -520,6 +538,7 @@
         "Weapon Skill",
         "Defence"
       ],
+      "alignment": "Khorne",
       "descriptors": [
         "Combat"
       ],
@@ -539,6 +558,7 @@
         "Perception",
         "Psyker"
       ],
+      "alignment": "Tzeentch",
       "descriptors": null,
       "alternateCharacteristics": [
         "Willpower"
@@ -592,6 +612,7 @@
         "Intelligence",
         "Knowledge"
       ],
+      "alignment": "Unaligned",
       "descriptors": [
         "Interaction",
         "Investigation"
@@ -614,6 +635,7 @@
         "Perception",
         "General"
       ],
+      "alignment": "Tzeentch",
       "descriptors": [
         "Interaction",
         "Investigation"
@@ -638,6 +660,7 @@
         "Intelligence",
         "Tech"
       ],
+      "alignment": "Unaligned",
       "descriptors": null,
       "alternateCharacteristics": [
         "Agility"
@@ -659,6 +682,7 @@
         "Agility",
         "Knowledge"
       ],
+      "alignment": "Unaligned",
       "descriptors": null,
       "alternateCharacteristics": [
         "Intelligence"
@@ -680,6 +704,7 @@
         "Agility",
         "Fieldcraft"
       ],
+      "alignment": "Unaligned",
       "descriptors": [
         "Movement"
       ],
@@ -703,6 +728,7 @@
         "Perception",
         "Fieldcraft"
       ],
+      "alignment": "Nurgle",
       "descriptors": [
         "Crafting",
         "Movement"
@@ -730,6 +756,7 @@
         "Intelligence",
         "Tech"
       ],
+      "alignment": "Unaligned",
       "descriptors": [
         "Crafting",
         "Investigation"
@@ -774,6 +801,7 @@
         "Intelligence",
         "General"
       ],
+      "alignment": "Unaligned",
       "descriptors": [
         "Crafting",
         "Interaction"

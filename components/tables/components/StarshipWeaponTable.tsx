@@ -3,20 +3,8 @@ import DataTable from 'react-data-table-component';
 import FilterComponent from './FilterComponent';
 import SrdMarkdown from '../../util/SrdMarkdown';
 import TableLink from './TableLink';
-
-export interface StarshipWeaponRecord {
-  name: string;
-  id: string;
-  hulls: string[];
-  power: number;
-  space: number;
-  shipPoints: number;
-  strength: number | string;
-  damage: string;
-  crit: number | string;
-  range: number | string;
-  special: { title: string; effect: string }[];
-}
+import { hullString } from '@/components/util/helpers';
+import { StarshipWeaponRecord } from '@/components/types/Records';
 
 export function StarshipWeaponTable({ rootPath, data }: { rootPath: string, data: StarshipWeaponRecord[] }) {
   const [filterText, setFilterText] = useState('');
@@ -37,12 +25,11 @@ export function StarshipWeaponTable({ rootPath, data }: { rootPath: string, data
       format: (row: StarshipWeaponRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
-      name: 'Appropriate Hull Types',
+      name: 'Hulls',
       sortable: true,
       wrap: true,
       selector: (row: StarshipWeaponRecord) => row.hulls.join(', '),
-      format: (row: StarshipWeaponRecord) =>
-        row.hulls.length === 6 ? 'All Ships' : row.hulls.join(', '),
+      format: (row: StarshipWeaponRecord) => hullString(row.hulls),
     },
     {
       name: 'Power',

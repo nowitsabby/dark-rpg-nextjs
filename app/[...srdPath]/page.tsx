@@ -9,7 +9,13 @@ import NavigatorPowerEntry from '@/components/entries/NavigatorPowerEntry';
 import OriginEntry from '@/components/entries/OriginEntry';
 import PsychicPowerEntry from '@/components/entries/PsychicPowerEntry';
 import RangedWeaponEntry from '@/components/entries/RangedWeaponEntry';
+import RoleEntry from '@/components/entries/RoleEntry';
+import SkillEntry from '@/components/entries/SkillEntry';
+import StarshipComponentEntry from '@/components/entries/StarshipComponentEntry';
+import StarshipHullEntry from '@/components/entries/StarshipHullEntry';
+import StarshipWeaponEntry from '@/components/entries/StarshipWeaponEntry';
 import TalentEntry from '@/components/entries/TalentEntry';
+import TraitEntry from '@/components/entries/TraitEntry';
 import Actions, { ActionsTable } from '@/components/tables/Actions';
 import Ammunition from '@/components/tables/Ammunition';
 import Armour from '@/components/tables/Armour';
@@ -24,18 +30,17 @@ import NavigatorPowers from '@/components/tables/NavigatorPowers';
 import Origins from '@/components/tables/Origins';
 import PsychicDiscipline from '@/components/tables/PsychicDiscipline';
 import RangedWeapons from '@/components/tables/RangedWeapons';
-import Roles, { RolesTable } from '@/components/tables/Roles';
-import Skills, { SkillsTable } from '@/components/tables/Skills';
+import Roles from '@/components/tables/Roles';
+import Skills from '@/components/tables/Skills';
 import StarshipActions, { StarshipActionGroups } from '@/components/tables/StarshipActions';
-import StarshipComponents, { StarshipComponentRecord } from '@/components/tables/StarshipComponents';
-import StarshipEssential, { EssentialComponents } from '@/components/tables/StarshipEssential';
+import StarshipComponents from '@/components/tables/StarshipComponents';
+import StarshipEssential, { EssentialComponents, EssentialComponentsKey } from '@/components/tables/StarshipEssential';
 import StarshipHulls from '@/components/tables/StarshipHulls';
-import StarshipSupplemental, { SupplementalComponents } from '@/components/tables/StarshipSupplemental';
-import StarshipWeapons, { WeaponComponents } from '@/components/tables/StarshipWeapons';
+import StarshipSupplemental, { SupplementalComponents, SupplementalComponentsKey } from '@/components/tables/StarshipSupplemental';
+import StarshipWeapons, { WeaponComponents, WeaponComponentsKey } from '@/components/tables/StarshipWeapons';
 import Talents from '@/components/tables/Talents';
 import TorpedoesAttackCraft, { TorpedoAttackCraft } from '@/components/tables/TorpedoesAttackCraft';
-import Traits, { TraitTable } from '@/components/tables/Traits';
-import { StarshipHullRecord } from '@/components/tables/components/HullTable';
+import Traits from '@/components/tables/Traits';
 import { 
   AmmunitionRecord, 
   ArmourRecord, 
@@ -45,13 +50,20 @@ import {
   MeleeWeaponRecord, 
   ModRecord, 
   NavigatorPowerRecord, 
-  OriginsRecord, 
+  OriginRecord, 
   PsychicDisciplineRecord, 
   RangedWeaponRecord, 
-  TalentRecord 
+  RoleRecord, 
+  SkillRecord, 
+  StarshipComponentRecord, 
+  StarshipHullRecord, 
+  StarshipWeaponRecord, 
+  TalentRecord, 
+  TraitRecord
 } from '@/components/types/Records';
 import Document from '@/components/util/Document'
 import { DOC_TYPES, loadDocument } from '@/lib/srd'
+import { camelCase } from 'change-case';
 import path from 'path';
 
 interface SrdData {
@@ -86,15 +98,15 @@ function DataTableComponent({ rootPath, component, data }: { rootPath: string, c
     case 'NavigatorPowers':
       return <NavigatorPowers rootPath={rootPath} data={ data as NavigatorPowerRecord[] } />
     case 'Origins':
-      return <Origins rootPath={rootPath} data={ data as OriginsRecord[] } />
+      return <Origins rootPath={rootPath} data={ data as OriginRecord[] } />
     case 'PsychicDiscipline':
       return <PsychicDiscipline rootPath={rootPath} data={ data as PsychicDisciplineRecord } />
     case 'RangedWeapons':
       return <RangedWeapons rootPath={rootPath} data={ data as RangedWeaponRecord[] }/>
     case 'Roles':
-      return <Roles rootPath={rootPath} data={ data as RolesTable[] } />
+      return <Roles rootPath={rootPath} data={ data as RoleRecord[] } />
     case 'Skills':
-      return <Skills rootPath={rootPath} data={ data as SkillsTable[] } />
+      return <Skills rootPath={rootPath} data={ data as SkillRecord[] } />
     case 'StarshipActions':
       return <StarshipActions data={ data as StarshipActionGroups } />
     case 'StarshipComponents':
@@ -112,7 +124,7 @@ function DataTableComponent({ rootPath, component, data }: { rootPath: string, c
     case 'TorpedoesAttackCraft':
       return <TorpedoesAttackCraft rootPath={rootPath} data={ data as TorpedoAttackCraft } />
     case 'Traits':
-      return <Traits rootPath={rootPath} data={ data as TraitTable[] } />
+      return <Traits rootPath={rootPath} data={ data as TraitRecord[] } />
   }
 }
 
@@ -148,33 +160,58 @@ function DataEntryComponent({ rootPath, component, data, id }: {
     case 'NavigatorPowers':
       return <NavigatorPowerEntry rootPath={rootPath} data={ data as NavigatorPowerRecord[] } id={id} />
     case 'Origins':
-      return <OriginEntry rootPath={rootPath} data={ data as OriginsRecord[] } id={id} />
+      return <OriginEntry rootPath={rootPath} data={ data as OriginRecord[] } id={id} />
     case 'PsychicDiscipline':
       return <PsychicPowerEntry rootPath={rootPath} data={ (data as PsychicDisciplineRecord).powers } id={id} />
     case 'RangedWeapons':
       return <RangedWeaponEntry rootPath={rootPath} data={ data as RangedWeaponRecord[] } id={id} />
     case 'Roles':
-      return <Roles rootPath={rootPath} data={ data as RolesTable[] } />
+      return <RoleEntry rootPath={rootPath} data={ data as RoleRecord[] } id={id} />
     case 'Skills':
-      return <Skills rootPath={rootPath} data={ data as SkillsTable[] } />
-    case 'StarshipActions':
-      return <StarshipActions data={ data as StarshipActionGroups } />
+      return <SkillEntry rootPath={rootPath} data={ data as SkillRecord[] } id={id} />
     case 'StarshipComponents':
-      return <StarshipComponents rootPath={rootPath} data={ data as StarshipComponentRecord[] } />
+      return <StarshipComponentEntry rootPath={rootPath} data={ data as StarshipComponentRecord[] } id={id} />
     case 'StarshipEssential':
-      return <StarshipEssential rootPath={rootPath} data={ data as EssentialComponents } />
+      const essentialComponentPath: EssentialComponentsKey = camelCase((rootPath.split('\\').at(-2) as string)) as EssentialComponentsKey;
+      const essentialComponentRoot = path.join(...rootPath.split('\\').slice(0, -2));
+      if (essentialComponentPath) {
+        return <StarshipComponentEntry 
+        rootPath={essentialComponentRoot} 
+        data={ ((data as EssentialComponents)[essentialComponentPath] as StarshipComponentRecord[]) } 
+        id={id.split('\\').at(-1) as string} 
+      />
+      }
+      break;
     case 'StarshipHulls':
-      return <StarshipHulls rootPath={rootPath} data={ data as StarshipHullRecord[] } />
+      return <StarshipHullEntry rootPath={rootPath} data={ data as StarshipHullRecord[] } id={id} />
     case 'StarshipSupplemental':
-      return <StarshipSupplemental rootPath={rootPath} data={ data as SupplementalComponents } />
+      const supplementComponentPath: SupplementalComponentsKey = camelCase((rootPath.split('\\').at(-2) as string)) as SupplementalComponentsKey;
+      const supplementComponentRoot = path.join(...rootPath.split('\\').slice(0, -2));
+      if (supplementComponentPath) {
+        return <StarshipComponentEntry 
+        rootPath={supplementComponentRoot} 
+        data={ ((data as SupplementalComponents)[supplementComponentPath] as StarshipComponentRecord[]) } 
+        id={id.split('\\').at(-1) as string} 
+      />
+      }
+      break;
     case 'StarshipWeapons':
-      return <StarshipWeapons rootPath={rootPath} data={ data as WeaponComponents } />
+      const weaponComponentPath: WeaponComponentsKey = camelCase((rootPath.split('\\').at(-2) as string)) as WeaponComponentsKey;
+      const weaponComponentRoot = path.join(...rootPath.split('\\').slice(0, -2));
+      if (weaponComponentPath) {
+        return <StarshipWeaponEntry 
+        rootPath={weaponComponentRoot} 
+        data={ ((data as WeaponComponents)[weaponComponentPath] as StarshipWeaponRecord[]) } 
+        id={id.split('\\').at(-1) as string} 
+      />
+      }
+      break;
     case 'Talents':
-      return <TalentEntry rootPath={rootPath} data={ data as TalentRecord[] } id={id}/>
+      return <TalentEntry rootPath={rootPath} data={ data as TalentRecord[] } id={id} />
     case 'TorpedoesAttackCraft':
       return <TorpedoesAttackCraft rootPath={rootPath} data={ data as TorpedoAttackCraft } />
     case 'Traits':
-      return <Traits rootPath={rootPath} data={ data as TraitTable[] } />
+      return <TraitEntry rootPath={rootPath} data={ data as TraitRecord[] } id={id} />
   }
 }
 

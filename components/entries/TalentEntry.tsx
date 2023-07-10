@@ -18,14 +18,14 @@ export default function TalentEntry({
   return (
     datum && (
       <Entry rootPath={rootPath} name={datum.name} description={datum.benefit} >
-        <EntryDatum label='Tier' text={`${datum.tier}`} />
-        <EntryDatum label='Specialist' text={datum.specialist ? 'Yes' : 'No'} />
+        <EntryDatum label='Tier' value={`${datum.tier}`} />
+        <EntryDatum label='Specialist' value={datum.specialist ? 'Yes' : 'No'} />
         {datum.specialisations && (
-            <EntryDatum label='Specialisations' text={datum.specialisations.join(', ')} />
+            <EntryDatum label='Specialisations' value={datum.specialisations.join(', ')} />
           )}
-        <EntryDatum label='Prerequisites' text={datum.prerequisites ? datum.prerequisites.join(', ') : '-'} />
-        <EntryDatum label='Aptitudes' text={datum.aptitudes ? datum.aptitudes.join(', ') : '-'} />
-        <EntryDatum label='Alignment' text={datum.alignment ? datum.alignment : '-'} />
+        <EntryDatum label='Prerequisites' value={datum.prerequisites ? datum.prerequisites.join(', ') : '-'} />
+        <EntryDatum label='Aptitudes' value={datum.aptitudes ? datum.aptitudes.join(', ') : '-'} />
+        <EntryDatum label='Alignment' value={datum.alignment ? datum.alignment : '-'} />
       </Entry>
     )
   );

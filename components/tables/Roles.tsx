@@ -3,19 +3,9 @@
 import DataTable from 'react-data-table-component';
 import SrdMarkdown from '../util/SrdMarkdown';
 import TableLink from './components/TableLink';
+import { RoleRecord } from '../types/Records';
 
-export interface RolesTable {
-  name: string;
-  id: string;
-  bonus: {
-    title: string;
-    effect: string;
-  };
-  aptitudes: Array<string | string[]>;
-  talent: string[];
-}
-
-export default function Roles({ rootPath, data }: { rootPath: string, data: RolesTable[] }) {
+export default function Roles({ rootPath, data }: { rootPath: string, data: RoleRecord[] }) {
   const choiceArrayToString = (choices: Array<string | string[]>) => {
     let retVal = '';
     choices.forEach((i) => {
@@ -39,15 +29,15 @@ export default function Roles({ rootPath, data }: { rootPath: string, data: Role
       grow: 2,
       wrap: true,
       allowOverflow: true,
-      selector: (row: RolesTable) => row.name,
-      format: (row: RolesTable) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
+      selector: (row: RoleRecord) => row.name,
+      format: (row: RoleRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
     },
     {
       name: 'Bonus',
       grow: 4,
       wrap: true,
-      selector: (row: RolesTable) => `${row.bonus.title}: ${row.bonus.effect}`,
-      format: (row: RolesTable) => (
+      selector: (row: RoleRecord) => `${row.bonus.title}: ${row.bonus.effect}`,
+      format: (row: RoleRecord) => (
         <SrdMarkdown text={`__${row.bonus.title}:__ ${row.bonus.effect}`} />
       ),
     },
@@ -55,13 +45,13 @@ export default function Roles({ rootPath, data }: { rootPath: string, data: Role
       name: 'Aptitudes',
       grow: 3,
       wrap: true,
-      selector: (row: RolesTable) => choiceArrayToString(row.aptitudes),
+      selector: (row: RoleRecord) => choiceArrayToString(row.aptitudes),
     },
     {
       name: 'Talent',
       grow: 1,
       wrap: true,
-      selector: (row: RolesTable) =>
+      selector: (row: RoleRecord) =>
         row.talent.join(' or ').replaceAll('{X}', 'Pick One'),
     },
   ];

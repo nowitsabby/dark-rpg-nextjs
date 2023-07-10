@@ -8,37 +8,44 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import TableLink from './components/TableLink';
 import { NavigatorPowerRecord } from '../types/Records';
 import Container from '@mui/material/Container';
+import DataTable from 'react-data-table-component';
 
 export default function NavigatorPowers({ rootPath, data }: { rootPath: string, data: NavigatorPowerRecord[] }) {
+  const columns = [
+    {
+      name: '',
+      allowOverflow: true,
+      selector: (row: NavigatorPowerRecord) => row.name,
+      format: (row: NavigatorPowerRecord) => <TableLink rootPath={rootPath} id={row.id} name={row.name}/>,
+    },
+  ];
   return (
     <Container>
-      <h2>Powers</h2>
-      {data.map((power: NavigatorPowerRecord) => (
-        <Accordion key={power.id}>
-          <AccordionSummary
-            expandIcon={<ExpandMoreIcon />}
-            aria-controls={`${power.id}-content`}
-            id={`${power.id}-header`}
-            style={{ margin: '0' }}
-          >
-            <h3><TableLink rootPath={rootPath} id={power.id} name={power.name}/></h3>
-          </AccordionSummary>
-          <AccordionDetails>
+      <DataTable
+        title={<h2>Powers</h2>}
+        columns={columns}
+        data={data}
+        striped
+        expandableRows
+        expandableRowsComponent={({ data: row }) => (
+          <div style={{ padding: '4px' }}>
             <div>
               <h4>Novice</h4>
-              <SrdMarkdown text={power.novice} />
+              <SrdMarkdown text={row.novice} />
             </div>
             <div>
               <h4>Adept</h4>
-              <SrdMarkdown text={power.adept} />
+              <SrdMarkdown text={row.adept} />
             </div>
             <div>
               <h4>Master</h4>
-              <SrdMarkdown text={power.master} />
+              <SrdMarkdown text={row.master} />
             </div>
-          </AccordionDetails>
-        </Accordion>
-      ))}
+            <hr />
+          </div>
+        )}
+      />
     </Container>
+    
   );
 }

@@ -68,7 +68,7 @@ A ship runs on more than just plasma and adamantium. It also runs on the crew's 
 
 To represent this, after a Component is installed the ship's Morale is immediately modified based on the Craftsmanship Level as per Table Component Craftsmanship Modifiers. The modifier cannot reduce Morale to below half or take it to above the ship's maximum level. This is not a permanent loss, and may be regained to the ship's maximum.
 
-## Component Craftsmanship Modifiers
+## Component Craftsmanship 
 
 | Craftsmanship  | Power | Space | SP | Morale |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ To represent this, after a Component is installed the ship's Morale is immediate
 | Good (choose either Power or Space Modifier but not both) | +1 to Generated Power or -1 to Power Consumed | -1 | +1 | +1 | 
 | Best | +1 to Generated Power or -1 to Power Consumed | -1 | +2 | +1d5 | 
 
-## Lance and Macrobattery Craftsmanship Modifiers
+## Lance & Macrobattery
 
 | Craftsmanship | Strength | Damage | Crit Rating | Range | Space | SP | Morale | 
 |---|---|---|---|---|---|---|---|
