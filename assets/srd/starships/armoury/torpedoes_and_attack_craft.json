@@ -14,7 +14,7 @@
         "special": [
           {
             "title": "Durable",
-            "effect": "When checking for Squadron losses, this squadron reduces its losses by one to a minimum of zero or gains a +5 bonus on the Upkeep Test."
+            "description": "When checking for Squadron losses, this squadron reduces its losses by one to a minimum of zero or gains a +5 bonus on the Upkeep Test."
           }
         ]
       },
@@ -28,7 +28,7 @@
         "special": [
           {
             "title": "Durable",
-            "effect": "When checking for Squadron losses, this squadron reduces its losses by one to a minimum of zero or gains a +5 bonus on the Upkeep Test."
+            "description": "When checking for Squadron losses, this squadron reduces its losses by one to a minimum of zero or gains a +5 bonus on the Upkeep Test."
           }
         ]
       },
@@ -51,7 +51,7 @@
         "special": [
           {
             "title": "Fragile",
-            "effect": "When checking for Squadron losses, this squadron increases its losses by one to the squadron maximum or suffers -5 penalty on the Upkeep Test."
+            "description": "When checking for Squadron losses, this squadron increases its losses by one to the squadron maximum or suffers -5 penalty on the Upkeep Test."
           }
         ]
       },
@@ -65,7 +65,7 @@
         "special": [
           {
             "title": "Fragile",
-            "effect": "When checking for Squadron losses, this squadron increases its losses by one to the squadron maximum or suffers -5 penalty on the Upkeep Test."
+            "description": "When checking for Squadron losses, this squadron increases its losses by one to the squadron maximum or suffers -5 penalty on the Upkeep Test."
           }
         ]
       },
@@ -88,7 +88,7 @@
         "special": [
           {
             "title": "Master Pilots",
-            "effect": "These squadrons do not suffer a penalty if their squadron is below half-strength."
+            "description": "These squadrons do not suffer a penalty if their squadron is below half-strength."
           }
         ]
       },
@@ -102,7 +102,7 @@
         "special": [
           {
             "title": "Master Pilots",
-            "effect": "These squadrons do not suffer a penalty if their squadron is below half-strength."
+            "description": "These squadrons do not suffer a penalty if their squadron is below half-strength."
           }
         ]
       },
@@ -116,7 +116,7 @@
         "special": [
           {
             "title": "Multi-purpose craft",
-            "effect": "The Fighta-bomma is “designed” as both an interceptor and bomber. When used as a bomber, its Rating drops to +5."
+            "description": "The Fighta-bomma is “designed” as both an interceptor and bomber. When used as a bomber, its Rating drops to +5."
           }
         ]
       },
@@ -142,7 +142,7 @@
           "special": [
             {
               "title": "Terminal Penetration (3)",
-              "effect": "When rolling damage for this weapon, re-roll any dice results of 3 or lower. The results of the second roll stand."
+              "description": "When rolling damage for this weapon, re-roll any dice results of 3 or lower. The results of the second roll stand."
             }
           ]
         },
@@ -156,11 +156,11 @@
           "special": [
             {
               "title": "Boarders",
-              "effect": "When a boarding torpedo successfully hits a target craft, roll the weapon's damage as normal. If the damage exceeds the target's armour, the torpedo does not inflict damage to Hull Integrity. Instead, it immediately inflicts a Hit-and-Run attack. "
+              "description": "When a boarding torpedo successfully hits a target craft, roll the weapon's damage as normal. If the damage exceeds the target's armour, the torpedo does not inflict damage to Hull Integrity. Instead, it immediately inflicts a Hit-and-Run attack. "
             },
             {
               "title": "Terminal Penetration (2)",
-              "effect": "When rolling damage for this weapon, re-roll any dice results of 2 or lower. The results of the second roll stand."
+              "description": "When rolling damage for this weapon, re-roll any dice results of 2 or lower. The results of the second roll stand."
             }
           ]
         },
@@ -174,11 +174,11 @@
           "special": [
             {
               "title": "Inferno",
-              "effect": "A hit from a Melta Torpedo that deals damage automatically causes a Fire! Critical Result, in addition to any other Critical Results is may cause. Carrying these extremely volatile weapons is nearly as dangerous for a vessel as it is for its targets. If Torpedo Tubes armed with these warheads are destroyed, one additional Components of the GM's choice is set on fire. "
+              "description": "A hit from a Melta Torpedo that deals damage automatically causes a Fire! Critical Result, in addition to any other Critical Results is may cause. Carrying these extremely volatile weapons is nearly as dangerous for a vessel as it is for its targets. If Torpedo Tubes armed with these warheads are destroyed, one additional Components of the GM's choice is set on fire. "
             },
             {
               "title": "Terminal Penetration (4)",
-              "effect": "When rolling damage for this weapon, re-roll any dice results of 4 or lower. The results of the second roll stand."
+              "description": "When rolling damage for this weapon, re-roll any dice results of 4 or lower. The results of the second roll stand."
             }
           ]
         },
@@ -192,11 +192,11 @@
           "special": [
             {
               "title": "Viral Payload",
-              "effect": "When a torpedo armed with a Virus Warhead successfully hits a target vessel, roll damage. Provided the result exceeds the target's Armour, the vessel immediately suffers 3d10 damage to Crew Population and 2d10 damage to Morale. The ship does not, however, suffer damage to Hull Integrity. A character must immediately make a Difficult (-10) Command Test to isolate survivors from the infected crew. If this test succeeds, the spread of the virus is halted. However, if the test is failed, the vessel will suffer the same damage again each strategic turn until the test is passed. Note that this test must be taken for each successful warhead strike in a salvo. The danger imposed by Virus Warheads is not entirely one-sided. If a Torpedo Tube armed with these weapons is Damaged, the vessel counts as being affected by a virus warhead. "
+              "description": "When a torpedo armed with a Virus Warhead successfully hits a target vessel, roll damage. Provided the result exceeds the target's Armour, the vessel immediately suffers 3d10 damage to Crew Population and 2d10 damage to Morale. The ship does not, however, suffer damage to Hull Integrity. A character must immediately make a Difficult (-10) Command Test to isolate survivors from the infected crew. If this test succeeds, the spread of the virus is halted. However, if the test is failed, the vessel will suffer the same damage again each strategic turn until the test is passed. Note that this test must be taken for each successful warhead strike in a salvo. The danger imposed by Virus Warheads is not entirely one-sided. If a Torpedo Tube armed with these weapons is Damaged, the vessel counts as being affected by a virus warhead. "
             },
             {
               "title": "Terminal Penetration (1)",
-              "effect": "When rolling damage for this weapon, re-roll any dice results of 1. The results of the second roll stand."
+              "description": "When rolling damage for this weapon, re-roll any dice results of 1. The results of the second roll stand."
             }
           ]
         },
@@ -210,11 +210,11 @@
           "special": [
             {
               "title": "Maelstrom",
-              "effect": "When attacked by these torpedoes, word of these horrifying weapons spreads like wildfire through the target crew. In addition to the Hull Integrity damage and the Critical Hit from each Vortex warhead, each successful vortex warhead strike also causes 1d5 damage to Morale. Vortex warheads ignore Armour when calculating damage. Maintaining and safeguarding these weapons requires rituals that have been lost to most enginseers. If torpedo tubes armed with these warheads are Damaged, the torpedo tubes are immediately destroyed. Further, the vessel is immediately subjected to three additional Critical Hits at locations of the GM's choice. In addition, when an upkeep test to resupply Vortex torpedoes is failed by two or more degrees of failure, the new Vortex torpedoes are defective. These torpedoes will detonate damaging (but not destroying) the torpedo tubes at a time of the GM's choice. "
+              "description": "When attacked by these torpedoes, word of these horrifying weapons spreads like wildfire through the target crew. In addition to the Hull Integrity damage and the Critical Hit from each Vortex warhead, each successful vortex warhead strike also causes 1d5 damage to Morale. Vortex warheads ignore Armour when calculating damage. Maintaining and safeguarding these weapons requires rituals that have been lost to most enginseers. If torpedo tubes armed with these warheads are Damaged, the torpedo tubes are immediately destroyed. Further, the vessel is immediately subjected to three additional Critical Hits at locations of the GM's choice. In addition, when an upkeep test to resupply Vortex torpedoes is failed by two or more degrees of failure, the new Vortex torpedoes are defective. These torpedoes will detonate damaging (but not destroying) the torpedo tubes at a time of the GM's choice. "
             },
             {
               "title": "Terminal Penetration (5)",
-              "effect": "When rolling damage for this weapon, re-roll any dice results of 5 or lower. The results of the second roll stand."
+              "description": "When rolling damage for this weapon, re-roll any dice results of 5 or lower. The results of the second roll stand."
             }
           ]
         }

@@ -3,15 +3,15 @@ title: Insanity
 ---
 # Insanity
 
-Characters are at the centre of terrible events: battling indescribable horrors, uncovering shocking truths, and engaging in desperate struggles where countless lives and souls hang in the balance\. Such are the stresses and terrors involved that the slow slide into insanity is a constant threat\. No human mind, not even one hardened by the harsh rigours of life in the Imperium, is immune to the slow erosion of sanity by the horrors of the 41st Millennium, and Acolytes are no exception\. These dangers are represented by Insanity points\. These represent the strain put on a character's mind by her experiences; the more Insanity points, the more fragile her mind has become\. The cumulative effects of Insanity points are divided into Traumas, which represent the short term after\-effects of particularly terrible experiences, and Disorders, which are permanent mental afflictions that mark a character's slide into total madness
+Characters are at the centre of terrible events: battling indescribable horrors, uncovering shocking truths, and engaging in desperate struggles where countless lives and souls hang in the balance. Such are the stresses and terrors involved that the slow slide into insanity is a constant threat. No human mind, not even one hardened by the harsh rigours of life in the Imperium, is immune to the slow erosion of sanity by the horrors of the 41st Millennium, and Acolytes are no exception. These dangers are represented by Insanity points. These represent the strain put on a character's mind by her experiences; the more Insanity points, the more fragile her mind has become. The cumulative effects of Insanity points are divided into Traumas, which represent the short term after\-effects of particularly terrible experiences, and Disorders, which are permanent mental afflictions that mark a character's slide into total madness
 
 ## Insanity Points
 
-Insanity points \(IsP\) begin at 0 when a PC begins the game and increase over time as damage is done to a character's state of mind. The higher the Insanity Points, the more damaged and debilitated a character becomes, and should IsP ever reach 100, the character is either slain by her Inquisitor or fellow Acolytes for her own good, or falls from grace and becomes an enemy of Mankind\. In either case, she can no longer serve her Inquisitor—she is lost in the eyes of the Emperor and must be retired from play\.
+Insanity points \(IsP\) begin at 0 when a PC begins the game and increase over time as damage is done to a character's state of mind. The higher the Insanity Points, the more damaged and debilitated a character becomes, and should IsP ever reach 100, the character is either slain by her Inquisitor or fellow Acolytes for her own good, or falls from grace and becomes an enemy of Mankind. In either case, she can no longer serve her Inquisitor—she is lost in the eyes of the Emperor and must be retired from play.
 
 ## Degrees of Madness
 
-A character is classified as having a certain degree of Madness depending on how many Insanity points she has accumulated\. This classification gives a player a broad idea of the state of a character's mind and how close to the edge she has become\. A character's degree of Madness also determines the modifier that she applies to tests taken to avoid Mental Trauma\.
+A character is classified as having a certain degree of Madness depending on how many Insanity points she has accumulated. This classification gives a player a broad idea of the state of a character's mind and how close to the edge she has become. A character's degree of Madness also determines the modifier that she applies to tests taken to avoid Mental Trauma.
 
 ### The Insanity Track
 __IsP Total__|__Degree Of Madness__|__Trauma Modifier__|__Disorder__
@@ -30,7 +30,7 @@ __IsP Total__|__Degree Of Madness__|__Trauma Modifier__|__Disorder__
 
 ## Mental Trauma
 
-Mental Trauma represents the relatively short\-term damage to a character's state of mind that she suffers after experiencing a particularly horrific event\. Each time the character's Insanity point total rises by another 10 points, she must make a Trauma test\. This is a Willpower test, modified in difficulty by how many Insanity points the character has accrued in total See Reference File\. If the character passes the test, she manages to cope with her experience without any ill effect\. If she fails the test, roll on Table Mental Traumas, adding 10 to the roll for every degree of failure\. This result is applied in the aftermath of any encounter that inflicted the Insanity points\.
+Mental Trauma represents the relatively short\-term damage to a character's state of mind that she suffers after experiencing a particularly horrific event. Each time the character's Insanity point total rises by another 10 points, she must make a Trauma test. This is a Willpower test, modified in difficulty by how many Insanity points the character has accrued in total See Reference File. If the character passes the test, she manages to cope with her experience without any ill effect. If she fails the test, roll on Table Mental Traumas, adding 10 to the roll for every degree of failure. This result is applied in the aftermath of any encounter that inflicted the Insanity points.
 
 ### Mental Traumas
 __Roll__   |__Result__
@@ -47,20 +47,20 @@ __Roll__   |__Result__
 
 ## Gaining Mental Disorders
 
-Mental disorders reflect the permanent, long\-term effects on a character's mind of the horrors of the battlefield\. A character automatically gains a new disorder \(or a more severe version of an existing disorder\) each time she acquires a certain number of Insanity points\. A character gains one Minor Disorder when she reaches 40 Insanity points, one Severe Disorder when she reaches 60 Insanity points, and one Acute Disorder when she reaches 80 Insanity points \(these correspond to the character becoming “Disturbed,” “Unhinged,” and “Deranged”\)\. Disorders can be selected by the GM, or the GM can allow the player to select one if she prefers\. A character must have the preceding severity of a disorder for it to get worse, so for a disorder to become “Severe” the character must have the “Minor” version of the disorder first\.
+Mental disorders reflect the permanent, long\-term effects on a character's mind of the horrors of the battlefield. A character automatically gains a new disorder \(or a more severe version of an existing disorder\) each time she acquires a certain number of Insanity points. A character gains one Minor Disorder when she reaches 40 Insanity points, one Severe Disorder when she reaches 60 Insanity points, and one Acute Disorder when she reaches 80 Insanity points \(these correspond to the character becoming “Disturbed,” “Unhinged,” and “Deranged”\). Disorders can be selected by the GM, or the GM can allow the player to select one if she prefers. A character must have the preceding severity of a disorder for it to get worse, so for a disorder to become “Severe” the character must have the “Minor” version of the disorder first.
 
 ### Disorders and Their Severity
 
-The effect a mental disorder has on a character is left largely up to the GM, though the descriptions presented below provide some guidelines\. If a character finds herself in a situation or encounter where her disorder will be immediately or dangerously detrimental, she can make a Willpower test\. Success means that she is able to ignore the effects of the disorder for the remainder of the encounter\. All disorders are rated as Minor, Severe, or Acute, in ascending order of effect\.
+The effect a mental disorder has on a character is left largely up to the GM, though the descriptions presented below provide some guidelines. If a character finds herself in a situation or encounter where her disorder will be immediately or dangerously detrimental, she can make a Willpower test. Success means that she is able to ignore the effects of the disorder for the remainder of the encounter. All disorders are rated as Minor, Severe, or Acute, in ascending order of effect.
 
-- Minor Disorder: The effects of the disorder manifest rarely or exhibit a fairly weak compulsion\. Any test to overcome the effects of the disorder gains a \+10 bonus\.
-- Severe Disorder: The effects of the disorder are stronger and may manifest regularly\. There is no modifier to tests made to overcome the effects of the disorder\.
-- Acute Disorder: The effects of the disorder are very strong and will trigger at the slightest stimulation\. Any tests to overcome the effects of the disorder are made a –10 penalty\.
+- Minor Disorder: The effects of the disorder manifest rarely or exhibit a fairly weak compulsion. Any test to overcome the effects of the disorder gains a \+10 bonus.
+- Severe Disorder: The effects of the disorder are stronger and may manifest regularly. There is no modifier to tests made to overcome the effects of the disorder.
+- Acute Disorder: The effects of the disorder are very strong and will trigger at the slightest stimulation. Any tests to overcome the effects of the disorder are made a –10 penalty.
 
 ## Removing Insanity
 
-With the GMs permission, a character may use xp to remove Insanity points\. It costs 100 xp to remove a single Insanity point\. A character cannot ever go down a degree of Madness, and so can never lose one of her disorders through this method\. The removal of Insanity points should be properly represented as time and effort spent by the character in game \(long\-term palliative care, prayer, fasting, penance, recuperation in quiet and pleasant surroundings, etc.\)\.
+With the GMs permission, a character may use xp to remove Insanity points. It costs 100 xp to remove a single Insanity point. A character cannot ever go down a degree of Madness, and so can never lose one of her disorders through this method. The removal of Insanity points should be properly represented as time and effort spent by the character in game \(long\-term palliative care, prayer, fasting, penance, recuperation in quiet and pleasant surroundings, etc.\).
 
-## Only the Insane Shall Prosper\.\.\.
+## Only the Insane Shall Prosper...
 
-The more insane a character becomes, the less horrific things seem\. After all, what are the horrors of a blood\-soaked sacrifice compared to the terrors an Acolyte sees when she closes her eyes? If the tens digit of a character's Insanity points total is double \(or more\) a creature's Fear level, the character is unaffected by that source of Fear and does not need to make a Fear test\.
+The more insane a character becomes, the less horrific things seem. After all, what are the horrors of a blood\-soaked sacrifice compared to the terrors an Acolyte sees when she closes her eyes? If the tens digit of a character's Insanity points total is double \(or more\) a creature's Fear level, the character is unaffected by that source of Fear and does not need to make a Fear test.

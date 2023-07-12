@@ -39,9 +39,9 @@ export default function Origins({ rootPath, data }: { rootPath: string, data: Or
       grow: 4,
       wrap: true,
       selector: (row: OriginRecord) =>
-        `${row.bonus.title}: ${row.bonus.effect}`,
+        `${row.bonus.title}: ${row.bonus.description}`,
       format: (row: OriginRecord) => (
-        <SrdMarkdown text={`__${row.bonus.title}:__ ${row.bonus.effect}`} />
+        <SrdMarkdown text={`__${row.bonus.title}:__ ${row.bonus.description}`} />
       ),
     },
     {

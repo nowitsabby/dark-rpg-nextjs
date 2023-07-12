@@ -57,7 +57,7 @@ export default function Ammunition({ rootPath, data }: { rootPath: string, data:
                     ?.join(' ')
                     .toLowerCase()
                     .includes(filterText.toLowerCase()) ||
-                  item.effect
+                  item.description
                     ?.toLowerCase()
                     .includes(filterText.toLowerCase()) ||
                   item.availability
@@ -74,7 +74,7 @@ export default function Ammunition({ rootPath, data }: { rootPath: string, data:
       expandableRowsComponent={({ data: row }) => (
         <>
           <div style={{ padding: '4px 4px 0 12px' }}>
-            <SrdMarkdown text={row.effect} />
+            <SrdMarkdown text={row.description} />
           </div>
           <hr />
         </>

@@ -17,7 +17,7 @@
       "special": [
         {
           "title": "The Air is Sweet",
-          "effect": "Increase Morale permanently by 2, reduce all losses to Crew Population due to non-combat sources by 1. This can be used as a ship's Life Sustainer."
+          "description": "Increase Morale permanently by 2, reduce all losses to Crew Population due to non-combat sources by 1. This can be used as a ship's Life Sustainer."
         }
       ]
     },
@@ -34,7 +34,7 @@
       "special": [
         {
           "title": "The Air is Sweet",
-          "effect": "Increase Morale permanently by 2, reduce all losses to Crew Population due to non-combat sources by 1. This can be used as a ship's Life Sustainer."
+          "description": "Increase Morale permanently by 2, reduce all losses to Crew Population due to non-combat sources by 1. This can be used as a ship's Life Sustainer."
         }
       ]
     },
@@ -55,7 +55,7 @@
       "special": [
         {
           "title": "Overcharged",
-          "effect": "The strange and exotic nature of the materials used in the drive's containment domes allows for a hotter plasma 'burn', while taking up less space. This adds +1 to the ship's Speed, decreases the space the drive takes up by 4, and is of extreme interest to agents of the Mechanicus."
+          "description": "The strange and exotic nature of the materials used in the drive's containment domes allows for a hotter plasma 'burn', while taking up less space. This adds +1 to the ship's Speed, decreases the space the drive takes up by 4, and is of extreme interest to agents of the Mechanicus."
         }
       ]
     },
@@ -73,11 +73,11 @@
       "special": [
         {
           "title": "Eyes Everywhere",
-          "effect": "Add +10 to all Command Tests or social Skill Tests any character makes while on the bridge. This can be used as a ship's bridge."
+          "description": "Add +10 to all Command Tests or social Skill Tests any character makes while on the bridge. This can be used as a ship's bridge."
         },
         {
           "title": "Hololithic Display Tank",
-          "effect": "Increase the ship's Manoeuvrability by +5."
+          "description": "Increase the ship's Manoeuvrability by +5."
         }
       ]
     },
@@ -94,11 +94,11 @@
       "special": [
         {
           "title": "Eyes Everywhere",
-          "effect": "Add +10 to all Command Tests or social Skill Tests any character makes while on the bridge. This can be used as a ship's bridge."
+          "description": "Add +10 to all Command Tests or social Skill Tests any character makes while on the bridge. This can be used as a ship's bridge."
         },
         {
           "title": "Hololithic Display Tank",
-          "effect": "Increase the ship's Manoeuvrability by +5."
+          "description": "Increase the ship's Manoeuvrability by +5."
         }
       ]
     },
@@ -119,15 +119,15 @@
       "special": [
         {
           "title": "Image of the Void",
-          "effect": "Increase the ship's Detection by +5. This can be used as a ship's Auger Array. "
+          "description": "Increase the ship's Detection by +5. This can be used as a ship's Auger Array. "
         },
         {
           "title": "External",
-          "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit. "
+          "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit. "
         },
         {
           "title": "Targeting Matrix",
-          "effect": "All Ballistic Skill Tests to fire the ship's weapons gain +5."
+          "description": "All Ballistic Skill Tests to fire the ship's weapons gain +5."
         }
       ]
     },
@@ -148,7 +148,7 @@
       "special": [
         {
           "title": "Surprise Strike",
-          "effect": "Characters may make Hit and Run Attacks without a piloting test, as they travel directly to the heart of the enemy vessel. When using the teleportarium to perform such an attack, the attacker receives +20 to her Command Test. (The teleportarium may be used in any number of other ways, such as guaranteeing escape from sticky situations on a nearby planet, at the GM's discretion.)"
+          "description": "Characters may make Hit and Run Attacks without a piloting test, as they travel directly to the heart of the enemy vessel. When using the teleportarium to perform such an attack, the attacker receives +20 to her Command Test. (The teleportarium may be used in any number of other ways, such as guaranteeing escape from sticky situations on a nearby planet, at the GM's discretion.)"
         }
       ]
     },
@@ -164,7 +164,7 @@
       "special": [
         {
           "title": "Dampened Drives",
-          "effect": "This Component grants a +15 bonus to the Silent Running Manoeuvre. Any attempts to detect the vessel (any actions that use a ship's Detection, such as the Active Augury Extended Action) suffer a -15 penalty."
+          "description": "This Component grants a +15 bonus to the Silent Running Manoeuvre. Any attempts to detect the vessel (any actions that use a ship's Detection, such as the Active Augury Extended Action) suffer a -15 penalty."
         }
       ]
     },
@@ -181,7 +181,7 @@
       "special": [
         {
           "title": "Dampened Drives",
-          "effect": "This Component grants a +15 bonus to the Silent Running Manoeuvre. Any attempts to detect the vessel (any actions that use a ship's Detection, such as the Active Augury Extended Action) suffer a -15 penalty."
+          "description": "This Component grants a +15 bonus to the Silent Running Manoeuvre. Any attempts to detect the vessel (any actions that use a ship's Detection, such as the Active Augury Extended Action) suffer a -15 penalty."
         }
       ]
     },
@@ -197,19 +197,19 @@
       "special": [
         {
           "title": "Vortex Warhead",
-          "effect": "The terrifying nature of vortex weaponry means a ship hit by a shot from this weapon (even if it does not do damage) immediately loses 1d5 Morale. "
+          "description": "The terrifying nature of vortex weaponry means a ship hit by a shot from this weapon (even if it does not do damage) immediately loses 1d5 Morale. "
         },
         {
           "title": "Core Architecture",
-          "effect": "This weapon Component is always revealed by successful Active Augury—it is too large to be concealed."
+          "description": "This weapon Component is always revealed by successful Active Augury—it is too large to be concealed."
         },
         {
           "title": "Unstable Ammunition",
-          "effect": "If a Jovian-pattern Nova Cannon is ever damaged, it is destroyed instead. In addition, as the ammunition explodes, the vessel is suffers 1d10 Hull Integrity Damage, ignoring armour or void shields."
+          "description": "If a Jovian-pattern Nova Cannon is ever damaged, it is destroyed instead. In addition, as the ammunition explodes, the vessel is suffers 1d10 Hull Integrity Damage, ignoring armour or void shields."
         },
         {
           "title": "Nova Cannon",
-          "effect": "Damage 2d5+7. Range 6-35."
+          "description": "Damage 2d5+7. Range 6-35."
         }
       ]
     },
@@ -230,19 +230,19 @@
       "special": [
         {
           "title": "Torpedo Tubes",
-          "effect": "Strength 4. This component can store sixteen torpedoes, plus an additional four if the ship's captain does not mind keeping four “in the tubes.” This follows all the rules for torpedo tubes"
+          "description": "Strength 4. This component can store sixteen torpedoes, plus an additional four if the ship's captain does not mind keeping four “in the tubes.” This follows all the rules for torpedo tubes"
         },
         {
           "title": "Hot Launch",
-          "effect": "Torpedoes launched from this Component gain an additional +4 VU speed on the turn they are launched, after which they revert to normal. "
+          "description": "Torpedoes launched from this Component gain an additional +4 VU speed on the turn they are launched, after which they revert to normal. "
         },
         {
           "title": "Augur Accuracy",
-          "effect": "Torpedoes launched from this Component gain a +10 bonus to hit. "
+          "description": "Torpedoes launched from this Component gain a +10 bonus to hit. "
         },
         {
           "title": "Volatile",
-          "effect": "If this Component is Damaged or Destroyed (but not Unpowered or Depressurised) while torpedoes are loaded, it has a 5% chance of exploding. In this event, the Component is destroyed and the ship takes 2d5 Hull Integrity damage."
+          "description": "If this Component is Damaged or Destroyed (but not Unpowered or Depressurised) while torpedoes are loaded, it has a 5% chance of exploding. In this event, the Component is destroyed and the ship takes 2d5 Hull Integrity damage."
         }
       ]
     },
@@ -263,15 +263,15 @@
       "special": [
         {
           "title": "Her Holy Light",
-          "effect": "The Navigator receives a +20 bonus to all tests to Locate the Astronomican. "
+          "description": "The Navigator receives a +20 bonus to all tests to Locate the Astronomican. "
         },
         {
           "title": "Beacon",
-          "effect": "In addition to increasing the navigator's sensitivity, this Component also makes the vessel much more noticeable to others in the warp. Vessels equipped with a Warp Antenna suffer a -10 modifier on Warp Travel Encounter Tests. "
+          "description": "In addition to increasing the navigator's sensitivity, this Component also makes the vessel much more noticeable to others in the warp. Vessels equipped with a Warp Antenna suffer a -10 modifier on Warp Travel Encounter Tests. "
         },
         {
           "title": "External",
-          "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or Damaged with a Critical Hit."
+          "description": "This Component does not require hull space. Although it is external, it can only be destroyed or Damaged with a Critical Hit."
         }
       ]
     },
@@ -292,7 +292,7 @@
       "special": [
         {
           "title": "The True Path",
-          "effect": "When using a Warp Sextant, the Navigator receives a +20 bonus on any Perception Tests or Navigation (Warp) Tests made to steer the vessel through the warp."
+          "description": "When using a Warp Sextant, the Navigator receives a +20 bonus on any Perception Tests or Navigation (Warp) Tests made to steer the vessel through the warp."
         }
       ]
     },
@@ -313,11 +313,11 @@
       "special": [
         {
           "title": "Void Shield Array",
-          "effect": "This Component counts as a ship's Void Shield, giving the ship one void shield."
+          "description": "This Component counts as a ship's Void Shield, giving the ship one void shield."
         },
         {
           "title": "Fail-safes",
-          "effect": "Once per Strategic Round, during one opponent's Strategic Turn, the ship's Enginseer may make a Difficult (-10) Tech-Use Test. This does not count as the Enginseer's Extended Action. If she succeeds, the ship doubles its number of Void Shields for the duration of a single opponent's Strategic Turn."
+          "description": "Once per Strategic Round, during one opponent's Strategic Turn, the ship's Enginseer may make a Difficult (-10) Tech-Use Test. This does not count as the Enginseer's Extended Action. If she succeeds, the ship doubles its number of Void Shields for the duration of a single opponent's Strategic Turn."
         }
       ]
     },
@@ -333,11 +333,11 @@
       "special": [
         {
           "title": "Void Shield Array",
-          "effect": "This Component counts as a ship's Void Shields, giving the ship two void shields."
+          "description": "This Component counts as a ship's Void Shields, giving the ship two void shields."
         },
         {
           "title": "Fail-safes",
-          "effect": "Once per Strategic Round, during one opponent's Strategic Turn, the ship's Enginseer may make a Difficult (-10) Tech-Use Test. This does not count as the Enginseer's Extended Action. If she succeeds, the ship doubles its number of Void Shields for the duration of a single opponent's Strategic Turn."
+          "description": "Once per Strategic Round, during one opponent's Strategic Turn, the ship's Enginseer may make a Difficult (-10) Tech-Use Test. This does not count as the Enginseer's Extended Action. If she succeeds, the ship doubles its number of Void Shields for the duration of a single opponent's Strategic Turn."
         }
       ]
     },
@@ -358,7 +358,7 @@
       "special": [
         {
           "title": "Sophisticated Cogitation Operation",
-          "effect": "This starship's Crew Rating gains a +5 bonus."
+          "description": "This starship's Crew Rating gains a +5 bonus."
         }
       ]
     },
@@ -379,7 +379,7 @@
       "special": [
         {
           "title": "Redirect Power to Engines",
-          "effect": "The ship's captain can choose to activate the conversion matrix at any time as a free action. When she does so, she decreases the amount of Power generated by the ship and increases its Speed value. Frigates and raiders can exchange 3 Power for 1 Speed. Light cruisers can exchange 4 Power for 1 Speed. Transports and Cruisers can exchange 5 Power for 1 Speed. A ship's Speed value cannot be increased by more than 5 using this Component. A captain may divert Power being used to power other Components, however, if she does so, the Component becomes unpowered for as long as the conversion matrix is used."
+          "description": "The ship's captain can choose to activate the conversion matrix at any time as a free action. When she does so, she decreases the amount of Power generated by the ship and increases its Speed value. Frigates and raiders can exchange 3 Power for 1 Speed. Light cruisers can exchange 4 Power for 1 Speed. Transports and Cruisers can exchange 5 Power for 1 Speed. A ship's Speed value cannot be increased by more than 5 using this Component. A captain may divert Power being used to power other Components, however, if she does so, the Component becomes unpowered for as long as the conversion matrix is used."
         }
       ]
     },
@@ -400,7 +400,7 @@
       "special": [
         {
           "title": "Aid of the Machine-Spirit",
-          "effect": "When this ship performs the Adjust Speed and Bearing, Come to New Heading, and Evasive Manoeuvres Manoeuvre Actions, its Operate (Voidship) + Manoeuvrability Test counts as Challenging (+0)."
+          "description": "When this ship performs the Adjust Speed and Bearing, Come to New Heading, and Evasive Manoeuvres Manoeuvre Actions, its Operate (Voidship) + Manoeuvrability Test counts as Challenging (+0)."
         }
       ]
     },
@@ -421,7 +421,7 @@
       "special": [
         {
           "title": "Macrobattery",
-          "effect": "Strength 4. Damage 1d10+2. Crit Rating 4. Range 12."
+          "description": "Strength 4. Damage 1d10+2. Crit Rating 4. Range 12."
         }
       ]
     },
@@ -438,11 +438,11 @@
       "special": [
         {
           "title": "Pinpoint accuracy",
-          "effect": "This weapon scores an additional hit for every two degrees of success, rather than every three "
+          "description": "This weapon scores an additional hit for every two degrees of success, rather than every three "
         },
         {
           "title": "Lance",
-          "effect": "Strength 3. Damage 1d10+3. Crit Rating 3. Range 7."
+          "description": "Strength 3. Damage 1d10+3. Crit Rating 3. Range 7."
         }
       ]
     },
@@ -460,11 +460,11 @@
       "special": [
         {
           "title": "Blessing of the Omnissiah",
-          "effect": "When Crippled, the Captain may choose to have either her Weapon Components or her Speed unaffected by the usual penalties for crippled ships."
+          "description": "When Crippled, the Captain may choose to have either her Weapon Components or her Speed unaffected by the usual penalties for crippled ships."
         },
         {
           "title": "Volatile",
-          "effect": "If the Emergency Energy Reserves are damaged, the Component has a 25% chance of exploding. In this event, the Component is destroyed, the ship takes 1d5 damage to Hull Integrity, and a Component of the GM's choice is set on fire."
+          "description": "If the Emergency Energy Reserves are damaged, the Component has a 25% chance of exploding. In this event, the Component is destroyed, the ship takes 1d5 damage to Hull Integrity, and a Component of the GM's choice is set on fire."
         }
       ]
     },
@@ -481,11 +481,11 @@
       "special": [
         {
           "title": "Blessing of the Omnissiah",
-          "effect": "When Crippled, the Captain may choose to have either her Weapon Components or her Speed unaffected by the usual penalties for crippled ships."
+          "description": "When Crippled, the Captain may choose to have either her Weapon Components or her Speed unaffected by the usual penalties for crippled ships."
         },
         {
           "title": "Volatile",
-          "effect": "If the Emergency Energy Reserves are damaged, the Component has a 25% chance of exploding. In this event, the Component is destroyed, the ship takes 1d5 damage to Hull Integrity, and a Component of the GM's choice is set on fire."
+          "description": "If the Emergency Energy Reserves are damaged, the Component has a 25% chance of exploding. In this event, the Component is destroyed, the ship takes 1d5 damage to Hull Integrity, and a Component of the GM's choice is set on fire."
         }
       ]
     },
@@ -502,15 +502,15 @@
       "special": [
         {
           "title": "Convenient Flux",
-          "effect": "When triggered, all vessels in the star system suffer a -30 to their Detection for 2 Strategic Rounds."
+          "description": "When triggered, all vessels in the star system suffer a -30 to their Detection for 2 Strategic Rounds."
         },
         {
           "title": "Extended Recovery",
-          "effect": "The Graviton Flare requires twenty-four hours to recharge between uses."
+          "description": "The Graviton Flare requires twenty-four hours to recharge between uses."
         },
         {
           "title": "External",
-          "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+          "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
         }
       ]
     },
@@ -531,11 +531,11 @@
       "special": [
         {
           "title": "Witch hold",
-          "effect": "This hold allows transport of up to 100 psykers in solitary containment cells. When secured in a cell, all Focus Power Tests made to activate psychic abilities (or any other tests involving warp powers such as a test to use a Navigator's warp eye) suffer a -60 penalty. When working towards an appropriate Criminal Objective, the players earn an additional 50 Achievement Points towards completing that objective."
+          "description": "This hold allows transport of up to 100 psykers in solitary containment cells. When secured in a cell, all Focus Power Tests made to activate psychic abilities (or any other tests involving warp powers such as a test to use a Navigator's warp eye) suffer a -60 penalty. When working towards an appropriate Criminal Objective, the players earn an additional 50 Achievement Points towards completing that objective."
         },
         {
           "title": "The Keening",
-          "effect": "Whenever this bay is in use, decrease Morale by 3 as a result of the psychic residue of misery from its prisoners."
+          "description": "Whenever this bay is in use, decrease Morale by 3 as a result of the psychic residue of misery from its prisoners."
         }
       ]
     },
@@ -553,11 +553,11 @@
       "special": [
         {
           "title": "Slumbering Crew",
-          "effect": "When active, the vessel's Crew Population is decreased by 50 and its Morale is decreased by 5. When the device is deactivated, Crew Population recovers the full 50 points, but Morale does not recover. It takes a full day's work to awaken all the crew."
+          "description": "When active, the vessel's Crew Population is decreased by 50 and its Morale is decreased by 5. When the device is deactivated, Crew Population recovers the full 50 points, but Morale does not recover. It takes a full day's work to awaken all the crew."
         },
         {
           "title": "Stretch the Rations",
-          "effect": "When in use, a ship may double the time it may remain in the void without suffering Crew Population or Morale Loss."
+          "description": "When in use, a ship may double the time it may remain in the void without suffering Crew Population or Morale Loss."
         }
       ]
     },
@@ -574,11 +574,11 @@
       "special": [
         {
           "title": "Slumbering Crew",
-          "effect": "When active, the vessel's Crew Population is decreased by 50 and its Morale is decreased by 5. When the device is deactivated, Crew Population recovers the full 50 points, but Morale does not recover. It takes a full day's work to awaken all the crew."
+          "description": "When active, the vessel's Crew Population is decreased by 50 and its Morale is decreased by 5. When the device is deactivated, Crew Population recovers the full 50 points, but Morale does not recover. It takes a full day's work to awaken all the crew."
         },
         {
           "title": "Stretch the Rations",
-          "effect": "When in use, a ship may double the time it may remain in the void without suffering Crew Population or Morale Loss."
+          "description": "When in use, a ship may double the time it may remain in the void without suffering Crew Population or Morale Loss."
         }
       ]
     },
@@ -599,11 +599,11 @@
       "special": [
         {
           "title": "Plumb the Immaterium",
-          "effect": "A Navigator may use this device to make a Challenging (+0) Awareness Test. If successful, the Navigator can identify nearby vessels (or other large objects) and estimate when and where they are likely to transition out of the warp. For every degree of success, the Navigator can sense objects within a range of about one hour's travel."
+          "description": "A Navigator may use this device to make a Challenging (+0) Awareness Test. If successful, the Navigator can identify nearby vessels (or other large objects) and estimate when and where they are likely to transition out of the warp. For every degree of success, the Navigator can sense objects within a range of about one hour's travel."
         },
         {
           "title": "External",
-          "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+          "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
         }
       ]
     }

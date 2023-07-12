@@ -41,14 +41,14 @@ export default function Backgrounds({ rootPath, data }: { rootPath: string, data
       selector: (row: BackgroundRecord) => {
         let retVal = '';
         row.bonuses.forEach((value) => {
-          retVal = retVal.concat(`${value.title}: ${value.effect}`);
+          retVal = retVal.concat(`${value.title}: ${value.description}`);
         });
         return retVal;
       },
       format: (row: BackgroundRecord) => {
         let retVal = '';
         row.bonuses.forEach((value) => {
-          retVal = retVal.concat(`__${value.title}__: ${value.effect}\n\n`);
+          retVal = retVal.concat(`__${value.title}__: ${value.description}\n\n`);
         });
         return <SrdMarkdown text={retVal} />;
       },

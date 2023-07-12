@@ -53,7 +53,7 @@ const columns = [
                     item.action
                       ?.toLowerCase()
                       .includes(filterText.toLowerCase()) ||
-                    item.benefit
+                    item.description
                       ?.toLowerCase()
                       .includes(filterText.toLowerCase()) ||
                     item.test?.toLowerCase().includes(filterText.toLowerCase())
@@ -67,7 +67,7 @@ const columns = [
         expandableRowsComponent={({ data: row }) => (
           <>
             <div style={{ padding: '4px 4px 0 12px' }}>
-              <SrdMarkdown text={row.benefit} />
+              <SrdMarkdown text={row.description} />
             </div>
             <hr />
           </>

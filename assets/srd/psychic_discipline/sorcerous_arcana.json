@@ -1,287 +1,283 @@
 {
   "title": "Sorcerous Arcana - Psychic Discipline",
-  "info": "# Sorcerous Arcana - Psychic Discipline",
+  "info": "# Sorcerous Arcana - Psychic Discipline\n\nThe arduous study and strength of will required to become a psyker of ability drives many who lack the diligence, opportunity or the innate talent, to look for what some foolishly see as an easier path to power and even those with very limited or no latent psychic ability can become powerful Sorcerers If they have the will, intelligence and stomach to wield and pay the price for their dark lore. Despised and feared for their unnatural practices and the taint of the warp that lingers near them, sorcerers are often recluses. Like all who gaze too long at things which man was never meant to see, most sorcerers eventually succumb either to insanity, mutation or the daemon's hunger for there are no more treacherous paths to power known to mankind.\n\n__Dark Power__\n\nEvery time a Sorcerer successfully manifests a Sorcerous Power or Arcana Power, they gain a number of Corruption points equal to 1d10 minus their Willpower bonus.\n\nThe following arcana are available only to a Sorcerer character, and are purchased with experience in the same manner as regular psychic powers.",
   "component": "PsychicDiscipline",
-  "data": {
-    "discipline": "Sorcerous Arcana",
-    "information": "The arduous study and strength of will required to become a psyker of ability drives many who lack the diligence, opportunity or the innate talent, to look for what some foolishly see as an easier path to power and even those with very limited or no latent psychic ability can become powerful Sorcerers If they have the will, intelligence and stomach to wield and pay the price for their dark lore. Despised and feared for their unnatural practices and the taint of the warp that lingers near them, sorcerers are often recluses. Like all who gaze too long at things which man was never meant to see, most sorcerers eventually succumb either to insanity, mutation or the daemon's hunger for there are no more treacherous paths to power known to mankind.\n\n__Dark Power__\n\nEvery time a Sorcerer successfully manifests a Sorcerous Power or Arcana Power, they gain a number of Corruption points equal to 1d10 minus their Willpower bonus.\n\nThe following arcana are available only to a Sorcerer character, and are purchased with experience in the same manner as regular psychic powers.",
-    "powers": [
-      {
-        "name": "Flail of Skulls",
-        "id": "flail_of_skulls",
-        "cost": 200,
-        "prerequisites": [
-          "Intelligence 35"
-        ],
-        "action": "Half Action",
-        "focus": "+10 Willpower",
-        "range": "Self",
-        "sustained": "Free",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "Using strands of warp energy, the sorcerer binds together the skulls of the fallen, creating a flail of skulls that burns with malice. Once manifest, the Flail of Skulls uses the same profile as a flail but has the Warp Weapon quality and will bypass most armour and defences. Any target suffering Damage from the Flail of Skulls gains 1d10 Insanity Points and an additional Insanity Point for every skull used in the flail's construction after the second.\n\n__Special:__ Obviously, manifesting this power requires the sorcerer to possess one or more skulls.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Open",
-        "id": "open",
-        "cost": 200,
-        "prerequisites": [
-          "Intelligence 35"
-        ],
-        "action": "Half Action",
-        "focus": "+10 Willpower",
-        "range": "Touch",
-        "sustained": "No",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "Using her own blood, the sorcerer traces a blasphemous rune across a sealed portal or object, dissolving the essence of the locking mechanism. This power can be used on any object regardless of how it was originally sealed. The sorcerer suffers 1d5 Damage for a small object, 1d10 Damage for a medium-sized object, and 2d10 Damage for a large object. The GM should feel free to alter the amount of Damage taken to better represent a given object. This Damage is not reduced by the Sorcerer's Armour or Toughness Bonus.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Warp Vigour",
-        "id": "warp_vigour",
-        "cost": 200,
-        "prerequisites": [
-          "Intelligence 35"
-        ],
-        "action": "Half Action",
-        "focus": "+10 Willpower",
-        "range": "Touch",
-        "sustained": "No",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "With a mix of blood and ash, the sorcerer marks a burning rune on the target's head. Through the rune, the target can draw on unnatural reserves of fortitude. A character marked in this way may re-roll any Strength or Toughness Opposed Tests she is required to make and gains an additional 5 Wounds whilst this power is active. Any Damage that is inflicted upon the subject of this power affects these bonus Wounds first before affecting the rest. The rune will continue to protect the character for 1 hour.\n\n__Special:__ Any character whose body is defiled by this unholy symbol gains 1d10 Corruption Points.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Warp Tongue",
-        "id": "warp_tongue",
-        "cost": 200,
-        "prerequisites": [
-          "Intelligence 35"
-        ],
-        "action": "Half Action",
-        "focus": "+0 Willpower",
-        "range": "Earshot",
-        "sustained": "No",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "The sorcerer distorts the cacophony of voices in the warp, fooling daemons into believing she is a minor herald. Any creature with the Daemonic Trait who hears the sorcerer must pass an Opposed Willpower Test or become vulnerable to her suggestions. The sorcerer receives a +10 bonus to any Charm, Intimidate or Deceive Tests against these targets, with an additional +10 for every 2 Psy Rating used. If the daemon wins the Opposed Test, it gains a +10 bonus to all Tests made against the sorcerer (including Weapon Skill Tests!)/n/n__Special:__ This power requires only that the target must be able to hear the sorcerer.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Exsanguine",
-        "id": "exsanguine",
-        "cost": 300,
-        "prerequisites": [
-          "Intelligence 40"
-        ],
-        "action": "Half Action",
-        "focus": "-10 Opposed Willpower",
-        "range": "10m",
-        "sustained": "No",
-        "subtypes": [
-          "Attack",
-          "Concentration"
-        ],
-        "effects": "By snapping her fingers and bellowing an incantation at her target, the sorcerer causes the target's blood to bubble and rush from her body. This power is Opposed by the Target's Toughness. If successful, the target suffers Damage equal to the sorcerer's Willpower Bonus + Psy Rating (Toughness Bonus and Armour will not reduce this Damage) and will suffer from Blood Loss.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Psy Barrier",
-        "id": "psy_barrier",
-        "cost": 300,
-        "prerequisites": [
-          "Intelligence 40"
-        ],
-        "action": "Half Action",
-        "focus": "+0 Willpower",
-        "range": "5m",
-        "sustained": "Free",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "With a finger dipped in blood, the sorcerer draws a burning rune in the air which then burns the minds of those nearby with a mixture of fear and confusion. Anyone wishing to advance towards the rune must pass a Difficult (-10) Willpower Test or become rooted to the spot in fear. A target that fails her Willpower Test may do nothing further that turn.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Transfix",
-        "id": "transfix",
-        "cost": 300,
-        "prerequisites": [
-          "Intelligence 40"
-        ],
-        "action": "Half Action",
-        "focus": "+0 Willpower",
-        "range": "5m",
-        "sustained": "No",
-        "subtypes": [
-          "Attack",
-          "Concentration"
-        ],
-        "effects": "Flicking the blood of the recently dead onto the target's face and muttering a guttural curse, the sorcerer inflicts horrible hallucinations on the target. The victim witnesses horrific images of darkness and despair. Distraught and emotionally paralysed, the target is totally transfixed. Unless she passes a Very Hard (-30) Willpower Test, the target can do nothing for 1 hour. She also gains 1d5 Insanity Points.\n\n__Special:__ The sorcerer will need some reasonably fresh blood in order to manifest this power normally. If she has no access to blood, she manifests this power at a Threshold of 25.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Disease",
-        "id": "disease",
-        "cost": 400,
-        "prerequisites": [
-          "Intelligence 40"
-        ],
-        "action": "Half Action",
-        "focus": "-10 Willpower",
-        "range": "5m",
-        "sustained": "No",
-        "subtypes": [
-          "Attack"
-        ],
-        "effects": "With a contemptuous flick of her hand, the sorcerer invites a plague upon her target, who then begins to vomit bile and blood as the skin forms into bulbous pustules. The disease lasts for a number of Rounds equal to 1d5 + PR - target's Toughness Bonus. During each Round in which the target is diseased, all of her Characteristics are reduced by 10. Should her Toughness reach zero, the target dies.\n\n__Special:__ If a character dies from Disease, her soul is forfeit to the plague god Nurgle. The fallen corpse will decay further and arise as a Plaguebearer 5 Rounds later. The Plaguebearer will immediately attack anyone nearby.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Leach Life",
-        "id": "leach_life",
-        "cost": 400,
-        "prerequisites": [
-          "Intelligence 40"
-        ],
-        "action": "Full Action",
-        "focus": "-10 Willpower",
-        "range": "Touch",
-        "sustained": "No",
-        "subtypes": [
-          "Attack",
-          "Concentration"
-        ],
-        "effects": "Sinking her fingers into the flesh of a target, the sorcerer absorbs the target's very life force until nothing remains but a dessicated husk. This power can only be used on a Stunned or otherwise incapacitated target. For every 5 points by which the sorcerer exceeds the power's Threshold, the sorcerer regains 1 lost Wound and the target's Wounds are reduced by 1. The sorcerer may not gain any additional Wounds over her beginning amount. If the target is reduced to 0 Wounds, she dies.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Warp Lightning",
-        "id": "warp_lightning",
-        "cost": 400,
-        "prerequisites": [
-          "Intelligence 40"
-        ],
-        "action": "Half Action",
-        "focus": "-10 Willpower",
-        "range": "10m",
-        "sustained": "No",
-        "subtypes": [
-          "Attack"
-        ],
-        "effects": "Whispering in an ancient tongue, the sorcerer manifests a ball of pulsing energy in her palm. With the outstretched fingers of her other hand, the sorcerer releases dark bolts of warp lightning upon her targets. The sorcerer may project 1 bolt for each point of her Psy Rating and may target a different individual with each bolt as long as she is within 5m of the previous target. The sorcerer makes this attack with her Ballistic Skill, rolling to hit as normal. If struck, a target must roll 1d10 minus their Toughness Bonus on the Energy Critical Effects Table.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Immunity",
-        "id": "immunity",
-        "cost": "400p",
-        "prerequisites": [
-          "Intelligence 45"
-        ],
-        "action": "Half Action",
-        "focus": "-10 Willpower",
-        "range": "Self",
-        "sustained": "No",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "By swallowing a solid round of ammunition, the sorcerer fortifies her body against projectiles and crude weapons. The sorcerer must pass a Toughness Test. If successful, she does not suffer any Impact Type Damage for 1 + PR Rounds.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Living Weapon",
-        "id": "living_weapon",
-        "cost": 400,
-        "prerequisites": [
-          "Intelligence 45"
-        ],
-        "action": "Full Action",
-        "focus": "-10 Willpower",
-        "range": "Self",
-        "sustained": "Free",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "The sorcerer carves a foul symbol of Chaos into her flesh, calling on the warp to remake her flesh for war. Whilst this power is in effect, the sorcerer gains the following profile increases: +20 WS, +20 S, +10 T, and +10 Ag. In addition, the sorcerer gains a +3 bonus on all Initiative rolls, the Deadly Natural Weapons Trait, and all of her melee attacks gain the Tearing Quality. Whilst in this bestial state, her Fellowship is reduced by 10.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Summon Object",
-        "id": "summon_object",
-        "cost": 400,
-        "prerequisites": [
-          "Intelligence 45"
-        ],
-        "action": "Full Action",
-        "focus": "-10 Willpower",
-        "range": "10m",
-        "sustained": "Free",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "Through ritual blood-letting, the sorcerer summons an object out of thin air. The sorcerer's player must describe to the GM the object she wants to manifest. The GM will then set a Difficulty rating. For the object to manifest, the sorcerer must pass a Willpower Test at that Difficulty rating. The sorcerer gains a +5 x PR bonus towards this check\n\n__Note:__ Obviously, the larger the object you wish to manifest, the more blood you will need.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Wall of Souls",
-        "id": "wall_of_souls",
-        "cost": 400,
-        "prerequisites": [
-          "Intelligence 45"
-        ],
-        "action": "Full Action",
-        "focus": "-10 Willpower",
-        "range": "15m",
-        "sustained": "Free",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "The sorcerer draws on the power of the warp and calls forth a wall of leering, aetheric faces to bar the path of her adversaries. Once manifest, this wall of souls is 5m*PR in breadth and height. Crossing or penetrating the wall is easy, but carries a price. Any individual unlucky enough to be hit by the wall as it manifests, stumble into it, or passing through suffers 2d10 Insanity Points and must pass an Ordinary (+10) Toughness Test or become Stunned.\n\n__Special:__ If the sorcerer fails to manifest this power by 2 Degrees of Failure or more, the aetheric faces are called forth and swarm around her like a cloud of flies. The sorcerer gains 1d10 Insanity Points and may do nothing further that round as she clutches her head and tries to hold onto what remains of her mind.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Warp Corruption",
-        "id": "warp_corruption",
-        "cost": 400,
-        "prerequisites": [
-          "Intelligence 45"
-        ],
-        "action": "Full Action",
-        "focus": "-20 Willpower",
-        "range": "Earshot",
-        "sustained": "No",
-        "subtypes": [
-          "Attack",
-          "Concentration"
-        ],
-        "effects": "Crying aloud the dark truths of the warp, the sorcerer is able to corrupt the souls of those around you. Everyone who hears your chanting — friend or foe — must pass a Willpower Test or gain a number of Corruption Points equal to the amount by which the Test was failed.",
-        "source": "Radical's Handbook"
-      },
-      {
-        "name": "Create Door",
-        "id": "create_door",
-        "cost": 400,
-        "prerequisites": [
-          "Intelligence 45"
-        ],
-        "action": "Full Action",
-        "focus": "-20 Willpower",
-        "range": "5m",
-        "sustained": "No",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "The sorcerer summons a burning doorway from thin air. The doorway may be used to transport the sorcerer anywhere she can clearly recall in her mind. The sorcerer's player must tell the GM where she would like the door to lead; the GM will then set an appropriate Difficulty rating based on when the sorcerer was last in this place, her state of mind, circumstances, and concentration. The sorcerer can then step through the doorway and make an Intelligence Test based on that Difficulty. If passed, all is well. If not, the GM will determine a suitable alternate destination—typically one the sorcerer would prefer to avoid.\n\n__Special:__ Travelling through such a blasphemous portal brings users closer to the horrors of the warp than it is safe to tread. Anyone passing through the door must pass a Hard (-20) Willpower Test. If the Test is failed, then that character must roll on the Perils of the Warp table.\n\nDistance | Difficulty\n---|---\n10m-100m | Routine\n101m-1000m | Ordinary\nAnywhere upon a Planet | Challenging\nAnywhere within a System | Difficult\nAnywhere within a Subsector | Hard\nAnywhere within a Sector | Very Hard",
-        "source": "Radical's Handbook"
-      }
-    ]
-  }
+  "data": [
+    {
+      "name": "Flail of Skulls",
+      "id": "flail_of_skulls",
+      "cost": 200,
+      "prerequisites": [
+        "Intelligence 35"
+      ],
+      "action": "Half Action",
+      "focus": "+10 Willpower",
+      "range": "Self",
+      "sustained": "Free",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "Using strands of warp energy, the sorcerer binds together the skulls of the fallen, creating a flail of skulls that burns with malice. Once manifest, the Flail of Skulls uses the same profile as a flail but has the Warp Weapon quality and will bypass most armour and defences. Any target suffering Damage from the Flail of Skulls gains 1d10 Insanity Points and an additional Insanity Point for every skull used in the flail's construction after the second.\n\n__Special:__ Obviously, manifesting this power requires the sorcerer to possess one or more skulls.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Open",
+      "id": "open",
+      "cost": 200,
+      "prerequisites": [
+        "Intelligence 35"
+      ],
+      "action": "Half Action",
+      "focus": "+10 Willpower",
+      "range": "Touch",
+      "sustained": "No",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "Using her own blood, the sorcerer traces a blasphemous rune across a sealed portal or object, dissolving the essence of the locking mechanism. This power can be used on any object regardless of how it was originally sealed. The sorcerer suffers 1d5 Damage for a small object, 1d10 Damage for a medium-sized object, and 2d10 Damage for a large object. The GM should feel free to alter the amount of Damage taken to better represent a given object. This Damage is not reduced by the Sorcerer's Armour or Toughness Bonus.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Warp Vigour",
+      "id": "warp_vigour",
+      "cost": 200,
+      "prerequisites": [
+        "Intelligence 35"
+      ],
+      "action": "Half Action",
+      "focus": "+10 Willpower",
+      "range": "Touch",
+      "sustained": "No",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "With a mix of blood and ash, the sorcerer marks a burning rune on the target's head. Through the rune, the target can draw on unnatural reserves of fortitude. A character marked in this way may re-roll any Strength or Toughness Opposed Tests she is required to make and gains an additional 5 Wounds whilst this power is active. Any Damage that is inflicted upon the subject of this power affects these bonus Wounds first before affecting the rest. The rune will continue to protect the character for 1 hour.\n\n__Special:__ Any character whose body is defiled by this unholy symbol gains 1d10 Corruption Points.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Warp Tongue",
+      "id": "warp_tongue",
+      "cost": 200,
+      "prerequisites": [
+        "Intelligence 35"
+      ],
+      "action": "Half Action",
+      "focus": "+0 Willpower",
+      "range": "Earshot",
+      "sustained": "No",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "The sorcerer distorts the cacophony of voices in the warp, fooling daemons into believing she is a minor herald. Any creature with the Daemonic Trait who hears the sorcerer must pass an Opposed Willpower Test or become vulnerable to her suggestions. The sorcerer receives a +10 bonus to any Charm, Intimidate or Deceive Tests against these targets, with an additional +10 for every 2 Psy Rating used. If the daemon wins the Opposed Test, it gains a +10 bonus to all Tests made against the sorcerer (including Weapon Skill Tests!)/n/n__Special:__ This power requires only that the target must be able to hear the sorcerer.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Exsanguine",
+      "id": "exsanguine",
+      "cost": 300,
+      "prerequisites": [
+        "Intelligence 40"
+      ],
+      "action": "Half Action",
+      "focus": "-10 Opposed Willpower",
+      "range": "10m",
+      "sustained": "No",
+      "subtypes": [
+        "Attack",
+        "Concentration"
+      ],
+      "description": "By snapping her fingers and bellowing an incantation at her target, the sorcerer causes the target's blood to bubble and rush from her body. This power is Opposed by the Target's Toughness. If successful, the target suffers Damage equal to the sorcerer's Willpower Bonus + Psy Rating (Toughness Bonus and Armour will not reduce this Damage) and will suffer from Blood Loss.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Psy Barrier",
+      "id": "psy_barrier",
+      "cost": 300,
+      "prerequisites": [
+        "Intelligence 40"
+      ],
+      "action": "Half Action",
+      "focus": "+0 Willpower",
+      "range": "5m",
+      "sustained": "Free",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "With a finger dipped in blood, the sorcerer draws a burning rune in the air which then burns the minds of those nearby with a mixture of fear and confusion. Anyone wishing to advance towards the rune must pass a Difficult (-10) Willpower Test or become rooted to the spot in fear. A target that fails her Willpower Test may do nothing further that turn.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Transfix",
+      "id": "transfix",
+      "cost": 300,
+      "prerequisites": [
+        "Intelligence 40"
+      ],
+      "action": "Half Action",
+      "focus": "+0 Willpower",
+      "range": "5m",
+      "sustained": "No",
+      "subtypes": [
+        "Attack",
+        "Concentration"
+      ],
+      "description": "Flicking the blood of the recently dead onto the target's face and muttering a guttural curse, the sorcerer inflicts horrible hallucinations on the target. The victim witnesses horrific images of darkness and despair. Distraught and emotionally paralysed, the target is totally transfixed. Unless she passes a Very Hard (-30) Willpower Test, the target can do nothing for 1 hour. She also gains 1d5 Insanity Points.\n\n__Special:__ The sorcerer will need some reasonably fresh blood in order to manifest this power normally. If she has no access to blood, she manifests this power at a Threshold of 25.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Disease",
+      "id": "disease",
+      "cost": 400,
+      "prerequisites": [
+        "Intelligence 40"
+      ],
+      "action": "Half Action",
+      "focus": "-10 Willpower",
+      "range": "5m",
+      "sustained": "No",
+      "subtypes": [
+        "Attack"
+      ],
+      "description": "With a contemptuous flick of her hand, the sorcerer invites a plague upon her target, who then begins to vomit bile and blood as the skin forms into bulbous pustules. The disease lasts for a number of Rounds equal to 1d5 + PR - target's Toughness Bonus. During each Round in which the target is diseased, all of her Characteristics are reduced by 10. Should her Toughness reach zero, the target dies.\n\n__Special:__ If a character dies from Disease, her soul is forfeit to the plague god Nurgle. The fallen corpse will decay further and arise as a Plaguebearer 5 Rounds later. The Plaguebearer will immediately attack anyone nearby.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Leach Life",
+      "id": "leach_life",
+      "cost": 400,
+      "prerequisites": [
+        "Intelligence 40"
+      ],
+      "action": "Full Action",
+      "focus": "-10 Willpower",
+      "range": "Touch",
+      "sustained": "No",
+      "subtypes": [
+        "Attack",
+        "Concentration"
+      ],
+      "description": "Sinking her fingers into the flesh of a target, the sorcerer absorbs the target's very life force until nothing remains but a dessicated husk. This power can only be used on a Stunned or otherwise incapacitated target. For every 5 points by which the sorcerer exceeds the power's Threshold, the sorcerer regains 1 lost Wound and the target's Wounds are reduced by 1. The sorcerer may not gain any additional Wounds over her beginning amount. If the target is reduced to 0 Wounds, she dies.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Warp Lightning",
+      "id": "warp_lightning",
+      "cost": 400,
+      "prerequisites": [
+        "Intelligence 40"
+      ],
+      "action": "Half Action",
+      "focus": "-10 Willpower",
+      "range": "10m",
+      "sustained": "No",
+      "subtypes": [
+        "Attack"
+      ],
+      "description": "Whispering in an ancient tongue, the sorcerer manifests a ball of pulsing energy in her palm. With the outstretched fingers of her other hand, the sorcerer releases dark bolts of warp lightning upon her targets. The sorcerer may project 1 bolt for each point of her Psy Rating and may target a different individual with each bolt as long as she is within 5m of the previous target. The sorcerer makes this attack with her Ballistic Skill, rolling to hit as normal. If struck, a target must roll 1d10 minus their Toughness Bonus on the Energy Critical Effects Table.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Immunity",
+      "id": "immunity",
+      "cost": "400p",
+      "prerequisites": [
+        "Intelligence 45"
+      ],
+      "action": "Half Action",
+      "focus": "-10 Willpower",
+      "range": "Self",
+      "sustained": "No",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "By swallowing a solid round of ammunition, the sorcerer fortifies her body against projectiles and crude weapons. The sorcerer must pass a Toughness Test. If successful, she does not suffer any Impact Type Damage for 1 + PR Rounds.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Living Weapon",
+      "id": "living_weapon",
+      "cost": 400,
+      "prerequisites": [
+        "Intelligence 45"
+      ],
+      "action": "Full Action",
+      "focus": "-10 Willpower",
+      "range": "Self",
+      "sustained": "Free",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "The sorcerer carves a foul symbol of Chaos into her flesh, calling on the warp to remake her flesh for war. Whilst this power is in effect, the sorcerer gains the following profile increases: +20 WS, +20 S, +10 T, and +10 Ag. In addition, the sorcerer gains a +3 bonus on all Initiative rolls, the Deadly Natural Weapons Trait, and all of her melee attacks gain the Tearing Quality. Whilst in this bestial state, her Fellowship is reduced by 10.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Summon Object",
+      "id": "summon_object",
+      "cost": 400,
+      "prerequisites": [
+        "Intelligence 45"
+      ],
+      "action": "Full Action",
+      "focus": "-10 Willpower",
+      "range": "10m",
+      "sustained": "Free",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "Through ritual blood-letting, the sorcerer summons an object out of thin air. The sorcerer's player must describe to the GM the object she wants to manifest. The GM will then set a Difficulty rating. For the object to manifest, the sorcerer must pass a Willpower Test at that Difficulty rating. The sorcerer gains a +5 x PR bonus towards this check\n\n__Note:__ Obviously, the larger the object you wish to manifest, the more blood you will need.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Wall of Souls",
+      "id": "wall_of_souls",
+      "cost": 400,
+      "prerequisites": [
+        "Intelligence 45"
+      ],
+      "action": "Full Action",
+      "focus": "-10 Willpower",
+      "range": "15m",
+      "sustained": "Free",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "The sorcerer draws on the power of the warp and calls forth a wall of leering, aetheric faces to bar the path of her adversaries. Once manifest, this wall of souls is 5m*PR in breadth and height. Crossing or penetrating the wall is easy, but carries a price. Any individual unlucky enough to be hit by the wall as it manifests, stumble into it, or passing through suffers 2d10 Insanity Points and must pass an Ordinary (+10) Toughness Test or become Stunned.\n\n__Special:__ If the sorcerer fails to manifest this power by 2 Degrees of Failure or more, the aetheric faces are called forth and swarm around her like a cloud of flies. The sorcerer gains 1d10 Insanity Points and may do nothing further that round as she clutches her head and tries to hold onto what remains of her mind.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Warp Corruption",
+      "id": "warp_corruption",
+      "cost": 400,
+      "prerequisites": [
+        "Intelligence 45"
+      ],
+      "action": "Full Action",
+      "focus": "-20 Willpower",
+      "range": "Earshot",
+      "sustained": "No",
+      "subtypes": [
+        "Attack",
+        "Concentration"
+      ],
+      "description": "Crying aloud the dark truths of the warp, the sorcerer is able to corrupt the souls of those around you. Everyone who hears your chanting — friend or foe — must pass a Willpower Test or gain a number of Corruption Points equal to the amount by which the Test was failed.",
+      "source": "Radical's Handbook"
+    },
+    {
+      "name": "Create Door",
+      "id": "create_door",
+      "cost": 400,
+      "prerequisites": [
+        "Intelligence 45"
+      ],
+      "action": "Full Action",
+      "focus": "-20 Willpower",
+      "range": "5m",
+      "sustained": "No",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "The sorcerer summons a burning doorway from thin air. The doorway may be used to transport the sorcerer anywhere she can clearly recall in her mind. The sorcerer's player must tell the GM where she would like the door to lead; the GM will then set an appropriate Difficulty rating based on when the sorcerer was last in this place, her state of mind, circumstances, and concentration. The sorcerer can then step through the doorway and make an Intelligence Test based on that Difficulty. If passed, all is well. If not, the GM will determine a suitable alternate destination—typically one the sorcerer would prefer to avoid.\n\n__Special:__ Travelling through such a blasphemous portal brings users closer to the horrors of the warp than it is safe to tread. Anyone passing through the door must pass a Hard (-20) Willpower Test. If the Test is failed, then that character must roll on the Perils of the Warp table.\n\nDistance | Difficulty\n---|---\n10m-100m | Routine\n101m-1000m | Ordinary\nAnywhere upon a Planet | Challenging\nAnywhere within a System | Difficult\nAnywhere within a Subsector | Hard\nAnywhere within a Sector | Very Hard",
+      "source": "Radical's Handbook"
+    }
+  ]
 }

@@ -20,7 +20,7 @@ export default function StarshipHullEntry({
       <Entry 
       rootPath={rootPath} 
       name={datum.name} 
-      description={datum.special?.map((value) => `__${value.title}:__ ${value.effect}`).join('\n\n')} 
+      description={datum.special?.map((value) => `__${value.title}:__ ${value.description}`).join('\n\n')} 
       >
         <EntryDatum label='Speed' value={datum.speed} />
         <EntryDatum label='Space Available' value={datum.space} />

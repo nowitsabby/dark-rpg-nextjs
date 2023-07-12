@@ -28,7 +28,7 @@
           "Willpower",
           "Defence"
         ],
-        "benefit": "The Astropath may spend a Fate Point to ignore a Psychic Phenomena she has rolled (including a result of Perils of the Warp), completely negating its effects. Doing so requires her to distance herself from the Warp, and she cannot use the Focus Power action or sustain psychic powers until the start of her next turn.",
+        "description": "The Astropath may spend a Fate Point to ignore a Psychic Phenomena she has rolled (including a result of Perils of the Warp), completely negating its effects. Doing so requires her to distance herself from the Warp, and she cannot use the Focus Power action or sustain psychic powers until the start of her next turn.",
         "source": "Enemies Beyond"
       },
       {
@@ -42,7 +42,7 @@
         "aptitudes": [
           "Fellowship"
         ],
-        "benefit": "Before making a Focus Power test to manifest a power from the Telepathy discipline or the Astropath discipline, the Astropath may spend a Fate point to increase her psy rating by an amount equal to half her Willpower bonus (rounded down) for that test.",
+        "description": "Before making a Focus Power test to manifest a power from the Telepathy discipline or the Astropath discipline, the Astropath may spend a Fate point to increase her psy rating by an amount equal to half her Willpower bonus (rounded down) for that test.",
         "source": "Enemies Beyond"
       },
       {
@@ -56,7 +56,7 @@
           "Perception ",
           "Willpower"
         ],
-        "benefit": "The value of the Astropath's Unnatural Senses trait increases to twice her Willpower characteristic.",
+        "description": "The value of the Astropath's Unnatural Senses trait increases to twice her Willpower characteristic.",
         "source": "Enemies Beyond"
       },
       {
@@ -71,7 +71,7 @@
           "Willpower",
           "Defence"
         ],
-        "benefit": "The Astropath may re-roll Willpower tests she must make due to Psychic Phenomena or Perils of the Warp, tests to avoid gaining mutations, and tests to resist daemonic possession.",
+        "description": "The Astropath may re-roll Willpower tests she must make due to Psychic Phenomena or Perils of the Warp, tests to avoid gaining mutations, and tests to resist daemonic possession.",
         "source": "Enemies Beyond"
       },
       {
@@ -85,7 +85,7 @@
           "Perception ",
           "Psyker"
         ],
-        "benefit": "The Astropath may use her Psyniscience skill in place of her Awareness skill for Awareness tests.",
+        "description": "The Astropath may use her Psyniscience skill in place of her Awareness skill for Awareness tests.",
         "source": "Enemies Beyond"
       }
     ]

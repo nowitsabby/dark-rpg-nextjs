@@ -20,11 +20,11 @@
       "special": [
         {
           "title": "Ghostly Echoes",
-          "effect": "A wondrous and terrible mechanism used on the ships of the enigmatic Eldar. To possess it is to invite damnation, but even crudely and imperfectly installed aboard a ship, the ghost field's powers create phantoms of its ship to confound enemy auger arrays. All ships firing at a ship with a functioning Ghost Field suffer -20 to their Ballistic Skill Tests. If the ship is firing a lance weapon, it suffers a -30 instead. Any piloting tests to perform Hit and Run attacks suffer a -30. "
+          "description": "A wondrous and terrible mechanism used on the ships of the enigmatic Eldar. To possess it is to invite damnation, but even crudely and imperfectly installed aboard a ship, the ghost field's powers create phantoms of its ship to confound enemy auger arrays. All ships firing at a ship with a functioning Ghost Field suffer -20 to their Ballistic Skill Tests. If the ship is firing a lance weapon, it suffers a -30 instead. Any piloting tests to perform Hit and Run attacks suffer a -30. "
         },
         {
           "title": "Energetic Interference",
-          "effect": "A ship with a Ghost Field must choose whether it is using its Void Shields or Ghost Field at the beginning of combat."
+          "description": "A ship with a Ghost Field must choose whether it is using its Void Shields or Ghost Field at the beginning of combat."
         }
       ]
     },
@@ -45,11 +45,11 @@
       "special": [
         {
           "title": "Unknown energy source",
-          "effect": "The xenos race that created these weapons has long since vanished from the galaxy. Many examples of their technology remain, however. Designated 'shard' weaponry by xenotech scholars, their shipboard cannons do not seem to require power or even ammunition. Theories abound as to how they operate but none has been proven, as every attempt to disassemble one has resulted in catastrophic failure. This Component may not become unpowered for any reason. If it is ever destroyed, its ship takes 2d5 additional Hull Integrity damage, with no reduction from Armour or Shields. "
+          "description": "The xenos race that created these weapons has long since vanished from the galaxy. Many examples of their technology remain, however. Designated 'shard' weaponry by xenotech scholars, their shipboard cannons do not seem to require power or even ammunition. Theories abound as to how they operate but none has been proven, as every attempt to disassemble one has resulted in catastrophic failure. This Component may not become unpowered for any reason. If it is ever destroyed, its ship takes 2d5 additional Hull Integrity damage, with no reduction from Armour or Shields. "
         },
         {
           "title": "Macrobattery",
-          "effect": "Strength 4. Damage 1d10+2. Crit Rating 3. Range 6."
+          "description": "Strength 4. Damage 1d10+2. Crit Rating 3. Range 6."
         }
       ]
     },
@@ -70,11 +70,11 @@
       "special": [
         {
           "title": "Eye of the Warp",
-          "effect": "Another example of Eldar technology, runecasters are often housed in large, vaulted chambers. In the centre of the chamber, clusters or rune-stones float suspended above a wide crystal lens. Xeno-tech researchers have re-appropriated the devices from their previous, unknown purposes. Through some incomprehensible means, the device is almost prescient—aiding Navigators in avoiding the worst storms of the Immaterium. Navigators using this Component to pilot a ship through the empyrean gain a +20 bonus to all Navigation Tests. Additionally, any journeys made using this Component take half their normal time. "
+          "description": "Another example of Eldar technology, runecasters are often housed in large, vaulted chambers. In the centre of the chamber, clusters or rune-stones float suspended above a wide crystal lens. Xeno-tech researchers have re-appropriated the devices from their previous, unknown purposes. Through some incomprehensible means, the device is almost prescient—aiding Navigators in avoiding the worst storms of the Immaterium. Navigators using this Component to pilot a ship through the empyrean gain a +20 bonus to all Navigation Tests. Additionally, any journeys made using this Component take half their normal time. "
         },
         {
           "title": "Fuelled by Fate",
-          "effect": "This Component never becomes unpowered for any reason."
+          "description": "This Component never becomes unpowered for any reason."
         }
       ]
     },
@@ -95,11 +95,11 @@
       "special": [
         {
           "title": "Wall of Light",
-          "effect": "A vastly larger version of the digital energy weapons used by nobles and worthies of the Imperium, the grid is an interlinked network of hundreds of miniature laser turrets scattered across a vessel's hull. The lasers, while not powerful individually, act in concert to shoot down incoming ordinance and small craft. Increase the ship's turret rating by 2. "
+          "description": "A vastly larger version of the digital energy weapons used by nobles and worthies of the Imperium, the grid is an interlinked network of hundreds of miniature laser turrets scattered across a vessel's hull. The lasers, while not powerful individually, act in concert to shoot down incoming ordinance and small craft. Increase the ship's turret rating by 2. "
         },
         {
           "title": "External",
-          "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+          "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
         }
       ]
     },
@@ -117,11 +117,11 @@
       "special": [
         {
           "title": "The Currents of Space",
-          "effect": "Not 'sails' in the traditional sense, these devices are long, blade-like fins extending from the prow of a ship. Some xeno-archeologists believe they are relics of the Yu'vath or another long-dead race. Imperial vessels are too bulky to rely on them for propulsion, but they can aid in manoeuvring, somehow 'tapping into' gravitational fields and pulling starships along them. A starship with this Component gains +1 Speed and +5 Manoeuvrability. "
+          "description": "Not 'sails' in the traditional sense, these devices are long, blade-like fins extending from the prow of a ship. Some xeno-archeologists believe they are relics of the Yu'vath or another long-dead race. Imperial vessels are too bulky to rely on them for propulsion, but they can aid in manoeuvring, somehow 'tapping into' gravitational fields and pulling starships along them. A starship with this Component gains +1 Speed and +5 Manoeuvrability. "
         },
         {
           "title": "External",
-          "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+          "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
         }
       ]
     },
@@ -138,11 +138,11 @@
       "special": [
         {
           "title": "The Currents of Space",
-          "effect": "Not 'sails' in the traditional sense, these devices are long, blade-like fins extending from the prow of a ship. Some xeno-archeologists believe they are relics of the Yu'vath or another long-dead race. Imperial vessels are too bulky to rely on them for propulsion, but they can aid in manoeuvring, somehow 'tapping into' gravitational fields and pulling starships along them. A starship with this Component gains +1 Speed and +5 Manoeuvrability. "
+          "description": "Not 'sails' in the traditional sense, these devices are long, blade-like fins extending from the prow of a ship. Some xeno-archeologists believe they are relics of the Yu'vath or another long-dead race. Imperial vessels are too bulky to rely on them for propulsion, but they can aid in manoeuvring, somehow 'tapping into' gravitational fields and pulling starships along them. A starship with this Component gains +1 Speed and +5 Manoeuvrability. "
         },
         {
           "title": "External",
-          "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+          "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
         }
       ]
     },
@@ -163,11 +163,11 @@
       "special": [
         {
           "title": "Shifting Skin",
-          "effect": "A Difficult (-10) Tech-Use Test causes the vessel's hull to change colours. Additionally, the hull may be programmed to include markings with its change. This enables the vessel to also change any registry markings, names, or distinctive patterns at the same time. Programming an additional pattern into the Component is a Hard (-20) Tech-Use Test."
+          "description": "A Difficult (-10) Tech-Use Test causes the vessel's hull to change colours. Additionally, the hull may be programmed to include markings with its change. This enables the vessel to also change any registry markings, names, or distinctive patterns at the same time. Programming an additional pattern into the Component is a Hard (-20) Tech-Use Test."
         },
         {
           "title": "External",
-          "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+          "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
         }
       ]
     },
@@ -188,11 +188,11 @@
       "special": [
         {
           "title": "Macrobattery",
-          "effect": "Strength 3, Dmg 1d10+1, Crit 6, Range 6."
+          "description": "Strength 3, Dmg 1d10+1, Crit 6, Range 6."
         },
         {
           "title": "Obscured Sights",
-          "effect": "These weapons fire off a mass of highly energized particles that create a dense fog in the void around the target vessel. It is unclear from where these particles are obtained—the weapon requires no ammunition, just a source of power—or what long term effects they might have. These clouds of fog disperse quickly as the target moves through the void. Although some Inquisitors have made a life's work out of finding what alien race created these weapons, their creators or how their technology works remains unknown. If a vessel is struck by a Dark Cannon, all weapons fired from the vessel suffer a -15 penalty to Ballistic Skill Tests during the following Strategic Round"
+          "description": "These weapons fire off a mass of highly energized particles that create a dense fog in the void around the target vessel. It is unclear from where these particles are obtained—the weapon requires no ammunition, just a source of power—or what long term effects they might have. These clouds of fog disperse quickly as the target moves through the void. Although some Inquisitors have made a life's work out of finding what alien race created these weapons, their creators or how their technology works remains unknown. If a vessel is struck by a Dark Cannon, all weapons fired from the vessel suffer a -15 penalty to Ballistic Skill Tests during the following Strategic Round"
         }
       ]
     },
@@ -213,15 +213,15 @@
       "special": [
         {
           "title": "Macrobattery",
-          "effect": "Strength 4, Range 4"
+          "description": "Strength 4, Range 4"
         },
         {
           "title": "Power Siphon",
-          "effect": "If a vessel is struck by an Energy Drain Matrix attack, and the attack is not stopped by Void shields, the vessel's Speed or Manoeuvrability (target's choice) is reduced by 1 Speed or 5 Manoeuvrability per successful attack. This reduction remains in effect for 2 Strategic Rounds, after which the web becomes brittle and flakes off the target vessel."
+          "description": "If a vessel is struck by an Energy Drain Matrix attack, and the attack is not stopped by Void shields, the vessel's Speed or Manoeuvrability (target's choice) is reduced by 1 Speed or 5 Manoeuvrability per successful attack. This reduction remains in effect for 2 Strategic Rounds, after which the web becomes brittle and flakes off the target vessel."
         },
         {
           "title": "Non-Lethal Weapon",
-          "effect": "This Component cannot cause Critical Hits or reduce Hull Integrity."
+          "description": "This Component cannot cause Critical Hits or reduce Hull Integrity."
         }
       ]
     },
@@ -242,15 +242,15 @@
       "special": [
         {
           "title": "Variable Power Draw",
-          "effect": "The amount of power supplied to this Component is variable and may be increased or decreased as a Free Action, to a maximum of 3 and minimum of 1, and may un-power other Components at the GM's discretion."
+          "description": "The amount of power supplied to this Component is variable and may be increased or decreased as a Free Action, to a maximum of 3 and minimum of 1, and may un-power other Components at the GM's discretion."
         },
         {
           "title": "Protection from the Elements",
-          "effect": "While activated, Grav Repulsors push away anything coming close to the hull. They have little effect against fast-moving objects like macrobattery shells, but against asteroids, torpedoes, and ramming ships they can lessen a blow. When installed, the Explorers choose to allocate 1 to 3 Power to this Component. Whenever the vessel would take damage from asteroids or space debris, torpedoes, bomber attacks, or being rammed, reduce the damage suffered by 1 point for every point of Power allocated. (With torpedoes, this applies to each torpedo individually. With all other damage sources, this applies to the combined damage source)."
+          "description": "While activated, Grav Repulsors push away anything coming close to the hull. They have little effect against fast-moving objects like macrobattery shells, but against asteroids, torpedoes, and ramming ships they can lessen a blow. When installed, the Explorers choose to allocate 1 to 3 Power to this Component. Whenever the vessel would take damage from asteroids or space debris, torpedoes, bomber attacks, or being rammed, reduce the damage suffered by 1 point for every point of Power allocated. (With torpedoes, this applies to each torpedo individually. With all other damage sources, this applies to the combined damage source)."
         },
         {
           "title": "External",
-          "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or Damaged with a Critical Hit."
+          "description": "This Component does not require hull space. Although it is external, it can only be destroyed or Damaged with a Critical Hit."
         }
       ]
     },
@@ -266,7 +266,7 @@
       "special": [
         {
           "title": "Cloak of Deception",
-          "effect": "An unnatural seeming node of bone-like structure is mounted on the ship's bridge, which connects directly to the Mimic Engine. Though such a device is a clear sign of heresy, the deception is of immense value to vessels that must travel through xenos-infested systems. By concentrating on memories of vessels previously encountered, the ship's Navigator may make a Hard (+10) Perception Test to modify the pattern of mimicry as a free action. To all sensors, the vessel will appear as the type chosen. The cloak is immediately pierced once visual contact has been made."
+          "description": "An unnatural seeming node of bone-like structure is mounted on the ship's bridge, which connects directly to the Mimic Engine. Though such a device is a clear sign of heresy, the deception is of immense value to vessels that must travel through xenos-infested systems. By concentrating on memories of vessels previously encountered, the ship's Navigator may make a Hard (+10) Perception Test to modify the pattern of mimicry as a free action. To all sensors, the vessel will appear as the type chosen. The cloak is immediately pierced once visual contact has been made."
         }
       ]
     },
@@ -283,7 +283,7 @@
       "special": [
         {
           "title": "Cloak of Deception",
-          "effect": "An unnatural seeming node of bone-like structure is mounted on the ship's bridge, which connects directly to the Mimic Engine. Though such a device is a clear sign of heresy, the deception is of immense value to vessels that must travel through xenos-infested systems. By concentrating on memories of vessels previously encountered, the ship's Navigator may make a Hard (+10) Perception Test to modify the pattern of mimicry as a free action. To all sensors, the vessel will appear as the type chosen. The cloak is immediately pierced once visual contact has been made."
+          "description": "An unnatural seeming node of bone-like structure is mounted on the ship's bridge, which connects directly to the Mimic Engine. Though such a device is a clear sign of heresy, the deception is of immense value to vessels that must travel through xenos-infested systems. By concentrating on memories of vessels previously encountered, the ship's Navigator may make a Hard (+10) Perception Test to modify the pattern of mimicry as a free action. To all sensors, the vessel will appear as the type chosen. The cloak is immediately pierced once visual contact has been made."
         }
       ]
     },
@@ -299,7 +299,7 @@
       "special": [
         {
           "title": "Cloak of Deception",
-          "effect": "An unnatural seeming node of bone-like structure is mounted on the ship's bridge, which connects directly to the Mimic Engine. Though such a device is a clear sign of heresy, the deception is of immense value to vessels that must travel through xenos-infested systems. By concentrating on memories of vessels previously encountered, the ship's Navigator may make a Hard (+10) Perception Test to modify the pattern of mimicry as a free action. To all sensors, the vessel will appear as the type chosen. The cloak is immediately pierced once visual contact has been made."
+          "description": "An unnatural seeming node of bone-like structure is mounted on the ship's bridge, which connects directly to the Mimic Engine. Though such a device is a clear sign of heresy, the deception is of immense value to vessels that must travel through xenos-infested systems. By concentrating on memories of vessels previously encountered, the ship's Navigator may make a Hard (+10) Perception Test to modify the pattern of mimicry as a free action. To all sensors, the vessel will appear as the type chosen. The cloak is immediately pierced once visual contact has been made."
         }
       ]
     },
@@ -315,7 +315,7 @@
       "special": [
         {
           "title": "Cloak of Deception",
-          "effect": "An unnatural seeming node of bone-like structure is mounted on the ship's bridge, which connects directly to the Mimic Engine. Though such a device is a clear sign of heresy, the deception is of immense value to vessels that must travel through xenos-infested systems. By concentrating on memories of vessels previously encountered, the ship's Navigator may make a Hard (+10) Perception Test to modify the pattern of mimicry as a free action. To all sensors, the vessel will appear as the type chosen. The cloak is immediately pierced once visual contact has been made."
+          "description": "An unnatural seeming node of bone-like structure is mounted on the ship's bridge, which connects directly to the Mimic Engine. Though such a device is a clear sign of heresy, the deception is of immense value to vessels that must travel through xenos-infested systems. By concentrating on memories of vessels previously encountered, the ship's Navigator may make a Hard (+10) Perception Test to modify the pattern of mimicry as a free action. To all sensors, the vessel will appear as the type chosen. The cloak is immediately pierced once visual contact has been made."
         }
       ]
     },
@@ -336,11 +336,11 @@
       "special": [
         {
           "title": "Miracle of Life",
-          "effect": "For reasons that remain unclear, Recovery Chambers are apparently capable of healing virtually any known sapient life forms from virtually any injury. The injured person is simply deposited into one of the many ooze-filled openings within the Component. Then, the opening seals over, and the healing process begins. When in the Recovery Chamber, a lightly-damaged patient automatically passes one Medicae Extended Care Test each hour, instead of each day. A heavily or critically-damaged patient automatically passes one each day, instead of each week."
+          "description": "For reasons that remain unclear, Recovery Chambers are apparently capable of healing virtually any known sapient life forms from virtually any injury. The injured person is simply deposited into one of the many ooze-filled openings within the Component. Then, the opening seals over, and the healing process begins. When in the Recovery Chamber, a lightly-damaged patient automatically passes one Medicae Extended Care Test each hour, instead of each day. A heavily or critically-damaged patient automatically passes one each day, instead of each week."
         },
         {
           "title": "Fate's Price",
-          "effect": "After healing, the character's luck becomes fickle for a time. During the next game session, any time the character wishes to spend a Fate Point, roll a d10. On a 1 or a 2, the point is spent but it has no effect."
+          "description": "After healing, the character's luck becomes fickle for a time. During the next game session, any time the character wishes to spend a Fate Point, roll a d10. On a 1 or a 2, the point is spent but it has no effect."
         }
       ]
     },
@@ -361,15 +361,15 @@
       "special": [
         {
           "title": "Darkened Craft",
-          "effect": "This Component grants a +20 bonus to the Silent Running Manoeuvre. Any Active Augury or Focused Augury Extended Action attempted against the vessel suffers a -20 penalty."
+          "description": "This Component grants a +20 bonus to the Silent Running Manoeuvre. Any Active Augury or Focused Augury Extended Action attempted against the vessel suffers a -20 penalty."
         },
         {
           "title": "Rolling Fog",
-          "effect": "All ships firing at a ship with a functioning Shadowfield suffer a -20 to their Ballistic Skill Tests. Any Pilot Tests to perform Hit and Run attacks suffer a -30."
+          "description": "All ships firing at a ship with a functioning Shadowfield suffer a -20 to their Ballistic Skill Tests. Any Pilot Tests to perform Hit and Run attacks suffer a -30."
         },
         {
           "title": "Energetic Interference",
-          "effect": "A ship with a Shadowfield must choose whether it is using its Void Shields or Shadowfield at the beginning of combat."
+          "description": "A ship with a Shadowfield must choose whether it is using its Void Shields or Shadowfield at the beginning of combat."
         }
       ]
     },
@@ -390,7 +390,7 @@
       "special": [
         {
           "title": "Transmit the Pain",
-          "effect": "When activating this device, a psyker immediately takes 2d5 Damage to a body location of her choosing reduced by Toughness but not Armour, plus 1d5-1 levels of Fatigue. The psyker must then make a Difficult (-10) Focus Power Test. All attempts at warp communication within the star system suffer a -10 penalty for each degree of success."
+          "description": "When activating this device, a psyker immediately takes 2d5 Damage to a body location of her choosing reduced by Toughness but not Armour, plus 1d5-1 levels of Fatigue. The psyker must then make a Difficult (-10) Focus Power Test. All attempts at warp communication within the star system suffer a -10 penalty for each degree of success."
         }
       ]
     },
@@ -411,7 +411,7 @@
       "special": [
         {
           "title": "Transverse the Gate",
-          "effect": "This xenos artefact may be connected to the vessel's augur arrays to generate a broad spectrum map of the galaxy and the region surrounding the vessel. Indicators on the map show various warp gates that enable the vessel to make rapid transitions between regions of physical space. Unfortunately, portions of the map remain indecipherable. Further, many of the gates connect to different exit gates at different times. So, while a vessel may use the map to quickly exit a system, they may not emerge in the system they intended to reach. When the vessel approaches a gate, a Navigator must first make a Challenging (+0) Navigate (Warp) Test to precisely identify the physical location of the gate. Once it has been identified, the Navigator may make a Hard (-20) Navigate (Warp) Test to transverse the gate. On a success, the vessel reached its intended navigation. On a failure, the vessel went somewhere else. At the Game Master's discretion, additional degrees of failure may increase the distance off course and hostile nature of their destination. (Also, at the Game Master's discretion, many star systems may not have warp gates at all. The GM can determine whether a particular location in space has a warp gate according to the needs of the plot, or she may simply roll 1d10. On an 7 or better, there is a warp gate within 2d10 days travel of the ship.)"
+          "description": "This xenos artefact may be connected to the vessel's augur arrays to generate a broad spectrum map of the galaxy and the region surrounding the vessel. Indicators on the map show various warp gates that enable the vessel to make rapid transitions between regions of physical space. Unfortunately, portions of the map remain indecipherable. Further, many of the gates connect to different exit gates at different times. So, while a vessel may use the map to quickly exit a system, they may not emerge in the system they intended to reach. When the vessel approaches a gate, a Navigator must first make a Challenging (+0) Navigate (Warp) Test to precisely identify the physical location of the gate. Once it has been identified, the Navigator may make a Hard (-20) Navigate (Warp) Test to transverse the gate. On a success, the vessel reached its intended navigation. On a failure, the vessel went somewhere else. At the Game Master's discretion, additional degrees of failure may increase the distance off course and hostile nature of their destination. (Also, at the Game Master's discretion, many star systems may not have warp gates at all. The GM can determine whether a particular location in space has a warp gate according to the needs of the plot, or she may simply roll 1d10. On an 7 or better, there is a warp gate within 2d10 days travel of the ship.)"
         }
       ]
     },
@@ -432,7 +432,7 @@
       "special": [
         {
           "title": "Alien Tomes",
-          "effect": "Any Forbidden Lore Tests that the gamemaster deems applicable receive a +10 bonus when made aboard this vessel."
+          "description": "Any Forbidden Lore Tests that the gamemaster deems applicable receive a +10 bonus when made aboard this vessel."
         }
       ]
     }

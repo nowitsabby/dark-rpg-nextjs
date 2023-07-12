@@ -90,7 +90,7 @@ export default function Talents({ rootPath, data }: { rootPath: string, data: Ta
               item.alignment
                 ?.toLowerCase()
                 .includes(filterText.toLowerCase()) ||
-              item.benefit
+              item.description
                 .toLowerCase()
                 .includes(filterText.toLowerCase())
             );
@@ -106,7 +106,7 @@ export default function Talents({ rootPath, data }: { rootPath: string, data: Ta
           {row.specialisations && (
             <SrdMarkdown text={`_${row.specialisations.join(', ')}_`} />
           )}
-          <SrdMarkdown text={row.benefit} />
+          <SrdMarkdown text={row.description} />
           <hr />
         </div>
       )}

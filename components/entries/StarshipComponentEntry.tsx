@@ -21,7 +21,7 @@ export default function StarshipComponentEntry({
       <Entry 
       rootPath={rootPath} 
       name={entryData[0].name} 
-      description={entryData[0].special?.map((value) => `__${value.title}:__ ${value.effect}`).join('\n\n')} 
+      description={entryData[0].special?.map((value) => `__${value.title}:__ ${value.description}`).join('\n\n')} 
       >
         {entryData.length > 1 ? (
           <>

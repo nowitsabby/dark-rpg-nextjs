@@ -41,7 +41,7 @@
       "bonuses": [
         {
           "title": "Incorruptible Devotion",
-          "effect": "Whenever an Adepta Sororitas character would gain 1 or more Corruption Points, she gains that many Insanity Points minus 1 (to a minimum of 0) instead."
+          "description": "Whenever an Adepta Sororitas character would gain 1 or more Corruption Points, she gains that many Insanity Points minus 1 (to a minimum of 0) instead."
         }
       ],
       "aptitude": [
@@ -83,7 +83,7 @@
       "bonuses": [
         {
           "title": "Master of Paperwork",
-          "effect": "An Adeptus Administratum character counts the Availability of all items as one level more available (Very Rare items count as Rare, Average items count as Common, etc.)."
+          "description": "An Adeptus Administratum character counts the Availability of all items as one level more available (Very Rare items count as Rare, Average items count as Common, etc.)."
         }
       ],
       "aptitude": [
@@ -128,7 +128,7 @@
       "bonuses": [
         {
           "title": "The Face of the Law",
-          "effect": "An Arbitrator can re-roll any Intimidation and Interrogation test, and can substitute her Willpower bonus for her degrees of success on these tests."
+          "description": "An Arbitrator can re-roll any Intimidation and Interrogation test, and can substitute her Willpower bonus for her degrees of success on these tests."
         }
       ],
       "aptitude": [
@@ -175,11 +175,11 @@
       "bonuses": [
         {
           "title": "The Constant Threat",
-          "effect": "When the character or an ally within 10 metres triggers Psychic Phenomenon, the Adeptus Astra Telepathica character can increase or decrease the result by amount equal to her Willpower bonus."
+          "description": "When the character or an ally within 10 metres triggers Psychic Phenomenon, the Adeptus Astra Telepathica character can increase or decrease the result by amount equal to her Willpower bonus."
         },
         {
           "title": "Tested on Terra",
-          "effect": "If the character takes the Psyker elite advance during character creation, she also gains the Sanctioned trait."
+          "description": "If the character takes the Psyker elite advance during character creation, she also gains the Sanctioned trait."
         }
       ],
       "aptitude": [
@@ -220,11 +220,11 @@
       "bonuses": [
         {
           "title": "Tech-Wright",
-          "effect": "When making a Crafting test using Tech-Use, an Adeptus Mechanicus character gains a +20 bonus. In addition, this character has access to designs for all items in the Imperial Armoury of Availability Scarce or lower. This Increases to Very Rare if they gain a Rank in Forbidden Lore (Adeptus Mechanicus)"
+          "description": "When making a Crafting test using Tech-Use, an Adeptus Mechanicus character gains a +20 bonus. In addition, this character has access to designs for all items in the Imperial Armoury of Availability Scarce or lower. This Increases to Very Rare if they gain a Rank in Forbidden Lore (Adeptus Mechanicus)"
         },
         {
           "title": "Replace the Weak Flesh",
-          "effect": "An Adeptus Mechanicus character counts the Availability of all cybernetics as two levels more available (Rare items count as Average, Very Rare items count as Scarce, etc.)."
+          "description": "An Adeptus Mechanicus character counts the Availability of all cybernetics as two levels more available (Rare items count as Average, Very Rare items count as Scarce, etc.)."
         }
       ],
       "aptitude": [
@@ -274,7 +274,7 @@
       "bonuses": [
         {
           "title": "Faith is All",
-          "effect": "When spending a Fate point to gain a +10 bonus to any one test, an Adeptus Ministorum character gains a +20 bonus instead."
+          "description": "When spending a Fate point to gain a +10 bonus to any one test, an Adeptus Ministorum character gains a +20 bonus instead."
         }
       ],
       "aptitude": [
@@ -315,7 +315,7 @@
       "bonuses": [
         {
           "title": "Inspiring Presence",
-          "effect": "When an ally within sight of the Schola Graduate uses a Fate Point, as a Free Action the Schola Graduate may make a Challenging (+0) Command Test. If they succeed the ally does not lose the fate point. The Schola Graduate may use this ability a number of times per session equal to their Fellowship Bonus"
+          "description": "When an ally within sight of the Schola Graduate uses a Fate Point, as a Free Action the Schola Graduate may make a Challenging (+0) Command Test. If they succeed the ally does not lose the fate point. The Schola Graduate may use this ability a number of times per session equal to their Fellowship Bonus"
         }
       ],
       "aptitude": [
@@ -370,11 +370,11 @@
       "bonuses": [
         {
           "title": "Touched by a Daemon",
-          "effect": "An Exorcised character counts her Insanity bonus as 2 higher for purposes of avoiding Fear tests. Additionally, she can never again become possessed by the same Daemon that once possessed her."
+          "description": "An Exorcised character counts her Insanity bonus as 2 higher for purposes of avoiding Fear tests. Additionally, she can never again become possessed by the same Daemon that once possessed her."
         },
         {
           "title": "Signs of Corruption",
-          "effect": "The Exorcised character begins play with one Malignancy"
+          "description": "The Exorcised character begins play with one Malignancy"
         }
       ],
       "aptitude": [
@@ -417,7 +417,7 @@
       "bonuses": [
         {
           "title": "Genetic Pantropy",
-          "effect": "A Forge Labourer may re-roll any Test that is the result of extreme environments, such as very hot or cold conditions, areas of low oxygen, or even toxic atmospheres. Additionally, they suffer no adverse effects in areas of slightly higher or lower gravity, and can move in them normally."
+          "description": "A Forge Labourer may re-roll any Test that is the result of extreme environments, such as very hot or cold conditions, areas of low oxygen, or even toxic atmospheres. Additionally, they suffer no adverse effects in areas of slightly higher or lower gravity, and can move in them normally."
         }
       ],
       "aptitude": [
@@ -462,11 +462,11 @@
       "bonuses": [
         {
           "title": "Master of Hidden Lores",
-          "effect": "When a Heretek makes a Tech-Use test to comprehend, use, repair, or modify an unfamiliar device, she gains a +20 bonus if she has one or more relevant Forbidden Lore skill specialisations at Rank 1 (Known) or higher."
+          "description": "When a Heretek makes a Tech-Use test to comprehend, use, repair, or modify an unfamiliar device, she gains a +20 bonus if she has one or more relevant Forbidden Lore skill specialisations at Rank 1 (Known) or higher."
         },
         {
           "title": "Replace the Weak Flesh",
-          "effect": "A Heretek character counts the Availability of all cybernetics as two levels more available (Rare items count as Average, Very Rare items count as Scarce, etc.)."
+          "description": "A Heretek character counts the Availability of all cybernetics as two levels more available (Rare items count as Average, Very Rare items count as Scarce, etc.)."
         }
       ],
       "aptitude": [
@@ -509,7 +509,7 @@
       "bonuses": [
         {
           "title": "Hammer of the Emperor",
-          "effect": "When attacking a target that an ally attacked since the end of the Guardsman's last turn, the Guardsman can re-roll any results of 1 or 2 on damage rolls."
+          "description": "When attacking a target that an ally attacked since the end of the Guardsman's last turn, the Guardsman can re-roll any results of 1 or 2 on damage rolls."
         }
       ],
       "aptitude": [
@@ -557,7 +557,7 @@
       "bonuses": [
         {
           "title": "Close Quarters Discipline",
-          "effect": "An Imperial Navy character scores one additional degree of success on successful Ballistic Skill tests she makes against targets at Point-Blank range, at Short range, and with whom she is engaged in melee."
+          "description": "An Imperial Navy character scores one additional degree of success on successful Ballistic Skill tests she makes against targets at Point-Blank range, at Short range, and with whom she is engaged in melee."
         }
       ],
       "aptitude": [
@@ -602,11 +602,11 @@
       "bonuses": [
         {
           "title": "Twisted Flesh",
-          "effect": "A Mutant character can always choose to fail any test associated with resisting malignancy or mutation. Whenever she would gain a malignancy, she may roll on Mutations to gain a mutation instead."
+          "description": "A Mutant character can always choose to fail any test associated with resisting malignancy or mutation. Whenever she would gain a malignancy, she may roll on Mutations to gain a mutation instead."
         },
         {
           "title": "Mutation Without",
-          "effect": "A Mutant character begins play with 10 Corruption points. Instead of rolling as normal for malignancy or mutation, roll 5d10 on Mutations to determine a starting mutation for the character."
+          "description": "A Mutant character begins play with 10 Corruption points. Instead of rolling as normal for malignancy or mutation, roll 5d10 on Mutations to determine a starting mutation for the character."
         }
       ],
       "aptitude": [
@@ -660,11 +660,11 @@
       "bonuses": [
         {
           "title": "House Prestige",
-          "effect": "A Navis Nobilite character may re-roll any Charm and Commerce Tests."
+          "description": "A Navis Nobilite character may re-roll any Charm and Commerce Tests."
         },
         {
           "title": "House Lineage",
-          "effect": "If the character takes the Navigator Elite Advance during character creation, they may either select one additional power or improve an existing power. "
+          "description": "If the character takes the Navigator Elite Advance during character creation, they may either select one additional power or improve an existing power. "
         }
       ],
       "aptitude": [
@@ -712,7 +712,7 @@
       "bonuses": [
         {
           "title": "Never Quit",
-          "effect": "An Outcast character counts her Toughness bonus as two higher for purposes of determining Fatigue."
+          "description": "An Outcast character counts her Toughness bonus as two higher for purposes of determining Fatigue."
         }
       ],
       "aptitude": [
@@ -764,7 +764,7 @@
       "bonuses": [
         {
           "title": "Inured to the Xenos",
-          "effect": "A character from a Rogue Trader Fleet gains a +10 bonus to Fear tests caused by aliens and a +20 bonus to Interaction skill tests with alien characters."
+          "description": "A character from a Rogue Trader Fleet gains a +10 bonus to Fear tests caused by aliens and a +20 bonus to Interaction skill tests with alien characters."
         }
       ],
       "aptitude": [

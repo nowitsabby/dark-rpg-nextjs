@@ -21,7 +21,7 @@ export default function StarshipWeaponEntry({
       <Entry 
       rootPath={rootPath} 
       name={datum.name} 
-      description={datum.special?.map((value) => `__${value.title}:__ ${value.effect}`).join('\n\n')} 
+      description={datum.special?.map((value) => `__${value.title}:__ ${value.description}`).join('\n\n')} 
       >
         <EntryDatum label='Appropriate Hull Types' value={hullString(datum.hulls)} />
         <EntryDatum label='Power Consumed / Generated' value={componentPowerString(datum.power)} />

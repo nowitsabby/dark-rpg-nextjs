@@ -40,7 +40,7 @@
           "Leadership",
           "Willpower"
         ],
-        "benefit": "Whenever this character burns Fate threshold to survive a mortal blow, each other friendly character who witnesses her miraculous survival regains 1 spent Fate point. When this character dies in battle, each other friendly character who witnesses her glorious demise regains all spent Fate points.",
+        "description": "Whenever this character burns Fate threshold to survive a mortal blow, each other friendly character who witnesses her miraculous survival regains 1 spent Fate point. When this character dies in battle, each other friendly character who witnesses her glorious demise regains all spent Fate points.",
         "source": "Enemies Within"
       },
       {
@@ -54,7 +54,7 @@
           "Leadership",
           "Willpower"
         ],
-        "benefit": "As a free action, this character may spend a Fate point to ignore the effects of Fatigue until the end of the encounter. When she does so, each other friendly character within 30 metres removes 1 level of Fatigue",
+        "description": "As a free action, this character may spend a Fate point to ignore the effects of Fatigue until the end of the encounter. When she does so, each other friendly character within 30 metres removes 1 level of Fatigue",
         "source": "Enemies Within"
       },
       {
@@ -68,7 +68,7 @@
           "Willpower",
           "Offence"
         ],
-        "benefit": "When attacking with a weapon with the Flame quality, this character can re-roll any results lower than her Willpower bonus on damage rolls",
+        "description": "When attacking with a weapon with the Flame quality, this character can re-roll any results lower than her Willpower bonus on damage rolls",
         "source": "Enemies Within"
       },
       {
@@ -83,7 +83,7 @@
           "Ballistic Skill",
           "Offence"
         ],
-        "benefit": "The first time in each combat that this character inflicts Righteous Fury upon an enemy, she regains 1 spent Fate point.",
+        "description": "The first time in each combat that this character inflicts Righteous Fury upon an enemy, she regains 1 spent Fate point.",
         "source": "Enemies Within"
       },
       {
@@ -98,7 +98,7 @@
           "Willpower",
           "Offence"
         ],
-        "benefit": "As a Free Action, this character may spend a Fate point to increase the penetration of her weapon by her Insanity bonus until the end of her next turn.",
+        "description": "As a Free Action, this character may spend a Fate point to increase the penetration of her weapon by her Insanity bonus until the end of her next turn.",
         "source": "Enemies Within"
       },
       {
@@ -113,7 +113,7 @@
           "Weapon Skill",
           "Offence"
         ],
-        "benefit": "This character adds her Insanity bonus to damage she inflicts with melee attacks against targets included in one or more of her Hatred talents.",
+        "description": "This character adds her Insanity bonus to damage she inflicts with melee attacks against targets included in one or more of her Hatred talents.",
         "source": "Enemies Within"
       },
       {
@@ -128,7 +128,7 @@
           "Willpower",
           "Defence"
         ],
-        "benefit": "As a free action, this character may spend a Fate point to gain additional Armour points on all locations equal to her Insanity bonus until the end of her next turn",
+        "description": "As a free action, this character may spend a Fate point to gain additional Armour points on all locations equal to her Insanity bonus until the end of her next turn",
         "source": "Enemies Within"
       },
       {
@@ -142,7 +142,7 @@
           "Willpower",
           "Defence"
         ],
-        "benefit": "When using the Deny the Witch talent to make an Evasion reaction against a psychic power, this character may spend a Fate point to automatically pass the test with a number of degrees of success equal to her Willpower bonus. If she does so, the psyker must make a Fear test against a Fear rating of 1",
+        "description": "When using the Deny the Witch talent to make an Evasion reaction against a psychic power, this character may spend a Fate point to automatically pass the test with a number of degrees of success equal to her Willpower bonus. If she does so, the psyker must make a Fear test against a Fear rating of 1",
         "source": "Enemies Within"
       },
       {
@@ -157,7 +157,7 @@
           "Fellowship",
           "Offence"
         ],
-        "benefit": "As a Free Action, this character may spend a Fate point and choose a foe. Until the end of the encounter, she and each of her allies within ten times her Willpower bonus in metres count as possessing the Hatred talent against that kind of enemy",
+        "description": "As a Free Action, this character may spend a Fate point and choose a foe. Until the end of the encounter, she and each of her allies within ten times her Willpower bonus in metres count as possessing the Hatred talent against that kind of enemy",
         "source": "Enemies Within"
       }
     ]

@@ -41,9 +41,9 @@ export default function CriticalDamage({ data }: { data: CriticalDamageTable }) 
       name: 'Effect',
       grow: 7,
       wrap: true,
-      selector: (row: CriticalDamageInfo) => row.effect,
+      selector: (row: CriticalDamageInfo) => row.description,
       format: (row: CriticalDamageInfo) => {
-        return <SrdMarkdown text={row.effect} />;
+        return <SrdMarkdown text={row.description} />;
       },
     },
   ];

@@ -4,11 +4,10 @@ import { useMemo, useState } from 'react';
 import DataTable from 'react-data-table-component';
 import FilterComponent from './components/FilterComponent';
 import SrdMarkdown from '../util/SrdMarkdown';
-import Stack from '@mui/material/Stack';
 import TableLink from './components/TableLink';
-import { PsychicDisciplineRecord, PsychicPowerRecord } from '../types/Records';
+import { PsychicPowerRecord } from '../types/Records';
 
-export default function PsychicDiscipline({ rootPath, data }: { rootPath: string, data: PsychicDisciplineRecord }) {
+export default function PsychicDiscipline({ rootPath, data }: { rootPath: string, data: PsychicPowerRecord[] }) {
   
   const [filterText, setFilterText] = useState('');
   const subHeaderComponentMemo = useMemo(() => {
@@ -75,47 +74,42 @@ export default function PsychicDiscipline({ rootPath, data }: { rootPath: string
     },
   ];
 
-  const tableData = data.powers;
-
   return (
-    <Stack>
-      <SrdMarkdown text={data?.information} />
-      <DataTable
-        title={<h4>Powers</h4>}
-        columns={columns}
-        data={
-          tableData.filter((item) => {
-            if (filterText) {
-              return (
-                item.name
-                  ?.toLowerCase()
-                  .includes(filterText.toLowerCase()) ||
-                item.prerequisites
-                  ?.join(' ')
-                  .toLowerCase()
-                  .includes(filterText.toLowerCase()) ||
-                item.focus
-                  ?.toLowerCase()
-                  .includes(filterText.toLowerCase()) ||
-                item.subtypes
-                  ?.join(' ')
-                  .toLowerCase()
-                  .includes(filterText.toLowerCase())
-              );
-            }
-            return true;
-          })
-        }
-        striped
-        actions={subHeaderComponentMemo}
-        expandableRows
-        expandableRowsComponent={({ data: row }) => (
-          <div style={{ padding: '4px' }}>
-            <SrdMarkdown text={row.effects} />
-            <hr />
-          </div>
-        )}
-      />
-    </Stack>
+    <DataTable
+      title={<h4>Powers</h4>}
+      columns={columns}
+      data={
+        data.filter((item) => {
+          if (filterText) {
+            return (
+              item.name
+                ?.toLowerCase()
+                .includes(filterText.toLowerCase()) ||
+              item.prerequisites
+                ?.join(' ')
+                .toLowerCase()
+                .includes(filterText.toLowerCase()) ||
+              item.focus
+                ?.toLowerCase()
+                .includes(filterText.toLowerCase()) ||
+              item.subtypes
+                ?.join(' ')
+                .toLowerCase()
+                .includes(filterText.toLowerCase())
+            );
+          }
+          return true;
+        })
+      }
+      striped
+      actions={subHeaderComponentMemo}
+      expandableRows
+      expandableRowsComponent={({ data: row }) => (
+        <div style={{ padding: '4px' }}>
+          <SrdMarkdown text={row.description} />
+          <hr />
+        </div>
+      )}
+    />
   );
 }

@@ -17,7 +17,7 @@ export default function PsychicPowerEntry({
 
   return (
     datum && (
-      <Entry rootPath={rootPath} name={datum.name} description={datum.effects} >
+      <Entry rootPath={rootPath} name={datum.name} description={datum.description} >
         <EntryDatum label='Cost' value={`${datum.cost}xp`} />
         <EntryDatum label='Prerequisites' value={`${datum.prerequisites ? datum.prerequisites.join(', ') : '-'}`}/>
         <EntryDatum label='Action' value={datum.action} />

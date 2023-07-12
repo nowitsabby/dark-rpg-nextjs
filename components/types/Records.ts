@@ -3,7 +3,7 @@ export interface AmmunitionRecord {
   id: string;
   availability: string;
   usedWith: string[];
-  effect: string;
+  description: string;
   source: string;
 }
 
@@ -28,7 +28,7 @@ export interface BackgroundRecord {
   equipment: Array<string | Array<string | string[]>>;
   bonuses: Array<{
     title: string;
-    effect: string;
+    description: string;
   }>;
   aptitude: string[];
   traits: string[] | string | null;
@@ -52,7 +52,7 @@ export interface TalentRecord {
   aptitudes: string[] | null;
   prerequisites: string[] | null;
   alignment: string | null;
-  benefit: string;
+  description: string;
   source: string;
 }
 
@@ -120,7 +120,7 @@ export interface OriginRecord {
   blessing: number;
   bonus: {
     title: string;
-    effect: string;
+    description: string;
   };
   aptitude: string;
   wounds: number;
@@ -136,14 +136,8 @@ export interface PsychicPowerRecord {
   range: string;
   sustained: string;
   subtypes: string[];
-  effects: string;
+  description: string;
   source: string;
-}
-
-export interface PsychicDisciplineRecord {
-  discipline: string;
-  information: string;
-  powers: PsychicPowerRecord[];
 }
 
 export interface RoleRecord {
@@ -151,7 +145,7 @@ export interface RoleRecord {
   id: string;
   bonus: {
     title: string;
-    effect: string;
+    description: string;
   };
   aptitudes: Array<string | string[]>;
   talent: string[];
@@ -180,7 +174,7 @@ export interface StarshipComponentRecord {
   power: number;
   space: number;
   shipPoints: number;
-  special: { title: string; effect: string }[];
+  special: { title: string; description: string }[];
 }
 
 export interface StarshipHullRecord {
@@ -196,7 +190,7 @@ export interface StarshipHullRecord {
   space: number;
   shipPoints: number;
   weapons: string[];
-  special: { title: string; effect: string }[];
+  special: { title: string; description: string }[];
 }
 
 export interface StarshipWeaponRecord {
@@ -210,7 +204,7 @@ export interface StarshipWeaponRecord {
   damage: string;
   crit: number | string;
   range: number | string;
-  special: { title: string; effect: string }[];
+  special: { title: string; description: string }[];
 }
 
 export interface TraitRecord {

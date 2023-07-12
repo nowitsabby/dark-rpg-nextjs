@@ -51,7 +51,7 @@ import {
   ModRecord, 
   NavigatorPowerRecord, 
   OriginRecord, 
-  PsychicDisciplineRecord, 
+  PsychicPowerRecord, 
   RangedWeaponRecord, 
   RoleRecord, 
   SkillRecord, 
@@ -100,7 +100,7 @@ function DataTableComponent({ rootPath, component, data }: { rootPath: string, c
     case 'Origins':
       return <Origins rootPath={rootPath} data={ data as OriginRecord[] } />
     case 'PsychicDiscipline':
-      return <PsychicDiscipline rootPath={rootPath} data={ data as PsychicDisciplineRecord } />
+      return <PsychicDiscipline rootPath={rootPath} data={ data as PsychicPowerRecord[] } />
     case 'RangedWeapons':
       return <RangedWeapons rootPath={rootPath} data={ data as RangedWeaponRecord[] }/>
     case 'Roles':
@@ -162,7 +162,7 @@ function DataEntryComponent({ rootPath, component, data, id }: {
     case 'Origins':
       return <OriginEntry rootPath={rootPath} data={ data as OriginRecord[] } id={id} />
     case 'PsychicDiscipline':
-      return <PsychicPowerEntry rootPath={rootPath} data={ (data as PsychicDisciplineRecord).powers } id={id} />
+      return <PsychicPowerEntry rootPath={rootPath} data={ (data as PsychicPowerRecord[]) } id={id} />
     case 'RangedWeapons':
       return <RangedWeaponEntry rootPath={rootPath} data={ data as RangedWeaponRecord[] } id={id} />
     case 'Roles':

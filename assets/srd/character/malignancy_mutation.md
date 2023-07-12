@@ -5,7 +5,7 @@ title: Malignancy & Mutation
 
 ## The Malignancy Test
 
-For every 10 total Corruption points a character gains, she must make a Willpower test to see if her Corruption has manifested as literal damage to her body and soul\. This roll is modified depending on the number of CP the character already possesses as noted on The Corruption Track\. If the character fails the test, her spiritual Corruption is given form\. These metaphysical and psychosomatic scars are called Malignancies, and are randomly rolled on Table Malignancies\. If a player rolls a result that she has previously suffered for failing a previous Malignancy test, she must roll again until she receives a new result\.
+For every 10 total Corruption points a character gains, she must make a Willpower test to see if her Corruption has manifested as literal damage to her body and soul. This roll is modified depending on the number of CP the character already possesses as noted on The Corruption Track. If the character fails the test, her spiritual Corruption is given form. These metaphysical and psychosomatic scars are called Malignancies, and are randomly rolled on Table Malignancies. If a player rolls a result that she has previously suffered for failing a previous Malignancy test, she must roll again until she receives a new result.
 
 ### Malignancies
 D100 | Malignancy |Effect
@@ -31,11 +31,11 @@ D100 | Malignancy |Effect
 
 ## Mutation
 
-A character's Corruption points total is also used to determine the terrible effects of Chaos upon her body\. As her Corruption builds, her flesh may revolt, twisted by the Dark Gods\. Of course, such is the insidious nature of Chaos that it is constantly hunting for weakness in mind and body, testing a character's defences until it can find a way into her soul\. For every 30 Corruption points a character gains, she must make a test against two Characteristics of her choice\. *She can never test against the same characteristics twice to resist mutation, and should make a note on her Character Sheet of which characteristics she has already used to resist mutation\.*
+A character's Corruption points total is also used to determine the terrible effects of Chaos upon her body. As her Corruption builds, her flesh may revolt, twisted by the Dark Gods. Of course, such is the insidious nature of Chaos that it is constantly hunting for weakness in mind and body, testing a character's defences until it can find a way into her soul. For every 30 Corruption points a character gains, she must make a test against two Characteristics of her choice. *She can never test against the same characteristics twice to resist mutation, and should make a note on her Character Sheet of which characteristics she has already used to resist mutation.*
 
-Failure on either test means she suffers a mutation\. The unfortunate Acolyte rolls a 1d100 to gain a random mutation from Table Mutations\. Should this give her a mutation she already possesses, she must roll again until it results in a fresh mutation\.
+Failure on either test means she suffers a mutation. The unfortunate Acolyte rolls a 1d100 to gain a random mutation from Table Mutations. Should this give her a mutation she already possesses, she must roll again until it results in a fresh mutation.
 
-Note that the GM can alternatively select specific mutations and malignancies, to represent unique daemonic energies or the influences of Warp\-tainted artefacts\. She can also choose to simply apply specific traits as a mutation result, especially Amphibious, Blind, Burrower, Darksight, Fear, Multiple Arms, Natural Armour, Natural Weapons, Quadruped, Regeneration, Size \(increase or decrease by one\), Sonar Sense, or Toxic\.
+Note that the GM can alternatively select specific mutations and malignancies, to represent unique daemonic energies or the influences of Warp\-tainted artefacts. She can also choose to simply apply specific traits as a mutation result, especially Amphibious, Blind, Burrower, Darksight, Fear, Multiple Arms, Natural Armour, Natural Weapons, Quadruped, Regeneration, Size \(increase or decrease by one\), Sonar Sense, or Toxic.
 
 ### Mutations
 __D100__                 |__Effect__

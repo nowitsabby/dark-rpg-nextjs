@@ -38,7 +38,7 @@
           "Fellowship",
           "Leadership"
         ],
-        "benefit": "The character may spend two Fate points as a Free Action to grant another character within 10 metres a Fate point. Likewise, any character in 10 metres may spend two Fate points as a Free Action to grant this character a Fate point. This does not allow characters to gain Fate points in excess of their Fate threshold",
+        "description": "The character may spend two Fate points as a Free Action to grant another character within 10 metres a Fate point. Likewise, any character in 10 metres may spend two Fate points as a Free Action to grant this character a Fate point. This does not allow characters to gain Fate points in excess of their Fate threshold",
         "source": "Dark Heresy 2e"
       },
       {
@@ -52,7 +52,7 @@
           "Intelligence",
           "Social"
         ],
-        "benefit": "The character may spend a Fate point to gain one of the following for the duration of the session: a bonus to Influence checks equal to their WpB; or impose a penalty to any Tests made to identify them or their warband equal to their WpB * 10. Repeated uses do not stack, but can be used to change from one effect to the other",
+        "description": "The character may spend a Fate point to gain one of the following for the duration of the session: a bonus to Influence checks equal to their WpB; or impose a penalty to any Tests made to identify them or their warband equal to their WpB * 10. Repeated uses do not stack, but can be used to change from one effect to the other",
         "source": "Dark Heresy 2e"
       },
       {
@@ -65,7 +65,7 @@
         "aptitudes": [
           "Knowledge"
         ],
-        "benefit": "When this talent is acquired, the character gains all unknown non-Specialist skills as Known skills (rank 1)",
+        "description": "When this talent is acquired, the character gains all unknown non-Specialist skills as Known skills (rank 1)",
         "source": "Dark Heresy 2e"
       },
       {
@@ -79,7 +79,7 @@
           "Defence",
           "Toughness"
         ],
-        "benefit": "Whenever this character would gain any amount of Corruption points, she may spend a Fate point to gain 0 instead",
+        "description": "Whenever this character would gain any amount of Corruption points, she may spend a Fate point to gain 0 instead",
         "source": "Dark Heresy 2e"
       },
       {
@@ -93,7 +93,7 @@
           "Defence",
           "Willpower"
         ],
-        "benefit": "Whenever this character would gain any amount of Insanity points, she may spend a Fate point to gain 0 instead",
+        "description": "Whenever this character would gain any amount of Insanity points, she may spend a Fate point to gain 0 instead",
         "source": "Dark Heresy 2e"
       },
       {
@@ -109,7 +109,7 @@
           "Knowledge",
           "Willpower"
         ],
-        "benefit": "When this talent is acquired, the character immediately increases her Fate threshold by one.",
+        "description": "When this talent is acquired, the character immediately increases her Fate threshold by one.",
         "source": "Dark Heresy 2e"
       },
       {
@@ -123,7 +123,7 @@
         "aptitudes": [
           "Knowledge"
         ],
-        "benefit": "When this talent is acquired, the character immediately advances all Known skills (rank 1) to Trained (rank 2).",
+        "description": "When this talent is acquired, the character immediately advances all Known skills (rank 1) to Trained (rank 2).",
         "source": "Dark Heresy 2e"
       },
       {
@@ -140,7 +140,7 @@
           "Knowledge",
           "Willpower"
         ],
-        "benefit": "Before rolling the d100 when making a test, the character may spend one Fate point to count as having rolled a result of 01 on that roll",
+        "description": "Before rolling the d100 when making a test, the character may spend one Fate point to count as having rolled a result of 01 on that roll",
         "source": "Dark Heresy 2e"
       },
       {
@@ -156,7 +156,7 @@
           "Defence",
           "Leadership"
         ],
-        "benefit": "Whenever this character or an ally within 10 metres gains Corruption, reduce the amount gained by 1 to a minimum of 0. In addition, an ally within 10 metres can spend a Fate point to gain 0 Corruption instead. These effects do not stack when there are multiple characters with this talent within range",
+        "description": "Whenever this character or an ally within 10 metres gains Corruption, reduce the amount gained by 1 to a minimum of 0. In addition, an ally within 10 metres can spend a Fate point to gain 0 Corruption instead. These effects do not stack when there are multiple characters with this talent within range",
         "source": "Enemies Within"
       },
       {
@@ -172,7 +172,7 @@
           "Fellowship",
           "Leadership"
         ],
-        "benefit": "Followers and Allies within 10 metres can subtract the Inquisitor's Fellowship bonus from their degrees of failure on a failed Fear or Pinning test, so long as the Inquisitor passes the test. If this reduces the degrees of failure to 0 or less, a character counts as having passed the test with 1 degree of success. The effects of this talent apply to Acolytes in the Inquisitor's warband and to other servants of the Imperium fighting under the Inquisitor's orders, as well as others at the GM's discretion.",
+        "description": "Followers and Allies within 10 metres can subtract the Inquisitor's Fellowship bonus from their degrees of failure on a failed Fear or Pinning test, so long as the Inquisitor passes the test. If this reduces the degrees of failure to 0 or less, a character counts as having passed the test with 1 degree of success. The effects of this talent apply to Acolytes in the Inquisitor's warband and to other servants of the Imperium fighting under the Inquisitor's orders, as well as others at the GM's discretion.",
         "source": "Enemies Within"
       },
       {
@@ -189,7 +189,7 @@
           "Willpower",
           "Leadership"
         ],
-        "benefit": "Whenever this character or an ally within 10 metres gains Insanity, reduce the amount gained by 1. In addition, an ally within 10 metres can spend a Fate point to gain 0 Insanity instead. These effects do not stack when there are multiple characters with this talent within range",
+        "description": "Whenever this character or an ally within 10 metres gains Insanity, reduce the amount gained by 1. In addition, an ally within 10 metres can spend a Fate point to gain 0 Insanity instead. These effects do not stack when there are multiple characters with this talent within range",
         "source": null
       }
     ]

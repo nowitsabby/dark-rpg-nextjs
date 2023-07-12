@@ -36,9 +36,9 @@ export default function Roles({ rootPath, data }: { rootPath: string, data: Role
       name: 'Bonus',
       grow: 4,
       wrap: true,
-      selector: (row: RoleRecord) => `${row.bonus.title}: ${row.bonus.effect}`,
+      selector: (row: RoleRecord) => `${row.bonus.title}: ${row.bonus.description}`,
       format: (row: RoleRecord) => (
-        <SrdMarkdown text={`__${row.bonus.title}:__ ${row.bonus.effect}`} />
+        <SrdMarkdown text={`__${row.bonus.title}:__ ${row.bonus.description}`} />
       ),
     },
     {

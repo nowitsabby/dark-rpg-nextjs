@@ -17,7 +17,7 @@ export default function TalentEntry({
 
   return (
     datum && (
-      <Entry rootPath={rootPath} name={datum.name} description={datum.benefit} >
+      <Entry rootPath={rootPath} name={datum.name} description={datum.description} >
         <EntryDatum label='Tier' value={`${datum.tier}`} />
         <EntryDatum label='Specialist' value={datum.specialist ? 'Yes' : 'No'} />
         {datum.specialisations && (

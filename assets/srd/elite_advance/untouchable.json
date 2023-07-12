@@ -32,7 +32,7 @@
           "Defence",
           "Willpower"
         ],
-        "benefit": "Creatures with the Warp Instability trait within WPB metres of the Untouchable suffer a penalty on their Willpower test to remain in realspace equal to five times the Untouchable's WPB",
+        "description": "Creatures with the Warp Instability trait within WPB metres of the Untouchable suffer a penalty on their Willpower test to remain in realspace equal to five times the Untouchable's WPB",
         "source": "Dark Heresy 2e"
       },
       {
@@ -46,7 +46,7 @@
         "aptitudes": [
           "Willpower"
         ],
-        "benefit": "All creatures with the Daemonic trait within WPB metres of the character do not gain any benefits from that trait",
+        "description": "All creatures with the Daemonic trait within WPB metres of the character do not gain any benefits from that trait",
         "source": "Dark Heresy 2e"
       },
       {
@@ -60,7 +60,7 @@
         "aptitudes": [
           "Willpower"
         ],
-        "benefit": "The effects of Psychic Null apply to all characters within WPB metres of the character.",
+        "description": "The effects of Psychic Null apply to all characters within WPB metres of the character.",
         "source": "Dark Heresy 2e"
       },
       {
@@ -74,7 +74,7 @@
           "Defence",
           "Willpower"
         ],
-        "benefit": "The character gains the Deny the Witch talent. She also gains a +20 bonus when making Evasion tests against psychic attacks and when making Opposed tests to resist psychic powers. This talent stacks with Resistance (Psychic Powers) and can be purchased multiple times; each time a character purchases it, increase the bonus it grants by +5.",
+        "description": "The character gains the Deny the Witch talent. She also gains a +20 bonus when making Evasion tests against psychic attacks and when making Opposed tests to resist psychic powers. This talent stacks with Resistance (Psychic Powers) and can be purchased multiple times; each time a character purchases it, increase the bonus it grants by +5.",
         "source": "Dark Heresy 2e"
       },
       {
@@ -88,7 +88,7 @@
           "Finesse",
           "Willpower"
         ],
-        "benefit": "Enemy characters within WPB metres of the Untouchable suffer a -10 penalty to all Charm and Deceive tests",
+        "description": "Enemy characters within WPB metres of the Untouchable suffer a -10 penalty to all Charm and Deceive tests",
         "source": "Dark Heresy 2e"
       },
       {
@@ -103,7 +103,7 @@
           "Intelligence",
           "Willpower"
         ],
-        "benefit": "Characters affected by Warp Disruption reduce their psy rating by 2, instead of the normal amount. This talent can be purchased multiple times; each time a character purchases it the reduction in psy rating increases by 1. If purchased 3 times, for example, the reduction would be 4",
+        "description": "Characters affected by Warp Disruption reduce their psy rating by 2, instead of the normal amount. This talent can be purchased multiple times; each time a character purchases it the reduction in psy rating increases by 1. If purchased 3 times, for example, the reduction would be 4",
         "source": "Dark Heresy 2e"
       },
       {
@@ -117,7 +117,7 @@
         "aptitudes": [
           "Willpower"
         ],
-        "benefit": "The effects of Warp Disruption apply to all characters with a psy rating within two times WPB metres of the character, instead of the normal amount",
+        "description": "The effects of Warp Disruption apply to all characters with a psy rating within two times WPB metres of the character, instead of the normal amount",
         "source": "Dark Heresy 2e"
       },
       {
@@ -131,7 +131,7 @@
           "Perception",
           "Willpower"
         ],
-        "benefit": "All characters with a psy rating within WPB metres of the character reduce their base psy rating by 1 while they remain within range. Characters reduced to a psy rating of 0 cannot use any psychic powers",
+        "description": "All characters with a psy rating within WPB metres of the character reduce their base psy rating by 1 while they remain within range. Characters reduced to a psy rating of 0 cannot use any psychic powers",
         "source": "Dark Heresy 2e"
       },
       {
@@ -145,7 +145,7 @@
         "aptitudes": [
           "Willpower"
         ],
-        "benefit": "Whenever a creature with the Warp Instability trait makes a successful attack test against this character, it must immediately test for Warp Instability after resolving the attack.",
+        "description": "Whenever a creature with the Warp Instability trait makes a successful attack test against this character, it must immediately test for Warp Instability after resolving the attack.",
         "source": "Enemies Beyond"
       }
     ]

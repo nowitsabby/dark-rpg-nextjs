@@ -158,7 +158,7 @@ Plot Points are challenges that the Heretics must overcome that tie into the mai
 
 Plot Points are storytelling elements first and foremost, so it is entirely appropriate to mix and match them. Because a given piece of evidence's Linked Skill is so often tied thematically to the plot of the ongoing Investigation, it is often a good idea to incorporate the theme of that Skill into the Investigation as one of the Plot Points (such as machinery and technology if the Linked Skill was based around Tech- Use, or warp travel and voidship technology if the Linked Skill was based around the Navigate (Warp) Skill).
 
-#### The Ticking Clock\...
+#### The Ticking Clock...
 
 The GM can add tension by keeping strict track of time. Adding plot point events that are set to happen on a regular schedule and/or using a deadline to measure an Investigation's success or failure are both valid ways to keep an Investigation interesting.
 

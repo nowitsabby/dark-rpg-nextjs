@@ -17,7 +17,7 @@
       "blessing": 3,
       "bonus": {
         "title": "The Old Ways",
-        "effect": "In the hands of a feral world character, any Low-Tech weapon loses the Primitive quality (if it had it) and gains the Proven (3) quality."
+        "description": "In the hands of a feral world character, any Low-Tech weapon loses the Primitive quality (if it had it) and gains the Proven (3) quality."
       },
       "aptitude": "Toughness",
       "wounds": 9
@@ -36,7 +36,7 @@
       "blessing": 8,
       "bonus": {
         "title": "Omnissiah's Chosen",
-        "effect": "A forge world character starts with either the Technical Knock or Weapon-Tech talent."
+        "description": "A forge world character starts with either the Technical Knock or Weapon-Tech talent."
       },
       "aptitude": "Intelligence",
       "wounds": 8
@@ -55,7 +55,7 @@
       "blessing": 10,
       "bonus": {
         "title": "Breeding Counts",
-        "effect": "Any time a highborn character would reduce her Influence (or her group's Profit Factor), she reduces it by 1 less (to a minimum reduction of 1)"
+        "description": "Any time a highborn character would reduce her Influence (or her group's Profit Factor), she reduces it by 1 less (to a minimum reduction of 1)"
       },
       "aptitude": "Fellowship",
       "wounds": 9
@@ -74,7 +74,7 @@
       "blessing": 6,
       "bonus": {
         "title": "Teeming Masses in Metal Mountains",
-        "effect": "A hive world character ignores crowds for purposes of movement, treating them as open terrain. When in enclosed spaces, she also gains a +20 bonus to Navigate (Surface) tests."
+        "description": "A hive world character ignores crowds for purposes of movement, treating them as open terrain. When in enclosed spaces, she also gains a +20 bonus to Navigate (Surface) tests."
       },
       "aptitude": "Perception",
       "wounds": 8
@@ -93,7 +93,7 @@
       "blessing": 6,
       "bonus": {
         "title": "Faith in the Creed",
-        "effect": "Whenever a shrine world character spends a Fate point, she rolls 1d10. On a result of 1, the character's total number of Fate points is not reduced."
+        "description": "Whenever a shrine world character spends a Fate point, she rolls 1d10. On a result of 1, the character's total number of Fate points is not reduced."
       },
       "aptitude": "Willpower",
       "wounds": 7
@@ -112,7 +112,7 @@
       "blessing": 5,
       "bonus": {
         "title": "Child of the Dark",
-        "effect": "A voidborn character starts with the Strong Minded talent, and gains a +30 bonus to tests for moving in a zero gravity environment."
+        "description": "A voidborn character starts with the Strong Minded talent, and gains a +30 bonus to tests for moving in a zero gravity environment."
       },
       "aptitude": "Willpower",
       "wounds": 7
@@ -131,7 +131,7 @@
       "blessing": 7,
       "bonus": {
         "title": "Strength from the Land",
-        "effect": "An agri-world character starts with the Brutal Charge (2) trait."
+        "description": "An agri-world character starts with the Brutal Charge (2) trait."
       },
       "aptitude": "Strength",
       "wounds": 8
@@ -150,7 +150,7 @@
       "blessing": 4,
       "bonus": {
         "title": "Touched by the Warp",
-        "effect": "A Daemon world native begins with one Rank in the Psyniscience skill. Should she gain this skill again in a later step of character creation, she instead gains one additional Rank in the skill. Note that she cannot purchase more Ranks of this skill unless she acquires the Psyker aptitude. This character also begins with 1d10+5 Corruption points."
+        "description": "A Daemon world native begins with one Rank in the Psyniscience skill. Should she gain this skill again in a later step of character creation, she instead gains one additional Rank in the skill. Note that she cannot purchase more Ranks of this skill unless she acquires the Psyker aptitude. This character also begins with 1d10+5 Corruption points."
       },
       "aptitude": "Willpower",
       "wounds": 7
@@ -169,7 +169,7 @@
       "blessing": 5,
       "bonus": {
         "title": "Survivor's Paranoia",
-        "effect": "While a death world character is Surprised, non-Surprised attackers do not gain the normal +30 bonus to their Weapon Skill and Ballistic Skill tests when targeting this character."
+        "description": "While a death world character is Surprised, non-Surprised attackers do not gain the normal +30 bonus to their Weapon Skill and Ballistic Skill tests when targeting this character."
       },
       "aptitude": "Fieldcraft",
       "wounds": 9
@@ -188,7 +188,7 @@
       "blessing": 6,
       "bonus": {
         "title": "At Home in Armour",
-        "effect": "A feudal world character ignores the maximum Agility value imposed by any armour she is wearing."
+        "description": "A feudal world character ignores the maximum Agility value imposed by any armour she is wearing."
       },
       "aptitude": "Weapon Skill",
       "wounds": 9
@@ -207,7 +207,7 @@
       "blessing": 7,
       "bonus": {
         "title": "Rely on None but Yourself",
-        "effect": "A frontier world character gains a +20 bonus to Tech-Use tests when applying personal weapon modifications, and a +10 bonus when repairing damaged items."
+        "description": "A frontier world character gains a +20 bonus to Tech-Use tests when applying personal weapon modifications, and a +10 bonus when repairing damaged items."
       },
       "aptitude": "Ballistic Skill",
       "wounds": 7
@@ -226,7 +226,7 @@
       "blessing": 4,
       "bonus": {
         "title": "Serenity of the Green",
-        "effect": "A garden world character halves the duration (rounded up) of any result from Shock or Mental Traumas Tables, and can remove Insanity points for 50xp per point rather than the normal 100xp."
+        "description": "A garden world character halves the duration (rounded up) of any result from Shock or Mental Traumas Tables, and can remove Insanity points for 50xp per point rather than the normal 100xp."
       },
       "aptitude": "Social",
       "wounds": 7
@@ -245,7 +245,7 @@
       "blessing": 8,
       "bonus": {
         "title": "Finger on the Pulse",
-        "effect": "One survives a penal colony by instinctively knowing who is in charge and who is a threat. A penal colony character begins with one Rank in the Common Lore (Underworld) and Scrutiny skills, and starts with the Peer (Criminal Cartels) talent."
+        "description": "One survives a penal colony by instinctively knowing who is in charge and who is a threat. A penal colony character begins with one Rank in the Common Lore (Underworld) and Scrutiny skills, and starts with the Peer (Criminal Cartels) talent."
       },
       "aptitude": "Toughness",
       "wounds": 10
@@ -264,7 +264,7 @@
       "blessing": 9,
       "bonus": {
         "title": "Secretive by Nature",
-        "effect": "Those who manage to leave a quarantine world learn how to keep secrets. A quarantine world character starts with one Rank in the Deceive and Stealth skills."
+        "description": "Those who manage to leave a quarantine world learn how to keep secrets. A quarantine world character starts with one Rank in the Deceive and Stealth skills."
       },
       "aptitude": "Fieldcraft",
       "wounds": 8
@@ -283,7 +283,7 @@
       "blessing": 8,
       "bonus": {
         "title": "Pursuit of Data",
-        "effect": "Whenever a research station character reaches Rank 2 (Trained) in a Scholastic Lore skill, she also gains Rank 1 (Known) in one related or identical Forbidden Lore skill specialisation of her choice. The GM is the final arbiter of whether the two specialisations are related."
+        "description": "Whenever a research station character reaches Rank 2 (Trained) in a Scholastic Lore skill, she also gains Rank 1 (Known) in one related or identical Forbidden Lore skill specialisation of her choice. The GM is the final arbiter of whether the two specialisations are related."
       },
       "aptitude": "Knowledge",
       "wounds": 8

@@ -48,12 +48,19 @@ export default function SrdSearch() {
         showLastButton 
         size="large"
         onChange={(_, value) => setPage(value)} />}
-      <Stack gap={1}>
+      <Stack gap={3}>
         {results && 
           results.map((result) => 
-            <Stack key={result.title} gap={1}>
+            <Stack key={result.title}>
               <Link href={`/${result.srdPath}`} style={{ fontSize: 'larger' }}>{result.title}</Link>
-              <Container>{result.excerpt}</Container>
+              <Stack gap={1}>
+                <div style={{ fontStyle: 'italic', fontSize: 'x-small' }}>
+                  {result.srdPath}
+                </div>
+                <div>
+                  {result.excerpt}
+                </div>
+              </Stack>
             </Stack>)}
       </Stack>
     </>

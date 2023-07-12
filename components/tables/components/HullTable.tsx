@@ -109,7 +109,7 @@ export function HullTable({
             return (
               item.name?.toLowerCase().includes(filterText.toLowerCase()) ||
               item.special
-                ?.map((value) => `${value.title} ${value.effect}`)
+                ?.map((value) => `${value.title} ${value.description}`)
                 .join(' ')
                 .toLowerCase()
                 .includes(filterText.toLowerCase()) ||
@@ -130,7 +130,7 @@ export function HullTable({
           <div style={{ padding: '4px 4px 0 12px' }}>
             <SrdMarkdown
               text={row.special
-                ?.map((value) => `__${value.title}:__ ${value.effect}`)
+                ?.map((value) => `__${value.title}:__ ${value.description}`)
                 .join('\n\n')}
             />
           </div>

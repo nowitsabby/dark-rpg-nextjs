@@ -36,7 +36,7 @@ export default function OriginEntry({
           label='Bonus' 
           value={
             <div>
-              <strong>{datum.bonus.title}: </strong><span>{datum.bonus.effect}</span>
+              <strong>{datum.bonus.title}: </strong><span>{datum.bonus.description}</span>
             </div>
           } 
         />

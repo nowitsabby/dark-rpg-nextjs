@@ -19,11 +19,11 @@
         "special": [
           {
             "title": "Hidden Spaces",
-            "effect": "When working toward a Trade or Criminal objective, the players earn an additional 50 Achievement Points toward completing that objective. "
+            "description": "When working toward a Trade or Criminal objective, the players earn an additional 50 Achievement Points toward completing that objective. "
           },
           {
             "title": "Unbalanced",
-            "effect": "Starships are precisely balanced, something this modification effects, meaning they suffer -3 to Manoeuvrability."
+            "description": "Starships are precisely balanced, something this modification effects, meaning they suffer -3 to Manoeuvrability."
           }
         ]
       },
@@ -42,7 +42,7 @@
         "special": [
           {
             "title": "Storage Area",
-            "effect": "When working toward a Trade objective, the players earn an additional 100 Achievement Points toward completing that objective."
+            "description": "When working toward a Trade objective, the players earn an additional 100 Achievement Points toward completing that objective."
           }
         ]
       },
@@ -58,7 +58,7 @@
         "special": [
           {
             "title": "Stowed and Secured",
-            "effect": "When working towards a Trade objective, the players earn an additional 125 Achievement Points towards completing that objective."
+            "description": "When working towards a Trade objective, the players earn an additional 125 Achievement Points towards completing that objective."
           }
         ]
       },
@@ -75,7 +75,7 @@
         "special": [
           {
             "title": "Spare Parts",
-            "effect": "A Ship's Stores Component may hold additional Components (acquired separately) up to their combined Space value, allowing the crew to use them as replacements if the Component is Destroyed. Replacing a Component is accomplished in the same manner as making Extended Repairs, except that success also replace any desired Components. In addition, when making Extended Repairs, repair two additional Hull Integrity."
+            "description": "A Ship's Stores Component may hold additional Components (acquired separately) up to their combined Space value, allowing the crew to use them as replacements if the Component is Destroyed. Replacing a Component is accomplished in the same manner as making Extended Repairs, except that success also replace any desired Components. In addition, when making Extended Repairs, repair two additional Hull Integrity."
           }
         ]
       },
@@ -92,7 +92,7 @@
         "special": [
           {
             "title": "Spare Parts",
-            "effect": "A Ship's Stores Component may hold additional Components (acquired separately) up to their combined Space value, allowing the crew to use them as replacements if the Component is Destroyed. Replacing a Component is accomplished in the same manner as making Extended Repairs, except that success also replace any desired Components. In addition, when making Extended Repairs, repair two additional Hull Integrity."
+            "description": "A Ship's Stores Component may hold additional Components (acquired separately) up to their combined Space value, allowing the crew to use them as replacements if the Component is Destroyed. Replacing a Component is accomplished in the same manner as making Extended Repairs, except that success also replace any desired Components. In addition, when making Extended Repairs, repair two additional Hull Integrity."
           }
         ]
       },
@@ -113,7 +113,7 @@
         "special": [
           {
             "title": "Mirror Bays",
-            "effect": "When working towards a Trade objective, the players earn an additional 50 Achievement Points. When working towards a Criminal objective, the players earn an additional 75 Achievement Points. Location of these bays when their systems are engaged requires an Arduous (-40) Scrutiny Test."
+            "description": "When working towards a Trade objective, the players earn an additional 50 Achievement Points. When working towards a Criminal objective, the players earn an additional 75 Achievement Points. Location of these bays when their systems are engaged requires an Arduous (-40) Scrutiny Test."
           }
         ]
       },
@@ -132,11 +132,11 @@
         "special": [
           {
             "title": "Stowed and Secured",
-            "effect": "When working towards a Trade objective, the players earn an additional 75 Achievement Points towards completing that objective."
+            "description": "When working towards a Trade objective, the players earn an additional 75 Achievement Points towards completing that objective."
           },
           {
             "title": "Quick Exit",
-            "effect": "As a free action, a member of the bridge crew may open the cargo hatches to forcibly eject all of the cargo into the void and initiate an immediate cleansing of the hold."
+            "description": "As a free action, a member of the bridge crew may open the cargo hatches to forcibly eject all of the cargo into the void and initiate an immediate cleansing of the hold."
           }
         ]
       }
@@ -159,11 +159,11 @@
         "special": [
           {
             "title": "Paying Customers",
-            "effect": "When working toward a Trade, Criminal, or Creed objective, the players earn an additional 100 Achievement Points towards completing that objective. "
+            "description": "When working toward a Trade, Criminal, or Creed objective, the players earn an additional 100 Achievement Points towards completing that objective. "
           },
           {
             "title": "Class Division",
-            "effect": "Decrease Morale permanently by 3."
+            "description": "Decrease Morale permanently by 3."
           }
         ]
       },
@@ -184,11 +184,11 @@
         "special": [
           {
             "title": "Soldiers",
-            "effect": "When working toward a Military objective, the players earn an additional 100 Achievement Points towards completing that objective. "
+            "description": "When working toward a Military objective, the players earn an additional 100 Achievement Points towards completing that objective. "
           },
           {
             "title": "Reinforcements",
-            "effect": "If the ship is transporting troops, it gains +20 to all Command Tests involving boarding actions and Hit and Run Actions."
+            "description": "If the ship is transporting troops, it gains +20 to all Command Tests involving boarding actions and Hit and Run Actions."
           }
         ]
       },
@@ -209,11 +209,11 @@
         "special": [
           {
             "title": "Stern Discipline",
-            "effect": "Increase Morale permanently by 1. In addition, any Intimidate Tests made during Extended Actions gain a +5 bonus. "
+            "description": "Increase Morale permanently by 1. In addition, any Intimidate Tests made during Extended Actions gain a +5 bonus. "
           },
           {
             "title": "Prison Space",
-            "effect": "When working towards any objective in which the capture, storage, or transport of prisoners could be useful (such as the creation of a penal colony or holding prisoners of war during a military campaign) the Explorers earn an additional 25 Achievement Points towards completing that objective."
+            "description": "When working towards any objective in which the capture, storage, or transport of prisoners could be useful (such as the creation of a penal colony or holding prisoners of war during a military campaign) the Explorers earn an additional 25 Achievement Points towards completing that objective."
           }
         ]
       },
@@ -234,11 +234,11 @@
         "special": [
           {
             "title": "Comfortable Atmosphere",
-            "effect": "All Charm and Inquiry Tests made with xenos aboard this vessel gain a +10 bonus. All Objectives for Endeavours involving non-hostile dealings with xenos races gain an additional 50 Achievement Points. "
+            "description": "All Charm and Inquiry Tests made with xenos aboard this vessel gain a +10 bonus. All Objectives for Endeavours involving non-hostile dealings with xenos races gain an additional 50 Achievement Points. "
           },
           {
             "title": "Suspicious",
-            "effect": "Most Imperial citizens are taught from birth to distrust the xenos. Decrease the ship's Morale permanently by 2."
+            "description": "Most Imperial citizens are taught from birth to distrust the xenos. Decrease the ship's Morale permanently by 2."
           }
         ]
       }
@@ -257,11 +257,11 @@
         "special": [
           {
             "title": "Agile",
-            "effect": "These thrusters add +5 to the ship's Manoeuvrability. "
+            "description": "These thrusters add +5 to the ship's Manoeuvrability. "
           },
           {
             "title": "External",
-            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+            "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
           }
         ]
       },
@@ -278,11 +278,11 @@
         "special": [
           {
             "title": "Agile",
-            "effect": "These thrusters add +5 to the ship's Manoeuvrability. "
+            "description": "These thrusters add +5 to the ship's Manoeuvrability. "
           },
           {
             "title": "External",
-            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+            "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
           }
         ]
       },
@@ -298,11 +298,11 @@
         "special": [
           {
             "title": "Agile",
-            "effect": "These thrusters add +5 to the ship's Manoeuvrability. "
+            "description": "These thrusters add +5 to the ship's Manoeuvrability. "
           },
           {
             "title": "External",
-            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+            "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
           }
         ]
       },
@@ -320,7 +320,7 @@
         "special": [
           {
             "title": "Hard to Breach",
-            "effect": "Add +3 to Hull Integrity"
+            "description": "Add +3 to Hull Integrity"
           }
         ]
       },
@@ -337,7 +337,7 @@
         "special": [
           {
             "title": "Hard to Breach",
-            "effect": "Add +3 to Hull Integrity"
+            "description": "Add +3 to Hull Integrity"
           }
         ]
       },
@@ -355,11 +355,11 @@
         "special": [
           {
             "title": "Armour",
-            "effect": "Increase this vessel's Armour by 1. "
+            "description": "Increase this vessel's Armour by 1. "
           },
           {
             "title": "Dead Weight",
-            "effect": "Decrease this vessel's Manoeuvrability by -2."
+            "description": "Decrease this vessel's Manoeuvrability by -2."
           }
         ]
       },
@@ -376,11 +376,11 @@
         "special": [
           {
             "title": "Armour",
-            "effect": "Increase this vessel's Armour by 1. "
+            "description": "Increase this vessel's Armour by 1. "
           },
           {
             "title": "Dead Weight",
-            "effect": "Decrease this vessel's Manoeuvrability by -2."
+            "description": "Decrease this vessel's Manoeuvrability by -2."
           }
         ]
       },
@@ -396,7 +396,7 @@
         "special": [
           {
             "title": "Imposing",
-            "effect": "A ship with this Component may not have Prow macrobatteries or lances. This ship gains +4 armour only in its fore arc. This ship also does 1d10 additional damage when ramming."
+            "description": "A ship with this Component may not have Prow macrobatteries or lances. This ship gains +4 armour only in its fore arc. This ship also does 1d10 additional damage when ramming."
           }
         ]
       },
@@ -414,11 +414,11 @@
         "special": [
           {
             "title": "Hidden sally-ports",
-            "effect": "This ship gains +10 to all Command Tests when defending against boarding actions and Hit and Run Actions. "
+            "description": "This ship gains +10 to all Command Tests when defending against boarding actions and Hit and Run Actions. "
           },
           {
             "title": "Incomprehensible Layout",
-            "effect": "When a Component on this ship is selected to be affected from a critical hit, it is chosen by the ship's controller, not the attacker."
+            "description": "When a Component on this ship is selected to be affected from a critical hit, it is chosen by the ship's controller, not the attacker."
           }
         ]
       },
@@ -435,11 +435,11 @@
         "special": [
           {
             "title": "Hidden sally-ports",
-            "effect": "This ship gains +10 to all Command Tests when defending against boarding actions and Hit and Run Actions. "
+            "description": "This ship gains +10 to all Command Tests when defending against boarding actions and Hit and Run Actions. "
           },
           {
             "title": "Incomprehensible Layout",
-            "effect": "When a Component on this ship is selected to be affected from a critical hit, it is chosen by the ship's controller, not the attacker."
+            "description": "When a Component on this ship is selected to be affected from a critical hit, it is chosen by the ship's controller, not the attacker."
           }
         ]
       },
@@ -460,7 +460,7 @@
         "special": [
           {
             "title": "Single Use",
-            "effect": "When deployed, the countermeasures apply a -20 penalty to all Ballistic Skill Tests made to attack the ship for the next 1d5+1 Strategic Turns. Torpedoes suffer a -30 penalty instead. Once used, the countermeasures must be refilled and refurbished with a successful Upkeep Test outside of combat (and at a technological system with void yards) before it can be used again."
+            "description": "When deployed, the countermeasures apply a -20 penalty to all Ballistic Skill Tests made to attack the ship for the next 1d5+1 Strategic Turns. Torpedoes suffer a -30 penalty instead. Once used, the countermeasures must be refilled and refurbished with a successful Upkeep Test outside of combat (and at a technological system with void yards) before it can be used again."
           }
         ]
       },
@@ -481,11 +481,11 @@
         "special": [
           {
             "title": "Scattershot",
-            "effect": "When in use, Flak Turrets increase the ship's Turret Rating by +1. The ship's commander must decide at the start of each strategic turn (as a Free Action) if the Flak Turrets are in use or inactive that turn."
+            "description": "When in use, Flak Turrets increase the ship's Turret Rating by +1. The ship's commander must decide at the start of each strategic turn (as a Free Action) if the Flak Turrets are in use or inactive that turn."
           },
           {
             "title": "Wall of Fire and Steel",
-            "effect": "When the ship's flak turrets are in use, it suffers a -10 penalty to Detection."
+            "description": "When the ship's flak turrets are in use, it suffers a -10 penalty to Detection."
           }
         ]
       },
@@ -506,11 +506,11 @@
         "special": [
           {
             "title": "Variable Power Draw",
-            "effect": "The amount of power supplied to this Component is variable and may be increased or decreased with a Challenging (+0) Tech Use Test (this counts as a Free Action in starship combat), to a maximum of 3 and minimum of 1, and may un-power other Components at the GM's discretion."
+            "description": "The amount of power supplied to this Component is variable and may be increased or decreased with a Challenging (+0) Tech Use Test (this counts as a Free Action in starship combat), to a maximum of 3 and minimum of 1, and may un-power other Components at the GM's discretion."
           },
           {
             "title": "Hull Support",
-            "effect": "As long as Power is supplied to this Component, the ship's Hull Integrity is increased by twice the Power supplied, up to +6. Should this Component be Damaged or supplied with less Power, the hull loses this bonus value proportionally. This cannot bring the ship's Hull Integrity below 0. "
+            "description": "As long as Power is supplied to this Component, the ship's Hull Integrity is increased by twice the Power supplied, up to +6. Should this Component be Damaged or supplied with less Power, the hull loses this bonus value proportionally. This cannot bring the ship's Hull Integrity below 0. "
           }
         ]
       },
@@ -528,7 +528,7 @@
         "special": [
           {
             "title": "Flame Extinguisher",
-            "effect": "If the Bridge is powered and undamaged, a character may activate this system to extinguish one Component on fire by making a Difficult (-10) Tech-Use Test (this counts as an Extended Action in starship combat). If successful the fire is extinguished. This Component may be used once per Strategic Turn."
+            "description": "If the Bridge is powered and undamaged, a character may activate this system to extinguish one Component on fire by making a Difficult (-10) Tech-Use Test (this counts as an Extended Action in starship combat). If successful the fire is extinguished. This Component may be used once per Strategic Turn."
           }
         ]
       },
@@ -545,7 +545,7 @@
         "special": [
           {
             "title": "Flame Extinguisher",
-            "effect": "If the Bridge is powered and undamaged, a character may activate this system to extinguish one Component on fire by making a Difficult (-10) Tech-Use Test (this counts as an Extended Action in starship combat). If successful the fire is extinguished. This Component may be used once per Strategic Turn."
+            "description": "If the Bridge is powered and undamaged, a character may activate this system to extinguish one Component on fire by making a Difficult (-10) Tech-Use Test (this counts as an Extended Action in starship combat). If successful the fire is extinguished. This Component may be used once per Strategic Turn."
           }
         ]
       },
@@ -561,7 +561,7 @@
         "special": [
           {
             "title": "Flame Extinguisher",
-            "effect": "If the Bridge is powered and undamaged, a character may activate this system to extinguish one Component on fire by making a Difficult (-10) Tech-Use Test (this counts as an Extended Action in starship combat). If successful the fire is extinguished. This Component may be used once per Strategic Turn."
+            "description": "If the Bridge is powered and undamaged, a character may activate this system to extinguish one Component on fire by making a Difficult (-10) Tech-Use Test (this counts as an Extended Action in starship combat). If successful the fire is extinguished. This Component may be used once per Strategic Turn."
           }
         ]
       },
@@ -582,7 +582,7 @@
         "special": [
           {
             "title": "Power Source",
-            "effect": "Lux Nets are only functional (as in, they only generate Power) on stationary vessels inside a solar system, taking 2 hours to deploy and 10 to retract. If the ship has to move for any reason during its operation, the Lux Net is Destroyed as the fragile material rips apart. The net also counts as exposed when deployed. When conducting extended repairs, a deployed net adds +1 to the number of degrees of success on each week's Tech Use Test."
+            "description": "Lux Nets are only functional (as in, they only generate Power) on stationary vessels inside a solar system, taking 2 hours to deploy and 10 to retract. If the ship has to move for any reason during its operation, the Lux Net is Destroyed as the fragile material rips apart. The net also counts as exposed when deployed. When conducting extended repairs, a deployed net adds +1 to the number of degrees of success on each week's Tech Use Test."
           }
         ]
       },
@@ -600,7 +600,7 @@
         "special": [
           {
             "title": "Minefield Ahead!",
-            "effect": "When acquired, the Minelayer Bay Component contains enough mines for 3 deployments, with an Upkeep Test at a suitable port required to re-equip with a new complement of mines. A successful Routine (+20) Tech-Use Test can deploy mines in a spread covering an area 4 VUs wide, deep, and high behind the ship; this can also be done as an Extended Action while in combat (such as in a Stern Chase!). To prevent mines from accidentally setting each other off, the fields cannot be set to overlap. For more information on how minefields work, see the Minefields under Void Hazards."
+            "description": "When acquired, the Minelayer Bay Component contains enough mines for 3 deployments, with an Upkeep Test at a suitable port required to re-equip with a new complement of mines. A successful Routine (+20) Tech-Use Test can deploy mines in a spread covering an area 4 VUs wide, deep, and high behind the ship; this can also be done as an Extended Action while in combat (such as in a Stern Chase!). To prevent mines from accidentally setting each other off, the fields cannot be set to overlap. For more information on how minefields work, see the Minefields under Void Hazards."
           }
         ]
       },
@@ -617,11 +617,11 @@
         "special": [
           {
             "title": "External",
-            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit. "
+            "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit. "
           },
           {
             "title": "Power Field",
-            "effect": "This Component allows a starship to do an additional 1d10 damage when ramming."
+            "description": "This Component allows a starship to do an additional 1d10 damage when ramming."
           }
         ]
       },
@@ -639,7 +639,7 @@
         "special": [
           {
             "title": "Volatile Power",
-            "effect": "This Component generates power, rather than requiring it. If this Component is ever damaged, the ship containing it takes 1d5 damage directly to Hull Integrity, and its plasma drive is set on fire."
+            "description": "This Component generates power, rather than requiring it. If this Component is ever damaged, the ship containing it takes 1d5 damage directly to Hull Integrity, and its plasma drive is set on fire."
           }
         ]
       },
@@ -656,7 +656,7 @@
         "special": [
           {
             "title": "Volatile Power",
-            "effect": "This Component generates power, rather than requiring it. If this Component is ever damaged, the ship containing it takes 1d5 damage directly to Hull Integrity, and its plasma drive is set on fire."
+            "description": "This Component generates power, rather than requiring it. If this Component is ever damaged, the ship containing it takes 1d5 damage directly to Hull Integrity, and its plasma drive is set on fire."
           }
         ]
       },
@@ -677,11 +677,11 @@
         "special": [
           {
             "title": "Steel Rain",
-            "effect": "When working towards a Military objective, the players earn an additional 50 Endeavour Points towards completing that objective."
+            "description": "When working towards a Military objective, the players earn an additional 50 Endeavour Points towards completing that objective."
           },
           {
             "title": "Drop Pod Deployment",
-            "effect": "The players may use drop pods. The 'Storm' design is equipped to hold 20 pods, although it may only launch 10 every 30 minutes or so (in other words, it may launch 10 pods every Strategic Turn). The pods must be recovered from the planet's surface before being reused."
+            "description": "The players may use drop pods. The 'Storm' design is equipped to hold 20 pods, although it may only launch 10 every 30 minutes or so (in other words, it may launch 10 pods every Strategic Turn). The pods must be recovered from the planet's surface before being reused."
           }
         ]
       },
@@ -699,11 +699,11 @@
         "special": [
           {
             "title": "Shadow in the Void",
-            "effect": "When travelling on Silent Running, all Tests to detect this vessel have their Difficulty increased by two degrees. When completing a Criminal objective, the players earn an additional 50 Endeavour Points. "
+            "description": "When travelling on Silent Running, all Tests to detect this vessel have their Difficulty increased by two degrees. When completing a Criminal objective, the players earn an additional 50 Endeavour Points. "
           },
           {
             "title": "External",
-            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+            "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
           }
         ]
       },
@@ -720,11 +720,11 @@
         "special": [
           {
             "title": "Shadow in the Void",
-            "effect": "When travelling on Silent Running, all Tests to detect this vessel have their Difficulty increased by two degrees. When completing a Criminal objective, the players earn an additional 50 Endeavour Points. "
+            "description": "When travelling on Silent Running, all Tests to detect this vessel have their Difficulty increased by two degrees. When completing a Criminal objective, the players earn an additional 50 Endeavour Points. "
           },
           {
             "title": "External",
-            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+            "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
           }
         ]
       },
@@ -742,7 +742,7 @@
         "special": [
           {
             "title": "Adamantine Plates",
-            "effect": "This ship gains +2 Armour in its front arc only. This ship also does 1d5 additional damage when ramming."
+            "description": "This ship gains +2 Armour in its front arc only. This ship also does 1d5 additional damage when ramming."
           }
         ]
       },
@@ -759,7 +759,7 @@
         "special": [
           {
             "title": "Adamantine Plates",
-            "effect": "This ship gains +2 Armour in its front arc only. This ship also does 1d5 additional damage when ramming."
+            "description": "This ship gains +2 Armour in its front arc only. This ship also does 1d5 additional damage when ramming."
           }
         ]
       },
@@ -780,11 +780,11 @@
         "special": [
           {
             "title": "Variable Identity",
-            "effect": "Imperial ships are often partly identified by the figurehead mounted on their bows. In an effort to obfuscate a vessel's identity, this Component is capable of reconfiguration to assume a different form. When installed, the Variable Figurehead has up to five different design patterns, which are commonly all variations on an Imperial Eagle. Modifying these patterns or creating additional ones requires an extensive refitting, as the process of reconfiguring its form is purely mechanical."
+            "description": "Imperial ships are often partly identified by the figurehead mounted on their bows. In an effort to obfuscate a vessel's identity, this Component is capable of reconfiguration to assume a different form. When installed, the Variable Figurehead has up to five different design patterns, which are commonly all variations on an Imperial Eagle. Modifying these patterns or creating additional ones requires an extensive refitting, as the process of reconfiguring its form is purely mechanical."
           },
           {
             "title": "External",
-            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
+            "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit."
           }
         ]
       }
@@ -807,11 +807,11 @@
         "special": [
           {
             "title": "Extensive Stores",
-            "effect": "Double the time a ship may remain at void without suffering Crew Population or Morale loss. When making Extended Repairs, repair 1 additional Hull Integrity. "
+            "description": "Double the time a ship may remain at void without suffering Crew Population or Morale loss. When making Extended Repairs, repair 1 additional Hull Integrity. "
           },
           {
             "title": "Plenty for All",
-            "effect": "Increase Morale permanently by 1."
+            "description": "Increase Morale permanently by 1."
           }
         ]
       },
@@ -832,7 +832,7 @@
         "special": [
           {
             "title": "Recycling",
-            "effect": "Reduce all losses of Crew Population by 3, to a minimum of 1. Increase all losses to Morale by 1."
+            "description": "Reduce all losses of Crew Population by 3, to a minimum of 1. Increase all losses to Morale by 1."
           }
         ]
       },
@@ -850,15 +850,15 @@
         "special": [
           {
             "title": "Well Armed",
-            "effect": "When working toward a Military objective, the players earn an additional 25 Achievement Points toward completing that objective. "
+            "description": "When working toward a Military objective, the players earn an additional 25 Achievement Points toward completing that objective. "
           },
           {
             "title": "Ordinatus Extremus",
-            "effect": "All macrobatteries on this ship gain +1 to their listed damage. "
+            "description": "All macrobatteries on this ship gain +1 to their listed damage. "
           },
           {
             "title": "Volatile",
-            "effect": "If this Component is damaged, it explodes. The ship takes 2d5 damage to Hull Integrity, and a Component of the GM's choice is set on fire."
+            "description": "If this Component is damaged, it explodes. The ship takes 2d5 damage to Hull Integrity, and a Component of the GM's choice is set on fire."
           }
         ]
       },
@@ -875,15 +875,15 @@
         "special": [
           {
             "title": "Well Armed",
-            "effect": "When working toward a Military objective, the players earn an additional 25 Achievement Points toward completing that objective. "
+            "description": "When working toward a Military objective, the players earn an additional 25 Achievement Points toward completing that objective. "
           },
           {
             "title": "Ordinatus Extremus",
-            "effect": "All macrobatteries on this ship gain +1 to their listed damage. "
+            "description": "All macrobatteries on this ship gain +1 to their listed damage. "
           },
           {
             "title": "Volatile",
-            "effect": "If this Component is damaged, it explodes. The ship takes 2d5 damage to Hull Integrity, and a Component of the GM's choice is set on fire."
+            "description": "If this Component is damaged, it explodes. The ship takes 2d5 damage to Hull Integrity, and a Component of the GM's choice is set on fire."
           }
         ]
       },
@@ -904,11 +904,11 @@
         "special": [
           {
             "title": "Inspiration",
-            "effect": "Increase Morale permanently by 3. "
+            "description": "Increase Morale permanently by 3. "
           },
           {
             "title": "Awe of the God Emperor",
-            "effect": "When working toward a Creed objective, the players earn an additional 100 Achievement Points toward completing that objective."
+            "description": "When working toward a Creed objective, the players earn an additional 100 Achievement Points toward completing that objective."
           }
         ]
       },
@@ -929,7 +929,7 @@
         "special": [
           {
             "title": "Accumulated Data",
-            "effect": "Any Investigation Skill Tests made aboard this ship gains +10."
+            "description": "Any Investigation Skill Tests made aboard this ship gains +10."
           }
         ]
       },
@@ -950,7 +950,7 @@
         "special": [
           {
             "title": "Past Experiences",
-            "effect": "When working toward an Exploration, Trade, or Criminal objective, the players earn an additional 50 Achievement Points toward completing that objective."
+            "description": "When working toward an Exploration, Trade, or Criminal objective, the players earn an additional 50 Achievement Points toward completing that objective."
           }
         ]
       },
@@ -971,11 +971,11 @@
         "special": [
           {
             "title": "Engraved Star-charts",
-            "effect": "When working towards an Exploration objective, the players earn an additional 50 Achievement Points towards completing that objective. "
+            "description": "When working towards an Exploration objective, the players earn an additional 50 Achievement Points towards completing that objective. "
           },
           {
             "title": "Cure for Claustrophobia",
-            "effect": "Increase Morale permanently by 1."
+            "description": "Increase Morale permanently by 1."
           }
         ]
       },
@@ -996,11 +996,11 @@
         "special": [
           {
             "title": "Death-dealers",
-            "effect": "When used to conduct a Hit and Run Action, this enhancement provides a +20 bonus to the opposed Command Test. "
+            "description": "When used to conduct a Hit and Run Action, this enhancement provides a +20 bonus to the opposed Command Test. "
           },
           {
             "title": "Precise",
-            "effect": "When determining the Critical Hit inflicted by a Hit and Run Action they participated in, the character conducting the raid may select any result between 1 and 6, rather than rolling."
+            "description": "When determining the Critical Hit inflicted by a Hit and Run Action they participated in, the character conducting the raid may select any result between 1 and 6, rather than rolling."
           }
         ]
       },
@@ -1016,7 +1016,7 @@
         "special": [
           {
             "title": "Docks",
-            "effect": "Any size of ship smaller than a cruiser may dock with the station on- and off-loading supplies and cargo."
+            "description": "Any size of ship smaller than a cruiser may dock with the station on- and off-loading supplies and cargo."
           }
         ]
       },
@@ -1032,7 +1032,7 @@
         "special": [
           {
             "title": "Sustaining",
-            "effect": "This station suffers no penalties to Crew Population or Morale for remaining in space for an extended period."
+            "description": "This station suffers no penalties to Crew Population or Morale for remaining in space for an extended period."
           }
         ]
       },
@@ -1048,7 +1048,7 @@
         "special": [
           {
             "title": "Population",
-            "effect": "All aspects of a thriving, bustling community with many thousands of inhabitants can be found on these decks. This station counts as a populated planet for any purpose, such as replenishing Crew or Morale. Each deck provides ~30k inhabitants. Additional decks increase the population for purposes such Acquisition Tests while on board, etc."
+            "description": "All aspects of a thriving, bustling community with many thousands of inhabitants can be found on these decks. This station counts as a populated planet for any purpose, such as replenishing Crew or Morale. Each deck provides ~30k inhabitants. Additional decks increase the population for purposes such Acquisition Tests while on board, etc."
           }
         ]
       },
@@ -1064,7 +1064,7 @@
         "special": [
           {
             "title": "Gelt in the Clouds",
-            "effect": "This Component allows the ship to conduct ice mining in a suitable comet field far outside a solar system. Comets must be first located with a Challenging (+0) Scrutiny + Detection Test via the ship's augur arrays. Mining then takes 1d10+5 days and once complete the additional fresh water and air restore 1d5 Morale as well as extending deep void operations one additional month. Alternatively, this can grant the Explorers +50 Achievement Points to an ongoing Endeavour (the refined plasma can either be used in the Endeavour, or sold to generate funds), or can be used in the construction of a full Endeavour to mine comets at the GM's discretion."
+            "description": "This Component allows the ship to conduct ice mining in a suitable comet field far outside a solar system. Comets must be first located with a Challenging (+0) Scrutiny + Detection Test via the ship's augur arrays. Mining then takes 1d10+5 days and once complete the additional fresh water and air restore 1d5 Morale as well as extending deep void operations one additional month. Alternatively, this can grant the Explorers +50 Achievement Points to an ongoing Endeavour (the refined plasma can either be used in the Endeavour, or sold to generate funds), or can be used in the construction of a full Endeavour to mine comets at the GM's discretion."
           }
         ]
       },
@@ -1085,11 +1085,11 @@
         "special": [
           {
             "title": "External",
-            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit. "
+            "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a Critical Hit. "
           },
           {
             "title": "White Noise",
-            "effect": "While this Component is active, this ship may not perform Silent Running, but any Focused Augury Tests made to scan it suffer a -20 penalty."
+            "description": "While this Component is active, this ship may not perform Silent Running, but any Focused Augury Tests made to scan it suffer a -20 penalty."
           }
         ]
       },
@@ -1106,11 +1106,11 @@
         "special": [
           {
             "title": "Manufacturing",
-            "effect": "If attempting extended repairs, each Manufactorum adds a +10 bonus to the weekly Tech-Use Test. If paying for repairs, each Manufactorum adds a +10 bonus to the Acquisition Test to restore Hull Integrity. "
+            "description": "If attempting extended repairs, each Manufactorum adds a +10 bonus to the weekly Tech-Use Test. If paying for repairs, each Manufactorum adds a +10 bonus to the Acquisition Test to restore Hull Integrity. "
           },
           {
             "title": "Additional Templates",
-            "effect": "Manufactorums are equipped with a variety of templates for construction, so each Manufactorum adds an additional 10 Achievement Points for any Trade objectives. In addition, the Manufactorums may be able to manufacture small numbers of personal items. The GM is final arbiter of what can and cannot be manufactured, but generally it should not be more than a few dozen of a Common item."
+            "description": "Manufactorums are equipped with a variety of templates for construction, so each Manufactorum adds an additional 10 Achievement Points for any Trade objectives. In addition, the Manufactorums may be able to manufacture small numbers of personal items. The GM is final arbiter of what can and cannot be manufactured, but generally it should not be more than a few dozen of a Common item."
           }
         ]
       },
@@ -1131,7 +1131,7 @@
         "special": [
           {
             "title": "Diagnostics and Treatment",
-            "effect": "The Medicae Deck adds a +20 bonus to all Medicae Skill Tests performed within this Component. The number of patients that may be treated without penalty is tripled"
+            "description": "The Medicae Deck adds a +20 bonus to all Medicae Skill Tests performed within this Component. The number of patients that may be treated without penalty is tripled"
           }
         ]
       },
@@ -1152,7 +1152,7 @@
         "special": [
           {
             "title": "Songs in the Void",
-            "effect": "Increase Morale permanently by +1 and gain +10 to all social Skill Tests."
+            "description": "Increase Morale permanently by +1 and gain +10 to all social Skill Tests."
           }
         ]
       },
@@ -1169,7 +1169,7 @@
         "special": [
           {
             "title": "Fuel Gathering",
-            "effect": "A ship equipped with a Plasma Scoop may conduct attempt mining operations on gas giant planets. This requires a Challenging (+0) Operate (Voidship)+Manoeuvrability Test; failure means the ship takes 1d5 hull integrity damage for every degree of failure, ignoring Void Shields (the deadly embrace of gravity does not care about shield barriers!). Success grants the ship a month's operations without needing to refuel, and +5 Achievement Points on any Endeavour Objective that requires the ship to move or transport something (Trade Endeavours or Exploration Endeavours are obvious examples), as the ship saves Thrones on refuelling. "
+            "description": "A ship equipped with a Plasma Scoop may conduct attempt mining operations on gas giant planets. This requires a Challenging (+0) Operate (Voidship)+Manoeuvrability Test; failure means the ship takes 1d5 hull integrity damage for every degree of failure, ignoring Void Shields (the deadly embrace of gravity does not care about shield barriers!). Success grants the ship a month's operations without needing to refuel, and +5 Achievement Points on any Endeavour Objective that requires the ship to move or transport something (Trade Endeavours or Exploration Endeavours are obvious examples), as the ship saves Thrones on refuelling. "
           }
         ]
       },
@@ -1186,11 +1186,11 @@
         "special": [
           {
             "title": "Fuel Gathering",
-            "effect": "A ship equipped with a Plasma Scoop may conduct attempt mining operations on gas giant planets. This requires a Challenging (+0) Operate (Voidship)+Manoeuvrability Test; failure means the ship takes 1d5 hull integrity damage for every degree of failure, ignoring Void Shields (the deadly embrace of gravity does not care about shield barriers!). Success grants the ship a month's operations without needing to refuel, and +5 Achievement Points on any Endeavour Objective that requires the ship to move or transport something (Trade Endeavours or Exploration Endeavours are obvious examples), as the ship saves Thrones on refuelling. "
+            "description": "A ship equipped with a Plasma Scoop may conduct attempt mining operations on gas giant planets. This requires a Challenging (+0) Operate (Voidship)+Manoeuvrability Test; failure means the ship takes 1d5 hull integrity damage for every degree of failure, ignoring Void Shields (the deadly embrace of gravity does not care about shield barriers!). Success grants the ship a month's operations without needing to refuel, and +5 Achievement Points on any Endeavour Objective that requires the ship to move or transport something (Trade Endeavours or Exploration Endeavours are obvious examples), as the ship saves Thrones on refuelling. "
           },
           {
             "title": "Foolhardy Manoeuvre",
-            "effect": "This Component may not be equipped on ships of Grand Cruiser size or larger."
+            "description": "This Component may not be equipped on ships of Grand Cruiser size or larger."
           }
         ]
       },
@@ -1211,7 +1211,7 @@
         "special": [
           {
             "title": "Combat Ready",
-            "effect": "Pilot Chambers grant a +2 bonus to the Attack Craft Rating of all squadrons aboard a starship."
+            "description": "Pilot Chambers grant a +2 bonus to the Attack Craft Rating of all squadrons aboard a starship."
           }
         ]
       },
@@ -1229,7 +1229,7 @@
         "special": [
           {
             "title": "Salvage Operations",
-            "effect": "This Component allows a ship to attach itself to vessel which has been reduced to space hulk status. The clamps can strip apart the wreck; for every week spent in salvage the crew may make a Difficult (-10) Tech-Use Test to attempt to safely remove a named Component from the hulk (a Focused Augury Extended Action to scan the wreck is needed to determine Components). If successful, a single working Component can be removed and stored on the host vessel if there is Space for it (or externally secured to hull for towing); if it fails then that Component is lost. Successfully salvaged Components can be sold as part of a constructed Trade Endeavour or even refitted to the ship at a stardock as if it had been acquired normally. Salvage Clamps are gigantic and unwieldy affairs, however, and a vessel equipped with them suffers -5 Manoeuvrability."
+            "description": "This Component allows a ship to attach itself to vessel which has been reduced to space hulk status. The clamps can strip apart the wreck; for every week spent in salvage the crew may make a Difficult (-10) Tech-Use Test to attempt to safely remove a named Component from the hulk (a Focused Augury Extended Action to scan the wreck is needed to determine Components). If successful, a single working Component can be removed and stored on the host vessel if there is Space for it (or externally secured to hull for towing); if it fails then that Component is lost. Successfully salvaged Components can be sold as part of a constructed Trade Endeavour or even refitted to the ship at a stardock as if it had been acquired normally. Salvage Clamps are gigantic and unwieldy affairs, however, and a vessel equipped with them suffers -5 Manoeuvrability."
           }
         ]
       },
@@ -1246,7 +1246,7 @@
         "special": [
           {
             "title": "Spare Parts",
-            "effect": "After any starship combat in which fighters, assault boats, or bombers are lost, a character may immediately make a Difficult (-10) Repair Test. For every degree of success on the test, two of these craft are recovered."
+            "description": "After any starship combat in which fighters, assault boats, or bombers are lost, a character may immediately make a Difficult (-10) Repair Test. For every degree of success on the test, two of these craft are recovered."
           }
         ]
       },
@@ -1263,7 +1263,7 @@
         "special": [
           {
             "title": "Mobile Spaceport",
-            "effect": "When not moving, the huge attachments covering the ship allow up to four smaller vessels to dock. The stationary ship acts as a space station for purposes of making full repairs or replenishing Morale, and grants a +10 to the Acquisition Test when making full repairs. Due to their size, station fittings prevent any weapons with the Broadside rule from being installed (although smaller weapons may still be installed in Port and Starboard weapon capacity slots). When working towards a Trade objective, the Explorers earn an additional +100 Achievement Points towards completing that objective."
+            "description": "When not moving, the huge attachments covering the ship allow up to four smaller vessels to dock. The stationary ship acts as a space station for purposes of making full repairs or replenishing Morale, and grants a +10 to the Acquisition Test when making full repairs. Due to their size, station fittings prevent any weapons with the Broadside rule from being installed (although smaller weapons may still be installed in Port and Starboard weapon capacity slots). When working towards a Trade objective, the Explorers earn an additional +100 Achievement Points towards completing that objective."
           }
         ]
       },
@@ -1281,7 +1281,7 @@
         "special": [
           {
             "title": "Replenishing Supplies",
-            "effect": "Double the time a ship may remain at void without suffering Crew Population or Morale loss. Increase Crew Population permanently by +2."
+            "description": "Double the time a ship may remain at void without suffering Crew Population or Morale loss. Increase Crew Population permanently by +2."
           }
         ]
       },
@@ -1298,7 +1298,7 @@
         "special": [
           {
             "title": "Replenishing Supplies",
-            "effect": "Double the time a ship may remain at void without suffering Crew Population or Morale loss. Increase Crew Population permanently by +2."
+            "description": "Double the time a ship may remain at void without suffering Crew Population or Morale loss. Increase Crew Population permanently by +2."
           }
         ]
       },
@@ -1319,7 +1319,7 @@
         "special": [
           {
             "title": "Mining Rig",
-            "effect": "An asteroid mining facility Component allows a vessel to conduct mining operations in an asteroid field (or similar location). This allows the vessel's crew to construct a Trade Endeavour based on those operations. When completing this Endeavour's objectives, the players earn an additional 200 Endeavour Points."
+            "description": "An asteroid mining facility Component allows a vessel to conduct mining operations in an asteroid field (or similar location). This allows the vessel's crew to construct a Trade Endeavour based on those operations. When completing this Endeavour's objectives, the players earn an additional 200 Endeavour Points."
           }
         ]
       },
@@ -1340,7 +1340,7 @@
         "special": [
           {
             "title": "Psy-locus",
-            "effect": "When performing Astro-telepathy in this Component, an Astropath gains a +10 bonus to her Focus Power Test. While occupying this Component during Space Combat, any psychic powers the Astropath uses have their range increased by 5 VUs."
+            "description": "When performing Astro-telepathy in this Component, an Astropath gains a +10 bonus to her Focus Power Test. While occupying this Component during Space Combat, any psychic powers the Astropath uses have their range increased by 5 VUs."
           }
         ]
       },
@@ -1361,15 +1361,15 @@
         "special": [
           {
             "title": "Deafening",
-            "effect": "If this system is activated, all other ships must make a Difficult (-10) Tech Use Test in order to use vox or other broadcast communications while within 30 VUs of this vessel. "
+            "description": "If this system is activated, all other ships must make a Difficult (-10) Tech Use Test in order to use vox or other broadcast communications while within 30 VUs of this vessel. "
           },
           {
             "title": "Terrifying",
-            "effect": "When this system is activated, characters aboard this vessel gain +10 on all Intimidate Tests against all ships within 30 VUs. "
+            "description": "When this system is activated, characters aboard this vessel gain +10 on all Intimidate Tests against all ships within 30 VUs. "
           },
           {
             "title": "External",
-            "effect": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a critical hit."
+            "description": "This Component does not require hull space. Although it is external, it can only be destroyed or damaged by a critical hit."
           }
         ]
       },
@@ -1390,15 +1390,15 @@
         "special": [
           {
             "title": "Deployable",
-            "effect": "The Auto Temple is a fully staffed temple of the Imperial Creed mounted within the vessel. In addition to tending to the needs of the crew, the Auto Temple may be dropped to a planet's surface from orbit. This enables the staunch missionaries to directly tend to the needs of the unwashed heathens with the full resources of an Imperial Church. When a vessel needs to leave orbit, the Auto Temple may be disassembled and returned to the craft by a work crew and lifters. This process takes two to three days."
+            "description": "The Auto Temple is a fully staffed temple of the Imperial Creed mounted within the vessel. In addition to tending to the needs of the crew, the Auto Temple may be dropped to a planet's surface from orbit. This enables the staunch missionaries to directly tend to the needs of the unwashed heathens with the full resources of an Imperial Church. When a vessel needs to leave orbit, the Auto Temple may be disassembled and returned to the craft by a work crew and lifters. This process takes two to three days."
           },
           {
             "title": "Tend the Flock",
-            "effect": "The constant support of the Temple's Priests increases Morale by 2."
+            "description": "The constant support of the Temple's Priests increases Morale by 2."
           },
           {
             "title": "Convert the Heretic",
-            "effect": "When working towards a Creed objective, the players earn an additional 150 Achievement Points towards completing that objective"
+            "description": "When working towards a Creed objective, the players earn an additional 150 Achievement Points towards completing that objective"
           }
         ]
       },
@@ -1419,7 +1419,7 @@
         "special": [
           {
             "title": "Research Facility",
-            "effect": "This Component grants a +20 bonus to all tests to identify, analyse, and repair artefacts of ancient or xenos origin, or to any tests to craft single items (such as a single weapon or piece of armour). This could include Scholastic Lore, Forbidden Lore, Tech-Use, and Trade Tests (as well as others at the GM's discretion)."
+            "description": "This Component grants a +20 bonus to all tests to identify, analyse, and repair artefacts of ancient or xenos origin, or to any tests to craft single items (such as a single weapon or piece of armour). This could include Scholastic Lore, Forbidden Lore, Tech-Use, and Trade Tests (as well as others at the GM's discretion)."
           }
         ]
       },
@@ -1440,11 +1440,11 @@
         "special": [
           {
             "title": "Pattern Replication",
-            "effect": "The Explorers may use this Component to synthesise drugs (what drugs they may synthesize is at the GM's discretion), requiring a Scholastic Lore (Chymistry) Test with a difficulty equal to the compound's Availability. The Component is capable of synthesizing enough of any substance to provide an adequate dosage for the vessel's crew each day."
+            "description": "The Explorers may use this Component to synthesise drugs (what drugs they may synthesize is at the GM's discretion), requiring a Scholastic Lore (Chymistry) Test with a difficulty equal to the compound's Availability. The Component is capable of synthesizing enough of any substance to provide an adequate dosage for the vessel's crew each day."
           },
           {
             "title": "Drug Supply",
-            "effect": "This Component provides an additional 50 Achievement Points for Criminal or Trade Endeavours where providing medical support or recreational pharmaceuticals could assist in negotiations."
+            "description": "This Component provides an additional 50 Achievement Points for Criminal or Trade Endeavours where providing medical support or recreational pharmaceuticals could assist in negotiations."
           }
         ]
       },
@@ -1465,15 +1465,15 @@
         "special": [
           {
             "title": "Decadent",
-            "effect": "The presence of this Component on a vessel is often viewed by official Imperial Bureaucracies as a sign of moral failing, which may lead to legal difficulties."
+            "description": "The presence of this Component on a vessel is often viewed by official Imperial Bureaucracies as a sign of moral failing, which may lead to legal difficulties."
           },
           {
             "title": "Appease the Masses",
-            "effect": "Increase Morale permanently by 2."
+            "description": "Increase Morale permanently by 2."
           },
           {
             "title": "Extremely Persuasive",
-            "effect": "The Explorers receive +10 to all Charm and Commerce tests conducted on the vessel if the subjects use the Sensorium."
+            "description": "The Explorers receive +10 to all Charm and Commerce tests conducted on the vessel if the subjects use the Sensorium."
           }
         ]
       }

@@ -1,170 +1,166 @@
 {
   "title": "Biomancy - Psychic Discipline",
-  "info": "# Biomancy - Psychic Discipline",
+  "info": "# Biomancy - Psychic Discipline\n\nArtists of living flesh, Biomancers can push their own bodies beyond human limits, and even control the biological processes of others. These powers allow a psyker to enhance her own abilities and aid her allies, but can also be used stop a foe's heart with but a thought.",
   "component": "PsychicDiscipline",
-  "data": {
-    "discipline": "Biomancy",
-    "information": "Artists of living flesh, Biomancers can push their own bodies beyond human limits, and even control the biological processes of others. These powers allow a psyker to enhance her own abilities and aid her allies, but can also be used stop a foe's heart with but a thought.",
-    "powers": [
-      {
-        "name": "Enfeeble",
-        "id": "enfeeble",
-        "cost": 100,
-        "prerequisites": [
-          "Toughness 35"
-        ],
-        "action": "Half",
-        "focus": "+0 Opposed Willpower",
-        "range": "20m * PR",
-        "sustained": "Half",
-        "subtypes": [
-          "Attack",
-          "Concentration"
-        ],
-        "effects": "The psyker nominates a single target in range and line of sight who opposes this power with a Toughness test. If the target fails to resist the power, it is Stunned for one round. In addition, as long as this power remains in effect, if the target rolls doubles on any test it makes, it suffers a number of levels of Fatigue equal to half the psyker's psy rating (rounded down). A single target can only be affected by one instance of the Enfeeble power at a time, with other usages on the same target having no further effect",
-        "source": "Dark Heresy 2e"
-      },
-      {
-        "name": "Invigourate",
-        "id": "invigourate",
-        "cost": 100,
-        "prerequisites": [
-          "Toughness 30"
-        ],
-        "action": "Half",
-        "focus": "+0 Willpower",
-        "range": "1m",
-        "sustained": "No",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "The psyker can remove a number of levels of Fatigue from herself and allies within range. She can chose how many levels to reduce per character, but the sum of all levels removed from all characters cannot exceed her psy rating. This power is very taxing and requires at least 12 hours of recovery before it can be used again",
-        "source": "Dark Heresy 2e"
-      },
-      {
-        "name": "Shape Flesh",
-        "id": "shape_flesh",
-        "cost": 200,
-        "prerequisites": [
-          "Toughness 30",
-          "Perception 35"
-        ],
-        "action": "Full",
-        "focus": "+10 Willpower",
-        "range": "1m",
-        "sustained": "Free",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "The psyker chooses herself or an organic target that she can physically touch. The target's physical appearance changes to a new form of the psyker's choosing for the duration of the power. The amount and precision of the alterations depend on the final psy rating used. Following are some broad guidelines, but GMs can further alter the range of the power as needed. \n* PR 1-3: The psyker can alter subtle flesh shapes, tones, and colours to distort the appearance of the target. She does not have direct control over what the end result looks like. \n* PR 4-6: The psyker can alter flesh, hair, eyes, and any other physical features. She can choose how the features will be altered, but does not have the precision to mimic others.\n* PR 7-9: The psyker can change any physical feature of the target to resemble another individual. However, the psyker must have a pic record of the individual, or have seen her before.\n* PR 10+: The psyker can shape her target to exactly mimic another individual. Additionally, she can use the power to morph the target into a form that no longer appears human. All tests to identify the target's true identity suffer a penalty equal to 5 x PR for the duration of the power. The effects of the power on a target other than the psyker remain in effect for the duration of the power, regardless of how far away from the psyker the target becomes.",
-        "source": "Dark Heresy 2e"
-      },
-      {
-        "name": "Smite",
-        "id": "smite",
-        "cost": 200,
-        "prerequisites": [
-          "Willpower 40"
-        ],
-        "action": "Half",
-        "focus": "+0 Willpower",
-        "range": "20m * PR",
-        "sustained": "No",
-        "subtypes": [
-          "Attack",
-          "Concentration"
-        ],
-        "effects": "Psychic Barrage; 1d10+PR E; Pen 4",
-        "source": "Dark Heresy 2e"
-      },
-      {
-        "name": "Endurance",
-        "id": "endurance",
-        "cost": 300,
-        "prerequisites": [
-          "Toughness 30"
-        ],
-        "action": "Half",
-        "focus": "-10 Willpower",
-        "range": "3m * PR radius",
-        "sustained": "No",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "A number of allies in range equal to the psyker's psy rating, plus the psyker herself, recover wounds equal to half the psyker's psy rating, rounded up. They can also immediately overcome the effects of Pinning. This power is incredibly taxing and requires at least 12 hours of recovery before it may be used again",
-        "source": "Dark Heresy 2e"
-      },
-      {
-        "name": "Haemorrhage",
-        "id": "haemorrhage",
-        "cost": 400,
-        "prerequisites": [
-          "Psy Rating 4"
-        ],
-        "action": "Half",
-        "focus": "-10 Opposed Willpower",
-        "range": "10m * PR",
-        "sustained": "No",
-        "subtypes": [
-          "Attack",
-          "Concentration"
-        ],
-        "effects": "The psyker nominates a single target in range and line of sight who opposes this power with a Toughness test. If the target fails to resist the power, it suffers Energy damage equal to the psyker's psy rating, plus one additional damage per degree of failure on its Toughness test; this damage ignores Toughness bonus and Armour. If this damage successfully kills the target, the psyker may immediately recast this psychic power as a Free Action on any legal target within 5 metres of the original target.",
-        "source": "Dark Heresy 2e"
-      },
-      {
-        "name": "Iron Arm",
-        "id": "iron_arm",
-        "cost": 400,
-        "prerequisites": [
-          "Strength 35",
-          "Toughness 35"
-        ],
-        "action": "Half",
-        "focus": "-20 Willpower",
-        "range": "Self",
-        "sustained": "Free",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "While this power is in effect, the psyker gains the Unnatural Toughness and Unnatural Strength traits with ratings equal to half her psy rating, rounded up. However, her flesh's sturdier form weighs the psyker down, causing her to suffer a -10 penalty to her Agility characteristic while the power is in effect.",
-        "source": "Dark Heresy 2e"
-      },
-      {
-        "name": "Life Leech",
-        "id": "life_leech",
-        "cost": 400,
-        "prerequisites": [
-          "Toughness 40"
-        ],
-        "action": "Full",
-        "focus": "-10 Opposed Willpower",
-        "range": "10m * PR",
-        "sustained": "Free",
-        "subtypes": [
-          "Attack",
-          "Concentration"
-        ],
-        "effects": "The psyker nominates a single target in range and line of sight who opposes this power with a Toughness test. If the target fails to resist the power, she suffers 1d10 + psy rating Toughness damage, and the psyker gains Unnatural Toughness (1) trait, with its value increased by 1 for every full 5 points of Toughness damage the power inflicts. This Unnatural Toughness trait remains for as long as the power's effect persists.",
-        "source": "Dark Heresy 2e"
-      },
-      {
-        "name": "Warp Speed",
-        "id": "warp_speed",
-        "cost": 500,
-        "prerequisites": [
-          "Psy Rating 5"
-        ],
-        "action": "Half",
-        "focus": "-10 Willpower",
-        "range": "Self",
-        "sustained": "Free",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "The psyker gains the Unnatural Weapon Skill, Unnatural Ballistic Skill, and Unnatural Agility traits, all at values equal to her psy rating.",
-        "source": "Dark Heresy 2e"
-      }
-    ]
-  }
+  "data": [
+    {
+      "name": "Enfeeble",
+      "id": "enfeeble",
+      "cost": 100,
+      "prerequisites": [
+        "Toughness 35"
+      ],
+      "action": "Half",
+      "focus": "+0 Opposed Willpower",
+      "range": "20m * PR",
+      "sustained": "Half",
+      "subtypes": [
+        "Attack",
+        "Concentration"
+      ],
+      "description": "The psyker nominates a single target in range and line of sight who opposes this power with a Toughness test. If the target fails to resist the power, it is Stunned for one round. In addition, as long as this power remains in effect, if the target rolls doubles on any test it makes, it suffers a number of levels of Fatigue equal to half the psyker's psy rating (rounded down). A single target can only be affected by one instance of the Enfeeble power at a time, with other usages on the same target having no further effect",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "name": "Invigourate",
+      "id": "invigourate",
+      "cost": 100,
+      "prerequisites": [
+        "Toughness 30"
+      ],
+      "action": "Half",
+      "focus": "+0 Willpower",
+      "range": "1m",
+      "sustained": "No",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "The psyker can remove a number of levels of Fatigue from herself and allies within range. She can chose how many levels to reduce per character, but the sum of all levels removed from all characters cannot exceed her psy rating. This power is very taxing and requires at least 12 hours of recovery before it can be used again",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "name": "Shape Flesh",
+      "id": "shape_flesh",
+      "cost": 200,
+      "prerequisites": [
+        "Toughness 30",
+        "Perception 35"
+      ],
+      "action": "Full",
+      "focus": "+10 Willpower",
+      "range": "1m",
+      "sustained": "Free",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "The psyker chooses herself or an organic target that she can physically touch. The target's physical appearance changes to a new form of the psyker's choosing for the duration of the power. The amount and precision of the alterations depend on the final psy rating used. Following are some broad guidelines, but GMs can further alter the range of the power as needed. \n* PR 1-3: The psyker can alter subtle flesh shapes, tones, and colours to distort the appearance of the target. She does not have direct control over what the end result looks like. \n* PR 4-6: The psyker can alter flesh, hair, eyes, and any other physical features. She can choose how the features will be altered, but does not have the precision to mimic others.\n* PR 7-9: The psyker can change any physical feature of the target to resemble another individual. However, the psyker must have a pic record of the individual, or have seen her before.\n* PR 10+: The psyker can shape her target to exactly mimic another individual. Additionally, she can use the power to morph the target into a form that no longer appears human. All tests to identify the target's true identity suffer a penalty equal to 5 x PR for the duration of the power. The effects of the power on a target other than the psyker remain in effect for the duration of the power, regardless of how far away from the psyker the target becomes.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "name": "Smite",
+      "id": "smite",
+      "cost": 200,
+      "prerequisites": [
+        "Willpower 40"
+      ],
+      "action": "Half",
+      "focus": "+0 Willpower",
+      "range": "20m * PR",
+      "sustained": "No",
+      "subtypes": [
+        "Attack",
+        "Concentration"
+      ],
+      "description": "Psychic Barrage; 1d10+PR E; Pen 4",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "name": "Endurance",
+      "id": "endurance",
+      "cost": 300,
+      "prerequisites": [
+        "Toughness 30"
+      ],
+      "action": "Half",
+      "focus": "-10 Willpower",
+      "range": "3m * PR radius",
+      "sustained": "No",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "A number of allies in range equal to the psyker's psy rating, plus the psyker herself, recover wounds equal to half the psyker's psy rating, rounded up. They can also immediately overcome the effects of Pinning. This power is incredibly taxing and requires at least 12 hours of recovery before it may be used again",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "name": "Haemorrhage",
+      "id": "haemorrhage",
+      "cost": 400,
+      "prerequisites": [
+        "Psy Rating 4"
+      ],
+      "action": "Half",
+      "focus": "-10 Opposed Willpower",
+      "range": "10m * PR",
+      "sustained": "No",
+      "subtypes": [
+        "Attack",
+        "Concentration"
+      ],
+      "description": "The psyker nominates a single target in range and line of sight who opposes this power with a Toughness test. If the target fails to resist the power, it suffers Energy damage equal to the psyker's psy rating, plus one additional damage per degree of failure on its Toughness test; this damage ignores Toughness bonus and Armour. If this damage successfully kills the target, the psyker may immediately recast this psychic power as a Free Action on any legal target within 5 metres of the original target.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "name": "Iron Arm",
+      "id": "iron_arm",
+      "cost": 400,
+      "prerequisites": [
+        "Strength 35",
+        "Toughness 35"
+      ],
+      "action": "Half",
+      "focus": "-20 Willpower",
+      "range": "Self",
+      "sustained": "Free",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "While this power is in effect, the psyker gains the Unnatural Toughness and Unnatural Strength traits with ratings equal to half her psy rating, rounded up. However, her flesh's sturdier form weighs the psyker down, causing her to suffer a -10 penalty to her Agility characteristic while the power is in effect.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "name": "Life Leech",
+      "id": "life_leech",
+      "cost": 400,
+      "prerequisites": [
+        "Toughness 40"
+      ],
+      "action": "Full",
+      "focus": "-10 Opposed Willpower",
+      "range": "10m * PR",
+      "sustained": "Free",
+      "subtypes": [
+        "Attack",
+        "Concentration"
+      ],
+      "description": "The psyker nominates a single target in range and line of sight who opposes this power with a Toughness test. If the target fails to resist the power, she suffers 1d10 + psy rating Toughness damage, and the psyker gains Unnatural Toughness (1) trait, with its value increased by 1 for every full 5 points of Toughness damage the power inflicts. This Unnatural Toughness trait remains for as long as the power's effect persists.",
+      "source": "Dark Heresy 2e"
+    },
+    {
+      "name": "Warp Speed",
+      "id": "warp_speed",
+      "cost": 500,
+      "prerequisites": [
+        "Psy Rating 5"
+      ],
+      "action": "Half",
+      "focus": "-10 Willpower",
+      "range": "Self",
+      "sustained": "Free",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "The psyker gains the Unnatural Weapon Skill, Unnatural Ballistic Skill, and Unnatural Agility traits, all at values equal to her psy rating.",
+      "source": "Dark Heresy 2e"
+    }
+  ]
 }

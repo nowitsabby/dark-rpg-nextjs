@@ -23,7 +23,7 @@
       "special": [
         {
           "title": "Cargo Hauler",
-          "effect": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
+          "description": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
         }
       ]
     },
@@ -46,7 +46,7 @@
       "special": [
         {
           "title": "Cargo Hauler",
-          "effect": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
+          "description": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
         }
       ]
     },
@@ -69,7 +69,7 @@
       "special": [
         {
           "title": "Cargo Hauler",
-          "effect": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
+          "description": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
         }
       ]
     },
@@ -93,15 +93,15 @@
       "special": [
         {
           "title": "Large Cargo Hauler",
-          "effect": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with two Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 4 Power to this Component."
+          "description": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with two Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 4 Power to this Component."
         },
         {
           "title": "Plasma Refinery",
-          "effect": "This vessel comes pre-equipped with a unique Component, a Plasma Refinery, used to create high-grade fuel for plasma engines. This is a huge facility mounted amidships. This grants the ship the ability to scoop plasma from the stars, refine it, and sell it on. The profits gained by this enterprise are closely matched to the costs of running the vessel, however the Explorers can use it to augment their own endeavours. The refining process simply requires a large supply of low-grade ore, however the plasma harvesting process is more involved. The ship must enter a retrograde orbit around a blue-giant star, a manoeuvre that takes three days and requires two Ordinary (+10) Operate (Voidship) + Manoeuvrability Tests. Failure of either of these Tests by five degrees or more results in the ship's destruction. Success means the ship gains enough additional plasma to convert one full load of ore, granting the Explorers +100 Achievement Points to an ongoing Endeavour (the refined plasma can either be used in the Endeavour, or sold to generate funds)."
+          "description": "This vessel comes pre-equipped with a unique Component, a Plasma Refinery, used to create high-grade fuel for plasma engines. This is a huge facility mounted amidships. This grants the ship the ability to scoop plasma from the stars, refine it, and sell it on. The profits gained by this enterprise are closely matched to the costs of running the vessel, however the Explorers can use it to augment their own endeavours. The refining process simply requires a large supply of low-grade ore, however the plasma harvesting process is more involved. The ship must enter a retrograde orbit around a blue-giant star, a manoeuvre that takes three days and requires two Ordinary (+10) Operate (Voidship) + Manoeuvrability Tests. Failure of either of these Tests by five degrees or more results in the ship's destruction. Success means the ship gains enough additional plasma to convert one full load of ore, granting the Explorers +100 Achievement Points to an ongoing Endeavour (the refined plasma can either be used in the Endeavour, or sold to generate funds)."
         },
         {
           "title": "Powered by Stars",
-          "effect": "Provided the Goliath harvests plasma roughly once a year, its Plasma Drive generates +10 power."
+          "description": "Provided the Goliath harvests plasma roughly once a year, its Plasma Drive generates +10 power."
         }
       ]
     },
@@ -125,15 +125,15 @@
       "special": [
         {
           "title": "Oversized Monstrosity",
-          "effect": "This vessel's Speed cannot be increased by Components—if a Component would increase its Speed, it has no effect instead. "
+          "description": "This vessel's Speed cannot be increased by Components—if a Component would increase its Speed, it has no effect instead. "
         },
         {
           "title": "Secondary Power Genetorium",
-          "effect": "The Universe class is so large it comes pre-equipped with a unique Component, a Secondary Power Genetorium. The hull's Space has already been reduced to account for this Component, which provides +10 power to the vessel in addition to that provided by the ship's Plasma Drive. "
+          "description": "The Universe class is so large it comes pre-equipped with a unique Component, a Secondary Power Genetorium. The hull's Space has already been reduced to account for this Component, which provides +10 power to the vessel in addition to that provided by the ship's Plasma Drive. "
         },
         {
           "title": "Massive Cargo Hauler",
-          "effect": "This vessel was designed for transporting goods on a massive scale, and no amount of retrofitting can fully change this. This Hull comes pre-equipped with four Main Cargo Hold Components. The hull's Space has already been reduced to account for these, however when the ship is constructed it must be able to provide a total of 8 Power to these Components."
+          "description": "This vessel was designed for transporting goods on a massive scale, and no amount of retrofitting can fully change this. This Hull comes pre-equipped with four Main Cargo Hold Components. The hull's Space has already been reduced to account for these, however when the ship is constructed it must be able to provide a total of 8 Power to these Components."
         }
       ]
     },
@@ -156,11 +156,11 @@
       "special": [
         {
           "title": "Cargo Hauler",
-          "effect": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
+          "description": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
         },
         {
           "title": "Hidden Predator",
-          "effect": "This ship automatically gains the Wolf in Sheep's Clothing Past History (players using this ship do not roll for Past Histories.)"
+          "description": "This ship automatically gains the Wolf in Sheep's Clothing Past History (players using this ship do not roll for Past Histories.)"
         }
       ]
     },
@@ -183,11 +183,11 @@
       "special": [
         {
           "title": "Cargo Hauler",
-          "effect": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
+          "description": "This vessel was designed for transporting goods, and no amount of retrofitting can fully change this. This hull comes pre-equipped with one Main Cargo Hold Component. The hull's Space has already been reduced to account for this, however, when the ship is constructed it must be able to provide 2 Power to this Component."
         },
         {
           "title": "Fast Ship",
-          "effect": "Due to the precisely calibrated nature of this ship, it cannot be equipped with Components that increase its Armour."
+          "description": "Due to the precisely calibrated nature of this ship, it cannot be equipped with Components that increase its Armour."
         }
       ]
     },
@@ -246,7 +246,7 @@
       "special": [
         {
           "title": "Advanced Cogitator Linkage",
-          "effect": "Shrikes include kilometres of sophisticated linkage cabling, which at one time allowed a highly advanced core cogitator to exercise extreme control over the systems. Although the heretical cogitator is long removed, the linkage remains. This vessels gains a +5 bonus to all Ballistic Skill Tests to fire the ship's weaponry."
+          "description": "Shrikes include kilometres of sophisticated linkage cabling, which at one time allowed a highly advanced core cogitator to exercise extreme control over the systems. Although the heretical cogitator is long removed, the linkage remains. This vessels gains a +5 bonus to all Ballistic Skill Tests to fire the ship's weaponry."
         }
       ]
     },
@@ -269,7 +269,7 @@
       "special": [
         {
           "title": "Easy to Repair",
-          "effect": "When effecting long term repairs, this ship may repair an additional +2 Hull Integrity if the repairs succeed."
+          "description": "When effecting long term repairs, this ship may repair an additional +2 Hull Integrity if the repairs succeed."
         }
       ]
     },
@@ -382,7 +382,7 @@
       "special": [
         {
           "title": "Torpedo Specialist",
-          "effect": "This ship comes pre-equipped with by a Voss-pattern Torpedo Tube Component, which occupies a prow slot. This Component may not be removed. The space required is already taken into account, but when this ship is constructed, it must provide 1 power to this Component."
+          "description": "This ship comes pre-equipped with by a Voss-pattern Torpedo Tube Component, which occupies a prow slot. This Component may not be removed. The space required is already taken into account, but when this ship is constructed, it must provide 1 power to this Component."
         }
       ]
     },
@@ -423,11 +423,11 @@
       "special": [
         {
           "title": "Fiery Temperament",
-          "effect": "For some reason, the plasma drives on a Turbulent tend to burn hotter than on comparable vessels. Though this isn't enough to compensate for the added mass, it does give more power. Any plasma drive installed on a Turbulent has its Power Generated increased by +2. "
+          "description": "For some reason, the plasma drives on a Turbulent tend to burn hotter than on comparable vessels. Though this isn't enough to compensate for the added mass, it does give more power. Any plasma drive installed on a Turbulent has its Power Generated increased by +2. "
         },
         {
           "title": "Antiquated Communications",
-          "effect": "All Command Tests on a Turbulent suffer a -5 penalty."
+          "description": "All Command Tests on a Turbulent suffer a -5 penalty."
         }
       ]
     },
@@ -470,7 +470,7 @@
       ],
       "special": {
         "title": "Torpedo Specialist",
-        "effect": "This ship comes pre-equipped with by a Voss-pattern Torpedo Tube Component, which occupies a prow slot. This Component may not be removed. The space required is already taken into account, but when this ship is constructed, it must provide one power to this Component."
+        "description": "This ship comes pre-equipped with by a Voss-pattern Torpedo Tube Component, which occupies a prow slot. This Component may not be removed. The space required is already taken into account, but when this ship is constructed, it must provide one power to this Component."
       }
     },
     {
@@ -493,7 +493,7 @@
       "special": [
         {
           "title": "Carrier",
-          "effect": "This ship comes pre-equipped with two Jovian-class Launch Bay Components, which occupy a port and starboard weapon capacity slot. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide one Power to each launch bay Component."
+          "description": "This ship comes pre-equipped with two Jovian-class Launch Bay Components, which occupy a port and starboard weapon capacity slot. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide one Power to each launch bay Component."
         }
       ]
     },
@@ -579,11 +579,11 @@
       "special": [
         {
           "title": "Galleon",
-          "effect": "The Star Galleon comes pre-equipped with two Main Cargo Hold Components. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide four Power to these Components. "
+          "description": "The Star Galleon comes pre-equipped with two Main Cargo Hold Components. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide four Power to these Components. "
         },
         {
           "title": "Hybrid Vessel",
-          "effect": "The Star Galleon may be equipped with Transport or Cruiser Components. However, if the Component has both a Transport and a Cruiser variant, it must take the Cruiser variant."
+          "description": "The Star Galleon may be equipped with Transport or Cruiser Components. However, if the Component has both a Transport and a Cruiser variant, it must take the Cruiser variant."
         }
       ]
     },
@@ -630,7 +630,7 @@
       "special": [
         {
           "title": "Carrier",
-          "effect": "This ship comes pre-equipped with two Jovian-class Launch Bay Components, which occupy a port and starboard weapon capacity slot. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide one Power to each launch bay Component."
+          "description": "This ship comes pre-equipped with two Jovian-class Launch Bay Components, which occupy a port and starboard weapon capacity slot. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide one Power to each launch bay Component."
         }
       ]
     },
@@ -678,7 +678,7 @@
       "special": [
         {
           "title": "Cruiser",
-          "effect": "This ship also counts as a Cruiser for Component requirements"
+          "description": "This ship also counts as a Cruiser for Component requirements"
         }
       ]
     },
@@ -705,15 +705,15 @@
       "special": [
         {
           "title": "Cruiser",
-          "effect": "This ship also counts as a Cruiser for Component requirements"
+          "description": "This ship also counts as a Cruiser for Component requirements"
         },
         {
           "title": "Carrier",
-          "effect": "This ship comes pre-equipped with two Jovian-class Launch Bay Components, which occupy a port and starboard weapon capacity slot. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide one Power to each launch bay Component."
+          "description": "This ship comes pre-equipped with two Jovian-class Launch Bay Components, which occupy a port and starboard weapon capacity slot. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide one Power to each launch bay Component."
         },
         {
           "title": "Inherent warship",
-          "effect": "The Mars-class battlecruiser comes pre-equipped with one Mars-pattern Nova Cannon Component occupying its prow weapon capacity slot, and one Armoured Prow Component. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide three Power to the Nova Cannon."
+          "description": "The Mars-class battlecruiser comes pre-equipped with one Mars-pattern Nova Cannon Component occupying its prow weapon capacity slot, and one Armoured Prow Component. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide three Power to the Nova Cannon."
         }
       ]
     },
@@ -740,11 +740,11 @@
       "special": [
         {
           "title": "Cruiser",
-          "effect": "This ship also counts as a Cruiser for Component requirements"
+          "description": "This ship also counts as a Cruiser for Component requirements"
         },
         {
           "title": "Additional Plasma Conduits",
-          "effect": "All Chalice-class battlecruisers have many heavy plasma conduits, a risky trade-off for increased power. Any plasma drive installed on a Chalice increases power generated by 4. However, every time a Chalice takes a Critical Hit, there is a 25% chance it suffers an additional Fire! Critical Hit as well."
+          "description": "All Chalice-class battlecruisers have many heavy plasma conduits, a risky trade-off for increased power. Any plasma drive installed on a Chalice increases power generated by 4. However, every time a Chalice takes a Critical Hit, there is a 25% chance it suffers an additional Fire! Critical Hit as well."
         }
       ]
     },
@@ -771,11 +771,11 @@
       "special": [
         {
           "title": "Cruiser",
-          "effect": "This ship also counts as a Cruiser for Component requirements"
+          "description": "This ship also counts as a Cruiser for Component requirements"
         },
         {
           "title": "Cramped",
-          "effect": "The corridors of Armageddon-class battlecruisers are lined with power relays for the massive weapons systems which must be replaced often. These cabling systems clog the ship's passageways like arterial plaque, consuming space that would otherwise be used for vital supplies. Even extensive redesigns cannot resolve these issues. The ship can only stock three month's worth of food and supplies rather than the normal six."
+          "description": "The corridors of Armageddon-class battlecruisers are lined with power relays for the massive weapons systems which must be replaced often. These cabling systems clog the ship's passageways like arterial plaque, consuming space that would otherwise be used for vital supplies. Even extensive redesigns cannot resolve these issues. The ship can only stock three month's worth of food and supplies rather than the normal six."
         }
       ]
     },
@@ -802,7 +802,7 @@
       "special": [
         {
           "title": "Cruiser",
-          "effect": "This ship also counts as a Cruiser for Component requirements"
+          "description": "This ship also counts as a Cruiser for Component requirements"
         }
       ]
     },
@@ -829,15 +829,15 @@
       "special": [
         {
           "title": "Cruiser",
-          "effect": "This ship also counts as a Cruiser for Component requirements"
+          "description": "This ship also counts as a Cruiser for Component requirements"
         },
         {
           "title": "Cursed",
-          "effect": "The advanced experimental warp drive of the class creates unusual harmonics which can cause the Gellar field to flicker momentarily during warp transit, escalating navigational difficulties. All navigation tests carried out by the ship's Navigator during warp travel take a -10 penalty. "
+          "description": "The advanced experimental warp drive of the class creates unusual harmonics which can cause the Gellar field to flicker momentarily during warp transit, escalating navigational difficulties. All navigation tests carried out by the ship's Navigator during warp travel take a -10 penalty. "
         },
         {
           "title": "Ancient Grand Cruiser",
-          "effect": "The older types of Grand Cruiser were finely balanced. As such, this vessel may not gain any Components that increase the ship's armour."
+          "description": "The older types of Grand Cruiser were finely balanced. As such, this vessel may not gain any Components that increase the ship's armour."
         }
       ]
     },
@@ -864,11 +864,11 @@
       "special": [
         {
           "title": "Cruiser",
-          "effect": "This ship also counts as a Cruiser for Component requirements"
+          "description": "This ship also counts as a Cruiser for Component requirements"
         },
         {
           "title": "Carrier",
-          "effect": "This ship comes pre-equipped with two Jovian-class Launch Bay Components, which occupy a port and starboard weapon capacity slot. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide one Power to each launch bay Component."
+          "description": "This ship comes pre-equipped with two Jovian-class Launch Bay Components, which occupy a port and starboard weapon capacity slot. These Components may not be removed. The hull's space has already been reduced to account for this; however, when the ship is constructed it must be able to provide one Power to each launch bay Component."
         }
       ]
     },
@@ -892,7 +892,7 @@
       "special": [
         {
           "title": "Space Station",
-          "effect": "By its very nature a space station is completely immobile (including realspace and warp travel), and does not require the same Components as a starship. A space station requires the following Essential Components: Hull, Genatorium, Void Shield Array, Bridge, and Life Sustainer. In combat, a space station never moves or performs Manoeuvre Actions. Otherwise, it should be treated as a starship during combat."
+          "description": "By its very nature a space station is completely immobile (including realspace and warp travel), and does not require the same Components as a starship. A space station requires the following Essential Components: Hull, Genatorium, Void Shield Array, Bridge, and Life Sustainer. In combat, a space station never moves or performs Manoeuvre Actions. Otherwise, it should be treated as a starship during combat."
         }
       ]
     }

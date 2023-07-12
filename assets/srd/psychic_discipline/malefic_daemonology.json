@@ -1,133 +1,129 @@
 {
   "title": "Malefic Daemonology - Psychic Discipline",
-  "info": "# Malefic Daemonology - Psychic Discipline",
+  "info": "# Malefic Daemonology - Psychic Discipline\n\nMalefic Daemonology is not viewed as a psychic discipline by the Adeptus Astra Telepathica, but as the gravest of sorcery and Warpcraft. To practice this discipline is to invite corruption and, should it be discovered, the branding of Excommunicate Traitoris.\n\n__To Invite Corruption__\n\nPracticing Malefic Daemonology and invoking the daemonic leaves an indelible stain on a psyker. A character who uses her full power or pushes consequently opens herself even further to the Warp, while one that holds back minimises the taint on her soul. Each time a psyker successfully manifests a power from the Malefic Daemonology discipline, she gains Corruption points equal to the psy rating used to manifest the power. This is gained after the power's effects are resolved.",
   "component": "PsychicDiscipline",
-  "data": {
-    "discipline": "Malefic Daemonology",
-    "information": "Malefic Daemonology is not viewed as a psychic discipline by the Adeptus Astra Telepathica, but as the gravest of sorcery and Warpcraft. To practice this discipline is to invite corruption and, should it be discovered, the branding of Excommunicate Traitoris.\n\n__To Invite Corruption__\n\nPracticing Malefic Daemonology and invoking the daemonic leaves an indelible stain on a psyker. A character who uses her full power or pushes consequently opens herself even further to the Warp, while one that holds back minimises the taint on her soul. Each time a psyker successfully manifests a power from the Malefic Daemonology discipline, she gains Corruption points equal to the psy rating used to manifest the power. This is gained after the power's effects are resolved.",
-    "powers": [
-      {
-        "name": "Cursed Earth",
-        "id": "cursed_earth",
-        "cost": 100,
-        "prerequisites": [
-          "Willpower 40"
-        ],
-        "action": "Full",
-        "focus": "-10 Willpower",
-        "range": "1m * PR",
-        "sustained": "Free",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "The psyker selects an area of ground with a radius in metres equal to psy rating. While the power is sustained, Daemons standing within this area increase the value of their Daemonic trait by half psy rating and receive a bonus of +5 x psy rating to Warp Instability tests. In addition, psychic powers used within the affected area add +10 to Focus Power tests and rolls on Table Psychic Phenomena. Those in the presence of the Cursed Earth may experience disturbing Warp phenomena at the GM's discretion.",
-        "source": "Enemies Beyond"
-      },
-      {
-        "name": "Dark Flame",
-        "id": "dark_flame",
-        "cost": 100,
-        "prerequisites": [
-          "10 Corruption Points"
-        ],
-        "action": "Half",
-        "focus": "+0 Willpower",
-        "range": "5m * PR",
-        "sustained": "No",
-        "subtypes": [
-          "Attack",
-          "Concentration"
-        ],
-        "effects": "Psychic Bolt; Rng: 5m x PR; Dmg: 1d10+PR+CB E; Pen: CB; Special: Flame, Spray \n\nAny character who suffers damage from Dark Flame must succeed at an Easy (+30) Willpower test or gain 1 Corruption point for each degree of failure.",
-        "source": "Enemies Beyond"
-      },
-      {
-        "name": "Infernal Gaze",
-        "id": "infernal_gaze",
-        "cost": 200,
-        "prerequisites": [
-          "15 Corruption Points",
-          "Willpower 45"
-        ],
-        "action": "Half",
-        "focus": "-10  Willpower",
-        "range": "5m * PR",
-        "sustained": "No",
-        "subtypes": [
-          "Attack",
-          "Concentration"
-        ],
-        "effects": "This power affects all characters within range and line of sight, friend and foe, who do not possess the Daemonic trait. Each affected character opposes the power with a Challenging (+0) Willpower test. Any character who fails suffers Energy damage equal to the user's psy rating plus Corruption bonus, ignoring armour and Toughness bonus, and gains Insanity points and Corruption points equal to half the user's psy rating.",
-        "source": "Enemies Beyond"
-      },
-      {
-        "name": "Incursion",
-        "id": "incursion",
-        "cost": 100,
-        "prerequisites": [
-          "Willpower 45"
-        ],
-        "action": "Full",
-        "focus": "-10  Willpower",
-        "range": "Self",
-        "sustained": "Free",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "As long as this power remains in effect, the psyker gains a bonus to her Daemonic Mastery tests of +10 x psy rating.",
-        "source": "Enemies Beyond"
-      },
-      {
-        "name": "Possession",
-        "id": "possession",
-        "cost": 200,
-        "prerequisites": [
-          "20 Corruption Points"
-        ],
-        "action": "Full",
-        "focus": "-10  Willpower",
-        "range": "Self",
-        "sustained": "Free",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "While the power is sustained, the psyker gains the Daemonic (X) and Unnatural Strength (X) traits, where X equals half her psy rating, as well as the Deadly Natural Weapons trait. In addition, the psyker must succeed at a Challenging (+0) Willpower test each round the power is sustained or enter a Frenzied state per the Frenzy talent. While Frenzied, the psyker must continue to sustain the power (in a special exception to the prohibition on using psychic powers while Frenzied). \n\nPsychic Phenomena: A result of Psychic Phenomena when using this power means that a more powerful Daemon, as chosen by the GM, has taken the psyker's invitation. The psyker must succeed in an Opposed Willpower test against the Daemon or become possessed.",
-        "source": "Enemies Beyond"
-      },
-      {
-        "name": "Sacrifice",
-        "id": "sacrifice",
-        "cost": 100,
-        "prerequisites": [
-          "Willpower 45"
-        ],
-        "action": "Half",
-        "focus": "+10 Willpower",
-        "range": "Self",
-        "sustained": "No",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "This power can only be used if the psyker has inflicted damage on a target (possibly herself) since the beginning of the previous round. If the Focus Power test succeeds, the psyker gains a +5 bonus to her next Focus Power test for each point of damage inflicted (after reductions for armour and Toughness bonus) with the preceding attack. This bonus must be used within 1 hour.",
-        "source": "Enemies Beyond"
-      },
-      {
-        "name": "Summoning",
-        "id": "summoning",
-        "cost": 50,
-        "prerequisites": [
-          "Willpower 35"
-        ],
-        "action": "Full",
-        "focus": "+0 Willpower",
-        "range": "Self",
-        "sustained": "Free",
-        "subtypes": [
-          "Concentration"
-        ],
-        "effects": "As long as this power is sustained, the psyker gains a bonus of +10 x psy rating to Forbidden Lore (Daemonology) tests made to summon Daemons",
-        "source": "Enemies Beyond"
-      }
-    ]
-  }
+  "data": [
+    {
+      "name": "Cursed Earth",
+      "id": "cursed_earth",
+      "cost": 100,
+      "prerequisites": [
+        "Willpower 40"
+      ],
+      "action": "Full",
+      "focus": "-10 Willpower",
+      "range": "1m * PR",
+      "sustained": "Free",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "The psyker selects an area of ground with a radius in metres equal to psy rating. While the power is sustained, Daemons standing within this area increase the value of their Daemonic trait by half psy rating and receive a bonus of +5 x psy rating to Warp Instability tests. In addition, psychic powers used within the affected area add +10 to Focus Power tests and rolls on Table Psychic Phenomena. Those in the presence of the Cursed Earth may experience disturbing Warp phenomena at the GM's discretion.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "name": "Dark Flame",
+      "id": "dark_flame",
+      "cost": 100,
+      "prerequisites": [
+        "10 Corruption Points"
+      ],
+      "action": "Half",
+      "focus": "+0 Willpower",
+      "range": "5m * PR",
+      "sustained": "No",
+      "subtypes": [
+        "Attack",
+        "Concentration"
+      ],
+      "description": "Psychic Bolt; Rng: 5m x PR; Dmg: 1d10+PR+CB E; Pen: CB; Special: Flame, Spray \n\nAny character who suffers damage from Dark Flame must succeed at an Easy (+30) Willpower test or gain 1 Corruption point for each degree of failure.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "name": "Infernal Gaze",
+      "id": "infernal_gaze",
+      "cost": 200,
+      "prerequisites": [
+        "15 Corruption Points",
+        "Willpower 45"
+      ],
+      "action": "Half",
+      "focus": "-10  Willpower",
+      "range": "5m * PR",
+      "sustained": "No",
+      "subtypes": [
+        "Attack",
+        "Concentration"
+      ],
+      "description": "This power affects all characters within range and line of sight, friend and foe, who do not possess the Daemonic trait. Each affected character opposes the power with a Challenging (+0) Willpower test. Any character who fails suffers Energy damage equal to the user's psy rating plus Corruption bonus, ignoring armour and Toughness bonus, and gains Insanity points and Corruption points equal to half the user's psy rating.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "name": "Incursion",
+      "id": "incursion",
+      "cost": 100,
+      "prerequisites": [
+        "Willpower 45"
+      ],
+      "action": "Full",
+      "focus": "-10  Willpower",
+      "range": "Self",
+      "sustained": "Free",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "As long as this power remains in effect, the psyker gains a bonus to her Daemonic Mastery tests of +10 x psy rating.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "name": "Possession",
+      "id": "possession",
+      "cost": 200,
+      "prerequisites": [
+        "20 Corruption Points"
+      ],
+      "action": "Full",
+      "focus": "-10  Willpower",
+      "range": "Self",
+      "sustained": "Free",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "While the power is sustained, the psyker gains the Daemonic (X) and Unnatural Strength (X) traits, where X equals half her psy rating, as well as the Deadly Natural Weapons trait. In addition, the psyker must succeed at a Challenging (+0) Willpower test each round the power is sustained or enter a Frenzied state per the Frenzy talent. While Frenzied, the psyker must continue to sustain the power (in a special exception to the prohibition on using psychic powers while Frenzied). \n\nPsychic Phenomena: A result of Psychic Phenomena when using this power means that a more powerful Daemon, as chosen by the GM, has taken the psyker's invitation. The psyker must succeed in an Opposed Willpower test against the Daemon or become possessed.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "name": "Sacrifice",
+      "id": "sacrifice",
+      "cost": 100,
+      "prerequisites": [
+        "Willpower 45"
+      ],
+      "action": "Half",
+      "focus": "+10 Willpower",
+      "range": "Self",
+      "sustained": "No",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "This power can only be used if the psyker has inflicted damage on a target (possibly herself) since the beginning of the previous round. If the Focus Power test succeeds, the psyker gains a +5 bonus to her next Focus Power test for each point of damage inflicted (after reductions for armour and Toughness bonus) with the preceding attack. This bonus must be used within 1 hour.",
+      "source": "Enemies Beyond"
+    },
+    {
+      "name": "Summoning",
+      "id": "summoning",
+      "cost": 50,
+      "prerequisites": [
+        "Willpower 35"
+      ],
+      "action": "Full",
+      "focus": "+0 Willpower",
+      "range": "Self",
+      "sustained": "Free",
+      "subtypes": [
+        "Concentration"
+      ],
+      "description": "As long as this power is sustained, the psyker gains a bonus of +10 x psy rating to Forbidden Lore (Daemonology) tests made to summon Daemons",
+      "source": "Enemies Beyond"
+    }
+  ]
 }

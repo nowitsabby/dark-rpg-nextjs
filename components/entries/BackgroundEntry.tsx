@@ -27,7 +27,7 @@ export default function BackgroundEntry({
           label='Bonuses' 
           value={
             <SrdMarkdown 
-              text={datum.bonuses.map((value) => `__${value.title}__: ${value.effect}`).join('\n\n')} 
+              text={datum.bonuses.map((value) => `__${value.title}__: ${value.description}`).join('\n\n')} 
             /> 
           } 
         />
