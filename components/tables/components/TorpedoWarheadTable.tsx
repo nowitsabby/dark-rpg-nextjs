@@ -11,7 +11,7 @@ export interface TorpedoWarheadRecord {
   damage: string;
   crit: number | string;
   range: number;
-  special: { title: string; effect: string }[];
+  special: { title: string; description: string }[];
 }
 
 export function TorpedoWarheadTable({

@@ -13,7 +13,7 @@ import 'react-tabs/style/react-tabs.css';
 
 export interface CriticalDamageInfo {
   damage: string;
-  effect: string;
+  description: string;
 }
 
 export interface CriticalDamageParts {

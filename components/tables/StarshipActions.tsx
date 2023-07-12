@@ -11,7 +11,7 @@ import 'react-tabs/style/react-tabs.css';
 export interface StarshipActionRecord {
   action: string;
   test: string;
-  benefit: string;
+  description: string;
 }
 
 export interface StarshipActionGroups {

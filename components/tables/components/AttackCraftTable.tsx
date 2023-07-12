@@ -11,7 +11,7 @@ export interface AttackCraftRecord {
   speed: number;
   rating: number;
   size: number;
-  special: { title: string; effect: string }[];
+  special: { title: string; description: string }[];
 }
 
 export function AttackCraftTable({
